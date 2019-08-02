@@ -1,0 +1,3762 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"POT-Creation-Date: 2019-06-25T22:19:35.695Z\n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: ko\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 2.2.3\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+
+#. [Chat.NoMessages]
+#. defaultMessage is:
+#. 0 Messages
+#: public/messages/src/app/components/Chat/messages.json
+msgid "0 Messages"
+msgstr "메시지"
+
+#. [Chat.NoParticipants]
+#. defaultMessage is:
+#. 0 Participants
+#: public/messages/src/app/components/Chat/messages.json
+msgid "0 Participants"
+msgstr "참가자"
+
+#. [DashboardComponent.OneMonth]
+#. defaultMessage is:
+#. 1 MONTH
+#: public/messages/src/app/containers/dashboard/dashboard_component.json
+msgid "1 MONTH"
+msgstr "1 개월"
+
+#. [Chat.OneMessage]
+#. defaultMessage is:
+#. 1 Message
+#: public/messages/src/app/components/Chat/messages.json
+msgid "1 Message"
+msgstr "메시지 1 개"
+
+#. [Chat.OneParticipant]
+#. defaultMessage is:
+#. 1 Participant
+#: public/messages/src/app/components/Chat/messages.json
+msgid "1 Participant"
+msgstr "참가자 1 명"
+
+#. [DashboardComponent.OneYear]
+#. defaultMessage is:
+#. 1 YEAR
+#: public/messages/src/app/containers/dashboard/dashboard_component.json
+msgid "1 YEAR"
+msgstr "일년"
+
+#. [DashboardComponent.ThreeMonths]
+#. defaultMessage is:
+#. 3 MONTHS
+#: public/messages/src/app/containers/dashboard/dashboard_component.json
+msgid "3 MONTHS"
+msgstr "3 개월"
+
+#. [DashboardComponent.SixMonths]
+#. defaultMessage is:
+#. 6 MONTHS
+#: public/messages/src/app/containers/dashboard/dashboard_component.json
+msgid "6 MONTHS"
+msgstr "6 개월"
+
+#. [DashboardComponent.SevenDays]
+#. defaultMessage is:
+#. 7 DAYS
+#: public/messages/src/app/containers/dashboard/dashboard_component.json
+msgid "7 DAYS"
+msgstr "7 일"
+
+#. [Homepage.UniverseOfKnowledge]
+#. defaultMessage is:
+#. A universe of knowledge.
+#: public/messages/src/app/containers/homepageContainer/homepage.container.json
+msgid "A universe of knowledge."
+msgstr "지식의 우주."
+
+#. [Leaderboard.AllTimeCap]
+#. defaultMessage is:
+#. ALL TIME
+#: public/messages/src/app/containers/homepageContainer/leaderboard.json
+msgid "ALL TIME"
+msgstr "전체 기간"
+
+#. [Index.APIBy]
+#. defaultMessage is:
+#. API by
+#: public/messages/src/app/components/Footer/index.json
+msgid "API by"
+msgstr "API"
+
+#. [SubmitVote.ArticleHistory]
+#. defaultMessage is:
+#. ARTICLE HISTORY
+#: public/messages/src/app/components/SubmitVote/index.json
+msgid "ARTICLE HISTORY"
+msgstr "기사보기"
+
+#. [Stats.ArticleViews]
+#. defaultMessage is:
+#. ARTICLE VIEWS
+#. [Stats.ArticleViewsTwo]
+#. defaultMessage is:
+#. ARTICLE VIEWS
+#: public/messages/src/app/containers/admin/admin.container.json
+#: public/messages/src/app/containers/homepageContainer/stats.json
+msgid "ARTICLE VIEWS"
+msgstr "기사보기"
+
+#. [Stats.Articles]
+#. defaultMessage is:
+#. ARTICLES
+#. [Stats.ArticlesTwo]
+#. defaultMessage is:
+#. ARTICLES
+#. [Suggestions.Articles]
+#. defaultMessage is:
+#. ARTICLES
+#: public/messages/src/app/containers/admin/admin.container.json
+#: public/messages/src/app/containers/homepageContainer/stats.json
+#: public/messages/src/editor/components/mentions/suggestions.json
+msgid "ARTICLES"
+msgstr "조항"
+
+#. [AsSeenIn.AsSeenIn]
+#. defaultMessage is:
+#. AS SEEN IN
+#: public/messages/src/app/containers/about/as-seen.json
+msgid "AS SEEN IN"
+msgstr "주요 특징"
+
+#. [Index.About]
+#. defaultMessage is:
+#. About
+#. [Header.About]
+#. defaultMessage is:
+#. About
+#. [About.About]
+#. defaultMessage is:
+#. About
+#. [Featured.About]
+#. defaultMessage is:
+#. About
+#. [Header.AboutTwo]
+#. defaultMessage is:
+#. About
+#: public/messages/src/app/components/Footer/index.json
+#: public/messages/src/app/components/Header/index.json
+#: public/messages/src/app/containers/about/about.container.json
+#: public/messages/src/app/containers/homepageContainer/featured.json
+msgid "About"
+msgstr "에브리피디아"
+
+#. [SubmitVoteConfirmation.Accept]
+#. defaultMessage is:
+#. Accept
+#: public/messages/src/app/components/SubmitVote/ConfirmationModal.json
+msgid "Accept"
+msgstr "승인"
+
+#. [SubmitVote.Accepted]
+#. defaultMessage is:
+#. Accepted
+#: public/messages/src/app/components/SubmitVote/index.json
+msgid "Accepted"
+msgstr "수락됨"
+
+#. [Login.Account]
+#. defaultMessage is:
+#. Account
+#: public/messages/src/app/components/Login/auth.json
+msgid "Account"
+msgstr "계정"
+
+#. [Dashboard.AccountIQTokens]
+#. defaultMessage is:
+#. Account IQ Tokens
+#: public/messages/src/app/containers/dashboard/dashboard_component.json
+msgid "Account IQ Tokens"
+msgstr "계정"
+
+#. [ContactUs.accountIssues]
+#. defaultMessage is:
+#. Account Issues
+#: public/messages/src/app/containers/contact-us/messages.json
+msgid "Account Issues"
+msgstr "계정"
+
+#. [Dashboard.AccountActivityTimeline]
+#. defaultMessage is:
+#. Account activity timeline
+#: public/messages/src/app/containers/dashboard/dashboard_component.json
+msgid "Account activity timeline"
+msgstr "계정 활동 일정"
+
+#. [SearchCard.ActiveVoting]
+#. defaultMessage is:
+#. Active Voting
+#: public/messages/src/app/containers/searchResultsFull/searchCard.json
+msgid "Active Voting"
+msgstr "적극적인 투표"
+
+#. [Header.Activity]
+#. defaultMessage is:
+#. Activity
+#. [Featured.Activity]
+#. defaultMessage is:
+#. Activity
+#. [Header.ActivityTwo]
+#. defaultMessage is:
+#. Activity
+#: public/messages/src/app/components/Header/index.json
+#: public/messages/src/app/containers/homepageContainer/featured.json
+msgid "Activity"
+msgstr "활동 국한 도달"
+
+#. [CitationModal.AddEditURL.Add]
+#. defaultMessage is:
+#. Add
+#. [InfoboxModal.Add]
+#. defaultMessage is:
+#. Add
+#. [SectionMediaModal.AddEditURL.Add]
+#. defaultMessage is:
+#. Add
+#: public/messages/src/editor/plugins/citation-modal/panes/add-edit-url.json
+#: public/messages/src/editor/plugins/infobox/infobox-modal.json
+#: public/messages/src/editor/plugins/section-media-modal/panes/add-edit-url.json
+msgid "Add"
+msgstr "해당 카테고리에 대한 부가 설명 추가하기"
+
+#. [InfoboxModal.AddAnother]
+#. defaultMessage is:
+#. Add Another
+#: public/messages/src/editor/plugins/infobox/infobox-modal.json
+msgid "Add Another"
+msgstr "추가"
+
+#. [CitationModal.AddCitation]
+#. defaultMessage is:
+#. Add Citation
+#: public/messages/src/editor/plugins/citation-modal/citation-modal.json
+msgid "Add Citation"
+msgstr "인용문 추가 또는 편집"
+
+#. [MediaGallery.AddImage]
+#. defaultMessage is:
+#. Add Image or Video to Media Gallery
+#: public/messages/src/editor/plugins/media-gallery/media-gallery-modal.json
+msgid "Add Image or Video to Media Gallery"
+msgstr "미디어 갤러리에 이미지 또는 비디오 추가"
+
+#. [SectionMediaModal.AddInlineImage]
+#. defaultMessage is:
+#. Add Inline Image
+#: public/messages/src/editor/plugins/section-media-modal/section-media-modal.json
+msgid "Add Inline Image"
+msgstr "인라인 이미지 추가"
+
+#. [InfoboxModal.AddLabel]
+#. defaultMessage is:
+#. Add Label
+#: public/messages/src/editor/plugins/infobox/infobox-modal.json
+msgid "Add Label"
+msgstr "라벨 추가"
+
+#. [MainPhoto.AddMainPhoto]
+#. defaultMessage is:
+#. Add Main Photo
+#: public/messages/src/editor/plugins/main-photo/main-photo-modal.json
+msgid "Add Main Photo"
+msgstr "주요 사진 추가"
+
+#. [MediaGallery.AddNewItem]
+#. defaultMessage is:
+#. Add New Image or Video to Gallery
+#: public/messages/src/editor/plugins/media-gallery/media-gallery.node.json
+msgid "Add New Image or Video to Gallery"
+msgstr "갤러리에 새 이미지 또는 비디오 추가"
+
+#. [InfoboxModal.AddNewItem]
+#. defaultMessage is:
+#. Add New Item to Infobox
+#. [InfoboxModal.AddNewItemToInfobox]
+#. defaultMessage is:
+#. Add New Item to Infobox
+#. [InfoboxModal.AddNewItemInfobox]
+#. defaultMessage is:
+#. Add New Item to Infobox
+#: public/messages/src/editor/plugins/infobox/infobox-modal.json
+msgid "Add New Item to Infobox"
+msgstr "새로운 정보상자 추가하기"
+
+#. [AddRelatedModal.Title]
+#. defaultMessage is:
+#. Add a related page
+#: public/messages/src/editor/plugins/add-related/add-related-modal.json
+msgid "Add a related page"
+msgstr "관련 페이지 추가"
+
+#. [InfoboxModal.AddAndAddAnother]
+#. defaultMessage is:
+#. Add and Add Another
+#: public/messages/src/editor/plugins/infobox/infobox-modal.json
+msgid "Add and Add Another"
+msgstr "추가 및 추가"
+
+#. [CitationModal.AddEditURL.AddAndInsert]
+#. defaultMessage is:
+#. Add and Insert
+#. [SectionMediaModal.AddEditURL.AddAndInsert]
+#. defaultMessage is:
+#. Add and Insert
+#: public/messages/src/editor/plugins/citation-modal/panes/add-edit-url.json
+#: public/messages/src/editor/plugins/section-media-modal/panes/add-edit-url.json
+msgid "Add and Insert"
+msgstr "추가 및 추가"
+
+#. [ImageUploader.AddCustomCaption]
+#. defaultMessage is:
+#. Add custom caption (optional)
+#: public/messages/src/shared/inputs/image-uploader/image-uploader.component.json
+msgid "Add custom caption (optional)"
+msgstr "맞춤 캡션 추가 (선택 사항)"
+
+#. [CitationModdal.Title]
+#. defaultMessage is:
+#. Add or edit a citation
+#. [SectionMediaModal.Title]
+#. defaultMessage is:
+#. Add or edit a citation
+#: public/messages/src/editor/plugins/citation-modal/citation-modal.json
+#: public/messages/src/editor/plugins/section-media-modal/section-media-modal.json
+msgid "Add or edit a citation"
+msgstr "인용문 추가 또는 편집"
+
+#. [MainPhoto.Title]
+#. defaultMessage is:
+#. Add or edit the main image
+#: public/messages/src/editor/plugins/main-photo/main-photo-modal.json
+msgid "Add or edit the main image"
+msgstr "인용문 추가 또는 편집"
+
+#. [CreatePage.Description]
+#. defaultMessage is:
+#. Add your contribution to the world’s most universal knowledge base. You can create an article about anything.
+#: public/messages/src/app/components/create-new-page/index.json
+msgid ""
+"Add your contribution to the world’s most universal knowledge base. You can "
+"create an article about anything."
+msgstr ""
+"세계에서 가장 보편적 인 지식 기반에 기여도를 추가하십시오. 당신은 무엇이든에 "
+"관하여 기사를 창조 할 수있다."
+
+#. [SectionMediaModal.AddingMediaMakes]
+#. defaultMessage is:
+#. Adding media makes an article more interactive and engaging.
+#: public/messages/src/editor/plugins/section-media-modal/section-media-modal.json
+msgid "Adding media makes an article more interactive and engaging."
+msgstr "미디어를 추가하면 기사가 더욱 상호 작용하고 매력적으로 변합니다."
+
+#. [MetadataModal.AdultContent]
+#. defaultMessage is:
+#. Adult Content
+#: public/messages/src/editor/plugins/metadata/metadata-modal.json
+msgid "Adult Content"
+msgstr "성인용 콘텐츠"
+
+#. [About.FinancialIncentiveDetail]
+#. defaultMessage is:
+#. All holders of IQ will be incentivized to create quality, neutral content and to work together in building the reputation of the network.
+#: public/messages/src/app/containers/about/about.container.json
+msgid ""
+"All holders of IQ will be incentivized to create quality, neutral content "
+"and to work together in building the reputation of the network."
+msgstr ""
+"모든 IQ 보유자는 인센티브를 통해 고품질의 중립적인 콘텐츠를 만들고, 네트워크"
+"의 평판을 쌓기 위해 협력할 것입니다."
+
+#. [MetadataModal.AllowNonGooglebot]
+#. defaultMessage is:
+#. Allow Non-Googlebot
+#: public/messages/src/editor/plugins/metadata/metadata-modal.json
+msgid "Allow Non-Googlebot"
+msgstr "비 Googlebot 허용"
+
+#. [Homepage.ModernAge]
+#. defaultMessage is:
+#. An encyclopedia for the modern age.
+#: public/messages/src/app/containers/homepageContainer/homepage.container.json
+msgid "An encyclopedia for the modern age."
+msgstr "시대에 맞는 백과 사전"
+
+#. [ThirdBlock.OpenCommunity]
+#. defaultMessage is:
+#. An open community expanding the world’s knowledge
+#: public/messages/src/app/containers/about/third-block.json
+msgid "An open community expanding the world’s knowledge"
+msgstr "지식을 발전시키는 열린 공동체."
+
+#. [ContactUs.AnonymousTip]
+#. defaultMessage is:
+#. Anonymous Tip
+#: public/messages/src/app/components/ContactUsForm/index.json
+msgid "Anonymous Tip"
+msgstr "익명 제보"
+
+#. [About.DemocraticGovernanceText]
+#. defaultMessage is:
+#. Anyone with IQ Tokens is a stakeholder in the Everipedia Network. Using IQ tokens to vote, users decide which new articles and edits are added to the knowledge base.
+#: public/messages/src/app/containers/about/about.container.json
+msgid ""
+"Anyone with IQ Tokens is a stakeholder in the Everipedia Network. Using IQ "
+"tokens to vote, users decide which new articles and edits are added to the "
+"knowledge base."
+msgstr ""
+"IQ 토큰을 소지 한 사람은 Everipedia Network의 이해 관계자입니다. 투표에 IQ 토"
+"큰을 사용하여 사용자는 지식 기반에 추가되는 새로운 기사와 편집을 결정합니다."
+
+#. [Chat.AreYouSureYouWantToDeleteThis]
+#. defaultMessage is:
+#. Are you sure you want to delete this
+#: public/messages/src/app/components/Chat/messages.json
+msgid "Are you sure you want to delete this"
+msgstr "이 사진을 삭제 하시겠습니까?"
+
+#. [About.DecentralizedDetail]
+#. defaultMessage is:
+#. Articles are fetched using IPFS and EOS Storage. Majority of IQ being distributed during the airdrop.
+#: public/messages/src/app/containers/about/about.container.json
+msgid ""
+"Articles are fetched using IPFS and EOS Storage. Majority of IQ being "
+"distributed during the airdrop."
+msgstr ""
+"기사는 IPFS 및 EOS 저장소를 사용하여 가져옵니다. 대부분의 IQ는 에어드롭을 통"
+"해 배분됩니다."
+
+#. [ThirdBlock.AsAnEditor]
+#. defaultMessage is:
+#. As an editor, the killer feature of Everipedia is that as long as you use sources and a neutral wording, you can write an article about anything you want. A dapp you like, yourself — anything.
+#: public/messages/src/app/containers/about/third-block.json
+msgid ""
+"As an editor, the killer feature of Everipedia is that as long as you use "
+"sources and a neutral wording, you can write an article about anything you "
+"want. A dapp you like, yourself — anything."
+msgstr ""
+"편집자로서 Everipedia의 살인자 기능은 소스와 중립적 인 표현을 사용하는 한 원"
+"하는 것에 대한 기사를 작성할 수 있다는 것입니다. 네가 좋아하는 그림, 너 자신."
+
+#. [AccountNameHeader.Available]
+#. defaultMessage is:
+#. Available
+#: public/messages/src/app/components/Header/account-name-header.json
+msgid "Available"
+msgstr "사용 가능"
+
+#. [Dashboard.AvailableBalance]
+#. defaultMessage is:
+#. Available Balance
+#: public/messages/src/app/containers/dashboard/dashboard_component.json
+msgid "Available Balance"
+msgstr "사용 가능한 잔액"
+
+#. [About.BecomeAnEditor]
+#. defaultMessage is:
+#. Become an Editor
+#: public/messages/src/app/containers/about/about.container.json
+msgid "Become an Editor"
+msgstr "편집자되기"
+
+#. [Suggestions.Citations]
+#. defaultMessage is:
+#. CITATIONS
+#: public/messages/src/editor/components/mentions/suggestions.json
+msgid "CITATIONS"
+msgstr "징계"
+
+#. [CitationModal.AddEditFile.Cancel]
+#. defaultMessage is:
+#. Cancel
+#. [CitationModal.AddEditISBN.Cancel]
+#. defaultMessage is:
+#. Cancel
+#. [CitationModal.AddEditURL.Cancel]
+#. defaultMessage is:
+#. Cancel
+#. [CitationModal.InsertExisting.Cancel]
+#. defaultMessage is:
+#. Cancel
+#. [ConnectLanguagesModal.Cancel]
+#. defaultMessage is:
+#. Cancel
+#. [InfoboxModal.Cancel]
+#. defaultMessage is:
+#. Cancel
+#. [MergeModal.Cancel]
+#. defaultMessage is:
+#. Cancel
+#. [MetadataModal.Cancel]
+#. defaultMessage is:
+#. Cancel
+#. [SaveModal.Cancel]
+#. defaultMessage is:
+#. Cancel
+#. [SectionMediaModal.AddEditURL.Cancel]
+#. defaultMessage is:
+#. Cancel
+#. [SectionMediaModal.InsertExisting.Cancel]
+#. defaultMessage is:
+#. Cancel
+#. [FileUploader.Cancel]
+#. defaultMessage is:
+#. Cancel
+#. [ImageUploader.Cancel]
+#. defaultMessage is:
+#. Cancel
+#: public/messages/src/editor/plugins/citation-modal/panes/add-edit-file.json
+#: public/messages/src/editor/plugins/citation-modal/panes/add-edit-isbn.json
+#: public/messages/src/editor/plugins/citation-modal/panes/add-edit-url.json
+#: public/messages/src/editor/plugins/citation-modal/panes/insert-existing.json
+#: public/messages/src/editor/plugins/connect-languages/connect-languages-modal.json
+#: public/messages/src/editor/plugins/infobox/infobox-modal.json
+#: public/messages/src/editor/plugins/merge/merge-modal.json
+#: public/messages/src/editor/plugins/metadata/metadata-modal.json
+#: public/messages/src/editor/plugins/save/save-modal.json
+#: public/messages/src/editor/plugins/section-media-modal/panes/add-edit-url.json
+#: public/messages/src/editor/plugins/section-media-modal/panes/insert-existing.json
+#: public/messages/src/shared/inputs/image-uploader/file-uploader.component.json
+#: public/messages/src/shared/inputs/image-uploader/image-uploader.component.json
+msgid "Cancel"
+msgstr "취소"
+
+#. [SearchResults.CantFindWhat]
+#. defaultMessage is:
+#. Can’t find what you’re looking for?
+#: public/messages/src/app/containers/searchResultsFull/searchResultsFull.container.json
+msgid "Can’t find what you’re looking for?"
+msgstr "찾고있는 것을 찾을 수 없습니까?"
+
+#. [SaveModal.CategoryLabel]
+#. defaultMessage is:
+#. Category
+#: public/messages/src/editor/plugins/save/save-modal.json
+msgid "Category"
+msgstr "카테고리"
+
+#. [About.CensorshipResistant]
+#. defaultMessage is:
+#. Censorship Resistant
+#: public/messages/src/app/containers/about/about.container.json
+msgid "Censorship Resistant"
+msgstr "검열 방지"
+
+#. [ActivityCard.Changed]
+#. defaultMessage is:
+#. Changed
+#. [Chat.ChangedTwo]
+#. defaultMessage is:
+#. Changed
+#: public/messages/src/app/components/ActivityCards/ActivityCard.json
+#: public/messages/src/app/components/Chat/ChatItem.json
+msgid "Changed"
+msgstr "변경 됨"
+
+#. [Chat.ChatOne]
+#. defaultMessage is:
+#. Chat
+#. [Chat.ChatMessages]
+#. defaultMessage is:
+#. Chat
+#: public/messages/src/app/components/Chat/index.json
+#: public/messages/src/app/components/Chat/messages.json
+msgid "Chat"
+msgstr "채팅"
+
+#. [Chat.ChatAboutThisArticle]
+#. defaultMessage is:
+#. Chat about this article!
+#: public/messages/src/app/components/Chat/messages.json
+msgid "Chat about this article!"
+msgstr "이 기사에 대해 이야기하십시오!"
+
+#. [TeamInfo.TheodorForseliusTitle]
+#. defaultMessage is:
+#. Chief Executive Officer
+#: public/messages/src/app/containers/about/third-block.json
+
+msgid "Chief Executive Officer"
+msgstr "최고 경영자 겸 공동 창립자"
+
+#. [TeamInfo.LarrySangerTitle]
+#. defaultMessage is:
+#. Chief Information Officer
+#: public/messages/src/app/containers/about/third-block.json
+msgid "Chief Information Officer"
+msgstr "최고 정보 책임자"
+
+#. [TeamInfo.SuchetDhindsaTitle]
+#. defaultMessage is:
+#. Chief Operating Officer
+#: public/messages/src/app/containers/about/third-block.json
+msgid "Chief Operating Officer"
+msgstr "최고 운영 책임자"
+
+#. [TeamInfo.TravisMooreTitle]
+#. defaultMessage is:
+#. Chief Technology Officer
+#: public/messages/src/app/containers/about/third-block.json
+
+msgid "Chief Technology Officer"
+msgstr "기술 담당 최고 책임자 겸 공동 창립자"
+
+#. [MainPhoto.ButtonText]
+#. defaultMessage is:
+#. Choose a new main image
+#: public/messages/src/editor/plugins/main-photo/main-photo-modal.json
+msgid "Choose a new main image"
+msgstr "새로운 메인 이미지 선택"
+
+#. [Login.AnotherLoginMethod]
+#. defaultMessage is:
+#. Choose another login method
+#: public/messages/src/app/components/Login/index.json
+msgid "Choose another login method"
+msgstr "새로운 메인 이미지 선택"
+
+#. [FileUploader.ChooseImages]
+#. defaultMessage is:
+#. Choose images
+#. [ImageUploader.ChooseImages]
+#. defaultMessage is:
+#. Choose images
+#: public/messages/src/shared/inputs/image-uploader/file-uploader.component.json
+#: public/messages/src/shared/inputs/image-uploader/image-uploader.component.json
+msgid "Choose images"
+msgstr "이미지 선택"
+
+#. [CommentUtils.Citation]
+#. defaultMessage is:
+#. Citation
+#: public/messages/src/app/utils/comment-utils.json
+msgid "Citation"
+msgstr "인용문 추가 또는 편집"
+
+#. [CitationModal.Cite]
+#. defaultMessage is:
+#. Cite
+#: public/messages/src/editor/plugins/citation-modal/index.json
+msgid "Cite"
+msgstr "인용"
+
+#. [ThirdBlock.CoFounderWikipedia]
+#. defaultMessage is:
+#. Co-Founder Wikipedia, CIO Everipedia
+#: public/messages/src/app/containers/about/third-block.json
+msgid "Co-Founder Wikipedia, CIO Everipedia"
+msgstr "CIO Everipedia 공동 창립자 Wikipedia"
+
+#. [SaveModal.CommentLabel]
+#. defaultMessage is:
+#. Comment
+#: public/messages/src/editor/plugins/save/save-modal.json
+msgid "Comment"
+msgstr "댓글"
+
+#. [ContactUs.CommonQuestions]
+#. defaultMessage is:
+#. Common Questions
+#: public/messages/src/app/containers/contact-us/contact-us.container.json
+msgid "Common Questions"
+msgstr "일반적인 질문"
+
+#. [SaveModal.ConfirmYouAreUsingTheLatestScatter]
+#. defaultMessage is:
+#. Confirm that you are using the latest version of Scatter.
+#: public/messages/src/editor/plugins/save/save-modal.json
+msgid "Confirm that you are using the latest version of Scatter."
+msgstr "최신 버전의 Scatter를 사용하고 있는지 확인하십시오."
+
+#. [SaveModal.ConfirmYouHaveScatterOpen]
+#. defaultMessage is:
+#. Confirm that you have Scatter open and that you are logged in
+#: public/messages/src/editor/plugins/save/save-modal.json
+msgid "Confirm that you have Scatter open and that you are logged in"
+msgstr "Scatter가 열려 있고 로그인했는지 확인하십시오."
+
+#. [SaveModal.ConfirmYouHaveEnoughIQ]
+#. defaultMessage is:
+#. Confirm that you have enough IQ in your Scatter wallet (50IQ required to submit at edit)
+#: public/messages/src/editor/plugins/save/save-modal.json
+msgid ""
+"Confirm that you have enough IQ in your Scatter wallet (50IQ required to "
+"submit at edit)"
+msgstr ""
+"Scatter 지갑에 IQ가 충분한 지 확인하십시오 (편집시 제출하려면 50IQ 필요)."
+
+#. [SaveModal.ConfirmThatYouHaveSufficientEOS]
+#. defaultMessage is:
+#. Confirm that you have sufficient EOS resources. For additional information, please see our FAQs.
+#: public/messages/src/editor/plugins/save/save-modal.json
+msgid ""
+"Confirm that you have sufficient EOS resources. For additional information, "
+"please see our FAQs."
+msgstr ""
+"충분한 EOS 자원이 있는지 확인하십시오. 자세한 내용은 FAQ를 참조하십시오."
+
+#. [ConnectLanguagesModal.Title]
+#. defaultMessage is:
+#. Connect this page to another language variant of it
+#: public/messages/src/editor/plugins/connect-languages/connect-languages-modal.json
+msgid "Connect this page to another language variant of it"
+msgstr "이 페이지를 다른 언어로 변형"
+
+#. [Index.Contact]
+#. defaultMessage is:
+#. Contact
+#. [Header.Contact]
+#. defaultMessage is:
+#. Contact
+#. [Featured.Contact]
+#. defaultMessage is:
+#. Contact
+#: public/messages/src/app/components/Footer/index.json
+#: public/messages/src/app/components/Header/index.json
+#: public/messages/src/app/containers/homepageContainer/featured.json
+msgid "Contact"
+msgstr "문의하기"
+
+#. [ContactUs.ContactType]
+#. defaultMessage is:
+#. Contact Type
+#: public/messages/src/app/components/ContactUsForm/index.json
+msgid "Contact Type"
+msgstr "연락처 타입"
+
+#. [Errors.ContactUs]
+#. defaultMessage is:
+#. Contact us
+#: public/messages/src/app/utils/errors.json
+msgid "Contact us"
+msgstr "문의하기"
+
+#. [Chat.CopyText]
+#. defaultMessage is:
+#. Copy Text
+#: public/messages/src/app/components/Chat/index.json
+msgid "Copy Text"
+msgstr "텍스트 복사"
+
+#. [ShareModal.CopyURL]
+#. defaultMessage is:
+#. Copy URL
+#: public/messages/src/app/components/ArticleComponent/ShareModal.json
+msgid "Copy URL"
+msgstr "URL 복사"
+
+#. [CreatePage.CreateArticle]
+#. defaultMessage is:
+#. Create Article
+#. [Header.CreateArticle]
+#. defaultMessage is:
+#. Create Article
+#. [Header.CreateArticleTwo]
+#. defaultMessage is:
+#. Create Article
+#: public/messages/src/app/components/create-new-page/index.json
+#: public/messages/src/app/components/Header/index.json
+#: public/messages/src/app/containers/homepageContainer/featured.json
+msgid "Create Article"
+msgstr "글 만들기"
+
+#. [CreatePage.CreateNewArticle]
+#. defaultMessage is:
+#. Create New Article
+#. [SearchResults.CreateArticle]
+#. defaultMessage is:
+#. Create New Article
+#: public/messages/src/app/components/create-new-page/index.json
+#: public/messages/src/app/components/Search/SearchResults.json
+msgid "Create New Article"
+msgstr "관련 기술문서"
+
+#. [SearchResults.CreateAnArticle]
+#. defaultMessage is:
+#. Create an Article
+#: public/messages/src/app/containers/searchResultsFull/searchResultsFull.container.json
+msgid "Create an Article"
+msgstr "관련 기술문서"
+
+#. [MetadataModal.Creation]
+#. defaultMessage is:
+#. Creation
+#: public/messages/src/editor/plugins/metadata/metadata-modal.json
+msgid "Creation"
+msgstr "신설"
+
+#. [MetadataModal.CreativeWorkArt]
+#. defaultMessage is:
+#. Creative Work / Art
+#. [MetadataModal.CreativeWork]
+#. defaultMessage is:
+#. Creative Work / Art
+#: public/messages/src/editor/plugins/metadata/metadata-modal.json
+msgid "Creative Work / Art"
+msgstr "창작/예술"
+
+#. [Dashboard.CurrentlyStaked]
+#. defaultMessage is:
+#. Currently Staked
+#: public/messages/src/app/containers/dashboard/dashboard_component.json
+msgid "Currently Staked"
+msgstr "현재 스테이징 됨"
+
+#. [Leaderboard.DayCap]
+#. defaultMessage is:
+#. DAY
+#: public/messages/src/app/containers/homepageContainer/leaderboard.json
+msgid "DAY"
+msgstr "일"
+
+#. [About.Decentralized]
+#. defaultMessage is:
+#. Decentralized
+#: public/messages/src/app/containers/about/about.container.json
+msgid "Decentralized"
+msgstr "분산형"
+
+#. [Chat.DeleteMessage]
+#. defaultMessage is:
+#. Delete Message
+#: public/messages/src/app/components/Chat/index.json
+msgid "Delete Message"
+msgstr "메시지 삭제"
+
+#. [About.Democratic]
+#. defaultMessage is:
+#. Democratic
+#: public/messages/src/app/containers/about/about.container.json
+msgid "Democratic"
+msgstr "민주주의"
+
+#. [About.DemocraticGovernanceTitle]
+#. defaultMessage is:
+#. Democratic Governance
+#: public/messages/src/app/containers/about/about.container.json
+msgid "Democratic Governance"
+msgstr "민주주의"
+
+#. [About.DesktopViewAlt]
+#. defaultMessage is:
+#. Desktop view of Everipedia article
+#: public/messages/src/app/containers/about/about.container.json
+msgid "Desktop view of Everipedia article"
+msgstr "Everipedia 기사의 바탕 화면보기"
+
+#. [TeamInfo.KedarIyerTitle]
+#. defaultMessage is:
+#. Director of Software Engineering
+#: public/messages/src/app/containers/about/third-block.json
+
+msgid "Director of Software Engineering"
+msgstr "소프트웨어 공학 이사"
+
+#. [Tooltips.EditorComment]
+#. defaultMessage is:
+#. EDITOR COMMENT
+#: public/messages/src/app/components/tooltips/index.json
+msgid "EDITOR COMMENT"
+msgstr "편집자 코멘트"
+
+#. [Stats.Editors]
+#. defaultMessage is:
+#. EDITORS
+#: public/messages/src/app/containers/admin/admin.container.json
+msgid "EDITORS"
+msgstr "에디터"
+
+#. [ActivityCards.ExpiringSoon]
+#. defaultMessage is:
+#. EXPIRING SOON
+#: public/messages/src/app/components/ActivityCards/index.json
+msgid "EXPIRING SOON"
+msgstr "만료 예정"
+
+#. [SubmitVoteConfirmation.EarnIQRewards]
+#. defaultMessage is:
+#. Earn IQ rewards by voting.
+#: public/messages/src/app/components/SubmitVote/ConfirmationModal.json
+
+#| msgid "Earn Rewards for Contributing"
+msgid "Earn IQ rewards by voting."
+msgstr "기고하기 시작"
+
+#. [About.EarnRewardsTitle]
+#. defaultMessage is:
+#. Earn Rewards for Contributing
+#: public/messages/src/app/containers/about/about.container.json
+msgid "Earn Rewards for Contributing"
+msgstr "기고하기 시작"
+
+#. [Chat.Edit]
+#. defaultMessage is:
+#. Edit
+#. [TopNav.Edit]
+#. defaultMessage is:
+#. Edit
+#. [CitationModal.AddEditURL.Edit]
+#. defaultMessage is:
+#. Edit
+#. [InfoboxModal.Edit]
+#. defaultMessage is:
+#. Edit
+#. [MetadataModal.Edit]
+#. defaultMessage is:
+#. Edit
+#. [SectionMediaModal.AddEditURL.Edit]
+#. defaultMessage is:
+#. Edit
+#. [FileUploader.Edit]
+#. defaultMessage is:
+#. Edit
+#. [ImageUploader.Edit]
+#. defaultMessage is:
+#. Edit
+#: public/messages/src/app/components/Chat/index.json
+#: public/messages/src/app/components/content-top-nav/index.json
+#: public/messages/src/editor/plugins/citation-modal/panes/add-edit-url.json
+#: public/messages/src/editor/plugins/infobox/infobox-modal.json
+#: public/messages/src/editor/plugins/metadata/metadata-modal.json
+#: public/messages/src/editor/plugins/section-media-modal/panes/add-edit-url.json
+#: public/messages/src/shared/inputs/image-uploader/file-uploader.component.json
+#: public/messages/src/shared/inputs/image-uploader/image-uploader.component.json
+msgid "Edit"
+msgstr "편집하기"
+
+#. [Chat.EditNow]
+#. defaultMessage is:
+#. Edit Now
+#: public/messages/src/app/components/ArticleComponent/index.json
+msgid "Edit Now"
+msgstr "편집하기"
+
+#. [MetadataModal.Title]
+#. defaultMessage is:
+#. Edit a metadata item
+#: public/messages/src/editor/plugins/metadata/metadata-modal.json
+msgid "Edit a metadata item"
+msgstr "메타 데이터 항목 편집"
+
+#. [ActivityCard.Edited1]
+#. defaultMessage is:
+#. Edited
+#. [HomepageCarouselSlide.Edited]
+#. defaultMessage is:
+#. Edited
+#. [HomepageCarousel.Edited]
+#. defaultMessage is:
+#. Edited
+#: public/messages/src/app/components/ActivityCards/ActivityCard.json
+#: public/messages/src/app/components/carousel/carouselHomepageSlide.json
+#: public/messages/src/app/components/carousel/carouselSlide.json
+msgid "Edited"
+msgstr "편집 한"
+
+#. [ContactUs.editingVotingIssues]
+#. defaultMessage is:
+#. Editing / Voting issues
+#: public/messages/src/app/containers/contact-us/messages.json
+msgid "Editing / Voting issues"
+msgstr "편집 / 투표 문제"
+
+#. [EditorContainer.EditingWikipedia]
+#. defaultMessage is:
+#. Editing Wikipedia-imported pages is currently disabled, but is expected to be available in the future.
+#: public/messages/src/editor/editor.container.json
+msgid ""
+"Editing Wikipedia-imported pages is currently disabled, but is expected to "
+"be available in the future."
+msgstr ""
+"Wikipedia에서 가져온 페이지를 편집하는 기능은 현재 사용할 수 없지만 앞으로 제"
+"공 될 예정입니다."
+
+#. [ThirdBlock.Editor]
+#. defaultMessage is:
+#. Editor
+#: public/messages/src/app/containers/about/third-block.json
+msgid "Editor"
+msgstr "인증된 에디터를 예로 들기"
+
+#. [Leaderboard.Edits]
+#. defaultMessage is:
+#. Edits
+#: public/messages/src/app/containers/homepageContainer/leaderboard.json
+msgid "Edits"
+msgstr "편집하기"
+
+#. [DashboardComponent.EditsProposed]
+#. defaultMessage is:
+#. Edits Proposed
+#: public/messages/src/app/containers/dashboard/dashboard_component.json
+msgid "Edits Proposed"
+msgstr "제안 된 수정 사항"
+
+#. [MetadataModal.ElectronicsSoftware]
+#. defaultMessage is:
+#. Electronics / Software
+#: public/messages/src/editor/plugins/metadata/metadata-modal.json
+msgid "Electronics / Software"
+msgstr "전자 제품/소프트웨어"
+
+#. [ContactUs.Email]
+#. defaultMessage is:
+#. Email
+#: public/messages/src/app/components/ContactUsForm/index.json
+msgid "Email"
+msgstr "이메일"
+
+#. [SaveModal.EmailComingSoon]
+#. defaultMessage is:
+#. Email Coming Soon
+#: public/messages/src/app/components/Login/index.json
+msgid "Email Coming Soon"
+msgstr "만료 예정"
+
+#. [ContactUs.EmailAddress]
+#. defaultMessage is:
+#. Email address
+#: public/messages/src/app/containers/contact-us/messages.json
+msgid "Email address"
+msgstr "이메일 주소"
+
+#. [ActivityCard.Ended]
+#. defaultMessage is:
+#. Ended
+#: public/messages/src/app/components/ActivityCards/ActivityCard.json
+msgid "Ended"
+msgstr "종료"
+
+#. [CitationModal.AddEditURL.EnterAURL]
+#. defaultMessage is:
+#. Enter a URL
+#. [SectionMediaModal.AddEditURL.EnterAURL]
+#. defaultMessage is:
+#. Enter a URL
+#: public/messages/src/editor/plugins/citation-modal/panes/add-edit-url.json
+#: public/messages/src/editor/plugins/section-media-modal/panes/add-edit-url.json
+msgid "Enter a URL"
+msgstr "URL을 입력하십시오"
+
+#. [CitationModal.AddEditURL.EnterADescription]
+#. defaultMessage is:
+#. Enter a description
+#. [SectionMediaModal.AddEditURL.EnterADescription]
+#. defaultMessage is:
+#. Enter a description
+#: public/messages/src/editor/plugins/citation-modal/panes/add-edit-url.json
+#: public/messages/src/editor/plugins/section-media-modal/panes/add-edit-url.json
+msgid "Enter a description"
+msgstr "설명을 입력하세요"
+
+#. [AddRelatedModal.SearchPlaceholder]
+#. defaultMessage is:
+#. Enter a search term
+#: public/messages/src/editor/plugins/add-related/add-related-modal.json
+msgid "Enter a search term"
+msgstr "검색어 입력"
+
+#. [InfoboxModal.EnterAType]
+#. defaultMessage is:
+#. Enter a type
+#: public/messages/src/editor/plugins/infobox/infobox-modal.json
+msgid "Enter a type"
+msgstr "유형 입력"
+
+#. [ContactUs.EnterYourMessage]
+#. defaultMessage is:
+#. Enter your message...
+#: public/messages/src/app/containers/contact-us/messages.json
+msgid "Enter your message..."
+msgstr "메시지를 입력해 주세요"
+
+#. [TopNav.Error]
+#. defaultMessage is:
+#. Error
+#: public/messages/src/app/components/error-modal/index.json
+msgid "Error"
+msgstr "오류"
+
+#. [MetadataModal.Event]
+#. defaultMessage is:
+#. Event
+#: public/messages/src/editor/plugins/metadata/metadata-modal.json
+msgid "Event"
+msgstr "이벤트"
+
+#. [About.MoreArticlesText]
+#. defaultMessage is:
+#. Everipedia allows you to create an article about anything as long as you have a citation. This allows for a much broader scope of content in the knowledge base.
+#: public/messages/src/app/containers/about/about.container.json
+msgid ""
+"Everipedia allows you to create an article about anything as long as you "
+"have a citation. This allows for a much broader scope of content in the "
+"knowledge base."
+msgstr ""
+"Everipedia를 사용하면 인용문이있는 한 모든 것에 대한 기사를 작성할 수 있습니"
+"다. 따라서 지식 기반의 훨씬 더 광범위한 컨텐츠가 가능합니다."
+
+#. [About.LearnMore]
+#. defaultMessage is:
+#. Everipedia offers a space for you to dive into anything you find interesting, connect with people who share your interests, and contribute your own perspective.
+#. [Homepage.EveripediaOffersASpace]
+#. defaultMessage is:
+#. Everipedia offers a space for you to dive into anything you find interesting, connect with people who share your interests, and contribute your own perspective.
+#: public/messages/src/app/containers/about/about.container.json
+#: public/messages/src/app/containers/homepageContainer/homepage.container.json
+msgid ""
+"Everipedia offers a space for you to dive into anything you find "
+"interesting, connect with people who share your interests, and contribute "
+"your own perspective."
+msgstr ""
+"Everipedia는 재미있는 것을 발견하고 관심사를 공유하는 사람들과 소통하며 자신"
+"의 시각을 공헌 할 수있는 공간을 제공합니다."
+
+#. [About.Blockchain]
+#. defaultMessage is:
+#. Everipedia uses blockchain technology to help us fulfill our vision for a world where all knowledge is available to all people - a world in which everyone, everywhere can participate in sharing what they know and providing value to others.
+#: public/messages/src/app/containers/about/about.container.json
+msgid ""
+"Everipedia uses blockchain technology to help us fulfill our vision for a "
+"world where all knowledge is available to all people - a world in which "
+"everyone, everywhere can participate in sharing what they know and providing "
+"value to others."
+msgstr ""
+"Everipedia는 블록 체인 기술을 사용하여 모든 사람이 모든 지식을 사용할 수있는 "
+"세계, 즉 모든 사람이 알고있는 것을 공유하고 다른 사람에게 가치를 제공 할 수있"
+"는 세상이라는 비전을 실현할 수 있도록 돕습니다."
+
+#. [About.ModernDesignText]
+#. defaultMessage is:
+#. Everipedia’s design and features have been built for the modern age.
+#: public/messages/src/app/containers/about/about.container.json
+msgid "Everipedia’s design and features have been built for the modern age."
+msgstr "Everipedia의 디자인과 기능은 현대에 맞게 만들어졌습니다."
+
+#. [ThirdBlock.VibrantCommunity]
+#. defaultMessage is:
+#. Everipedia’s vibrant community is open and welcoming to everyone. We’re already one of the world’s largest encyclopedias, but we’re far from complete. Join us today.
+#: public/messages/src/app/containers/about/third-block.json
+msgid ""
+"Everipedia’s vibrant community is open and welcoming to everyone. We’re "
+"already one of the world’s largest encyclopedias, but we’re far from "
+"complete. Join us today."
+msgstr ""
+"Everipedia의 역동적 인 커뮤니티는 모든 사람들에게 열려 있고 환영합니다. 우리"
+"는 이미 세계에서 가장 큰 백과 사전 중 하나입니다 만, 우리는 완전히 완성되지 "
+"않았습니다. 오늘 우리와 함께하십시오."
+
+#. [LastBlock.ExploreYourCuriosity]
+#. defaultMessage is:
+#. Explore your curiosity.
+#: public/messages/src/app/containers/about/last-block.json
+msgid "Explore your curiosity."
+msgstr "호기심을 탐구하십시오."
+
+#. [Search.ExploreYourCuriosity...]
+#. defaultMessage is:
+#. Explore your curiosity...
+#. [EditorArticleSearch.ExploreYourCuriosity...]
+#. defaultMessage is:
+#. Explore your curiosity...
+#: public/messages/src/app/components/Search/index.json
+#: public/messages/src/editor/components/search/article-search.json
+msgid "Explore your curiosity..."
+msgstr "호기심을 탐구하십시오."
+
+#. [Index.FAQ]
+#. defaultMessage is:
+#. FAQ
+#. [Header.FAQ]
+#. defaultMessage is:
+#. FAQ
+#. [Featured.FAQ]
+#. defaultMessage is:
+#. FAQ
+#: public/messages/src/app/components/Footer/index.json
+#: public/messages/src/app/components/Header/index.json
+#: public/messages/src/app/containers/homepageContainer/featured.json
+msgid "FAQ"
+msgstr "자주 묻는 질문"
+
+#. [SubmitVoteConfirmation.Failure]
+#. defaultMessage is:
+#. Failed to Vote
+#: public/messages/src/app/components/SubmitVote/ConfirmationModal.json
+msgid "Failed to Vote"
+msgstr "투표하기"
+
+#. [ContactUs.feedback]
+#. defaultMessage is:
+#. Feedback
+#: public/messages/src/app/containers/contact-us/messages.json
+msgid "Feedback"
+msgstr "피드백"
+
+#. [ImageUploader.Fetch]
+#. defaultMessage is:
+#. Fetch
+#: public/messages/src/shared/inputs/image-uploader/image-uploader.component.json
+msgid "Fetch"
+msgstr "술책"
+
+#. [ImageUploader.Fetching]
+#. defaultMessage is:
+#. Fetching...
+#: public/messages/src/shared/inputs/image-uploader/image-uploader.component.json
+msgid "Fetching..."
+msgstr "가져 오는 중 ..."
+
+#. [CitationModal.FilterCitations]
+#. defaultMessage is:
+#. Filter citations
+#: public/messages/src/editor/plugins/citation-modal/panes/insert-existing.json
+msgid "Filter citations"
+msgstr "인용 문헌 필터링"
+
+#. [About.FinancialIncentive]
+#. defaultMessage is:
+#. Financial Incentive
+#: public/messages/src/app/containers/about/about.container.json
+msgid "Financial Incentive"
+msgstr "재정적 인센티브"
+
+#. [CommentUtils.Formatting]
+#. defaultMessage is:
+#. Formatting
+#: public/messages/src/app/utils/comment-utils.json
+msgid "Formatting"
+msgstr "서식 지정"
+
+#. [FAQ.FAQ]
+#. defaultMessage is:
+#. Frequently Asked Questions
+#: public/messages/src/app/containers/faq/faq.container.json
+msgid "Frequently Asked Questions"
+msgstr "자주 묻는 질문"
+
+#. [MetadataModal.FromWikipedia]
+#. defaultMessage is:
+#. From Wikipedia
+#: public/messages/src/editor/plugins/metadata/metadata-modal.json
+msgid "From Wikipedia"
+msgstr "위키 백과"
+
+#. [ContactUs.FullName]
+#. defaultMessage is:
+#. Full Name
+#: public/messages/src/app/components/ContactUsForm/index.json
+msgid "Full Name"
+msgstr "성명"
+
+#. [ContactUs.FullNameText]
+#. defaultMessage is:
+#. Full name
+#: public/messages/src/app/containers/contact-us/messages.json
+msgid "Full name"
+msgstr "성명"
+
+#. [ContactUs.generalInquiry]
+#. defaultMessage is:
+#. General inquiry
+#: public/messages/src/app/containers/contact-us/messages.json
+msgid "General inquiry"
+msgstr "일반적인 문의"
+
+#. [Index.GetIQ]
+#. defaultMessage is:
+#. Get IQ
+#. [LastBlock.GetIQ]
+#. defaultMessage is:
+#. Get IQ
+#. [IQInfo.GetIQ]
+#. defaultMessage is:
+#. Get IQ
+#: public/messages/src/app/components/Footer/index.json
+#: public/messages/src/app/containers/about/last-block.json
+#: public/messages/src/app/containers/iq-info/iq-info.container.json
+msgid "Get IQ"
+msgstr "IQ 받기"
+
+#. [ContactUs.getStarted]
+#. defaultMessage is:
+#. Get Started
+#: public/messages/src/app/containers/contact-us/messages.json
+msgid "Get Started"
+msgstr "도움말 문서 연결"
+
+#. [ContactUs.GetInTouch]
+#. defaultMessage is:
+#. Get in Touch
+#: public/messages/src/app/containers/contact-us/contact-us.container.json
+msgid "Get in Touch"
+msgstr "연락하기"
+
+#. [Header.Home]
+#. defaultMessage is:
+#. Home
+#. [Featured.Home]
+#. defaultMessage is:
+#. Home
+#. [Homepage.Home]
+#. defaultMessage is:
+#. Home
+#: public/messages/src/app/components/Header/index.json
+#: public/messages/src/app/containers/homepageContainer/featured.json
+#: public/messages/src/app/containers/homepageContainer/homepage.container.json
+msgid "Home"
+msgstr "홈"
+
+#. [ContactUs.HowCanWeHelp]
+#. defaultMessage is:
+#. How can we help?
+#: public/messages/src/app/components/ContactUsForm/index.json
+msgid "How can we help?"
+msgstr "어떻게 도와 드릴까요?"
+
+#. [SubmitVoteConfirmation.HowMuch]
+#. defaultMessage is:
+#. How much IQ should I vote?
+#: public/messages/src/app/components/SubmitVote/ConfirmationModal.json
+msgid "How much IQ should I vote?"
+msgstr "얼마를 넣어야합니까?"
+
+#. [ThirdBlock.ILoveEveripediaBecause]
+#. defaultMessage is:
+#. I love Everipedia because everyone benefits, particularly the contributors. As an IQ token holder, I have an incentive to participate in the network.
+#: public/messages/src/app/containers/about/third-block.json
+msgid ""
+"I love Everipedia because everyone benefits, particularly the contributors. "
+"As an IQ token holder, I have an incentive to participate in the network."
+msgstr ""
+"나는 모든 사람들, 특히 헌납 자들에게 이익이되기 때문에 Everipedia를 좋아합니"
+"다. IQ 토큰 소지자로서 네트워크에 참여할 인센티브가 있습니다."
+
+#. [InTheNews.InTheNews]
+#. defaultMessage is:
+#. IN THE NEWS
+#: public/messages/src/app/containers/homepageContainer/inTheNews.json
+msgid "IN THE NEWS"
+msgstr "기사 거리"
+
+#. [Stats.IQEarned]
+#. defaultMessage is:
+#. IQ EARNED
+#: public/messages/src/app/containers/admin/admin.container.json
+msgid "IQ EARNED"
+msgstr "IQ 수확"
+
+#. [Stats.IqHolders]
+#. defaultMessage is:
+#. IQ HOLDERS
+#. [Stats.IqHoldersTwo]
+#. defaultMessage is:
+#. IQ HOLDERS
+#: public/messages/src/app/containers/admin/admin.container.json
+#: public/messages/src/app/containers/homepageContainer/stats.json
+msgid "IQ HOLDERS"
+msgstr "IQ 홀더"
+
+#. [About.EarnRewardsText]
+#. defaultMessage is:
+#. IQ Tokens allow us to keep track and reward people for contributing to Everipedia, and as the value of the platform grows, the people who built it get to share in its success.
+#: public/messages/src/app/containers/about/about.container.json
+msgid ""
+"IQ Tokens allow us to keep track and reward people for contributing to "
+"Everipedia, and as the value of the platform grows, the people who built it "
+"get to share in its success."
+msgstr ""
+"IQ Token은 Everipedia에 기여한 사람들을 추적하고 보상하며, 플랫폼의 가치가 커"
+"짐에 따라이를 구축 한 사람들은 성공을 공유하게됩니다."
+
+#. [IQInfo.IQTokensPower]
+#. defaultMessage is:
+#. IQ tokens power the Everipedia Network. They are used to contribute content to our
+#. ever-growing knowledge base and to vote for / against new articles and edits to existing
+#. articles. Contributors are rewarded in the form of IQ tokens. In addition, each token
+#. holder can also vote on upgrades and modifications to the system.
+#: public/messages/src/app/containers/iq-info/iq-info.container.json
+msgid ""
+"IQ tokens power the Everipedia Network. They are used to contribute content "
+"to our\n"
+"                                ever-growing knowledge base and to vote "
+"for / against new articles and edits to existing\n"
+"                                articles. Contributors are rewarded in the "
+"form of IQ tokens. In addition, each token\n"
+"                                holder can also vote on upgrades and "
+"modifications to the system."
+msgstr ""
+"IQ 토큰은 Everipedia Network에 전원을 공급합니다. 그들은 우리에게 콘텐츠를 기"
+"여하는 데 사용됩니다.\n"
+"                                끊임없이 성장하는 지식 기반과 새로운 기사에 "
+"대한 투표 및 기존 기사 편집\n"
+"                                조항. 기여자는 IQ 토큰 형태로 보상을받습니"
+"다. 또한 각 토큰\n"
+"                                보유자는 시스템의 업그레이드 및 수정에 투표 "
+"할 수 있습니다."
+
+#. [SaveModal.IfItIsRejected]
+#. defaultMessage is:
+#. If it is rejected, the IQ tokens that you used to propose your edit will be locked up for a longer period of time, which is proportional to the difference between the total number of votes in the majority and the minority.
+#: public/messages/src/editor/plugins/save/save-modal.json
+msgid ""
+"If it is rejected, the IQ tokens that you used to propose your edit will be "
+"locked up for a longer period of time, which is proportional to the "
+"difference between the total number of votes in the majority and the "
+"minority."
+msgstr ""
+"거부 된 경우, 편집을 제안한 IQ 토큰은 오랜 기간 동안 잠겨 있습니다. 이는 대다"
+"수와 소수의 총 투표 수의 차이에 비례합니다."
+
+#. [LastBlock.InThePress]
+#. defaultMessage is:
+#. In the press
+#: public/messages/src/app/containers/about/last-block.json
+msgid "In the press"
+msgstr ""
+"다른 Everipedia 페이지로 연결하려면 '링크 페이지’ 버튼을 클릭하십시오. 또한입"
+"력할 때 '@' 또는 키를 누르면 드롭 다운이 나타나야 합니다. 페이지마다풍부하고 "
+"유익한 정보로 만들기 위해 필요에 따라 여러 페이지에 연결하십시오."
+
+#. [MetadataModal.Indexed]
+#. defaultMessage is:
+#. Indexed
+#: public/messages/src/editor/plugins/metadata/metadata-modal.json
+msgid "Indexed"
+msgstr "색인 생성 된"
+
+#. [Header.Info]
+#. defaultMessage is:
+#. Info
+#. [Featured.Info]
+#. defaultMessage is:
+#. Info
+#: public/messages/src/app/components/Header/index.json
+#: public/messages/src/app/containers/homepageContainer/featured.json
+msgid "Info"
+msgstr "정보"
+
+#. [CommentUtils.Infobox]
+#. defaultMessage is:
+#. Infobox
+#: public/messages/src/app/utils/comment-utils.json
+msgid "Infobox"
+msgstr "정보 상자"
+
+#. [CommentUtils.Information]
+#. defaultMessage is:
+#. Information
+#: public/messages/src/app/utils/comment-utils.json
+msgid "Information"
+msgstr "IQ 정보 및 도구"
+
+#. [CitationModal.InsertExisting]
+#. defaultMessage is:
+#. Insert Existing
+#. [SectionMediaModal.InsertExisting]
+#. defaultMessage is:
+#. Insert Existing
+#: public/messages/src/editor/plugins/citation-modal/citation-modal.json
+#: public/messages/src/editor/plugins/section-media-modal/section-media-modal.json
+msgid "Insert Existing"
+msgstr "기존 삽입"
+
+#. [ContactUs.InvestmentInquiry]
+#. defaultMessage is:
+#. Investment Inquiry
+#: public/messages/src/app/components/ContactUsForm/index.json
+msgid "Investment Inquiry"
+msgstr "투자 문의"
+
+#. [InfoboxModal.Items]
+#. defaultMessage is:
+#. Item(s)
+#: public/messages/src/editor/plugins/infobox/infobox-modal.json
+msgid "Item(s)"
+msgstr "품목"
+
+#. [Login.JustGettingStarted]
+#. defaultMessage is:
+#. Just getting started?
+#: public/messages/src/app/components/Login/index.json
+msgid "Just getting started?"
+msgstr "시작하는거야?"
+
+#. [TeamInfo.KedarIyerBio]
+#. defaultMessage is:
+#. Kedar Iyer is a software engineer from Santa Clara, California. He has written two books about blockchain technology, including a textbook for Solidity developers on how to build decentralized applications on Ethereum.
+#: public/messages/src/app/containers/about/third-block.json
+
+msgid ""
+"Kedar Iyer is a software engineer from Santa Clara, California. He has "
+"written two books about blockchain technology, including a textbook for "
+"Solidity developers on how to build decentralized applications on Ethereum."
+msgstr ""
+"Kedar Iyer는 캘리포니아 주 산타 클라라 출신의 소프트웨어 엔지니어입니다. 그"
+"는 Ethereum에서 분산 응용 프로그램을 빌드하는 방법에 대한 Solidity 개발자를위"
+"한 교과서를 포함하여 블록 체인 기술에 대한 두 권의 책을 저술했습니다."
+
+#. [InfoboxModal.Label]
+#. defaultMessage is:
+#. Label
+#: public/messages/src/editor/plugins/infobox/infobox-modal.json
+msgid "Label"
+msgstr "레이블"
+
+#. [MetadataModal.Language]
+#. defaultMessage is:
+#. Language
+#: public/messages/src/editor/plugins/metadata/metadata-modal.json
+msgid "Language"
+msgstr "언어"
+
+#. [TeamInfo.LarrySangerBio]
+#. defaultMessage is:
+#. Larry Sanger is a knowledge project developer; his claim to fame is that he is the co-founder of Wikipedia. He has a Ph.D. in Philosophy from Ohio State University. When he is not working on knowledge projects, he plays the Irish fiddle and homeschools his two boys.
+#: public/messages/src/app/containers/about/third-block.json
+
+msgid ""
+"Larry Sanger is a knowledge project developer; his claim to fame is that he "
+"is the co-founder of Wikipedia. He has a Ph.D. in Philosophy from Ohio State "
+"University. When he is not working on knowledge projects, he plays the Irish "
+"fiddle and homeschools his two boys."
+msgstr ""
+"Larry Sanger는 지식 프로젝트 개발자입니다. 명성을 얻으려는 그의 주장은 그가 "
+"Wikipedia의 공동 설립자라는 것입니다. 그는 박사 학위를 소지하고 있습니다. 오"
+"하이오 주립 대학에서 철학을 전공했습니다. 그가 지식 프로젝트에 종사하지 않을 "
+"때, 그는 아이리쉬 바이올린과 홈 스쿨을 두 아들로 연기합니다."
+
+#. [SearchCard.LastEdited]
+#. defaultMessage is:
+#. Last Edited
+#: public/messages/src/app/containers/searchResultsFull/searchCard.json
+msgid "Last Edited"
+msgstr "최신 편집"
+
+#. [MetadataModal.LastModified]
+#. defaultMessage is:
+#. Last Modified(s)
+#: public/messages/src/editor/plugins/metadata/metadata-modal.json
+msgid "Last Modified(s)"
+msgstr "최종 수정일"
+
+#. [LastBlock.LatestFromOurBlog]
+#. defaultMessage is:
+#. Latest from our blog
+#: public/messages/src/app/containers/about/last-block.json
+msgid "Latest from our blog"
+msgstr "최근 블로그"
+
+#. [Leaderboard.Leaderboard]
+#. defaultMessage is:
+#. Leaderboard
+#: public/messages/src/app/containers/homepageContainer/leaderboard.json
+msgid "Leaderboard"
+msgstr "리더보드"
+
+#. [LearnMore.LearnMore]
+#. defaultMessage is:
+#. Learn More
+#. [Login.LearnMore]
+#. defaultMessage is:
+#. Learn More
+#. [Login.LearnMoreTwo]
+#. defaultMessage is:
+#. Learn More
+#: public/messages/src/app/components/learn-more/index.json
+#: public/messages/src/app/components/Login/index.json
+msgid "Learn More"
+msgstr "자세히 알아보기"
+
+#. [SubmitVoteConfirmation.LearnHow]
+#. defaultMessage is:
+#. Learn how
+#. [SectionMediaModal.LearnHow]
+#. defaultMessage is:
+#. Learn how
+#: public/messages/src/app/components/SubmitVote/ConfirmationModal.json
+#: public/messages/src/editor/plugins/section-media-modal/section-media-modal.json
+msgid "Learn how"
+msgstr "자세히 알아보기"
+
+#. [Login.LearnMoreThree]
+#. defaultMessage is:
+#. Learn more
+#. [IQInfo.LearnMore]
+#. defaultMessage is:
+#. Learn more
+#: public/messages/src/app/components/Login/index.json
+#: public/messages/src/app/containers/iq-info/iq-info.container.json
+msgid "Learn more"
+msgstr "자세히 알아보기"
+
+#. [SubmitVote.LearnMore]
+#. defaultMessage is:
+#. Learn more.
+#: public/messages/src/app/components/SubmitVote/index.json
+msgid "Learn more."
+msgstr "자세히 알아보기"
+
+#. [EPLinkModal.Link]
+#. defaultMessage is:
+#. Link
+#: public/messages/src/editor/plugins/ep-link-modal/index.json
+msgid "Link"
+msgstr "링크"
+
+#. [EPLinkModal.LinkToAnotherEveripediaArticle]
+#. defaultMessage is:
+#. Link to another Everipedia Article
+#: public/messages/src/editor/plugins/ep-link-modal/ep-link-modal.json
+msgid "Link to another Everipedia Article"
+msgstr "다른 Everipedia 페이지 링크 추가 또는 편집"
+
+#. [EPLinkModal.Title]
+#. defaultMessage is:
+#. Link to another existing Everipedia page
+#: public/messages/src/editor/plugins/ep-link-modal/ep-link-modal.json
+msgid "Link to another existing Everipedia page"
+msgstr "다른 Everipedia 페이지 링크 추가 또는 편집"
+
+#. [CitationModal.LinkToCredibleSources]
+#. defaultMessage is:
+#. Link to credible sources to support your edits
+#: public/messages/src/editor/plugins/citation-modal/citation-modal.json
+msgid "Link to credible sources to support your edits"
+msgstr "편집을 지원할 수있는 믿을만한 소스에 연결하십시오."
+
+#. [MetadataModal.ItemList]
+#. defaultMessage is:
+#. List
+#: public/messages/src/editor/plugins/metadata/metadata-modal.json
+msgid "List"
+msgstr "목록"
+
+#. [MetadataModal.ListRanking]
+#. defaultMessage is:
+#. List / Ranking
+#: public/messages/src/editor/plugins/metadata/metadata-modal.json
+msgid "List / Ranking"
+msgstr "목록/랭킹"
+
+#. [About.CensorshipResistantDetail]
+#. defaultMessage is:
+#. Live and permanent edits of content on the blockchain beyond the control of a central authority.
+#: public/messages/src/app/containers/about/about.container.json
+msgid ""
+"Live and permanent edits of content on the blockchain beyond the control of "
+"a central authority."
+msgstr ""
+"중앙권력의 통제를 벗어나 블록체인 상에서 콘텐츠를 실시간으로, 영구적으로 편집"
+"합니다."
+
+#. [ActivityCards.Loading]
+#. defaultMessage is:
+#. Loading
+#. [Chat.Loading]
+#. defaultMessage is:
+#. Loading
+#. [MainPhoto.Loading]
+#. defaultMessage is:
+#. Loading
+#. [MediaGallery.Loading]
+#. defaultMessage is:
+#. Loading
+#: public/messages/src/app/components/ActivityCards/index.json
+#: public/messages/src/app/components/Chat/messages.json
+#: public/messages/src/editor/plugins/main-photo/main-photo-modal.json
+#: public/messages/src/editor/plugins/media-gallery/media-gallery-modal.json
+msgid "Loading"
+msgstr "로딩 중..."
+
+#. [ImageUploader.LocalFile]
+#. defaultMessage is:
+#. Local File
+#: public/messages/src/shared/inputs/image-uploader/image-uploader.component.json
+msgid "Local File"
+msgstr "로컬 파일"
+
+#. [MetadataModal.Locked]
+#. defaultMessage is:
+#. Locked
+#: public/messages/src/editor/plugins/metadata/metadata-modal.json
+msgid "Locked"
+msgstr "잠김"
+
+#. [Chat.LogInToChat]
+#. defaultMessage is:
+#. Log in to chat
+#: public/messages/src/app/components/Chat/messages.json
+msgid "Log in to chat"
+msgstr "채팅에 로그인"
+
+#. [Login.LogInWithFacebook]
+#. defaultMessage is:
+#. Log in with Facebook
+#: public/messages/src/app/components/Login/auth.json
+msgid "Log in with Facebook"
+msgstr "페이스 북으로 로그인"
+
+#. [Login.LogInWithGithub]
+#. defaultMessage is:
+#. Log in with Github
+#: public/messages/src/app/components/Login/auth.json
+msgid "Log in with Github"
+msgstr "Github로 로그인하십시오."
+
+#. [Login.LogInWithGoogle]
+#. defaultMessage is:
+#. Log in with Google
+#: public/messages/src/app/components/Login/auth.json
+msgid "Log in with Google"
+msgstr "Google로 로그인"
+
+#. [Login.LogInWithKakao]
+#. defaultMessage is:
+#. Log in with Kakao
+#: public/messages/src/app/components/Login/auth.json
+msgid "Log in with Kakao"
+msgstr "카카오 로그인"
+
+#. [Login.LogInWithLine]
+#. defaultMessage is:
+#. Log in with Line
+#: public/messages/src/app/components/Login/auth.json
+msgid "Log in with Line"
+msgstr "라인으로 로그인"
+
+#. [Login.LogInWithLinkedIn]
+#. defaultMessage is:
+#. Log in with LinkedIn
+#: public/messages/src/app/components/Login/auth.json
+msgid "Log in with LinkedIn"
+msgstr "LinkedIn을 사용하여 로그인하십시오."
+
+#. [Login.LogInWithScatter]
+#. defaultMessage is:
+#. Log in with Scatter
+#: public/messages/src/app/components/Login/auth.json
+msgid "Log in with Scatter"
+msgstr "Scatter로 로그인하십시오."
+
+#. [Login.LogInWithTwitch]
+#. defaultMessage is:
+#. Log in with Twitch
+#: public/messages/src/app/components/Login/auth.json
+msgid "Log in with Twitch"
+msgstr "Twitch로 로그인하십시오."
+
+#. [Login.LogInWithTwitter]
+#. defaultMessage is:
+#. Log in with Twitter
+#: public/messages/src/app/components/Login/auth.json
+msgid "Log in with Twitter"
+msgstr "트위터로 로그인"
+
+#. [Dashboard.LogOut]
+#. defaultMessage is:
+#. Log out
+#: public/messages/src/app/containers/dashboard/dashboard_component.json
+msgid "Log out"
+msgstr "로그아웃"
+
+#. [Directory.Login]
+#. defaultMessage is:
+#. Login
+#. [Chat.LoginTwo]
+#. defaultMessage is:
+#. Login
+#. [AccountNameHeader.Login]
+#. defaultMessage is:
+#. Login
+#. [Errors.LoginTwo]
+#. defaultMessage is:
+#. Login
+#. [Errors.LoginThree]
+#. defaultMessage is:
+#. Login
+#: public/messages/src/app/components/Chat/Directory.json
+#: public/messages/src/app/components/Chat/index.json
+#: public/messages/src/app/components/Header/account-name-header.json
+#: public/messages/src/app/utils/errors.json
+msgid "Login"
+msgstr "로그인"
+
+#. [Directory.LoginToChat]
+#. defaultMessage is:
+#. Login to Chat
+#: public/messages/src/app/components/Chat/Directory.json
+msgid "Login to Chat"
+msgstr "채팅에 로그인"
+
+#. [Login.LoginToEveripedia]
+#. defaultMessage is:
+#. Login to Everipedia
+#: public/messages/src/app/components/Login/index.json
+msgid "Login to Everipedia"
+msgstr "Everipedia에 로그인하기"
+
+#. [Chat.LoginToParticipate]
+#. defaultMessage is:
+#. Login to participate in article chat
+#: public/messages/src/app/components/Chat/index.json
+msgid "Login to participate in article chat"
+msgstr "채팅에 참여하려면 로그인해야합니다."
+
+#. [SaveModal.LoginWithFacebook]
+#. defaultMessage is:
+#. Login with Facebook
+#: public/messages/src/app/components/Login/index.json
+msgid "Login with Facebook"
+msgstr "페이스북 로그인"
+
+#. [SaveModal.LoginWithGoogle]
+#. defaultMessage is:
+#. Login with Google
+#: public/messages/src/app/components/Login/index.json
+msgid "Login with Google"
+msgstr "구글 ID로 로그인"
+
+#. [SaveModal.LoginWithKakao]
+#. defaultMessage is:
+#. Login with Kakao
+#: public/messages/src/app/components/Login/index.json
+msgid "Login with Kakao"
+msgstr "카카오 로그인"
+
+#. [SaveModal.LoginWithLine]
+#. defaultMessage is:
+#. Login with Line
+#: public/messages/src/app/components/Login/index.json
+msgid "Login with Line"
+msgstr "라인으로 로그인"
+
+#. [SaveModal.LoginWithScatter]
+#. defaultMessage is:
+#. Login with Scatter
+#: public/messages/src/app/components/Login/index.json
+msgid "Login with Scatter"
+msgstr "Scatter로 로그인"
+
+#. [Login.LoginWithScatterToUnlock]
+#. defaultMessage is:
+#. Login with Scatter to unlock Everipedia’s full features. Earn IQ rewards and participate in
+#. voting on proposed article edits.
+#: public/messages/src/app/components/Login/index.json
+msgid ""
+"Login with Scatter to unlock Everipedia’s full features. Earn IQ rewards and "
+"participate in\n"
+"\t\t\t\t\t\tvoting on proposed article edits."
+msgstr ""
+"Everipedia의 모든 기능을 해제하려면 Scatter로 로그인하십시오. IQ 보상 획득 "
+"및 참여\n"
+"제안 된 기사 편집에 투표."
+
+#. [SaveModal.LoginWithTwitter]
+#. defaultMessage is:
+#. Login with Twitter
+#: public/messages/src/app/components/Login/index.json
+msgid "Login with Twitter"
+msgstr "트위터로 로그인"
+
+#. [MediaBox.Media]
+#. defaultMessage is:
+#. MEDIA
+#. [EditorMediaGallery.MEDIA]
+#. defaultMessage is:
+#. MEDIA
+#: public/messages/src/app/components/ArticleComponent/MediaBox.json
+#: public/messages/src/editor/plugins/media-gallery/media-gallery.node.json
+msgid "MEDIA"
+msgstr "미디어"
+
+#. [Leaderboard.MonthCap]
+#. defaultMessage is:
+#. MONTH
+#: public/messages/src/app/containers/homepageContainer/leaderboard.json
+msgid "MONTH"
+msgstr "월"
+
+#. [ActivityCards.MostRecent]
+#. defaultMessage is:
+#. MOST RECENT
+#: public/messages/src/app/components/ActivityCards/index.json
+msgid "MOST RECENT"
+msgstr "최근 트위터"
+
+#. [ThirdBlock.MarketCap]
+#. defaultMessage is:
+#. Marketcap.one
+#: public/messages/src/app/containers/about/third-block.json
+msgid "Marketcap.one"
+msgstr "Marketcap.one"
+
+#. [FileUploader.MaxFileSize]
+#. defaultMessage is:
+#. Max file size: 5mb, accepted:
+#. [ImageUploader.MaxFileSize]
+#. defaultMessage is:
+#. Max file size: 5mb, accepted:
+#: public/messages/src/shared/inputs/image-uploader/file-uploader.component.json
+#: public/messages/src/shared/inputs/image-uploader/image-uploader.component.json
+msgid "Max file size: 5mb, accepted:"
+msgstr "최대 파일 크기 : 5MB, 허용 :"
+
+#. [CommentUtils.Media]
+#. defaultMessage is:
+#. Media
+#. [SectionMediaModal.Media]
+#. defaultMessage is:
+#. Media
+#. [SectionMediaModal.MediaTwo]
+#. defaultMessage is:
+#. Media
+#: public/messages/src/app/utils/comment-utils.json
+#: public/messages/src/editor/plugins/section-media-modal/index.json
+#: public/messages/src/editor/plugins/section-media/section-media.button.json
+msgid "Media"
+msgstr "미디어"
+
+#. [MetadataModal.MedicalBiology]
+#. defaultMessage is:
+#. Medical / Biology
+#. [MetadataModal.MedicalEntity]
+#. defaultMessage is:
+#. Medical / Biology
+#: public/messages/src/editor/plugins/metadata/metadata-modal.json
+msgid "Medical / Biology"
+msgstr "의학/생물학"
+
+#. [ThirdBlock.MeetOurTeam]
+#. defaultMessage is:
+#. Meet our team
+#: public/messages/src/app/containers/about/third-block.json
+msgid "Meet our team"
+msgstr "우리 팀을 만나십시오."
+
+#. [MergeModal.Merge]
+#. defaultMessage is:
+#. Merge
+#: public/messages/src/editor/plugins/merge/index.json
+msgid "Merge"
+msgstr "병합"
+
+#. [MergeModal.Title]
+#. defaultMessage is:
+#. Merge this page into another Everipedia page
+#: public/messages/src/editor/plugins/merge/merge-modal.json
+msgid "Merge this page into another Everipedia page"
+msgstr "이 페이지를 다른 Everipedia 페이지로 병합하십시오"
+
+#. [Chat.Messages]
+#. defaultMessage is:
+#. Messages
+#: public/messages/src/app/components/Chat/messages.json
+msgid "Messages"
+msgstr "메시지"
+
+#. [Errors.MobileEditingComing]
+#. defaultMessage is:
+#. Mobile editing coming soon
+#: public/messages/src/app/components/error-modal/index.json
+msgid "Mobile editing coming soon"
+msgstr "곧 모바일 편집이 시작됩니다."
+
+#. [About.MobileViewAlt]
+#. defaultMessage is:
+#. Mobile view of Everipedia user profile
+#: public/messages/src/app/containers/about/about.container.json
+msgid "Mobile view of Everipedia user profile"
+msgstr "Everipedia 사용자 프로필의 모바일보기"
+
+#. [About.ModernDesignTitle]
+#. defaultMessage is:
+#. Modern Design and Features
+#: public/messages/src/app/containers/about/about.container.json
+msgid "Modern Design and Features"
+msgstr "현대적인 디자인과 특징"
+
+#. [About.MoreArticlesTitle]
+#. defaultMessage is:
+#. More Articles and Content
+#: public/messages/src/app/containers/about/about.container.json
+msgid "More Articles and Content"
+msgstr "더 많은 기사 및 내용"
+
+#. [SearchResults.MoreResults]
+#. defaultMessage is:
+#. More Results
+#: public/messages/src/app/components/Search/SearchResults.json
+msgid "More Results"
+msgstr "더 많은 결과"
+
+#. [Chat.MustLogInToChat]
+#. defaultMessage is:
+#. Must log in to chat
+#: public/messages/src/app/components/Chat/messages.json
+msgid "Must log in to chat"
+msgstr "채팅에 로그인해야합니다."
+
+#. [MetadataNode.No]
+#. defaultMessage is:
+#. No
+#: public/messages/src/editor/plugins/metadata/metadata.node.json
+msgid "No"
+msgstr "아니오"
+
+#. [Directory.NoChatsInDirectory]
+#. defaultMessage is:
+#. No Chats in Directory
+#: public/messages/src/app/components/Chat/Directory.json
+msgid "No Chats in Directory"
+msgstr "디렉토리에 채팅이 없습니다."
+
+#. [Leaderboard.NoEdits]
+#. defaultMessage is:
+#. No Edits
+#: public/messages/src/app/containers/homepageContainer/leaderboard.json
+msgid "No Edits"
+msgstr "최신 편집"
+
+#. [Tooltips.NoVotes]
+#. defaultMessage is:
+#. No votes
+#: public/messages/src/app/components/tooltips/index.json
+msgid "No votes"
+msgstr "투표하기"
+
+#. [MetadataModal.None]
+#. defaultMessage is:
+#. None
+#: public/messages/src/editor/plugins/metadata/metadata-modal.json
+msgid "None"
+msgstr "없음"
+
+#. [EditOverview.NotChanged]
+#. defaultMessage is:
+#. Not changed
+#: public/messages/src/app/components/SubmitVote/EditOverview.json
+msgid "Not changed"
+msgstr "변경 됨"
+
+#. [Stats.OriginalPages]
+#. defaultMessage is:
+#. ORIGINAL PAGES
+#. [Stats.OriginalPagesTwo]
+#. defaultMessage is:
+#. ORIGINAL PAGES
+#: public/messages/src/app/containers/admin/admin.container.json
+#: public/messages/src/app/containers/homepageContainer/stats.json
+msgid "ORIGINAL PAGES"
+msgstr "원래 페이지"
+
+#. [MetadataModal.Organization]
+#. defaultMessage is:
+#. Organization
+#: public/messages/src/editor/plugins/metadata/metadata-modal.json
+msgid "Organization"
+msgstr "조직"
+
+#. [MetadataModal.OrganizationCompanyInstitution]
+#. defaultMessage is:
+#. Organization / Company / Institution
+#: public/messages/src/editor/plugins/metadata/metadata-modal.json
+msgid "Organization / Company / Institution"
+msgstr "업체/회사/기관"
+
+#. [ContactUs.Other]
+#. defaultMessage is:
+#. Other
+#. [ContactUs.other]
+#. defaultMessage is:
+#. Other
+#. [MetadataModal.Other]
+#. defaultMessage is:
+#. Other
+#: public/messages/src/app/components/ContactUsForm/index.json
+#: public/messages/src/app/containers/contact-us/messages.json
+#: public/messages/src/editor/plugins/metadata/metadata-modal.json
+msgid "Other"
+msgstr "기타"
+
+#. [ContactUs.OurGlobalOffices]
+#. defaultMessage is:
+#. Our global offices
+#: public/messages/src/app/containers/contact-us/contact-us.container.json
+msgid "Our global offices"
+msgstr "우리의 글로벌 지사"
+
+#. [ThirdBlock.OurMissionToBuild]
+#. defaultMessage is:
+#. Our mission to build the world’s greatest encyclopedia requires a skilled executive team that
+#. embraces grand challenges. At Everipedia, we are fortunate to have people with deep experience
+#. and knowledge in both the education and blockchain industry.
+#: public/messages/src/app/containers/about/third-block.json
+msgid ""
+"Our mission to build the world’s greatest encyclopedia requires a skilled "
+"executive team that\n"
+"\t\t\t\t\t\tembraces grand challenges. At Everipedia, we are fortunate to "
+"have people with deep experience\n"
+"\t\t\t\t\t\tand knowledge in both the education and blockchain industry."
+msgstr ""
+"세계에서 가장 훌륭한 백과 사전을 만드는 우리의 사명은 숙련 된 집행 팀이 필요"
+"합니다.\n"
+"웅장한 도전을 받아들입니다. Everipedia에서는 깊은 경험을 가진 사람들을 만나게"
+"되어 운이 좋았습니다.\n"
+"교육 및 블록 체인 업계에 대한 지식을 제공합니다."
+
+#. [Errors.OutOfIQ]
+#. defaultMessage is:
+#. Out of IQ
+#. [Errors.OutOfIQTwo]
+#. defaultMessage is:
+#. Out of IQ
+#: public/messages/src/app/components/error-modal/index.json
+msgid "Out of IQ"
+msgstr "IQ 부족"
+
+#. [Suggestions.OverrideText]
+#. defaultMessage is:
+#. Override text?
+#: public/messages/src/editor/components/mentions/suggestions.json
+msgid "Override text?"
+msgstr "텍스트를 보존 하시겠습니까?"
+
+#. [RecentPopularContent.POPULAR]
+#. defaultMessage is:
+#. POPULAR
+#: public/messages/src/app/containers/homepageContainer/recentPopularContent.json
+msgid "POPULAR"
+msgstr "인기 있는"
+
+#. [MetadataModal.PageType]
+#. defaultMessage is:
+#. Page Type
+#: public/messages/src/editor/plugins/metadata/metadata-modal.json
+msgid "Page Type"
+msgstr "페이지"
+
+#. [Chat.Participants]
+#. defaultMessage is:
+#. Participants
+#: public/messages/src/app/components/Chat/messages.json
+msgid "Participants"
+msgstr "참가자"
+
+#. [SubmitVote.Permalink]
+#. defaultMessage is:
+#. Permalink
+#: public/messages/src/app/components/SubmitVote/index.json
+msgid "Permalink"
+msgstr "고유주소"
+
+#. [Login.Permission]
+#. defaultMessage is:
+#. Permission
+#: public/messages/src/app/components/Login/auth.json
+msgid "Permission"
+msgstr "권한"
+
+#. [MetadataModal.Person]
+#. defaultMessage is:
+#. Person
+#: public/messages/src/editor/plugins/metadata/metadata-modal.json
+msgid "Person"
+msgstr "사람"
+
+#. [MetadataModal.PlaceLocation]
+#. defaultMessage is:
+#. Place / Location
+#. [MetadataModal.Place]
+#. defaultMessage is:
+#. Place / Location
+#: public/messages/src/editor/plugins/metadata/metadata-modal.json
+msgid "Place / Location"
+msgstr "장소/위치"
+
+#. [LinkableInputSlate.PleaseBeginTyping]
+#. defaultMessage is:
+#. Please begin typing...
+#. [LinkableInput.PleaseBeginTyping]
+#. defaultMessage is:
+#. Please begin typing...
+#: public/messages/src/editor/components/linkable-input-slate/linkable-input-slate.json
+#: public/messages/src/editor/components/linkable-input/linkable-input.json
+msgid "Please begin typing..."
+msgstr "타이핑을 시작하십시오 ..."
+
+#. [CitationModal.AddEditURL.PleaseEnterAURL]
+#. defaultMessage is:
+#. Please enter a URL
+#. [SectionMediaModal.AddEditURL.PleaseEnterAURL]
+#. defaultMessage is:
+#. Please enter a URL
+#: public/messages/src/editor/plugins/citation-modal/panes/add-edit-url.json
+#: public/messages/src/editor/plugins/section-media-modal/panes/add-edit-url.json
+msgid "Please enter a URL"
+msgstr "메시지를 입력해 주세요"
+
+#. [ImageUploader.EnterAURL]
+#. defaultMessage is:
+#. Please enter a URL.
+#: public/messages/src/shared/inputs/image-uploader/image-uploader.component.json
+msgid "Please enter a URL."
+msgstr "메시지를 입력해 주세요"
+
+#. [FileUploader.CaptionPlaceholder]
+#. defaultMessage is:
+#. Please enter a caption
+#. [ImageUploader.CaptionPlaceholder]
+#. defaultMessage is:
+#. Please enter a caption
+#: public/messages/src/shared/inputs/image-uploader/file-uploader.component.json
+#: public/messages/src/shared/inputs/image-uploader/image-uploader.component.json
+msgid "Please enter a caption"
+msgstr "제목을 입력하세요"
+
+#. [EditorContainer.BodyPlaceholder]
+#. defaultMessage is:
+#. Please enter a description for the article
+#: public/messages/src/editor/editor.container.json
+msgid "Please enter a description for the article"
+msgstr "메시지를 입력해 주세요"
+
+#. [ContactUs.PleaseEnterAMessage]
+#. defaultMessage is:
+#. Please enter a message
+#. [ContactUs.PleaseEnterAMessageTwo]
+#. defaultMessage is:
+#. Please enter a message
+#: public/messages/src/app/components/ContactUsForm/index.json
+#: public/messages/src/app/containers/contact-us/messages.json
+msgid "Please enter a message"
+msgstr "메시지를 입력해 주세요"
+
+#. [ContactUs.PleaseEnterASubject]
+#. defaultMessage is:
+#. Please enter a subject
+#: public/messages/src/app/components/ContactUsForm/index.json
+msgid "Please enter a subject"
+msgstr "제목을 입력하세요"
+
+#. [ContactUs.PleaseEnterYourEmailAddress]
+#. defaultMessage is:
+#. Please enter your email address
+#. [ContactUs.PleaseEnterYourEmailAddressTwo]
+#. defaultMessage is:
+#. Please enter your email address
+#: public/messages/src/app/components/ContactUsForm/index.json
+#: public/messages/src/app/containers/contact-us/messages.json
+msgid "Please enter your email address"
+msgstr "이메일을 입력해 주세요"
+
+#. [ContactUs.PleaseEnterYourName]
+#. defaultMessage is:
+#. Please enter your full name
+#. [ContactUs.PleaseEnterYourNameTwo]
+#. defaultMessage is:
+#. Please enter your full name
+#: public/messages/src/app/components/ContactUsForm/index.json
+#: public/messages/src/app/containers/contact-us/messages.json
+msgid "Please enter your full name"
+msgstr "당신의 성명을 입력 해주세요"
+
+#. [EPLinkModal.PleaseMakeSureYouAre]
+#. defaultMessage is:
+#. Please make sure you are inserting in a valid location!
+#: public/messages/src/editor/plugins/ep-link-modal/ep-link-modal.json
+msgid "Please make sure you are inserting in a valid location!"
+msgstr "유효한 위치에 삽입하고 있는지 확인하십시오!"
+
+#. [Index.PoweredBy]
+#. defaultMessage is:
+#. Powered by
+#: public/messages/src/app/components/Footer/index.json
+msgid "Powered by"
+msgstr "다음으로 작동"
+
+#. [Homepage.PoweredByYou]
+#. defaultMessage is:
+#. Powered by you.
+#: public/messages/src/app/containers/homepageContainer/homepage.container.json
+msgid "Powered by you."
+msgstr "다음으로 작동"
+
+#. [TeamInfo.SamKazemianTitle]
+#. defaultMessage is:
+#. President
+#: public/messages/src/app/containers/about/third-block.json
+
+msgid "President"
+msgstr "대통령"
+
+#. [ActivityCard.PreviewNotAvailable]
+#. defaultMessage is:
+#. Preview Not Available
+#. [SearchCard.PreviewNotAvailable]
+#. defaultMessage is:
+#. Preview Not Available
+#: public/messages/src/app/components/ActivityCards/ActivityCard.json
+#: public/messages/src/app/containers/searchResultsFull/searchCard.json
+msgid "Preview Not Available"
+msgstr "미리보기를 사용할 수 없음"
+
+#. [MetadataModal.Product]
+#. defaultMessage is:
+#. Product
+#: public/messages/src/editor/plugins/metadata/metadata-modal.json
+msgid "Product"
+msgstr "상품"
+
+#. [MetadataModal.ProductMerchandise]
+#. defaultMessage is:
+#. Product / Merchandise
+#: public/messages/src/editor/plugins/metadata/metadata-modal.json
+msgid "Product / Merchandise"
+msgstr "상품/제품"
+
+#. [About.DemocraticDetail]
+#. defaultMessage is:
+#. Proof of Stake (PoS) model allows for voting to change and upgrade the IQ network as it grows. Also will facilitate batch imports of new content with no fees.
+#: public/messages/src/app/containers/about/about.container.json
+msgid ""
+"Proof of Stake (PoS) model allows for voting to change and upgrade the IQ "
+"network as it grows. Also will facilitate batch imports of new content with "
+"no fees."
+msgstr ""
+"지분증명(PoS) 모델을 통해, 성장하는 IQ 네트워크를 변경하고 업그레이드할 수 있"
+"습니다. 또한 새로운 컨텐츠를 일괄적으로 무료로 가져올수 있습니다."
+
+#. [DashboardComponent.Proposals]
+#. defaultMessage is:
+#. Proposals
+#: public/messages/src/app/containers/dashboard/dashboard_component.json
+msgid "Proposals"
+msgstr "제안"
+
+#. [SubmitVoteConfirmation.ProvideReason]
+#. defaultMessage is:
+#. Provide the reason for your vote (optional)
+#: public/messages/src/app/components/SubmitVote/ConfirmationModal.json
+msgid "Provide the reason for your vote (optional)"
+msgstr "귀하의 투표에 대해 설명하십시오 (선택 사항)."
+
+#. [ContactUs.Questions]
+#. defaultMessage is:
+#. Questions?
+#: public/messages/src/app/containers/contact-us/contact-form.json
+msgid "Questions?"
+msgstr "자주 묻는 질문"
+
+#. [Login.QuicklyLogin]
+#. defaultMessage is:
+#. Quickly login with a social account to make an edit or create an article. You will be limited to
+#. 4 edits and will not earn rewards or participate in voting.
+#: public/messages/src/app/components/Login/index.json
+msgid ""
+"Quickly login with a social account to make an edit or create an article. "
+"You will be limited to\n"
+"\t\t\t\t\t\t4 edits and will not earn rewards or participate in voting."
+msgstr ""
+"소셜 계정으로 빠르게 로그인하여 기사를 편집하거나 만들 수 있습니다. 너는에 한"
+"정 될 것이다.\n"
+"4 편집하고 보상을 받거나 투표에 참여하지 않습니다."
+
+#. [RecentPopularContent.RECENT]
+#. defaultMessage is:
+#. RECENT
+#: public/messages/src/app/containers/homepageContainer/recentPopularContent.json
+msgid "RECENT"
+msgstr "최근 트위터"
+
+#. [TweetBox.recentTweets]
+#. defaultMessage is:
+#. RECENT TWEETS
+#: public/messages/src/app/components/ArticleComponent/TweetBox.json
+msgid "RECENT TWEETS"
+msgstr "최근 트위터"
+
+#. [TopNav.Read]
+#. defaultMessage is:
+#. Read
+#: public/messages/src/app/components/content-top-nav/index.json
+msgid "Read"
+msgstr "읽기"
+
+#. [RecentActivity.Title]
+#. defaultMessage is:
+#. Recent Activity
+#. [RecentActivity.ContainerTitle]
+#. defaultMessage is:
+#. Recent Activity
+#: public/messages/src/app/app.json
+#: public/messages/src/app/containers/activity/activity.container.json
+msgid "Recent Activity"
+msgstr "최근 활동"
+
+#. [Directory.RecentChats]
+#. defaultMessage is:
+#. Recent Chats
+#: public/messages/src/app/components/Chat/Directory.json
+msgid "Recent Chats"
+msgstr "최근 채팅"
+
+#. [OreID.txOREIDRedirect]
+#. defaultMessage is:
+#. Redirecting to ORE ID authentication page.
+#: public/messages/src/app/components/Login/oreid.json
+msgid "Redirecting to ORE ID authentication page."
+msgstr "ORE ID 인증 페이지로 리디렉션"
+
+#. [ArticleComponent.References]
+#. defaultMessage is:
+#. References
+#. [Sidenav.References]
+#. defaultMessage is:
+#. References
+#. [EditorContainer.References]
+#. defaultMessage is:
+#. References
+#: public/messages/src/app/components/ArticleComponent/References.json
+#: public/messages/src/app/components/Sidenav/index.json
+#: public/messages/src/editor/editor.container.json
+msgid "References"
+msgstr "참조"
+
+#. [SubmitVoteConfirmation.Reject]
+#. defaultMessage is:
+#. Reject
+#: public/messages/src/app/components/SubmitVote/ConfirmationModal.json
+msgid "Reject"
+msgstr "거절"
+
+#. [SubmitVote.Rejected]
+#. defaultMessage is:
+#. Rejected
+#: public/messages/src/app/components/SubmitVote/index.json
+msgid "Rejected"
+msgstr "거부됨"
+
+#. [SeeAlso.RelatedArticles]
+#. defaultMessage is:
+#. Related Articles
+#. [Sidenav.RelatedArticles]
+#. defaultMessage is:
+#. Related Articles
+#: public/messages/src/app/components/ArticleComponent/SeeAlso.json
+#: public/messages/src/app/components/Sidenav/index.json
+msgid "Related Articles"
+msgstr "관련 기술문서"
+
+#. [ArticleUtils.Remaining]
+#. defaultMessage is:
+#. Remaining
+#: public/messages/src/app/utils/article-utils.json
+msgid "Remaining"
+msgstr "남은 시간"
+
+#. [ImageUploader.RemoteURL]
+#. defaultMessage is:
+#. Remote URL
+#: public/messages/src/shared/inputs/image-uploader/image-uploader.component.json
+msgid "Remote URL"
+msgstr "원격 URL"
+
+#. [MetadataModal.RemovePage]
+#. defaultMessage is:
+#. Remove Page
+#: public/messages/src/editor/plugins/metadata/metadata-modal.json
+msgid "Remove Page"
+msgstr "페이지 삭제하기"
+
+#. [Chat.Reply]
+#. defaultMessage is:
+#. Reply
+#: public/messages/src/app/components/Chat/index.json
+msgid "Reply"
+msgstr "답글"
+
+#. [ContactUs.ReportAbuse]
+#. defaultMessage is:
+#. Report Abuse
+#: public/messages/src/app/components/ContactUsForm/index.json
+msgid "Report Abuse"
+msgstr "악용 사례 신고"
+
+#. [ContactUs.ReportBug]
+#. defaultMessage is:
+#. Report Bug
+#: public/messages/src/app/components/ContactUsForm/index.json
+msgid "Report Bug"
+msgstr "버그 보고하기"
+
+#. [Index.ReportBug]
+#. defaultMessage is:
+#. Report a Bug
+#. [ContactUs.reportBug]
+#. defaultMessage is:
+#. Report a Bug
+#: public/messages/src/app/components/Footer/index.json
+#: public/messages/src/app/containers/contact-us/messages.json
+msgid "Report a Bug"
+msgstr "버그 보고하기"
+
+#. [Stats.RestrictedArea]
+#. defaultMessage is:
+#. Restricted area.
+#: public/messages/src/app/containers/admin/admin.container.json
+msgid "Restricted area."
+msgstr "제한 구역."
+
+#. [TeamInfo.SamKazemianBio]
+#. defaultMessage is:
+#. Sam Kazemian is an Iranian-American Internet entrepreneur and programmer. His journey in crypto started after he put together a homemade CPU+GPU mining rig in his UCLA dorm room. His passion for the industry led him to integrate blockchain technology to an online knowledge base for the first time in history.
+#: public/messages/src/app/containers/about/third-block.json
+
+msgid ""
+"Sam Kazemian is an Iranian-American Internet entrepreneur and programmer. "
+"His journey in crypto started after he put together a homemade CPU+GPU "
+"mining rig in his UCLA dorm room. His passion for the industry led him to "
+"integrate blockchain technology to an online knowledge base for the first "
+"time in history."
+msgstr ""
+"Sam Kazemian은이란 계 미국인 인터넷 기업가이자 프로그래머입니다. 암호문 작성"
+"은 UCLA 기숙사에 수제 CPU + GPU 광산 장비를 조립 한 후에 시작되었습니다. 업계"
+"에 대한 열정은 그가 역사에서 처음으로 블록 기술을 온라인 지식 기반에 통합하도"
+"록 이끌었습니다."
+
+#. [MetadataModal.ScienceAcademiaHumanities]
+#. defaultMessage is:
+#. Science / Academia / Humanities
+#: public/messages/src/editor/plugins/metadata/metadata-modal.json
+msgid "Science / Academia / Humanities"
+msgstr "과학/학문/인문"
+
+#. [Search.SearchPlaceholder]
+#. defaultMessage is:
+#. Search Everipedia...
+#: public/messages/src/app/components/Search/index.json
+msgid "Search Everipedia..."
+msgstr " Everipedia검색하기"
+
+#. [Search.CreateNewSearch]
+#. defaultMessage is:
+#. Search to find out if the topic already has an article
+#: public/messages/src/app/components/Search/index.json
+msgid "Search to find out if the topic already has an article"
+msgstr "해당 주제에 이미 기사가 있는지 검색하십시오."
+
+#. [LearnMore.SeeActivity]
+#. defaultMessage is:
+#. See Activity
+#. [LearnMore.SeeActivityTwo]
+#. defaultMessage is:
+#. See Activity
+#: public/messages/src/app/components/learn-more/index.json
+#: public/messages/src/app/containers/about/last-block.json
+msgid "See Activity"
+msgstr "최근 활동"
+
+#. [LastBlock.SeeMoreBlogPosts]
+#. defaultMessage is:
+#. See more blog posts
+#: public/messages/src/app/containers/about/last-block.json
+msgid "See more blog posts"
+msgstr "더 많은 블로그 게시물보기"
+
+#. [Chat.SeeSomethingMissing]
+#. defaultMessage is:
+#. See something missing?
+#: public/messages/src/app/components/ArticleComponent/index.json
+msgid "See something missing?"
+msgstr "누락 된 것이 있습니까?"
+
+#. [SaveModal.SeeYourEditOnABlockExplorer]
+#. defaultMessage is:
+#. See your edit on a block explorer
+#: public/messages/src/editor/plugins/save/save-modal.json
+msgid "See your edit on a block explorer"
+msgstr "블록 탐색기에서 편집 내용보기"
+
+#. [ContactUs.selectAReason]
+#. defaultMessage is:
+#. Select a reason
+#: public/messages/src/app/containers/contact-us/messages.json
+msgid "Select a reason"
+msgstr "사유 선택"
+
+#. [ContactUs.selectDifferentReason]
+#. defaultMessage is:
+#. Select different reason
+#: public/messages/src/app/containers/contact-us/messages.json
+msgid "Select different reason"
+msgstr "다른 이유 선택"
+
+#. [Chat.Send]
+#. defaultMessage is:
+#. Send
+#: public/messages/src/app/components/Chat/index.json
+msgid "Send"
+msgstr "보내다"
+
+#. [ContactUs.sendAnother]
+#. defaultMessage is:
+#. Send Another
+#: public/messages/src/app/containers/contact-us/messages.json
+msgid "Send Another"
+msgstr "추가"
+
+#. [ContactUs.sendUsMessage]
+#. defaultMessage is:
+#. Send us a message
+#: public/messages/src/app/containers/contact-us/messages.json
+msgid "Send us a message"
+msgstr "메시지를 보냄"
+
+#. [ShareModal.ShareVia]
+#. defaultMessage is:
+#. Share via:
+#: public/messages/src/app/components/ArticleComponent/ShareModal.json
+msgid "Share via:"
+msgstr "공유 방법 :"
+
+#. [ArticleComponent.ShowAllCitations]
+#. defaultMessage is:
+#. Show All Citations
+#: public/messages/src/app/components/ArticleComponent/References.json
+msgid "Show All Citations"
+msgstr "인용문 추가 또는 편집"
+
+#. [LearnMore.SignUp]
+#. defaultMessage is:
+#. Sign Up
+#. [LearnMore.SignUpTwo]
+#. defaultMessage is:
+#. Sign Up
+#: public/messages/src/app/components/learn-more/index.json
+#: public/messages/src/app/containers/about/last-block.json
+msgid "Sign Up"
+msgstr "가입하기"
+
+#. [SubmitVoteConfirmation.SignWithWallet]
+#. defaultMessage is:
+#. Sign with Wallet
+#: public/messages/src/app/components/SubmitVote/ConfirmationModal.json
+msgid "Sign with Wallet"
+msgstr "구글 ID로 로그인"
+
+#. [AccountNameHeader.Staked]
+#. defaultMessage is:
+#. Staked
+#: public/messages/src/app/components/Header/account-name-header.json
+msgid "Staked"
+msgstr "측설"
+
+#. [Homepage.StartContributing]
+#. defaultMessage is:
+#. Start Contributing
+#: public/messages/src/app/containers/homepageContainer/homepage.container.json
+msgid "Start Contributing"
+msgstr "기고하기 시작"
+
+#. [Errors.StartContributingOn]
+#. defaultMessage is:
+#. Start Contributing on Everipedia
+#: public/messages/src/app/components/error-modal/index.json
+msgid "Start Contributing on Everipedia"
+msgstr "기고하기 시작"
+
+#. [About.StartExploring]
+#. defaultMessage is:
+#. Start Exploring
+#: public/messages/src/app/containers/about/about.container.json
+msgid "Start Exploring"
+msgstr "기고하기 시작"
+
+#. [MetadataModal.SubPageType]
+#. defaultMessage is:
+#. Sub Page Type
+#: public/messages/src/editor/plugins/metadata/metadata-modal.json
+msgid "Sub Page Type"
+msgstr "하위 페이지 유형"
+
+#. [ContactUs.Subject]
+#. defaultMessage is:
+#. Subject
+#: public/messages/src/app/components/ContactUsForm/index.json
+msgid "Subject"
+msgstr "제목"
+
+#. [ContactUs.Submit]
+#. defaultMessage is:
+#. Submit
+#. [ContactUs.submit]
+#. defaultMessage is:
+#. Submit
+#. [SaveModalButton.Submit]
+#. defaultMessage is:
+#. Submit
+#. [SaveModal.Submit]
+#. defaultMessage is:
+#. Submit
+#: public/messages/src/app/components/ContactUsForm/index.json
+#: public/messages/src/app/containers/contact-us/messages.json
+#: public/messages/src/editor/plugins/save/index.json
+#: public/messages/src/editor/plugins/save/save-modal.json
+msgid "Submit"
+msgstr "제출"
+
+#. [SubmitVoteConfirmation.Success]
+#. defaultMessage is:
+#. Successfully Voted!
+#: public/messages/src/app/components/SubmitVote/ConfirmationModal.json
+msgid "Successfully Voted!"
+msgstr "메시지를 보냈습니다."
+
+#. [ContactUs.successfullySentMessage]
+#. defaultMessage is:
+#. Successfully sent message
+#: public/messages/src/app/containers/contact-us/messages.json
+msgid "Successfully sent message"
+msgstr "메시지를 보냈습니다."
+
+#. [TeamInfo.SuchetDhindsaBio]
+#. defaultMessage is:
+#. Suchet Dhindsa is a Norwegian economist, entrepreneur, and investor. Suchet has 10 years of experience in global expansion strategy, venture capital and emerging technologies.
+#: public/messages/src/app/containers/about/third-block.json
+
+msgid ""
+"Suchet Dhindsa is a Norwegian economist, entrepreneur, and investor. Suchet "
+"has 10 years of experience in global expansion strategy, venture capital and "
+"emerging technologies."
+msgstr ""
+"Suchet Dhindsa는 노르웨이 경제학자, 기업가 및 투자가입니다. Suchet는 글로벌 "
+"확장 전략, 벤처 캐피탈 및 신흥 기술 분야에서 10 년의 경력을 쌓았습니다."
+
+#. [IQInfo.SupportedExchanges]
+#. defaultMessage is:
+#. Supported Exchanges
+#: public/messages/src/app/containers/iq-info/iq-info.container.json
+msgid "Supported Exchanges"
+msgstr "지원된 거래소"
+
+#. [IQInfo.SupportedWallets]
+#. defaultMessage is:
+#. Supported Wallets
+#: public/messages/src/app/containers/iq-info/iq-info.container.json
+msgid "Supported Wallets"
+msgstr "지원되는 지갑"
+
+#. [Stats.TotalEdits]
+#. defaultMessage is:
+#. TOTAL EDITS
+#: public/messages/src/app/containers/admin/admin.container.json
+msgid "TOTAL EDITS"
+msgstr "최신 편집"
+
+#. [RecentPopularContent.TRENDING]
+#. defaultMessage is:
+#. TRENDING
+#: public/messages/src/app/containers/homepageContainer/recentPopularContent.json
+msgid "TRENDING"
+msgstr "동향"
+
+#. [About.ModernAge]
+#. defaultMessage is:
+#. Taking the Online Encyclopedia into the Modern Age
+#: public/messages/src/app/containers/about/about.container.json
+msgid "Taking the Online Encyclopedia into the Modern Age"
+msgstr "시대에 맞는 백과 사전"
+
+#. [Index.Terms]
+#. defaultMessage is:
+#. Terms
+#: public/messages/src/app/components/Footer/index.json
+msgid "Terms"
+msgstr "이용약관"
+
+#. [Errors.ThanksForTrialing]
+#. defaultMessage is:
+#. Thanks for trialing Everipedia. Looks like you’ve been making edits and have run out of the
+#. trial IQ Tokens. You can unlock the full potential of Everipedia and get more tokens with a
+#. Scatter login.
+#: public/messages/src/app/utils/errors.json
+msgid ""
+"Thanks for trialing Everipedia. Looks like you’ve been making edits and have "
+"run out of the\n"
+"\t\t\t\t\t\ttrial IQ Tokens. You can unlock the full potential of Everipedia "
+"and get more tokens with a\n"
+"\t\t\t\t\t\tScatter login."
+msgstr ""
+"Everipedia를 시험해 주셔서 감사합니다. 당신이 편집을하고있는 것처럼 보입니"
+"다.\n"
+"시범 IQ 토큰. Everipedia의 잠재력을 최대한 발휘하고 더 많은 토큰을 얻을 수 있"
+"습니다.\n"
+"분산 형 로그인."
+
+#. [Errors.ThanksForUsingEveripedia]
+#. defaultMessage is:
+#. Thanks for using Everipedia. Looks like you have run out of IQ Tokens. You can get more tokens
+#. at one of
+#: public/messages/src/app/utils/errors.json
+msgid ""
+"Thanks for using Everipedia. Looks like you have run out of IQ Tokens. You "
+"can get more tokens\n"
+"\t\t\t\t\t\tat one of"
+msgstr ""
+"Everipedia를 이용해 주셔서 감사합니다. 당신이 IQ 토큰을 다 쓴 것처럼 보입니"
+"다. 더 많은 토큰을 얻을 수 있습니다.\n"
+"다음 중 하나에"
+
+#. [ThirdBlock.ThanksToNewTechnology]
+#. defaultMessage is:
+#. Thanks to new technology, it is now possible for Everipedia to move beyond Wikipedia just like how we moved beyond Britannica almost two decades ago.
+#: public/messages/src/app/containers/about/third-block.json
+msgid ""
+"Thanks to new technology, it is now possible for Everipedia to move beyond "
+"Wikipedia just like how we moved beyond Britannica almost two decades ago."
+msgstr ""
+"신기술 덕분에 Everipedia는 거의 20 년 전에 Britannica를 넘어서던 것처럼 "
+"Wikipedia를 뛰어 넘을 수있었습니다."
+
+#. [Homepage.TheEncylopediaOfEverything]
+#. defaultMessage is:
+#. The Encyclopedia for Everything, Everyone, Everywhere.
+#. [Homepage.TheEncyclopediaForEverythingEveryoneEverywhere]
+#. defaultMessage is:
+#. The Encyclopedia for Everything, Everyone, Everywhere.
+#: public/messages/src/app/containers/homepageContainer/homepage.container.json
+msgid "The Encyclopedia for Everything, Everyone, Everywhere."
+msgstr "모두. 각자 모두. 어디에나."
+
+#. [About.EncyclopediaOfEverything]
+#. defaultMessage is:
+#. The Encyclopedia of Everything.
+#. [ContactUs.TheEncylopediaOfEverything]
+#. defaultMessage is:
+#. The Encyclopedia of Everything.
+#: public/messages/src/app/containers/about/about.container.json
+#: public/messages/src/app/containers/contact-us/contact-us.container.json
+msgid "The Encyclopedia of Everything."
+msgstr " Everipedia, 모든 것의 백과 사전"
+
+#. [About.TheEveripediaIQBlockchain]
+#. defaultMessage is:
+#. The Everipedia IQ blockchain provides a new paradigm change and knowledge economy to disrupt the old centralized internet knowledge encyclopedia model similar to Wikipedia
+#. [ContactUs.TheEveripediaIQ]
+#. defaultMessage is:
+#. The Everipedia IQ blockchain provides a new paradigm change and knowledge economy to disrupt the old centralized internet knowledge encyclopedia model similar to Wikipedia
+#. [Homepage.Intro]
+#. defaultMessage is:
+#. The Everipedia IQ blockchain provides a new paradigm change and knowledge economy to disrupt the old centralized internet knowledge encyclopedia model similar to Wikipedia
+#. [Homepage.TheEveripediaIQ]
+#. defaultMessage is:
+#. The Everipedia IQ blockchain provides a new paradigm change and knowledge economy to disrupt the old centralized internet knowledge encyclopedia model similar to Wikipedia
+#: public/messages/src/app/containers/about/about.container.json
+#: public/messages/src/app/containers/contact-us/contact-us.container.json
+#: public/messages/src/app/containers/homepageContainer/homepage.container.json
+msgid ""
+"The Everipedia IQ blockchain provides a new paradigm change and knowledge "
+"economy to disrupt the old centralized internet knowledge encyclopedia model "
+"similar to Wikipedia"
+msgstr ""
+"Everipedia IQ 블록 체인은 새로운 패러다임 변화와 지식 경제를 방해합니다.\n"
+"                            Wikipedia와 유사한 오래된 중앙 집중식 인터넷 지"
+"식 백과 사전 모형"
+
+#. [InfoboxModal.TheInfoboxIsDesignedForConcise]
+#. defaultMessage is:
+#. The infobox is designed for concise, easy-to-access information.
+#: public/messages/src/editor/plugins/infobox/infobox-modal.json
+msgid "The infobox is designed for concise, easy-to-access information."
+msgstr "Infobox는 간결하고 액세스하기 쉬운 정보를 위해 설계되었습니다."
+
+#. [TeamInfo.TheodorForseliusBio]
+#. defaultMessage is:
+#. Theodor Forselius  is a Swedish Internet entrepreneur and programmer. He co-founded Everipedia at the age of 20, gaining experience in digital advertising, web development, and online gaming industries in the process.
+#: public/messages/src/app/containers/about/third-block.json
+
+msgid ""
+"Theodor Forselius  is a Swedish Internet entrepreneur and programmer. He co-"
+"founded Everipedia at the age of 20, gaining experience in digital "
+"advertising, web development, and online gaming industries in the process."
+msgstr ""
+"Theodor Forselius는 스웨덴 인터넷 기업가이자 프로그래머입니다. 그는 20 세에 "
+"Everipedia를 공동 설립하여 디지털 광고, 웹 개발 및 온라인 게임 업계에서 경험"
+"을 쌓았습니다."
+
+#. [SubmitVote.NoRecentEdits]
+#. defaultMessage is:
+#. There have been no recent edits to this article. Be the first person to update it.
+#: public/messages/src/app/components/SubmitVote/index.json
+msgid ""
+"There have been no recent edits to this article. Be the first person to "
+"update it."
+msgstr "이 기사에 대한 최근 편집이있었습니다. 최신 버전은 다음을 참조하십시오."
+
+#. [MetadataModal.Thing]
+#. defaultMessage is:
+#. Thing
+#: public/messages/src/editor/plugins/metadata/metadata-modal.json
+msgid "Thing"
+msgstr "의회"
+
+#. [SubmitVote.NotMostRecent]
+#. defaultMessage is:
+#. This is not the most recent version of this article. See the latest version here:
+#: public/messages/src/app/components/SubmitVote/index.json
+msgid ""
+"This is not the most recent version of this article. See the latest version "
+"here:"
+msgstr "이 기사에 대한 최근 편집이있었습니다. 최신 버전은 다음을 참조하십시오."
+
+#. [EditorContainer.PageIsLocked]
+#. defaultMessage is:
+#. This page is locked to new edits.
+#: public/messages/src/editor/editor.container.json
+msgid "This page is locked to new edits."
+msgstr "이 페이지는 새로운 수정 사항에 고정되어 있습니다."
+
+#. [ActivityCard.TitleNotAvailable]
+#. defaultMessage is:
+#. Title Not Available
+#. [SearchCard.TitleNotAvailable]
+#. defaultMessage is:
+#. Title Not Available
+#: public/messages/src/app/components/ActivityCards/ActivityCard.json
+#: public/messages/src/app/containers/searchResultsFull/searchCard.json
+msgid "Title Not Available"
+msgstr "제목 없음"
+
+#. [Errors.ToEditThisArticleRightNow]
+#. defaultMessage is:
+#. To edit this article right now, use the desktop version of the site.
+#: public/messages/src/app/utils/errors.json
+msgid "To edit this article right now, use the desktop version of the site."
+msgstr "지금이 기사를 편집하려면 사이트의 데스크톱 버전을 사용하십시오."
+
+#. [Errors.ToMakeAnEdit]
+#. defaultMessage is:
+#. To make an edit or create an article, you need an Everipedia account. You can sign up for a
+#. trial account using a social account or use Scatter to unlock Everipedia’s full features,
+#. including voting on article edits and earning IQ rewards.
+#: public/messages/src/app/utils/errors.json
+msgid ""
+"To make an edit or create an article, you need an Everipedia account. You "
+"can sign up for a\n"
+"\t\t\t\t\t\ttrial account using a social account or use Scatter to unlock "
+"Everipedia’s full features,\n"
+"\t\t\t\t\t\tincluding voting on article edits and earning IQ rewards."
+msgstr ""
+"기사를 편집하거나 작성하려면 Everipedia 계정이 필요합니다. 당신은에 가입 할 "
+"수 있습니다.\n"
+"소셜 계정을 사용하여 평가판 계정을 만들거나 Scatter를 사용하여 Everipedia의 "
+"모든 기능을 잠금 해제하고,\n"
+"기사 편집에 대한 투표 및 IQ 보상 획득 등이 포함됩니다."
+
+#. [Dashboard.TotalBalance]
+#. defaultMessage is:
+#. Total Balance
+#: public/messages/src/app/containers/dashboard/dashboard_component.json
+msgid "Total Balance"
+msgstr "잔액"
+
+#. [DashboardComponent.TotalRewards]
+#. defaultMessage is:
+#. Total Rewards
+#: public/messages/src/app/containers/dashboard/dashboard_component.json
+msgid "Total Rewards"
+msgstr "총 보상"
+
+#. [SubmitProposal.TxFailed]
+#. defaultMessage is:
+#. Transaction failed!
+#: public/messages/src/app/utils/wal-eos.json
+msgid "Transaction failed!"
+msgstr "거래 실패!"
+
+#. [SubmitProposal.TxSuccess]
+#. defaultMessage is:
+#. Transaction successful!
+#: public/messages/src/app/utils/wal-eos.json
+msgid "Transaction successful!"
+msgstr "거래 성공"
+
+#. [TeamInfo.TravisMooreBio]
+#. defaultMessage is:
+#. Travis Moore is an Italian-American computer programmer, angel investor and entrepreneur from Thousand Oaks, a suburb of Los Angeles. He co-founded Everipedia after graduating from UCLA with degrees in Molecular Biology, Biochemistry, and Neuroscience in 2011.
+#: public/messages/src/app/containers/about/third-block.json
+
+msgid ""
+"Travis Moore is an Italian-American computer programmer, angel investor and "
+"entrepreneur from Thousand Oaks, a suburb of Los Angeles. He co-founded "
+"Everipedia after graduating from UCLA with degrees in Molecular Biology, "
+"Biochemistry, and Neuroscience in 2011."
+msgstr ""
+"트래비스 무어 (Travis Moore)는 이탈리아계 미국인 컴퓨터 프로그래머, 천사 투자"
+"가이자 로스 앤젤레스 근교의 사우 전드 옥스 (Sousand Oaks) 출신의 사업가입니"
+"다. 그는 UCLA에서 2011 년 분자 생물학, 생화학 및 신경 과학 학위를 취득하여 "
+"Everipedia를 공동 설립했습니다."
+
+#. [SaveModal.TryAgain]
+#. defaultMessage is:
+#. Try Again
+#: public/messages/src/editor/plugins/save/save-modal.json
+msgid "Try Again"
+msgstr "다시 시도"
+
+#. [Login.TryAgain]
+#. defaultMessage is:
+#. Try again
+#: public/messages/src/app/components/Login/index.json
+msgid "Try again"
+msgstr "다시 시도"
+
+#. [ContactUs.Type]
+#. defaultMessage is:
+#. Type
+#. [InfoboxModal.Type]
+#. defaultMessage is:
+#. Type
+#. [MetadataModal.Type]
+#. defaultMessage is:
+#. Type
+#: public/messages/src/app/components/ContactUsForm/index.json
+#: public/messages/src/editor/plugins/infobox/infobox-modal.json
+#: public/messages/src/editor/plugins/metadata/metadata-modal.json
+msgid "Type"
+msgstr "유형"
+
+#. [EditorArticleSearch.TypeToSearch]
+#. defaultMessage is:
+#. Type to search...
+#: public/messages/src/editor/components/search/article-search.json
+msgid "Type to search..."
+msgstr "검색 유형..."
+
+#. [MetadataModal.URLSlug]
+#. defaultMessage is:
+#. URL Slug
+#: public/messages/src/editor/plugins/metadata/metadata-modal.json
+msgid "URL Slug"
+msgstr "URL 슬러그"
+
+#. [MetadataModal.URLSlugAlt]
+#. defaultMessage is:
+#. URL Slug Alt
+#: public/messages/src/editor/plugins/metadata/metadata-modal.json
+msgid "URL Slug Alt"
+msgstr "URL 슬러그 Alt"
+
+#. [MainItem.Updated]
+#. defaultMessage is:
+#. Updated
+#. [RightList.Updated]
+#. defaultMessage is:
+#. Updated
+#: public/messages/src/app/containers/homepageContainer/mainItem.json
+#: public/messages/src/app/containers/homepageContainer/rightList.json
+msgid "Updated"
+msgstr "업데이트됨"
+
+#. [FileUploader.Upload]
+#. defaultMessage is:
+#. Upload
+#. [ImageUploader.Upload]
+#. defaultMessage is:
+#. Upload
+#: public/messages/src/shared/inputs/image-uploader/file-uploader.component.json
+#: public/messages/src/shared/inputs/image-uploader/image-uploader.component.json
+msgid "Upload"
+msgstr "업로드"
+
+#. [MediaGallery.ButtonText]
+#. defaultMessage is:
+#. Upload from computer
+#: public/messages/src/editor/plugins/media-gallery/media-gallery-modal.json
+msgid "Upload from computer"
+msgstr "컴퓨터에서 업로드"
+
+#. [ImageUploader.Uploading]
+#. defaultMessage is:
+#. Uploading...
+#: public/messages/src/shared/inputs/image-uploader/image-uploader.component.json
+msgid "Uploading..."
+msgstr "업로드 중…"
+
+#. [FileUploader.Uploading]
+#. defaultMessage is:
+#. Uploading....
+#: public/messages/src/shared/inputs/image-uploader/file-uploader.component.json
+msgid "Uploading...."
+msgstr "업로드 중…"
+
+#. [ContentTopNav.Views]
+#. defaultMessage is:
+#. VIEWS
+#. [TopNav.Views]
+#. defaultMessage is:
+#. VIEWS
+#: public/messages/src/app/components/content-top-nav/index.json
+#: public/messages/src/app/components/TopNav/index.json
+msgid "VIEWS"
+msgstr "조회수"
+
+#. [InfoboxModal.Value]
+#. defaultMessage is:
+#. Value
+#. [MetadataModal.Value]
+#. defaultMessage is:
+#. Value
+#: public/messages/src/editor/plugins/infobox/infobox-modal.json
+#: public/messages/src/editor/plugins/metadata/metadata-modal.json
+msgid "Value"
+msgstr "값"
+
+#. [InfoboxModal.Values]
+#. defaultMessage is:
+#. Value(s)
+#: public/messages/src/editor/plugins/infobox/infobox-modal.json
+msgid "Value(s)"
+msgstr "값(s)"
+
+#. [ContactUs.VerifyAccount]
+#. defaultMessage is:
+#. Verify Account
+#: public/messages/src/app/components/ContactUsForm/index.json
+msgid "Verify Account"
+msgstr "계정 확인하기"
+
+#. [SearchResults.View]
+#. defaultMessage is:
+#. View
+#: public/messages/src/app/components/Search/SearchResults.json
+msgid "View"
+msgstr "내 프로필 보기"
+
+#. [ActivityCard.ViewComment]
+#. defaultMessage is:
+#. View Comment
+#: public/messages/src/app/components/ActivityCards/ActivityCard.json
+msgid "View Comment"
+msgstr "댓글 보기"
+
+#. [SaveModal.ViewEdit]
+#. defaultMessage is:
+#. View Edit
+#: public/messages/src/editor/plugins/save/save-modal.json
+msgid "View Edit"
+msgstr "편집하기"
+
+#. [TopNav.ViewHistory]
+#. defaultMessage is:
+#. View History
+#: public/messages/src/app/components/content-top-nav/index.json
+msgid "View History"
+msgstr "기록 보기"
+
+#. [SearchResults.Views]
+#. defaultMessage is:
+#. Views
+#: public/messages/src/app/components/Search/SearchResults.json
+msgid "Views"
+msgstr "조회수"
+
+#. [ActivityCard.Vote]
+#. defaultMessage is:
+#. Vote
+#. [SubmitVote.Vote]
+#. defaultMessage is:
+#. Vote
+#. [SubmitVote.VoteOreID]
+#. defaultMessage is:
+#. Vote
+#. [SubmitVote.LoginToVote]
+#. defaultMessage is:
+#. Vote
+#: public/messages/src/app/components/ActivityCards/ActivityCard.json
+#: public/messages/src/app/components/SubmitVote/index.json
+msgid "Vote"
+msgstr "투표"
+
+#. [Chat.VoteAcceptedTwo]
+#. defaultMessage is:
+#. Vote accepted
+#: public/messages/src/app/components/Chat/ChatItem.json
+
+#| msgid "Accepted"
+msgid "Vote accepted"
+msgstr "수락됨"
+
+#. [SubmitVoteConfirmation.VoteAmount]
+#. defaultMessage is:
+#. Vote amount
+#: public/messages/src/app/components/SubmitVote/ConfirmationModal.json
+msgid "Vote amount"
+msgstr "투입량"
+
+#. [Chat.VoteNowSmall]
+#. defaultMessage is:
+#. Vote now
+#: public/messages/src/app/components/Chat/ChatItem.json
+msgid "Vote now"
+msgstr "지금 투표하십시오."
+
+#. [SubmitVoteConfirmation.VoteOnChanges]
+#. defaultMessage is:
+#. Vote on these article changes
+#: public/messages/src/app/components/SubmitVote/ConfirmationModal.json
+msgid "Vote on these article changes"
+msgstr "이 기사 변경에 투표하십시오"
+
+#. [Chat.VoteRejectedTwo]
+#. defaultMessage is:
+#. Vote rejected
+#: public/messages/src/app/components/Chat/ChatItem.json
+
+#| msgid "Rejected"
+msgid "Vote rejected"
+msgstr "거부됨"
+
+#. [ActivityCard.Voted]
+#. defaultMessage is:
+#. Voted
+#: public/messages/src/app/components/ActivityCards/ActivityCard.json
+msgid "Voted"
+msgstr "투표함"
+
+#. [DashboardComponent.Votes]
+#. defaultMessage is:
+#. Votes
+#: public/messages/src/app/containers/dashboard/dashboard_component.json
+msgid "Votes"
+msgstr "투표"
+
+#. [SubmitVote.VotingCloses]
+#. defaultMessage is:
+#. Voting Closes
+#: public/messages/src/app/components/SubmitVote/index.json
+msgid "Voting Closes"
+msgstr "투표 마감"
+
+#. [Leaderboard.WeekCap]
+#. defaultMessage is:
+#. WEEK
+#: public/messages/src/app/containers/homepageContainer/leaderboard.json
+msgid "WEEK"
+msgstr "주"
+
+#. [SaveModal.WaitAMomentWhileWeLoad]
+#. defaultMessage is:
+#. Wait a moment while we load Scatter – If you don’t see the Scatter window, check if it has loaded behind your current window.
+#: public/messages/src/app/components/Login/index.json
+msgid ""
+"Wait a moment while we load Scatter – If you don’t see the Scatter window, "
+"check if it has loaded behind your current window."
+msgstr ""
+"Scatter를로드하는 동안 잠시 기다려주십시오. Scatter 창이 보이지 않으면 현재 "
+"창 뒤에서로드되었는지 확인하십시오."
+
+#. [EditorContainer.Warning]
+#. defaultMessage is:
+#. Warning
+#: public/messages/src/editor/editor.container.json
+msgid "Warning"
+msgstr "경고"
+
+#. [SaveModal.WeReceivedTheFollowingError]
+#. defaultMessage is:
+#. We received the following error
+#: public/messages/src/editor/plugins/save/save-modal.json
+msgid "We received the following error"
+msgstr "다음과 같은 오류가 발생했습니다."
+
+#. [ContactUs.WedLoveToHearFromYou]
+#. defaultMessage is:
+#. We'd love to hear from you
+#: public/messages/src/app/containers/contact-us/contact-us.container.json
+msgid "We'd love to hear from you"
+msgstr "우리는 너에게 듣고 싶다."
+
+#. [EPLinkModal.WhatArticleDoYouWantTo]
+#. defaultMessage is:
+#. What article do you want to link to?
+#: public/messages/src/editor/plugins/ep-link-modal/ep-link-modal.json
+msgid "What article do you want to link to?"
+msgstr "어떤 기사에 연결 하시겠습니까?"
+
+#. [Chat.WriteAMessage]
+#. defaultMessage is:
+#. Write a message
+#: public/messages/src/app/components/Chat/messages.json
+msgid "Write a message"
+msgstr "메시지 쓰기"
+
+#. [Chat.WriteAMessageTwo]
+#. defaultMessage is:
+#. Write a message...
+#: public/messages/src/app/components/Chat/messages.json
+msgid "Write a message..."
+msgstr "메시지 쓰기"
+
+#. [MetadataNode.Yes]
+#. defaultMessage is:
+#. Yes
+#: public/messages/src/editor/plugins/metadata/metadata.node.json
+msgid "Yes"
+msgstr "예"
+
+#. [IQInfo.YouCan]
+#. defaultMessage is:
+#. You can
+#: public/messages/src/app/containers/iq-info/iq-info.container.json
+msgid "You can"
+msgstr "또한 여기를 클릭하여 새로운 위키 글을 생성할 수 있습니다."
+
+#. [SubmitVoteConfirmation.YouCan]
+#. defaultMessage is:
+#. You can vote with any amount of IQ.  If you vote with the majority, you will receive a reward that is proportional to the amount you vote!
+#: public/messages/src/app/components/SubmitVote/ConfirmationModal.json
+msgid ""
+"You can vote with any amount of IQ.  If you vote with the majority, you will "
+"receive a reward that is proportional to the amount you vote!"
+msgstr ""
+"당신은 어떤 금액의 IQ라도 투표 할 수 있습니다. 다수로 투표하면 투표 한 금액"
+"에 비례 한 보상을 받게됩니다!"
+
+#. [SaveModal.YouMayHaveReceivedThisError]
+#. defaultMessage is:
+#. You may have received this error for a variety of reasons. The most common reasons:
+#: public/messages/src/editor/plugins/save/save-modal.json
+msgid ""
+"You may have received this error for a variety of reasons. The most common "
+"reasons:"
+msgstr ""
+"여러 가지 이유로이 오류가 발생했을 수 있습니다. 가장 일반적인 이유는 다음과 "
+"같습니다."
+
+#. [Chat.YouMustBeLoggedIn]
+#. defaultMessage is:
+#. You must be logged in to participate in chat
+#: public/messages/src/app/components/Chat/messages.json
+msgid "You must be logged in to participate in chat"
+msgstr "채팅에 참여하려면 로그인해야합니다."
+
+#. [SubmitVote.TrialAccount]
+#. defaultMessage is:
+#. Your account is a trial account (using OREID) and is edit-only. To
+#. participate in voting and to receive IQ rewards, login with Scatter.
+#: public/messages/src/app/components/SubmitVote/index.json
+msgid ""
+"Your account is a trial account (using OREID) and is edit-only. To\n"
+"                                            participate in voting and to "
+"receive IQ rewards, login with Scatter."
+msgstr ""
+"귀하의 계정은 OREID를 사용하는 평가판 계정이며 편집 전용입니다. 에\n"
+"                                            투표에 참여하고 IQ 보상을 받으려"
+"면 Scatter로 로그인하십시오."
+
+#. [Directory.ActiveChats]
+#. defaultMessage is:
+#. Your active chats will be displayed here when you start conversations in articles.
+#: public/messages/src/app/components/Chat/Directory.json
+msgid ""
+"Your active chats will be displayed here when you start conversations in "
+"articles."
+msgstr "기사에서 대화를 시작할 때 활성 채팅이 여기에 표시됩니다."
+
+#. [SaveModal.YourEditWillNowBeVotedOn]
+#. defaultMessage is:
+#. Your edit will now be voted on by the community. If it is accepted, you will receive an IQ reward for your contribution.  The IQ Tokens that you used to propose your edit will be locked up (staked) for 21 days.
+#: public/messages/src/editor/plugins/save/save-modal.json
+msgid ""
+"Your edit will now be voted on by the community. If it is accepted, you will "
+"receive an IQ reward for your contribution.  The IQ Tokens that you used to "
+"propose your edit will be locked up (staked) for 21 days."
+msgstr ""
+"귀하의 편집 내용이 커뮤니티에 의해 투표됩니다. 수락되면 IQ 보상을 받게됩니"
+"다. 편집을 제안하는 데 사용한 IQ 토큰은 21 일 동안 잠겨 있습니다 (staked)."
+
+#. [Login.aboutLoginOptions]
+#. defaultMessage is:
+#. about Everipedia’s login options.
+#: public/messages/src/app/components/Login/index.json
+msgid "about Everipedia’s login options."
+msgstr "Everipedia의 로그인 옵션에 대해."
+
+#. [IQInfo.AboutUsingAWallet]
+#. defaultMessage is:
+#. about using a wallet
+#: public/messages/src/app/containers/iq-info/iq-info.container.json
+msgid "about using a wallet"
+msgstr "지갑 사용에 관하여"
+
+#. [Index.And]
+#. defaultMessage is:
+#. and
+#: public/messages/src/app/components/Footer/index.json
+msgid "and"
+msgstr "그리고"
+
+#. [SubmitVote.Approve]
+#. defaultMessage is:
+#. approve
+#: public/messages/src/app/components/SubmitVote/index.json
+msgid "approve"
+msgstr "승인"
+
+#. [IQInfo.BuyAndSellIQ]
+#. defaultMessage is:
+#. buy and sell IQ
+#: public/messages/src/app/containers/iq-info/iq-info.container.json
+msgid "buy and sell IQ"
+msgstr "IQ 사고 팔다."
+
+#. [EditOverview.Changed]
+#. defaultMessage is:
+#. changed
+#: public/messages/src/app/components/SubmitVote/EditOverview.json
+msgid "changed"
+msgstr "변경된"
+
+#. [ActivityCard.Edited2]
+#. defaultMessage is:
+#. edited
+#. [Chat.Edited]
+#. defaultMessage is:
+#. edited
+#. [SubmitVoteConfirmation.Edited]
+#. defaultMessage is:
+#. edited
+#: public/messages/src/app/components/ActivityCards/ActivityCard.json
+#: public/messages/src/app/components/Chat/ChatItem.json
+#: public/messages/src/app/components/SubmitVote/ConfirmationModal.json
+msgid "edited"
+msgstr "편집 한"
+
+#. [FileUploader.FileSizeTooBig]
+#. defaultMessage is:
+#. file size is too big
+#. [ImageUploader.FileSizeTooBig]
+#. defaultMessage is:
+#. file size is too big
+#: public/messages/src/shared/inputs/image-uploader/file-uploader.component.json
+#: public/messages/src/shared/inputs/image-uploader/image-uploader.component.json
+msgid "file size is too big"
+msgstr "파일 크기가 너무 큼"
+
+#. [Errors.IfYouThinkYouAre]
+#. defaultMessage is:
+#. if you think you are receiving this message in error.
+#: public/messages/src/app/utils/errors.json
+msgid "if you think you are receiving this message in error."
+msgstr "이 메시지가 잘못 전달되었다고 생각하는 경우"
+
+#. [FileUploader.IsNotASupportedFileExtension]
+#. defaultMessage is:
+#. is not a supported file extension
+#. [ImageUploader.IsNotASupportedFileExtension]
+#. defaultMessage is:
+#. is not a supported file extension
+#: public/messages/src/shared/inputs/image-uploader/file-uploader.component.json
+#: public/messages/src/shared/inputs/image-uploader/image-uploader.component.json
+msgid "is not a supported file extension"
+msgstr "지원되는 파일 확장명이 아닙니다."
+
+#. [IQInfo.OnTheseExchanges]
+#. defaultMessage is:
+#. on these exchanges
+#: public/messages/src/app/containers/iq-info/iq-info.container.json
+msgid "on these exchanges"
+msgstr "지원된 거래소"
+
+#. [Login.Or]
+#. defaultMessage is:
+#. or
+#: public/messages/src/app/components/Login/index.json
+msgid "or"
+msgstr "또는"
+
+#. [SubmitVote.Reject]
+#. defaultMessage is:
+#. reject
+#: public/messages/src/app/components/SubmitVote/index.json
+msgid "reject"
+msgstr "거절"
+
+#. [Errors.TheseExchanges]
+#. defaultMessage is:
+#. these exchanges.
+#: public/messages/src/app/utils/errors.json
+msgid "these exchanges."
+msgstr "지원된 거래소"
+
+#. [SectionMediaModal.ToChooseAQualityImage]
+#. defaultMessage is:
+#. to choose a quality image.
+#: public/messages/src/editor/plugins/section-media-modal/section-media-modal.json
+msgid "to choose a quality image."
+msgstr "새로운 메인 이미지 선택"
+
+#. [Directory.ToParticipate]
+#. defaultMessage is:
+#. to participate in community conversations
+#: public/messages/src/app/components/Chat/Directory.json
+msgid "to participate in community conversations"
+msgstr "지역 사회 대화에 참여하기"
+
+#. [ContactUs.toViewFAQ]
+#. defaultMessage is:
+#. to view our FAQs
+#: public/messages/src/app/containers/contact-us/contact-form.json
+msgid "to view our FAQs"
+msgstr "FAQ를 보려면"
+
+#. [MainItem.Views]
+#. defaultMessage is:
+#. views
+#. [RightList.Views]
+#. defaultMessage is:
+#. views
+#. [SearchCard.Views]
+#. defaultMessage is:
+#. views
+#: public/messages/src/app/containers/homepageContainer/mainItem.json
+#: public/messages/src/app/containers/homepageContainer/rightList.json
+#: public/messages/src/app/containers/searchResultsFull/searchCard.json
+msgid "views"
+msgstr "조회수"
+
+#. [Tooltips.Vote]
+#. defaultMessage is:
+#. vote
+#: public/messages/src/app/components/tooltips/index.json
+msgid "vote"
+msgstr "투표"
+
+#. [Chat.Voted]
+#. defaultMessage is:
+#. voted
+#: public/messages/src/app/components/Chat/ChatItem.json
+msgid "voted"
+msgstr "투표 한"
+
+#. [Tooltips.Votes]
+#. defaultMessage is:
+#. votes
+#: public/messages/src/app/components/tooltips/index.json
+msgid "votes"
+msgstr "투표"
+
+#. [ActivityCard.Words]
+#. defaultMessage is:
+#. words
+#. [Chat.WordsTwo]
+#. defaultMessage is:
+#. words
+#: public/messages/src/app/components/ActivityCards/ActivityCard.json
+#: public/messages/src/app/components/Chat/ChatItem.json
+msgid "words"
+msgstr "개의 단어"
+
+#~ msgid "Save"
+#~ msgstr "저장하기"
+
+#~ msgid ""
+#~ "Once you submit your edits, they will be displayed immediately in the "
+#~ "article and be open for voting. If approved by the community, your edits "
+#~ "will be accepted into the article."
+#~ msgstr ""
+#~ "수정 사항을 제출하면 기사에 즉시 표시되고 투표가 가능합니다. 커뮤니티가 승"
+#~ "인하면 편집 내용이 기사에 수락됩니다."
+
+#~ msgid "Please enter a comment for this edit"
+#~ msgstr "메시지를 입력해 주세요"
+
+#~ msgid "Please select a comment category"
+#~ msgstr "메시지를 입력해 주세요"
+
+#~ msgid "Redirecting to ORE ID authentication page"
+#~ msgstr "ORE ID 인증 페이지로 리디렉션"
+
+#~ msgid "Submit Article Edits"
+#~ msgstr "기사 편집을 제출하십시오"
+
+#~ msgid "TRANSACTION FAILED!"
+#~ msgstr "거래 실패!"
+
+#~ msgid "TRANSACTION SUCCESSFUL!"
+#~ msgstr "거래 성공"
+
+#~ msgid ""
+#~ "Wait a moment while we load your account.  You will be redirected to "
+#~ "OreID to confirm your proposed edit.  You may be required to enter the "
+#~ "pin that you created when you set up your account."
+#~ msgstr ""
+#~ "계정을로드하는 동안 잠시 기다려주십시오. 제안 된 편집을 확인하기 위해 "
+#~ "OreID로 리디렉션됩니다. 계정을 설정할 때 생성 한 핀을 입력해야 할 수도 있"
+#~ "습니다."
+
+#~ msgid "A new paradigm for internet knowledge."
+#~ msgstr "인터넷 지식을위한 새로운 패러다임."
+
+#~ msgid "Add or edit an infobox"
+#~ msgstr "정보함 추가 또는 편집"
+
+#~ msgid "Add or edit the image"
+#~ msgstr "인용문 추가 또는 편집"
+
+#~ msgid "All Time"
+#~ msgstr "전체 기간"
+
+#~ msgid "Chat to save into directory"
+#~ msgstr "디렉토리에 채팅이 없습니다."
+
+#~ msgid "Choose a new image"
+#~ msgstr "새로운 메인 이미지 선택"
+
+#~ msgid "Create New"
+#~ msgstr "새로 만들기"
+
+#~ msgid "Create Page"
+#~ msgstr "페이지 만들기"
+
+#~ msgid "Day"
+#~ msgstr "일"
+
+#~ msgid "Enter article title..."
+#~ msgstr "기사 제목 입력 ..."
+
+#~ msgid "Generated unique slug"
+#~ msgstr "생성 된 고유 슬러그"
+
+#~ msgid "Get help"
+#~ msgstr "도움 받기"
+
+#~ msgid "Having trouble?"
+#~ msgstr "문제가있다?"
+
+#~ msgid "Make sure the article does not already exist!"
+#~ msgstr "기사가 이미 존재하지 않는지 확인하십시오!"
+
+#~ msgid "Month"
+#~ msgstr "월"
+
+#~ msgid "Must"
+#~ msgstr "채팅에 참여하려면 로그인해야합니다."
+
+#~ msgid "Need to contact us?"
+#~ msgstr "저희에게 연락해야합니까?"
+
+#~ msgid "OK"
+#~ msgstr "확인"
+
+#~ msgid ""
+#~ "Our vibrant community is open and welcoming to people from all "
+#~ "backgrounds. Our guidelines and\n"
+#~ "\t\t\t\t\t\tpolicies are based on common sense rather than strict "
+#~ "bureaucracy."
+#~ msgstr ""
+#~ "우리의 활기찬 커뮤니티는 모든 사람들에게 열려 있고, 이들을 환영합니다. 우"
+#~ "리의지침과 정책은 엄격한 관료적 절차보다 상식을 기반으로 합니다."
+
+#~ msgid "RECENTLY UPDATED"
+#~ msgstr "최근 트위터"
+
+#~ msgid "Register"
+#~ msgstr "가입"
+
+#~ msgid "Save / Submit the current page"
+#~ msgstr "현재 페이지 저장 / 전송"
+
+#~ msgid "See FAQs"
+#~ msgstr "FAQ보기"
+
+#~ msgid "Start with 10 IQ"
+#~ msgstr "시작하다"
+
+#~ msgid ""
+#~ "The Everipedia IQ blockchain provides a new paradigm change and knowledge "
+#~ "economy to\n"
+#~ "                                    disrupt the old centralized internet "
+#~ "knowledge encyclopedia model similar to\n"
+#~ "                                    Wikipedia. By creating a new "
+#~ "incentive structure and a distributed backend hosted\n"
+#~ "                                    within a blockchain, the new "
+#~ "Everipedia knowledge base will be able to improve upon\n"
+#~ "                                    all fundamental features of Wikipedia."
+#~ msgstr ""
+#~ "Everipedia IQ 블록 체인은 새로운 패러다임 변화와 지식 경제를 제공해서, "
+#~ "Wikipedia와 유사한 낡은 중앙집중형 인터넷 지식 백과사전 모델을 타파합니"
+#~ "다. 새로운 Everipedia 지식 기반은 새 인센티브 구조 창출과 블록체인 기반 분"
+#~ "산형 백엔드를 통해 Wikipedia의 모든 기본 기능을 향상시킬 수 있습니다."
+
+#~ msgid "Tools"
+#~ msgstr "도구"
+
+#~ msgid "Top Contributors"
+#~ msgstr "최우수 기여자"
+
+#~ msgid "Total IQ"
+#~ msgstr "총 IQ"
+
+#~ msgid "VERSION HISTORY"
+#~ msgstr "버전 역사"
+
+#~ msgid "VOTE NOW"
+#~ msgstr "지금 투표하십시오."
+
+#~ msgid "Week"
+#~ msgstr "주"
+
+#~ msgid "to see directory"
+#~ msgstr "디렉토리에 채팅이 없습니다."
+
+#~ msgid "IQ Information and Tools"
+#~ msgstr "IQ 정보 및 도구"
+
+#~ msgid "GET IN TOUCH WITH US"
+#~ msgstr "연락하기"
+
+#~ msgid "No Messages"
+#~ msgstr "메시지"
+
+#~ msgid "No Participants"
+#~ msgstr "참가자 없음"
+
+#~ msgid "Citation / Link"
+#~ msgstr "인용 / 링크"
+
+#~ msgid "Would you like to save the page?"
+#~ msgstr "페이지를 저장 하시겠습니까?"
+
+#~ msgid "Chain"
+#~ msgstr "체인"
+
+#~ msgid "Forum"
+#~ msgstr "포럼"
+
+#~ msgid "Investors"
+#~ msgstr "투자자"
+
+#~ msgid "Header.Activity"
+#~ msgstr "Header.Activity"
+
+#~ msgid "Header.Login"
+#~ msgstr "헤더. 로그인"
