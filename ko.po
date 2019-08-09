@@ -1,11 +1,11 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: \n"
-"POT-Creation-Date: 2019-06-25T22:19:35.695Z\n"
+"POT-Creation-Date: 2019-08-09T14:23:49.759Z\n"
 "PO-Revision-Date: \n"
 "Last-Translator: \n"
 "Language-Team: \n"
-"Language: ko\n"
+"Language: ko_KR\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
@@ -136,6 +136,13 @@ msgstr "조항"
 msgid "AS SEEN IN"
 msgstr "주요 특징"
 
+#. [SubmitVoteConfirmation.AvailableBalance]
+#. defaultMessage is:
+#. AVAILABLE BALANCE
+#: public/messages/src/app/components/SubmitVote/ConfirmationModal.json
+msgid "AVAILABLE BALANCE"
+msgstr "사용 가능한 잔액"
+
 #. [Index.About]
 #. defaultMessage is:
 #. About
@@ -166,6 +173,9 @@ msgid "Accept"
 msgstr "승인"
 
 #. [SubmitVote.Accepted]
+#. defaultMessage is:
+#. Accepted
+#. [SubmitVote.AcceptedTwo]
 #. defaultMessage is:
 #. Accepted
 #: public/messages/src/app/components/SubmitVote/index.json
@@ -221,16 +231,12 @@ msgstr "적극적인 투표"
 msgid "Activity"
 msgstr "활동 국한 도달"
 
-#. [CitationModal.AddEditURL.Add]
-#. defaultMessage is:
-#. Add
 #. [InfoboxModal.Add]
 #. defaultMessage is:
 #. Add
 #. [SectionMediaModal.AddEditURL.Add]
 #. defaultMessage is:
 #. Add
-#: public/messages/src/editor/plugins/citation-modal/panes/add-edit-url.json
 #: public/messages/src/editor/plugins/infobox/infobox-modal.json
 #: public/messages/src/editor/plugins/section-media-modal/panes/add-edit-url.json
 msgid "Add"
@@ -312,12 +318,16 @@ msgstr "관련 페이지 추가"
 msgid "Add and Add Another"
 msgstr "추가 및 추가"
 
+#. [CitationModal.AddEditISBN.AddAndInsert]
+#. defaultMessage is:
+#. Add and Insert
 #. [CitationModal.AddEditURL.AddAndInsert]
 #. defaultMessage is:
 #. Add and Insert
 #. [SectionMediaModal.AddEditURL.AddAndInsert]
 #. defaultMessage is:
 #. Add and Insert
+#: public/messages/src/editor/plugins/citation-modal/panes/add-edit-isbn.json
 #: public/messages/src/editor/plugins/citation-modal/panes/add-edit-url.json
 #: public/messages/src/editor/plugins/section-media-modal/panes/add-edit-url.json
 msgid "Add and Insert"
@@ -348,6 +358,17 @@ msgstr "인용문 추가 또는 편집"
 msgid "Add or edit the main image"
 msgstr "인용문 추가 또는 편집"
 
+#. [CitationModal.AddEditISBN.AddWithoutInsert]
+#. defaultMessage is:
+#. Add without Inserting
+#. [CitationModal.AddEditURL.AddWithoutInsert]
+#. defaultMessage is:
+#. Add without Inserting
+#: public/messages/src/editor/plugins/citation-modal/panes/add-edit-isbn.json
+#: public/messages/src/editor/plugins/citation-modal/panes/add-edit-url.json
+msgid "Add without Inserting"
+msgstr "삽입하지 않고 추가"
+
 #. [CreatePage.Description]
 #. defaultMessage is:
 #. Add your contribution to the world’s most universal knowledge base. You can create an article about anything.
@@ -359,9 +380,13 @@ msgstr ""
 "세계에서 가장 보편적 인 지식 기반에 기여도를 추가하십시오. 당신은 무엇이든에 "
 "관하여 기사를 창조 할 수있다."
 
+#. [MediaGallery.AddingMediaMakes]
+#. defaultMessage is:
+#. Adding media makes an article more interactive and engaging.
 #. [SectionMediaModal.AddingMediaMakes]
 #. defaultMessage is:
 #. Adding media makes an article more interactive and engaging.
+#: public/messages/src/editor/plugins/media-gallery/media-gallery-modal.json
 #: public/messages/src/editor/plugins/section-media-modal/section-media-modal.json
 msgid "Adding media makes an article more interactive and engaging."
 msgstr "미디어를 추가하면 기사가 더욱 상호 작용하고 매력적으로 변합니다."
@@ -482,6 +507,9 @@ msgstr "편집자되기"
 msgid "CITATIONS"
 msgstr "징계"
 
+#. [SubmitVoteConfirmation.Cancel]
+#. defaultMessage is:
+#. Cancel
 #. [CitationModal.AddEditFile.Cancel]
 #. defaultMessage is:
 #. Cancel
@@ -500,13 +528,16 @@ msgstr "징계"
 #. [InfoboxModal.Cancel]
 #. defaultMessage is:
 #. Cancel
-#. [MergeModal.Cancel]
+#. [MergeModalAgain.Cancel]
 #. defaultMessage is:
 #. Cancel
 #. [MetadataModal.Cancel]
 #. defaultMessage is:
 #. Cancel
-#. [SaveModal.Cancel]
+#. [SaveModalAgain.CancelTwo]
+#. defaultMessage is:
+#. Cancel
+#. [SaveModalAgain.Cancel]
 #. defaultMessage is:
 #. Cancel
 #. [SectionMediaModal.AddEditURL.Cancel]
@@ -521,6 +552,7 @@ msgstr "징계"
 #. [ImageUploader.Cancel]
 #. defaultMessage is:
 #. Cancel
+#: public/messages/src/app/components/SubmitVote/ConfirmationModal.json
 #: public/messages/src/editor/plugins/citation-modal/panes/add-edit-file.json
 #: public/messages/src/editor/plugins/citation-modal/panes/add-edit-isbn.json
 #: public/messages/src/editor/plugins/citation-modal/panes/add-edit-url.json
@@ -544,10 +576,10 @@ msgstr "취소"
 msgid "Can’t find what you’re looking for?"
 msgstr "찾고있는 것을 찾을 수 없습니까?"
 
-#. [SaveModal.CategoryLabel]
+#. [SaveModalAgain.CategoryLabel]
 #. defaultMessage is:
 #. Category
-#: public/messages/src/editor/plugins/save/save-modal.json
+#: public/messages/src/editor/plugins/save/save-modal-parts/comment-and-category.json
 msgid "Category"
 msgstr "카테고리"
 
@@ -564,8 +596,15 @@ msgstr "검열 방지"
 #. [Chat.ChangedTwo]
 #. defaultMessage is:
 #. Changed
+#. [ChatItem.Changed]
+#. defaultMessage is:
+#. Changed
+#. [EditOverview.ChangedTwo]
+#. defaultMessage is:
+#. Changed
 #: public/messages/src/app/components/ActivityCards/ActivityCard.json
 #: public/messages/src/app/components/Chat/ChatItem.json
+#: public/messages/src/app/components/SubmitVote/EditOverview.json
 msgid "Changed"
 msgstr "변경 됨"
 
@@ -591,7 +630,6 @@ msgstr "이 기사에 대해 이야기하십시오!"
 #. defaultMessage is:
 #. Chief Executive Officer
 #: public/messages/src/app/containers/about/third-block.json
-
 msgid "Chief Executive Officer"
 msgstr "최고 경영자 겸 공동 창립자"
 
@@ -609,11 +647,17 @@ msgstr "최고 정보 책임자"
 msgid "Chief Operating Officer"
 msgstr "최고 운영 책임자"
 
+#. [TeamInfo.DanielLiebeskindTitle]
+#. defaultMessage is:
+#. Chief Product Officer
+#: public/messages/src/app/containers/about/third-block.json
+msgid "Chief Product Officer"
+msgstr "최고 제품 책임자"
+
 #. [TeamInfo.TravisMooreTitle]
 #. defaultMessage is:
 #. Chief Technology Officer
 #: public/messages/src/app/containers/about/third-block.json
-
 msgid "Chief Technology Officer"
 msgstr "기술 담당 최고 책임자 겸 공동 창립자"
 
@@ -656,6 +700,20 @@ msgstr "인용문 추가 또는 편집"
 msgid "Cite"
 msgstr "인용"
 
+#. [SaveModalAgain.ClickToSelectTheType]
+#. defaultMessage is:
+#. Click to select the type of edit you made (required)
+#: public/messages/src/editor/plugins/save/save-modal-parts/comment-and-category.json
+msgid "Click to select the type of edit you made (required)"
+msgstr "편집 유형을 선택하려면 클릭하십시오 (필수)."
+
+#. [SubmitVote.ClickToVoteOnThisEdit]
+#. defaultMessage is:
+#. Click to vote on this edit
+#: public/messages/src/app/components/SubmitVote/index.json
+msgid "Click to vote on this edit"
+msgstr "이 수정에 투표하려면 클릭하십시오."
+
 #. [ThirdBlock.CoFounderWikipedia]
 #. defaultMessage is:
 #. Co-Founder Wikipedia, CIO Everipedia
@@ -663,10 +721,10 @@ msgstr "인용"
 msgid "Co-Founder Wikipedia, CIO Everipedia"
 msgstr "CIO Everipedia 공동 창립자 Wikipedia"
 
-#. [SaveModal.CommentLabel]
+#. [SaveModalAgain.CommentLabel]
 #. defaultMessage is:
 #. Comment
-#: public/messages/src/editor/plugins/save/save-modal.json
+#: public/messages/src/editor/plugins/save/save-modal-parts/comment-and-category.json
 msgid "Comment"
 msgstr "댓글"
 
@@ -677,39 +735,69 @@ msgstr "댓글"
 msgid "Common Questions"
 msgstr "일반적인 질문"
 
-#. [SaveModal.ConfirmYouAreUsingTheLatestScatter]
+#. [SubmitVoteConfirmation.ConfirmYourVote]
 #. defaultMessage is:
-#. Confirm that you are using the latest version of Scatter.
-#: public/messages/src/editor/plugins/save/save-modal.json
-msgid "Confirm that you are using the latest version of Scatter."
-msgstr "최신 버전의 Scatter를 사용하고 있는지 확인하십시오."
+#. Confirm Your Vote
+#: public/messages/src/app/components/SubmitVote/ConfirmationModal.json
+msgid "Confirm Your Vote"
+msgstr "투표 확인"
 
-#. [SaveModal.ConfirmYouHaveScatterOpen]
+#. [MergeModalAgain.ConfirmYouAreUsingTheLatestWalletVersion]
 #. defaultMessage is:
-#. Confirm that you have Scatter open and that you are logged in
+#. Confirm that you are using the latest version of your wallet.
+#. [SaveModalAgain.ConfirmYouAreUsingTheLatestWalletVersion]
+#. defaultMessage is:
+#. Confirm that you are using the latest version of your wallet.
+#: public/messages/src/editor/plugins/merge/merge-modal.json
 #: public/messages/src/editor/plugins/save/save-modal.json
-msgid "Confirm that you have Scatter open and that you are logged in"
-msgstr "Scatter가 열려 있고 로그인했는지 확인하십시오."
+msgid "Confirm that you are using the latest version of your wallet."
+msgstr "최신 버전의 지갑을 사용하고 있는지 확인하십시오."
 
-#. [SaveModal.ConfirmYouHaveEnoughIQ]
+#. [MergeModalAgain.ConfirmYouHaveEnoughInWallet]
 #. defaultMessage is:
-#. Confirm that you have enough IQ in your Scatter wallet (50IQ required to submit at edit)
+#. Confirm that you have enough IQ in your wallet (50IQ required to submit at edit)
+#. [SaveModalAgain.ConfirmYouHaveEnoughInWallet]
+#. defaultMessage is:
+#. Confirm that you have enough IQ in your wallet (50IQ required to submit at edit)
+#: public/messages/src/editor/plugins/merge/merge-modal.json
 #: public/messages/src/editor/plugins/save/save-modal.json
 msgid ""
-"Confirm that you have enough IQ in your Scatter wallet (50IQ required to "
-"submit at edit)"
+"Confirm that you have enough IQ in your wallet (50IQ required to submit at "
+"edit)"
 msgstr ""
 "Scatter 지갑에 IQ가 충분한 지 확인하십시오 (편집시 제출하려면 50IQ 필요)."
 
-#. [SaveModal.ConfirmThatYouHaveSufficientEOS]
+#. [MergeModalAgain.ConfirmThatYouHaveSufficientEOS]
 #. defaultMessage is:
 #. Confirm that you have sufficient EOS resources. For additional information, please see our FAQs.
+#. [SaveModalAgain.ConfirmThatYouHaveSufficientEOS]
+#. defaultMessage is:
+#. Confirm that you have sufficient EOS resources. For additional information, please see our FAQs.
+#: public/messages/src/editor/plugins/merge/merge-modal.json
 #: public/messages/src/editor/plugins/save/save-modal.json
 msgid ""
 "Confirm that you have sufficient EOS resources. For additional information, "
 "please see our FAQs."
 msgstr ""
 "충분한 EOS 자원이 있는지 확인하십시오. 자세한 내용은 FAQ를 참조하십시오."
+
+#. [MergeModalAgain.ConfirmYouHaveWalletOpen]
+#. defaultMessage is:
+#. Confirm that you have your wallet open and that you are logged in
+#. [SaveModalAgain.ConfirmYouHaveWalletOpen]
+#. defaultMessage is:
+#. Confirm that you have your wallet open and that you are logged in
+#: public/messages/src/editor/plugins/merge/merge-modal.json
+#: public/messages/src/editor/plugins/save/save-modal.json
+msgid "Confirm that you have your wallet open and that you are logged in"
+msgstr "지갑을 열고 로그인했는지 확인하십시오."
+
+#. [SubmitVoteConfirmation.CongratulationsYourVoteWasRecorded]
+#. defaultMessage is:
+#. Congratulations, your vote was recorded for this article.
+#: public/messages/src/app/components/SubmitVote/ConfirmationModal.json
+msgid "Congratulations, your vote was recorded for this article."
+msgstr "축하합니다.이 기사에 투표가 기록되었습니다."
 
 #. [ConnectLanguagesModal.Title]
 #. defaultMessage is:
@@ -746,6 +834,13 @@ msgstr "연락처 타입"
 #: public/messages/src/app/utils/errors.json
 msgid "Contact us"
 msgstr "문의하기"
+
+#. [CommentUtils.Content]
+#. defaultMessage is:
+#. Content
+#: public/messages/src/app/utils/comment-utils.json
+msgid "Content"
+msgstr "더 많은 기사 및 내용"
 
 #. [Chat.CopyText]
 #. defaultMessage is:
@@ -825,6 +920,21 @@ msgstr "현재 스테이징 됨"
 msgid "DAY"
 msgstr "일"
 
+#. [TeamInfo.DanielLiebeskindBio]
+#. defaultMessage is:
+#. Daniel Liebeskind is a product-oriented software developer focused on creating great user experiences.  Daniel has worn many hats including venture capital investor, software developer, product manager and startup founder and has been building distributed apps since 2017.
+#: public/messages/src/app/containers/about/third-block.json
+msgid ""
+"Daniel Liebeskind is a product-oriented software developer focused on "
+"creating great user experiences.  Daniel has worn many hats including "
+"venture capital investor, software developer, product manager and startup "
+"founder and has been building distributed apps since 2017."
+msgstr ""
+"Daniel Liebeskind는 훌륭한 사용자 환경을 만드는 데 중점을 둔 제품 지향 소프트"
+"웨어 개발자입니다. Daniel은 벤처 캐피털 투자자, 소프트웨어 개발자, 제품 관리"
+"자 및 창업자를 포함한 많은 모자를 착용했으며 2017 년부터 분산 응용 프로그램"
+"을 제작 해 왔습니다."
+
 #. [About.Decentralized]
 #. defaultMessage is:
 #. Decentralized
@@ -864,7 +974,6 @@ msgstr "Everipedia 기사의 바탕 화면보기"
 #. defaultMessage is:
 #. Director of Software Engineering
 #: public/messages/src/app/containers/about/third-block.json
-
 msgid "Director of Software Engineering"
 msgstr "소프트웨어 공학 이사"
 
@@ -893,10 +1002,8 @@ msgstr "만료 예정"
 #. defaultMessage is:
 #. Earn IQ rewards by voting.
 #: public/messages/src/app/components/SubmitVote/ConfirmationModal.json
-
-#| msgid "Earn Rewards for Contributing"
 msgid "Earn IQ rewards by voting."
-msgstr "기고하기 시작"
+msgstr "투표로 IQ 보상을 획득하십시오."
 
 #. [About.EarnRewardsTitle]
 #. defaultMessage is:
@@ -909,6 +1016,12 @@ msgstr "기고하기 시작"
 #. defaultMessage is:
 #. Edit
 #. [TopNav.Edit]
+#. defaultMessage is:
+#. Edit
+#. [Leaderboard.Edit]
+#. defaultMessage is:
+#. Edit
+#. [CitationModal.AddEditISBN.Edit]
 #. defaultMessage is:
 #. Edit
 #. [CitationModal.AddEditURL.Edit]
@@ -931,6 +1044,8 @@ msgstr "기고하기 시작"
 #. Edit
 #: public/messages/src/app/components/Chat/index.json
 #: public/messages/src/app/components/content-top-nav/index.json
+#: public/messages/src/app/containers/homepageContainer/leaderboard.json
+#: public/messages/src/editor/plugins/citation-modal/panes/add-edit-isbn.json
 #: public/messages/src/editor/plugins/citation-modal/panes/add-edit-url.json
 #: public/messages/src/editor/plugins/infobox/infobox-modal.json
 #: public/messages/src/editor/plugins/metadata/metadata-modal.json
@@ -1079,6 +1194,24 @@ msgstr "검색어 입력"
 msgid "Enter a type"
 msgstr "유형 입력"
 
+#. [Login.EnterCode]
+#. defaultMessage is:
+#. Enter the code that was sent to your email address. If you haven't received a code, go back and try again.
+#: public/messages/src/app/components/Login/email_login.json
+msgid ""
+"Enter the code that was sent to your email address. If you haven't received "
+"a code, go back and try again."
+msgstr ""
+"이메일 주소로 전송 된 코드를 입력하십시오. 코드를받지 못한 경우 돌아가서 다"
+"시 시도하십시오."
+
+#. [Login.EnterEmail]
+#. defaultMessage is:
+#. Enter your email and we'll send a code to that email address.
+#: public/messages/src/app/components/Login/email_login.json
+msgid "Enter your email and we'll send a code to that email address."
+msgstr "이메일을 입력하면 해당 이메일 주소로 코드가 전송됩니다."
+
 #. [ContactUs.EnterYourMessage]
 #. defaultMessage is:
 #. Enter your message...
@@ -1091,6 +1224,13 @@ msgstr "메시지를 입력해 주세요"
 #. Error
 #: public/messages/src/app/components/error-modal/index.json
 msgid "Error"
+msgstr "오류"
+
+#. [SubmitVoteConfirmation.ErrorCode]
+#. defaultMessage is:
+#. Error code
+#: public/messages/src/app/components/SubmitVote/ConfirmationModal.json
+msgid "Error code"
 msgstr "오류"
 
 #. [MetadataModal.Event]
@@ -1216,6 +1356,15 @@ msgstr "피드백"
 msgid "Fetch"
 msgstr "술책"
 
+#. [CitationModal.AddEditISBN.FetchInfo]
+#. defaultMessage is:
+#. Fetch Info
+#: public/messages/src/editor/plugins/citation-modal/panes/add-edit-isbn.json
+#, fuzzy
+#| msgid "Fetch"
+msgid "Fetch Info"
+msgstr "술책"
+
 #. [ImageUploader.Fetching]
 #. defaultMessage is:
 #. Fetching...
@@ -1236,6 +1385,17 @@ msgstr "인용 문헌 필터링"
 #: public/messages/src/app/containers/about/about.container.json
 msgid "Financial Incentive"
 msgstr "재정적 인센티브"
+
+#. [ActivityCard.FirstEdit]
+#. defaultMessage is:
+#. First Edit
+#. [EditOverview.FirstEditTwo]
+#. defaultMessage is:
+#. First Edit
+#: public/messages/src/app/components/ActivityCards/ActivityCard.json
+#: public/messages/src/app/components/SubmitVote/EditOverview.json
+msgid "First Edit"
+msgstr "최신 편집"
 
 #. [CommentUtils.Formatting]
 #. defaultMessage is:
@@ -1279,6 +1439,13 @@ msgstr "성명"
 msgid "General inquiry"
 msgstr "일반적인 문의"
 
+#. [CreatePage.GeneratedUniqueURL]
+#. defaultMessage is:
+#. Generated unique URL
+#: public/messages/src/app/components/create-new-page/index.json
+msgid "Generated unique URL"
+msgstr "생성 된 고유 URL"
+
 #. [Index.GetIQ]
 #. defaultMessage is:
 #. Get IQ
@@ -1307,6 +1474,20 @@ msgstr "도움말 문서 연결"
 #: public/messages/src/app/containers/contact-us/contact-us.container.json
 msgid "Get in Touch"
 msgstr "연락하기"
+
+#. [SubmitVote.GetMoreIQHere]
+#. defaultMessage is:
+#. Get more IQ here
+#: public/messages/src/app/components/SubmitVote/index.json
+msgid "Get more IQ here"
+msgstr "IQ를 더 받으십시오."
+
+#. [CommentUtils.Grammar]
+#. defaultMessage is:
+#. Grammar
+#: public/messages/src/app/utils/comment-utils.json
+msgid "Grammar"
+msgstr "문법"
 
 #. [Header.Home]
 #. defaultMessage is:
@@ -1411,9 +1592,21 @@ msgstr ""
 "                                보유자는 시스템의 업그레이드 및 수정에 투표 "
 "할 수 있습니다."
 
-#. [SaveModal.IfItIsRejected]
+#. [CitationModal.ISBNBook]
+#. defaultMessage is:
+#. ISBN (Book)
+#: public/messages/src/editor/plugins/citation-modal/citation-modal.json
+#, fuzzy
+msgid "ISBN (Book)"
+msgstr "ISBN (도서)"
+
+#. [MergeModalAgain.IfItIsRejected]
 #. defaultMessage is:
 #. If it is rejected, the IQ tokens that you used to propose your edit will be locked up for a longer period of time, which is proportional to the difference between the total number of votes in the majority and the minority.
+#. [SaveModalAgain.IfItIsRejected]
+#. defaultMessage is:
+#. If it is rejected, the IQ tokens that you used to propose your edit will be locked up for a longer period of time, which is proportional to the difference between the total number of votes in the majority and the minority.
+#: public/messages/src/editor/plugins/merge/merge-modal.json
 #: public/messages/src/editor/plugins/save/save-modal.json
 msgid ""
 "If it is rejected, the IQ tokens that you used to propose your edit will be "
@@ -1423,6 +1616,17 @@ msgid ""
 msgstr ""
 "거부 된 경우, 편집을 제안한 IQ 토큰은 오랜 기간 동안 잠겨 있습니다. 이는 대다"
 "수와 소수의 총 투표 수의 차이에 비례합니다."
+
+#. [SubmitVoteConfirmation.IfYourVoteIsInTheMajority]
+#. defaultMessage is:
+#. If your vote is in the majority, you will receive an IQ reward in proportion to the amount of IQ you voted.
+#: public/messages/src/app/components/SubmitVote/ConfirmationModal.json
+msgid ""
+"If your vote is in the majority, you will receive an IQ reward in proportion "
+"to the amount of IQ you voted."
+msgstr ""
+"당신은 어떤 금액의 IQ라도 투표 할 수 있습니다. 다수로 투표하면 투표 한 금액"
+"에 비례 한 보상을 받게됩니다!"
 
 #. [LastBlock.InThePress]
 #. defaultMessage is:
@@ -1469,13 +1673,16 @@ msgstr "IQ 정보 및 도구"
 #. [CitationModal.InsertExisting]
 #. defaultMessage is:
 #. Insert Existing
-#. [SectionMediaModal.InsertExisting]
-#. defaultMessage is:
-#. Insert Existing
 #: public/messages/src/editor/plugins/citation-modal/citation-modal.json
-#: public/messages/src/editor/plugins/section-media-modal/section-media-modal.json
 msgid "Insert Existing"
 msgstr "기존 삽입"
+
+#. [SectionMediaModal.InsertFromMediaGallery]
+#. defaultMessage is:
+#. Insert From Media Gallery
+#: public/messages/src/editor/plugins/section-media-modal/section-media-modal.json
+msgid "Insert From Media Gallery"
+msgstr "미디어 갤러리에서 삽입"
 
 #. [ContactUs.InvestmentInquiry]
 #. defaultMessage is:
@@ -1494,7 +1701,7 @@ msgstr "품목"
 #. [Login.JustGettingStarted]
 #. defaultMessage is:
 #. Just getting started?
-#: public/messages/src/app/components/Login/index.json
+#: public/messages/src/app/components/Login/login.modal.json
 msgid "Just getting started?"
 msgstr "시작하는거야?"
 
@@ -1502,7 +1709,6 @@ msgstr "시작하는거야?"
 #. defaultMessage is:
 #. Kedar Iyer is a software engineer from Santa Clara, California. He has written two books about blockchain technology, including a textbook for Solidity developers on how to build decentralized applications on Ethereum.
 #: public/messages/src/app/containers/about/third-block.json
-
 msgid ""
 "Kedar Iyer is a software engineer from Santa Clara, California. He has "
 "written two books about blockchain technology, including a textbook for "
@@ -1530,7 +1736,6 @@ msgstr "언어"
 #. defaultMessage is:
 #. Larry Sanger is a knowledge project developer; his claim to fame is that he is the co-founder of Wikipedia. He has a Ph.D. in Philosophy from Ohio State University. When he is not working on knowledge projects, he plays the Irish fiddle and homeschools his two boys.
 #: public/messages/src/app/containers/about/third-block.json
-
 msgid ""
 "Larry Sanger is a knowledge project developer; his claim to fame is that he "
 "is the co-founder of Wikipedia. He has a Ph.D. in Philosophy from Ohio State "
@@ -1587,10 +1792,14 @@ msgstr "자세히 알아보기"
 #. [SubmitVoteConfirmation.LearnHow]
 #. defaultMessage is:
 #. Learn how
+#. [MediaGallery.LearnHow]
+#. defaultMessage is:
+#. Learn how
 #. [SectionMediaModal.LearnHow]
 #. defaultMessage is:
 #. Learn how
 #: public/messages/src/app/components/SubmitVote/ConfirmationModal.json
+#: public/messages/src/editor/plugins/media-gallery/media-gallery-modal.json
 #: public/messages/src/editor/plugins/section-media-modal/section-media-modal.json
 msgid "Learn how"
 msgstr "자세히 알아보기"
@@ -1601,16 +1810,9 @@ msgstr "자세히 알아보기"
 #. [IQInfo.LearnMore]
 #. defaultMessage is:
 #. Learn more
-#: public/messages/src/app/components/Login/index.json
+#: public/messages/src/app/components/Login/login.modal.json
 #: public/messages/src/app/containers/iq-info/iq-info.container.json
 msgid "Learn more"
-msgstr "자세히 알아보기"
-
-#. [SubmitVote.LearnMore]
-#. defaultMessage is:
-#. Learn more.
-#: public/messages/src/app/components/SubmitVote/index.json
-msgid "Learn more."
 msgstr "자세히 알아보기"
 
 #. [EPLinkModal.Link]
@@ -1805,12 +2007,25 @@ msgstr "로그인"
 msgid "Login to Chat"
 msgstr "채팅에 로그인"
 
+#. [Login.LoginToEveripediaTwo]
+#. defaultMessage is:
+#. Login to Everipedia
 #. [Login.LoginToEveripedia]
 #. defaultMessage is:
 #. Login to Everipedia
-#: public/messages/src/app/components/Login/index.json
+#: public/messages/src/app/components/Login/login.modal.json
+#: public/messages/src/app/containers/wallet-login/wallet-login.container.json
 msgid "Login to Everipedia"
 msgstr "Everipedia에 로그인하기"
+
+#. [SubmitVote.LoginToStartContributing]
+#. defaultMessage is:
+#. Login to Start Contributing
+#: public/messages/src/app/components/SubmitVote/index.json
+#, fuzzy
+#| msgid "Start Contributing"
+msgid "Login to Start Contributing"
+msgstr "기고하기 시작"
 
 #. [Chat.LoginToParticipate]
 #. defaultMessage is:
@@ -1847,6 +2062,13 @@ msgstr "카카오 로그인"
 msgid "Login with Line"
 msgstr "라인으로 로그인"
 
+#. [SaveModal.LoginWithPhone]
+#. defaultMessage is:
+#. Login with Phone
+#: public/messages/src/app/components/Login/index.json
+msgid "Login with Phone"
+msgstr "전화로 로그인"
+
 #. [SaveModal.LoginWithScatter]
 #. defaultMessage is:
 #. Login with Scatter
@@ -1854,19 +2076,12 @@ msgstr "라인으로 로그인"
 msgid "Login with Scatter"
 msgstr "Scatter로 로그인"
 
-#. [Login.LoginWithScatterToUnlock]
+#. [Login.LoginWithScatterBlockchain]
 #. defaultMessage is:
-#. Login with Scatter to unlock Everipedia’s full features. Earn IQ rewards and participate in
-#. voting on proposed article edits.
+#. Login with Scatter to use your existing EOS blockchain account.
 #: public/messages/src/app/components/Login/index.json
-msgid ""
-"Login with Scatter to unlock Everipedia’s full features. Earn IQ rewards and "
-"participate in\n"
-"\t\t\t\t\t\tvoting on proposed article edits."
-msgstr ""
-"Everipedia의 모든 기능을 해제하려면 Scatter로 로그인하십시오. IQ 보상 획득 "
-"및 참여\n"
-"제안 된 기사 편집에 투표."
+msgid "Login with Scatter to use your existing EOS blockchain account."
+msgstr "Scatter로 로그인하여 기존 EOS 블록 체인 계정을 사용하십시오."
 
 #. [SaveModal.LoginWithTwitter]
 #. defaultMessage is:
@@ -1899,6 +2114,22 @@ msgstr "월"
 #: public/messages/src/app/components/ActivityCards/index.json
 msgid "MOST RECENT"
 msgstr "최근 트위터"
+
+#. [ActivityCards.MyActivity]
+#. defaultMessage is:
+#. MY ACTIVITY
+#: public/messages/src/app/components/ActivityCards/index.json
+msgid "MY ACTIVITY"
+msgstr "내 활동"
+
+#. [SubmitVote.MakeAnEdit]
+#. defaultMessage is:
+#. Make an Edit
+#: public/messages/src/app/components/SubmitVote/index.json
+#, fuzzy
+#| msgid "Become an Editor"
+msgid "Make an Edit"
+msgstr "편집자되기"
 
 #. [ThirdBlock.MarketCap]
 #. defaultMessage is:
@@ -1950,9 +2181,13 @@ msgstr "의학/생물학"
 msgid "Meet our team"
 msgstr "우리 팀을 만나십시오."
 
+#. [CommentUtils.Merge]
+#. defaultMessage is:
+#. Merge
 #. [MergeModal.Merge]
 #. defaultMessage is:
 #. Merge
+#: public/messages/src/app/utils/comment-utils.json
 #: public/messages/src/editor/plugins/merge/index.json
 msgid "Merge"
 msgstr "병합"
@@ -1960,9 +2195,19 @@ msgstr "병합"
 #. [MergeModal.Title]
 #. defaultMessage is:
 #. Merge this page into another Everipedia page
+#. [MergeModalAgain.SubmittingYourArticleEdit]
+#. defaultMessage is:
+#. Merge this page into another Everipedia page
 #: public/messages/src/editor/plugins/merge/merge-modal.json
 msgid "Merge this page into another Everipedia page"
 msgstr "이 페이지를 다른 Everipedia 페이지로 병합하십시오"
+
+#. [ActivityCard.Merged1]
+#. defaultMessage is:
+#. Merged
+#: public/messages/src/app/components/ActivityCards/ActivityCard.json
+msgid "Merged"
+msgstr "Merge됨"
 
 #. [Chat.Messages]
 #. defaultMessage is:
@@ -2013,12 +2258,30 @@ msgstr "더 많은 결과"
 msgid "Must log in to chat"
 msgstr "채팅에 로그인해야합니다."
 
+#. [ArticleContainer.NewArticle]
+#. defaultMessage is:
+#. New Article
+#. [CommentUtils.NewArticle]
+#. defaultMessage is:
+#. New Article
+#: public/messages/src/app/containers/article/article.container.json
+#: public/messages/src/app/utils/comment-utils.json
+msgid "New Article"
+msgstr "관련 기술문서"
+
 #. [MetadataNode.No]
 #. defaultMessage is:
 #. No
 #: public/messages/src/editor/plugins/metadata/metadata.node.json
 msgid "No"
 msgstr "아니오"
+
+#. [EditOverview.NoChanges]
+#. defaultMessage is:
+#. No Changes
+#: public/messages/src/app/components/SubmitVote/EditOverview.json
+msgid "No Changes"
+msgstr "변경사항 저장하기"
 
 #. [Directory.NoChatsInDirectory]
 #. defaultMessage is:
@@ -2033,6 +2296,21 @@ msgstr "디렉토리에 채팅이 없습니다."
 #: public/messages/src/app/containers/homepageContainer/leaderboard.json
 msgid "No Edits"
 msgstr "최신 편집"
+
+#. [Leaderboard.NoVotes]
+#. defaultMessage is:
+#. No Votes
+#: public/messages/src/app/containers/homepageContainer/leaderboard.json
+msgid "No Votes"
+msgstr "투표하기"
+
+#. [SubmitVote.NoResultReturned]
+#. defaultMessage is:
+#. No result returned
+#: public/messages/src/app/components/SubmitVote/index.json
+#, fuzzy
+msgid "No result returned"
+msgstr "결과가 반환되지 않았습니다"
 
 #. [Tooltips.NoVotes]
 #. defaultMessage is:
@@ -2065,6 +2343,30 @@ msgstr "변경 됨"
 #: public/messages/src/app/containers/homepageContainer/stats.json
 msgid "ORIGINAL PAGES"
 msgstr "원래 페이지"
+
+#. [SaveModalAgain.OnceYouSubmitEdits]
+#. defaultMessage is:
+#. Once you submit edits, they will be displayed immediately in the article and be open for voting. If approved by the community, your edits will be accepted into the article.
+#: public/messages/src/editor/plugins/save/save-modal.json
+msgid ""
+"Once you submit edits, they will be displayed immediately in the article and "
+"be open for voting. If approved by the community, your edits will be "
+"accepted into the article."
+msgstr ""
+"수정 사항을 제출하면 기사에 즉시 표시되고 투표 할 수 있습니다. 커뮤니티가 승"
+"인하면 편집 내용이 기사에 수락됩니다."
+
+#. [SaveModalAgain.Description]
+#. defaultMessage is:
+#. Once you submit your edits, they will be displayed immediately in the article and be open for voting. If approved by the community, your edits will be accepted into the article.
+#: public/messages/src/editor/plugins/save/save-modal.json
+msgid ""
+"Once you submit your edits, they will be displayed immediately in the "
+"article and be open for voting. If approved by the community, your edits "
+"will be accepted into the article."
+msgstr ""
+"수정 사항을 제출하면 기사에 즉시 표시되고 투표가 가능합니다. 커뮤니티가 승인"
+"하면 편집 내용이 기사에 수락됩니다."
 
 #. [MetadataModal.Organization]
 #. defaultMessage is:
@@ -2145,11 +2447,51 @@ msgstr "텍스트를 보존 하시겠습니까?"
 msgid "POPULAR"
 msgstr "인기 있는"
 
+#. [MetadataModal.PageNote]
+#. defaultMessage is:
+#. Page Note
+#: public/messages/src/editor/plugins/metadata/metadata-modal.json
+msgid "Page Note"
+msgstr "페이지 메모"
+
+#. [CommentUtils.PageRemoval]
+#. defaultMessage is:
+#. Page Removal
+#: public/messages/src/app/utils/comment-utils.json
+#, fuzzy
+msgid "Page Removal"
+msgstr "페이지 제거"
+
+#. [SaveModalAgain.PageRemoved]
+#. defaultMessage is:
+#. Page Removed
+#: public/messages/src/editor/plugins/save/save-modal.json
+#, fuzzy
+#| msgid "Page Note"
+msgid "Page Removed"
+msgstr "페이지 메모"
+
 #. [MetadataModal.PageType]
 #. defaultMessage is:
 #. Page Type
 #: public/messages/src/editor/plugins/metadata/metadata-modal.json
 msgid "Page Type"
+msgstr "페이지"
+
+#. [EditOverview.PageRemoved]
+#. defaultMessage is:
+#. Page removed.
+#: public/messages/src/app/components/SubmitVote/EditOverview.json
+#, fuzzy
+#| msgid "Page Note"
+msgid "Page removed."
+msgstr "페이지 메모"
+
+#. [CreatePage.PageType]
+#. defaultMessage is:
+#. Page type
+#: public/messages/src/app/components/create-new-page/index.json
+msgid "Page type"
 msgstr "페이지"
 
 #. [Chat.Participants]
@@ -2189,6 +2531,22 @@ msgstr "사람"
 #: public/messages/src/editor/plugins/metadata/metadata-modal.json
 msgid "Place / Location"
 msgstr "장소/위치"
+
+#. [CitationModal.AddEditISBN.EnterTheBooksISBN]
+#. defaultMessage is:
+#. Please Enter the ISBN for the book
+#: public/messages/src/editor/plugins/citation-modal/panes/add-edit-isbn.json
+#, fuzzy
+#| msgid "Please enter a comment for this edit"
+msgid "Please Enter the ISBN for the book"
+msgstr "메시지를 입력해 주세요"
+
+#. [SaveModalAgain.PleaseAddAtLeastOne]
+#. defaultMessage is:
+#. Please add at least one citation
+#: public/messages/src/editor/plugins/save/save-modal.json
+msgid "Please add at least one citation"
+msgstr "적어도 하나의 인용문을 추가하십시오."
 
 #. [LinkableInputSlate.PleaseBeginTyping]
 #. defaultMessage is:
@@ -2230,11 +2588,11 @@ msgstr "메시지를 입력해 주세요"
 msgid "Please enter a caption"
 msgstr "제목을 입력하세요"
 
-#. [EditorContainer.BodyPlaceholder]
+#. [SaveModalAgain.CommentPlaceholder]
 #. defaultMessage is:
-#. Please enter a description for the article
-#: public/messages/src/editor/editor.container.json
-msgid "Please enter a description for the article"
+#. Please enter a comment for this edit
+#: public/messages/src/editor/plugins/save/save-modal.json
+msgid "Please enter a comment for this edit"
 msgstr "메시지를 입력해 주세요"
 
 #. [ContactUs.PleaseEnterAMessage]
@@ -2255,14 +2613,17 @@ msgstr "메시지를 입력해 주세요"
 msgid "Please enter a subject"
 msgstr "제목을 입력하세요"
 
+#. [ContactUs.PleaseEnterYourEmailAddressTwo]
+#. defaultMessage is:
+#. Please enter a valid email address
+#: public/messages/src/app/containers/contact-us/messages.json
+msgid "Please enter a valid email address"
+msgstr "적절한 이메일 주소를 입력하세요."
+
 #. [ContactUs.PleaseEnterYourEmailAddress]
 #. defaultMessage is:
 #. Please enter your email address
-#. [ContactUs.PleaseEnterYourEmailAddressTwo]
-#. defaultMessage is:
-#. Please enter your email address
 #: public/messages/src/app/components/ContactUsForm/index.json
-#: public/messages/src/app/containers/contact-us/messages.json
 msgid "Please enter your email address"
 msgstr "이메일을 입력해 주세요"
 
@@ -2284,6 +2645,27 @@ msgstr "당신의 성명을 입력 해주세요"
 msgid "Please make sure you are inserting in a valid location!"
 msgstr "유효한 위치에 삽입하고 있는지 확인하십시오!"
 
+#. [SaveModalAgain.CategoryPlaceholder]
+#. defaultMessage is:
+#. Please select a comment category
+#: public/messages/src/editor/plugins/save/save-modal.json
+msgid "Please select a comment category"
+msgstr "메시지를 입력해 주세요"
+
+#. [MergeModalAgain.Description]
+#. defaultMessage is:
+#. Please select the page you want to merge into
+#: public/messages/src/editor/plugins/merge/merge-modal.json
+msgid "Please select the page you want to merge into"
+msgstr "병합 할 페이지를 선택하십시오."
+
+#. [SubmitVoteConfirmation.PleaseTryAgain]
+#. defaultMessage is:
+#. Please try again
+#: public/messages/src/app/components/SubmitVote/ConfirmationModal.json
+msgid "Please try again"
+msgstr "제목을 입력하세요"
+
 #. [Index.PoweredBy]
 #. defaultMessage is:
 #. Powered by
@@ -2302,7 +2684,6 @@ msgstr "다음으로 작동"
 #. defaultMessage is:
 #. President
 #: public/messages/src/app/containers/about/third-block.json
-
 msgid "President"
 msgstr "대통령"
 
@@ -2350,6 +2731,13 @@ msgstr ""
 msgid "Proposals"
 msgstr "제안"
 
+#. [SaveModalAgain.ProvideADescription]
+#. defaultMessage is:
+#. Provide a description of your edit (optional)
+#: public/messages/src/editor/plugins/save/save-modal-parts/comment-and-category.json
+msgid "Provide a description of your edit (optional)"
+msgstr "편집에 대한 설명 제공 (선택 사항)"
+
 #. [SubmitVoteConfirmation.ProvideReason]
 #. defaultMessage is:
 #. Provide the reason for your vote (optional)
@@ -2364,19 +2752,12 @@ msgstr "귀하의 투표에 대해 설명하십시오 (선택 사항)."
 msgid "Questions?"
 msgstr "자주 묻는 질문"
 
-#. [Login.QuicklyLogin]
+#. [Login.QuicklyLoginSocialAccount]
 #. defaultMessage is:
-#. Quickly login with a social account to make an edit or create an article. You will be limited to
-#. 4 edits and will not earn rewards or participate in voting.
+#. Quickly login with a social account to make edits and create articles.
 #: public/messages/src/app/components/Login/index.json
-msgid ""
-"Quickly login with a social account to make an edit or create an article. "
-"You will be limited to\n"
-"\t\t\t\t\t\t4 edits and will not earn rewards or participate in voting."
-msgstr ""
-"소셜 계정으로 빠르게 로그인하여 기사를 편집하거나 만들 수 있습니다. 너는에 한"
-"정 될 것이다.\n"
-"4 편집하고 보상을 받거나 투표에 참여하지 않습니다."
+msgid "Quickly login with a social account to make edits and create articles."
+msgstr "소셜 계정으로 빠르게 로그인하여 편집하고 기사를 작성하십시오."
 
 #. [RecentPopularContent.RECENT]
 #. defaultMessage is:
@@ -2417,6 +2798,13 @@ msgstr "최근 활동"
 msgid "Recent Chats"
 msgstr "최근 채팅"
 
+#. [SaveModalAgain.txOREIDRedirect]
+#. defaultMessage is:
+#. Redirecting to ORE ID authentication page
+#: public/messages/src/editor/plugins/save/save-modal.json
+msgid "Redirecting to ORE ID authentication page"
+msgstr "ORE ID 인증 페이지로 리디렉션"
+
 #. [OreID.txOREIDRedirect]
 #. defaultMessage is:
 #. Redirecting to ORE ID authentication page.
@@ -2447,6 +2835,9 @@ msgid "Reject"
 msgstr "거절"
 
 #. [SubmitVote.Rejected]
+#. defaultMessage is:
+#. Rejected
+#. [SubmitVote.RejectedTwo]
 #. defaultMessage is:
 #. Rejected
 #: public/messages/src/app/components/SubmitVote/index.json
@@ -2484,6 +2875,13 @@ msgstr "원격 URL"
 #: public/messages/src/editor/plugins/metadata/metadata-modal.json
 msgid "Remove Page"
 msgstr "페이지 삭제하기"
+
+#. [ActivityCard.Removed1]
+#. defaultMessage is:
+#. Removed
+#: public/messages/src/app/components/ActivityCards/ActivityCard.json
+msgid "Removed"
+msgstr "삭제됨"
 
 #. [Chat.Reply]
 #. defaultMessage is:
@@ -2528,7 +2926,6 @@ msgstr "제한 구역."
 #. defaultMessage is:
 #. Sam Kazemian is an Iranian-American Internet entrepreneur and programmer. His journey in crypto started after he put together a homemade CPU+GPU mining rig in his UCLA dorm room. His passion for the industry led him to integrate blockchain technology to an online knowledge base for the first time in history.
 #: public/messages/src/app/containers/about/third-block.json
-
 msgid ""
 "Sam Kazemian is an Iranian-American Internet entrepreneur and programmer. "
 "His journey in crypto started after he put together a homemade CPU+GPU "
@@ -2540,6 +2937,13 @@ msgstr ""
 "은 UCLA 기숙사에 수제 CPU + GPU 광산 장비를 조립 한 후에 시작되었습니다. 업계"
 "에 대한 열정은 그가 역사에서 처음으로 블록 기술을 온라인 지식 기반에 통합하도"
 "록 이끌었습니다."
+
+#. [SaveModalAgain.Save]
+#. defaultMessage is:
+#. Save
+#: public/messages/src/editor/plugins/save/save-modal.json
+msgid "Save"
+msgstr "저장하기"
 
 #. [MetadataModal.ScienceAcademiaHumanities]
 #. defaultMessage is:
@@ -2587,9 +2991,13 @@ msgstr "더 많은 블로그 게시물보기"
 msgid "See something missing?"
 msgstr "누락 된 것이 있습니까?"
 
-#. [SaveModal.SeeYourEditOnABlockExplorer]
+#. [MergeModalAgain.SeeYourEditOnABlockExplorer]
 #. defaultMessage is:
 #. See your edit on a block explorer
+#. [SaveModalAgain.SeeYourEditOnABlockExplorer]
+#. defaultMessage is:
+#. See your edit on a block explorer
+#: public/messages/src/editor/plugins/merge/merge-modal.json
 #: public/messages/src/editor/plugins/save/save-modal.json
 msgid "See your edit on a block explorer"
 msgstr "블록 탐색기에서 편집 내용보기"
@@ -2689,6 +3097,13 @@ msgstr "기고하기 시작"
 msgid "Start Exploring"
 msgstr "기고하기 시작"
 
+#. [EditorContainer.BodyPlaceholder]
+#. defaultMessage is:
+#. Start creating content for this article here...
+#: public/messages/src/editor/editor.container.json
+msgid "Start creating content for this article here..."
+msgstr "이 기사의 내용을 여기에서 만들기 시작하십시오 ..."
+
 #. [MetadataModal.SubPageType]
 #. defaultMessage is:
 #. Sub Page Type
@@ -2709,24 +3124,51 @@ msgstr "제목"
 #. [ContactUs.submit]
 #. defaultMessage is:
 #. Submit
+#. [MergeModalAgain.Submit]
+#. defaultMessage is:
+#. Submit
 #. [SaveModalButton.Submit]
 #. defaultMessage is:
 #. Submit
-#. [SaveModal.Submit]
+#. [SaveModalAgain.Submit]
 #. defaultMessage is:
 #. Submit
 #: public/messages/src/app/components/ContactUsForm/index.json
 #: public/messages/src/app/containers/contact-us/messages.json
+#: public/messages/src/editor/plugins/merge/merge-modal.json
 #: public/messages/src/editor/plugins/save/index.json
 #: public/messages/src/editor/plugins/save/save-modal.json
 msgid "Submit"
 msgstr "제출"
+
+#. [SaveModalAgain.Heading]
+#. defaultMessage is:
+#. Submit Article Edits
+#: public/messages/src/editor/plugins/save/save-modal.json
+msgid "Submit Article Edits"
+msgstr "기사 편집을 제출하십시오"
+
+#. [SaveModalAgain.SubmittingYourArticleEdit]
+#. defaultMessage is:
+#. Submitting Your Article Edit
+#: public/messages/src/editor/plugins/save/save-modal.json
+msgid "Submitting Your Article Edit"
+msgstr "당신의 기사를 복종 시키십시오 편집하십시오"
 
 #. [SubmitVoteConfirmation.Success]
 #. defaultMessage is:
 #. Successfully Voted!
 #: public/messages/src/app/components/SubmitVote/ConfirmationModal.json
 msgid "Successfully Voted!"
+msgstr "메시지를 보냈습니다."
+
+#. [SubmitVote.SuccessfullyPlaced]
+#. defaultMessage is:
+#. Successfully placed
+#: public/messages/src/app/components/SubmitVote/index.json
+#, fuzzy
+#| msgid "Successfully Voted!"
+msgid "Successfully placed"
 msgstr "메시지를 보냈습니다."
 
 #. [ContactUs.successfullySentMessage]
@@ -2740,7 +3182,6 @@ msgstr "메시지를 보냈습니다."
 #. defaultMessage is:
 #. Suchet Dhindsa is a Norwegian economist, entrepreneur, and investor. Suchet has 10 years of experience in global expansion strategy, venture capital and emerging technologies.
 #: public/messages/src/app/containers/about/third-block.json
-
 msgid ""
 "Suchet Dhindsa is a Norwegian economist, entrepreneur, and investor. Suchet "
 "has 10 years of experience in global expansion strategy, venture capital and "
@@ -2769,6 +3210,20 @@ msgstr "지원되는 지갑"
 #: public/messages/src/app/containers/admin/admin.container.json
 msgid "TOTAL EDITS"
 msgstr "최신 편집"
+
+#. [SaveModalAgain.TxFailed]
+#. defaultMessage is:
+#. TRANSACTION FAILED!
+#: public/messages/src/editor/plugins/save/save-modal.json
+msgid "TRANSACTION FAILED!"
+msgstr "거래 실패!"
+
+#. [SaveModalAgain.TxSuccess]
+#. defaultMessage is:
+#. TRANSACTION SUCCESSFUL!
+#: public/messages/src/editor/plugins/save/save-modal.json
+msgid "TRANSACTION SUCCESSFUL!"
+msgstr "거래 성공"
 
 #. [RecentPopularContent.TRENDING]
 #. defaultMessage is:
@@ -2891,7 +3346,6 @@ msgstr "Infobox는 간결하고 액세스하기 쉬운 정보를 위해 설계�
 #. defaultMessage is:
 #. Theodor Forselius  is a Swedish Internet entrepreneur and programmer. He co-founded Everipedia at the age of 20, gaining experience in digital advertising, web development, and online gaming industries in the process.
 #: public/messages/src/app/containers/about/third-block.json
-
 msgid ""
 "Theodor Forselius  is a Swedish Internet entrepreneur and programmer. He co-"
 "founded Everipedia at the age of 20, gaining experience in digital "
@@ -2909,6 +3363,13 @@ msgid ""
 "There have been no recent edits to this article. Be the first person to "
 "update it."
 msgstr "이 기사에 대한 최근 편집이있었습니다. 최신 버전은 다음을 참조하십시오."
+
+#. [SaveModalAgain.ThereWasAnIssueRecording]
+#. defaultMessage is:
+#. There was an issue recording your edit.
+#: public/messages/src/editor/plugins/save/save-modal.json
+msgid "There was an issue recording your edit."
+msgstr "수정 사항을 기록하는 중에 문제가 발생했습니다."
 
 #. [MetadataModal.Thing]
 #. defaultMessage is:
@@ -3002,7 +3463,6 @@ msgstr "거래 성공"
 #. defaultMessage is:
 #. Travis Moore is an Italian-American computer programmer, angel investor and entrepreneur from Thousand Oaks, a suburb of Los Angeles. He co-founded Everipedia after graduating from UCLA with degrees in Molecular Biology, Biochemistry, and Neuroscience in 2011.
 #: public/messages/src/app/containers/about/third-block.json
-
 msgid ""
 "Travis Moore is an Italian-American computer programmer, angel investor and "
 "entrepreneur from Thousand Oaks, a suburb of Los Angeles. He co-founded "
@@ -3014,17 +3474,29 @@ msgstr ""
 "다. 그는 UCLA에서 2011 년 분자 생물학, 생화학 및 신경 과학 학위를 취득하여 "
 "Everipedia를 공동 설립했습니다."
 
-#. [SaveModal.TryAgain]
+#. [SubmitVoteConfirmation.TryAgain]
 #. defaultMessage is:
 #. Try Again
+#. [MergeModalAgain.TryAgain]
+#. defaultMessage is:
+#. Try Again
+#. [SaveModalAgain.TryAgain]
+#. defaultMessage is:
+#. Try Again
+#: public/messages/src/app/components/SubmitVote/ConfirmationModal.json
+#: public/messages/src/editor/plugins/merge/merge-modal.json
 #: public/messages/src/editor/plugins/save/save-modal.json
 msgid "Try Again"
 msgstr "다시 시도"
 
+#. [Login.TryAgainTwo]
+#. defaultMessage is:
+#. Try again
 #. [Login.TryAgain]
 #. defaultMessage is:
 #. Try again
 #: public/messages/src/app/components/Login/index.json
+#: public/messages/src/app/containers/wallet-login/wallet-login.container.json
 msgid "Try again"
 msgstr "다시 시도"
 
@@ -3157,9 +3629,13 @@ msgstr "내 프로필 보기"
 msgid "View Comment"
 msgstr "댓글 보기"
 
-#. [SaveModal.ViewEdit]
+#. [MergeModalAgain.ViewEdit]
 #. defaultMessage is:
 #. View Edit
+#. [SaveModalAgain.ViewEdit]
+#. defaultMessage is:
+#. View Edit
+#: public/messages/src/editor/plugins/merge/merge-modal.json
 #: public/messages/src/editor/plugins/save/save-modal.json
 msgid "View Edit"
 msgstr "편집하기"
@@ -3170,6 +3646,20 @@ msgstr "편집하기"
 #: public/messages/src/app/components/content-top-nav/index.json
 msgid "View History"
 msgstr "기록 보기"
+
+#. [SubmitVoteConfirmation.ViewTransaction]
+#. defaultMessage is:
+#. View Transaction
+#: public/messages/src/app/components/SubmitVote/ConfirmationModal.json
+msgid "View Transaction"
+msgstr "거래전표 내역 확인"
+
+#. [SaveModalAgain.ViewBlockChainTransaction]
+#. defaultMessage is:
+#. View blockchain transaction
+#: public/messages/src/editor/plugins/save/save-modal.json
+msgid "View blockchain transaction"
+msgstr "블록 체인 거래보기"
 
 #. [SearchResults.Views]
 #. defaultMessage is:
@@ -3190,8 +3680,12 @@ msgstr "조회수"
 #. [SubmitVote.LoginToVote]
 #. defaultMessage is:
 #. Vote
+#. [Leaderboard.Vote]
+#. defaultMessage is:
+#. Vote
 #: public/messages/src/app/components/ActivityCards/ActivityCard.json
 #: public/messages/src/app/components/SubmitVote/index.json
+#: public/messages/src/app/containers/homepageContainer/leaderboard.json
 msgid "Vote"
 msgstr "투표"
 
@@ -3199,10 +3693,8 @@ msgstr "투표"
 #. defaultMessage is:
 #. Vote accepted
 #: public/messages/src/app/components/Chat/ChatItem.json
-
-#| msgid "Accepted"
 msgid "Vote accepted"
-msgstr "수락됨"
+msgstr "투표 허용"
 
 #. [SubmitVoteConfirmation.VoteAmount]
 #. defaultMessage is:
@@ -3229,22 +3721,28 @@ msgstr "이 기사 변경에 투표하십시오"
 #. defaultMessage is:
 #. Vote rejected
 #: public/messages/src/app/components/Chat/ChatItem.json
-
-#| msgid "Rejected"
 msgid "Vote rejected"
-msgstr "거부됨"
+msgstr "투표가 거부되었습니다."
 
 #. [ActivityCard.Voted]
 #. defaultMessage is:
 #. Voted
+#. [SubmitVote.Voted]
+#. defaultMessage is:
+#. Voted
 #: public/messages/src/app/components/ActivityCards/ActivityCard.json
+#: public/messages/src/app/components/SubmitVote/index.json
 msgid "Voted"
 msgstr "투표함"
 
 #. [DashboardComponent.Votes]
 #. defaultMessage is:
 #. Votes
+#. [Leaderboard.Votes]
+#. defaultMessage is:
+#. Votes
 #: public/messages/src/app/containers/dashboard/dashboard_component.json
+#: public/messages/src/app/containers/homepageContainer/leaderboard.json
 msgid "Votes"
 msgstr "투표"
 
@@ -3255,12 +3753,26 @@ msgstr "투표"
 msgid "Voting Closes"
 msgstr "투표 마감"
 
+#. [SubmitVoteConfirmation.VotingFailed]
+#. defaultMessage is:
+#. Voting Failed
+#: public/messages/src/app/components/SubmitVote/ConfirmationModal.json
+msgid "Voting Failed"
+msgstr "투표 마감"
+
 #. [Leaderboard.WeekCap]
 #. defaultMessage is:
 #. WEEK
 #: public/messages/src/app/containers/homepageContainer/leaderboard.json
 msgid "WEEK"
 msgstr "주"
+
+#. [SaveModalAgain.WaitAMomentOneLynx]
+#. defaultMessage is:
+#. Wait a moment while we load Lynx.
+#: public/messages/src/editor/plugins/save/save-modal.json
+msgid "Wait a moment while we load Lynx."
+msgstr "Lynx를로드하는 동안 잠시 기다려주십시오."
 
 #. [SaveModal.WaitAMomentWhileWeLoad]
 #. defaultMessage is:
@@ -3273,6 +3785,81 @@ msgstr ""
 "Scatter를로드하는 동안 잠시 기다려주십시오. Scatter 창이 보이지 않으면 현재 "
 "창 뒤에서로드되었는지 확인하십시오."
 
+#. [SaveModalAgain.txLoadScatter]
+#. defaultMessage is:
+#. Wait a moment while we load Scatter.  If you do not see the Scatter window, check if it has loaded behind your current window.
+#: public/messages/src/editor/plugins/save/save-modal.json
+msgid ""
+"Wait a moment while we load Scatter.  If you do not see the Scatter window, "
+"check if it has loaded behind your current window."
+msgstr ""
+"Scatter를로드하는 동안 잠시 기다려주십시오. Scatter 창이 보이지 않으면 현재 "
+"창 뒤에서로드되었는지 확인하십시오."
+
+#. [SaveModalAgain.WaitAMomentOne]
+#. defaultMessage is:
+#. Wait a moment while we load Scatter. If you don’t see the Scatter window, check if it has loaded behind your current window.
+#: public/messages/src/editor/plugins/save/save-modal.json
+msgid ""
+"Wait a moment while we load Scatter. If you don’t see the Scatter window, "
+"check if it has loaded behind your current window."
+msgstr ""
+"Scatter를로드하는 동안 잠시 기다려주십시오. Scatter 창이 보이지 않으면 현재 "
+"창 뒤에서로드되었는지 확인하십시오."
+
+#. [SaveModalAgain.txLoadLynx]
+#. defaultMessage is:
+#. Wait a moment while we load the Lynx transaction window.
+#: public/messages/src/editor/plugins/save/save-modal.json
+msgid "Wait a moment while we load the Lynx transaction window."
+msgstr "Lynx 트랜잭션 윈도우를로드하는 동안 잠시 기다려주십시오."
+
+#. [SaveModalAgain.txLoadOreId]
+#. defaultMessage is:
+#. Wait a moment while we load your account.  You will be redirected to OreID to confirm your proposed edit.  You may be required to enter the pin that you created when you set up your account.
+#: public/messages/src/editor/plugins/save/save-modal.json
+msgid ""
+"Wait a moment while we load your account.  You will be redirected to OreID "
+"to confirm your proposed edit.  You may be required to enter the pin that "
+"you created when you set up your account."
+msgstr ""
+"계정을로드하는 동안 잠시 기다려주십시오. 제안 된 편집을 확인하기 위해 OreID"
+"로 리디렉션됩니다. 계정을 설정할 때 생성 한 핀을 입력해야 할 수도 있습니다."
+
+#. [SaveModalAgain.WaitAMomentTwo]
+#. defaultMessage is:
+#. Wait a moment while we load your account. You will be redirected to OreID to confirm your proposed edit. You may be required to enter the pin that you created when you set up your account.
+#: public/messages/src/editor/plugins/save/save-modal.json
+msgid ""
+"Wait a moment while we load your account. You will be redirected to OreID to "
+"confirm your proposed edit. You may be required to enter the pin that you "
+"created when you set up your account."
+msgstr ""
+"계정을로드하는 동안 잠시 기다려주십시오. 제안 된 편집을 확인하기 위해 OreID"
+"로 리디렉션됩니다. 계정을 설정할 때 생성 한 핀을 입력해야 할 수도 있습니다."
+
+#. [SubmitVoteConfirmation.WaitAMomentWallet]
+#. defaultMessage is:
+#. Wait a moment while we load your wallet. If you don’t see the wallet window, check if it has loaded behind your current window.
+#: public/messages/src/app/components/SubmitVote/ConfirmationModal.json
+msgid ""
+"Wait a moment while we load your wallet. If you don’t see the wallet window, "
+"check if it has loaded behind your current window."
+msgstr ""
+"Scatter를로드하는 동안 잠시 기다려주십시오. Scatter 창이 보이지 않으면 현재 "
+"창 뒤에서로드되었는지 확인하십시오."
+
+#. [SubmitVoteConfirmation.WaitAMomentOREID]
+#. defaultMessage is:
+#. Wait a moment while we redirect you to Ore ID.  You will be returned here once you have completed signing
+#: public/messages/src/app/components/SubmitVote/ConfirmationModal.json
+msgid ""
+"Wait a moment while we redirect you to Ore ID.  You will be returned here "
+"once you have completed signing"
+msgstr ""
+"광석 ID로 리디렉션하는 동안 잠시 기다려주십시오. 서명을 완료하면 여기로 돌아"
+"올 것입니다."
+
 #. [EditorContainer.Warning]
 #. defaultMessage is:
 #. Warning
@@ -3280,9 +3867,13 @@ msgstr ""
 msgid "Warning"
 msgstr "경고"
 
-#. [SaveModal.WeReceivedTheFollowingError]
+#. [MergeModalAgain.WeReceivedTheFollowingError]
 #. defaultMessage is:
 #. We received the following error
+#. [SaveModalAgain.WeReceivedTheFollowingError]
+#. defaultMessage is:
+#. We received the following error
+#: public/messages/src/editor/plugins/merge/merge-modal.json
 #: public/messages/src/editor/plugins/save/save-modal.json
 msgid "We received the following error"
 msgstr "다음과 같은 오류가 발생했습니다."
@@ -3322,6 +3913,13 @@ msgstr "메시지 쓰기"
 msgid "Yes"
 msgstr "예"
 
+#. [SubmitVote.YouAreOutOfIQ]
+#. defaultMessage is:
+#. You are out of IQ.
+#: public/messages/src/app/components/SubmitVote/index.json
+msgid "You are out of IQ."
+msgstr "당신은 IQ를 벗어났습니다."
+
 #. [IQInfo.YouCan]
 #. defaultMessage is:
 #. You can
@@ -3340,9 +3938,13 @@ msgstr ""
 "당신은 어떤 금액의 IQ라도 투표 할 수 있습니다. 다수로 투표하면 투표 한 금액"
 "에 비례 한 보상을 받게됩니다!"
 
-#. [SaveModal.YouMayHaveReceivedThisError]
+#. [MergeModalAgain.YouMayHaveReceivedThisError]
 #. defaultMessage is:
 #. You may have received this error for a variety of reasons. The most common reasons:
+#. [SaveModalAgain.YouMayHaveReceivedThisError]
+#. defaultMessage is:
+#. You may have received this error for a variety of reasons. The most common reasons:
+#: public/messages/src/editor/plugins/merge/merge-modal.json
 #: public/messages/src/editor/plugins/save/save-modal.json
 msgid ""
 "You may have received this error for a variety of reasons. The most common "
@@ -3358,19 +3960,40 @@ msgstr ""
 msgid "You must be logged in to participate in chat"
 msgstr "채팅에 참여하려면 로그인해야합니다."
 
-#. [SubmitVote.TrialAccount]
+#. [SubmitVote.YouMustLogInToVote]
 #. defaultMessage is:
-#. Your account is a trial account (using OREID) and is edit-only. To
-#. participate in voting and to receive IQ rewards, login with Scatter.
+#. You must login to vote
 #: public/messages/src/app/components/SubmitVote/index.json
-msgid ""
-"Your account is a trial account (using OREID) and is edit-only. To\n"
-"                                            participate in voting and to "
-"receive IQ rewards, login with Scatter."
-msgstr ""
-"귀하의 계정은 OREID를 사용하는 평가판 계정이며 편집 전용입니다. 에\n"
-"                                            투표에 참여하고 IQ 보상을 받으려"
-"면 Scatter로 로그인하십시오."
+msgid "You must login to vote"
+msgstr "채팅에 로그인해야합니다."
+
+#. [SubmitVote.YouNeedToMakeAnEdit]
+#. defaultMessage is:
+#. You need to make an edit before you can vote with your Ore ID account
+#: public/messages/src/app/components/SubmitVote/index.json
+msgid "You need to make an edit before you can vote with your Ore ID account"
+msgstr "광석 ID 계정으로 투표하려면 편집을해야합니다."
+
+#. [SaveModalAgain.YourEditWasSuccessfully]
+#. defaultMessage is:
+#. Your Edit Was Successfully Submitted for Voting
+#: public/messages/src/editor/plugins/save/save-modal.json
+msgid "Your Edit Was Successfully Submitted for Voting"
+msgstr "귀하의 편집 내용이 투표를 위해 제출되었습니다."
+
+#. [SaveModalAgain.YourEditWasNotSubmitted]
+#. defaultMessage is:
+#. Your Edit was not Submitted
+#: public/messages/src/editor/plugins/save/save-modal.json
+msgid "Your Edit was not Submitted"
+msgstr "수정 사항이 제출되지 않았습니다."
+
+#. [SubmitVoteConfirmation.YourVoteWasSuccessful]
+#. defaultMessage is:
+#. Your Vote was Successful
+#: public/messages/src/app/components/SubmitVote/ConfirmationModal.json
+msgid "Your Vote was Successful"
+msgstr "투표가 성공적이었습니다."
 
 #. [Directory.ActiveChats]
 #. defaultMessage is:
@@ -3381,9 +4004,13 @@ msgid ""
 "articles."
 msgstr "기사에서 대화를 시작할 때 활성 채팅이 여기에 표시됩니다."
 
-#. [SaveModal.YourEditWillNowBeVotedOn]
+#. [MergeModalAgain.YourEditWillNowBeVotedOn]
 #. defaultMessage is:
 #. Your edit will now be voted on by the community. If it is accepted, you will receive an IQ reward for your contribution.  The IQ Tokens that you used to propose your edit will be locked up (staked) for 21 days.
+#. [SaveModalAgain.YourEditWillNowBeVotedOn]
+#. defaultMessage is:
+#. Your edit will now be voted on by the community. If it is accepted, you will receive an IQ reward for your contribution.  The IQ Tokens that you used to propose your edit will be locked up (staked) for 21 days.
+#: public/messages/src/editor/plugins/merge/merge-modal.json
 #: public/messages/src/editor/plugins/save/save-modal.json
 msgid ""
 "Your edit will now be voted on by the community. If it is accepted, you will "
@@ -3396,7 +4023,7 @@ msgstr ""
 #. [Login.aboutLoginOptions]
 #. defaultMessage is:
 #. about Everipedia’s login options.
-#: public/messages/src/app/components/Login/index.json
+#: public/messages/src/app/components/Login/login.modal.json
 msgid "about Everipedia’s login options."
 msgstr "Everipedia의 로그인 옵션에 대해."
 
@@ -3435,6 +4062,15 @@ msgstr "IQ 사고 팔다."
 msgid "changed"
 msgstr "변경된"
 
+#. [SubmitVote.EditTwo]
+#. defaultMessage is:
+#. edit
+#: public/messages/src/app/components/SubmitVote/index.json
+#, fuzzy
+#| msgid "edited"
+msgid "edit"
+msgstr "편집하기"
+
 #. [ActivityCard.Edited2]
 #. defaultMessage is:
 #. edited
@@ -3461,6 +4097,13 @@ msgstr "편집 한"
 msgid "file size is too big"
 msgstr "파일 크기가 너무 큼"
 
+#. [SubmitVote.For]
+#. defaultMessage is:
+#. for
+#: public/messages/src/app/components/SubmitVote/index.json
+msgid "for"
+msgstr "에"
+
 #. [Errors.IfYouThinkYouAre]
 #. defaultMessage is:
 #. if you think you are receiving this message in error.
@@ -3478,6 +4121,22 @@ msgstr "이 메시지가 잘못 전달되었다고 생각하는 경우"
 #: public/messages/src/shared/inputs/image-uploader/image-uploader.component.json
 msgid "is not a supported file extension"
 msgstr "지원되는 파일 확장명이 아닙니다."
+
+#. [ActivityCard.Merged2]
+#. defaultMessage is:
+#. merged
+#: public/messages/src/app/components/ActivityCards/ActivityCard.json
+#, fuzzy
+#| msgid "Merge"
+msgid "merged"
+msgstr "병합"
+
+#. [EditOverview.MergedIntoThisArticle]
+#. defaultMessage is:
+#. merged into this article.
+#: public/messages/src/app/components/SubmitVote/EditOverview.json
+msgid "merged into this article."
+msgstr "이 기사에 대해 이야기하십시오!"
 
 #. [IQInfo.OnTheseExchanges]
 #. defaultMessage is:
@@ -3500,12 +4159,26 @@ msgstr "또는"
 msgid "reject"
 msgstr "거절"
 
+#. [ActivityCard.Removed2]
+#. defaultMessage is:
+#. removed
+#: public/messages/src/app/components/ActivityCards/ActivityCard.json
+msgid "removed"
+msgstr "제거되었습니다."
+
 #. [Errors.TheseExchanges]
 #. defaultMessage is:
 #. these exchanges.
 #: public/messages/src/app/utils/errors.json
 msgid "these exchanges."
 msgstr "지원된 거래소"
+
+#. [MediaGallery.ToChooseAQualityImage]
+#. defaultMessage is:
+#. to choose a quality image
+#: public/messages/src/editor/plugins/media-gallery/media-gallery-modal.json
+msgid "to choose a quality image"
+msgstr "새로운 메인 이미지 선택"
 
 #. [SectionMediaModal.ToChooseAQualityImage]
 #. defaultMessage is:
@@ -3543,9 +4216,13 @@ msgstr "FAQ를 보려면"
 msgid "views"
 msgstr "조회수"
 
+#. [SubmitVote.VoteTwo]
+#. defaultMessage is:
+#. vote
 #. [Tooltips.Vote]
 #. defaultMessage is:
 #. vote
+#: public/messages/src/app/components/SubmitVote/index.json
 #: public/messages/src/app/components/tooltips/index.json
 msgid "vote"
 msgstr "투표"
@@ -3570,193 +4247,11 @@ msgstr "투표"
 #. [Chat.WordsTwo]
 #. defaultMessage is:
 #. words
+#. [EditOverview.WordsThree]
+#. defaultMessage is:
+#. words
 #: public/messages/src/app/components/ActivityCards/ActivityCard.json
 #: public/messages/src/app/components/Chat/ChatItem.json
+#: public/messages/src/app/components/SubmitVote/EditOverview.json
 msgid "words"
 msgstr "개의 단어"
-
-#~ msgid "Save"
-#~ msgstr "저장하기"
-
-#~ msgid ""
-#~ "Once you submit your edits, they will be displayed immediately in the "
-#~ "article and be open for voting. If approved by the community, your edits "
-#~ "will be accepted into the article."
-#~ msgstr ""
-#~ "수정 사항을 제출하면 기사에 즉시 표시되고 투표가 가능합니다. 커뮤니티가 승"
-#~ "인하면 편집 내용이 기사에 수락됩니다."
-
-#~ msgid "Please enter a comment for this edit"
-#~ msgstr "메시지를 입력해 주세요"
-
-#~ msgid "Please select a comment category"
-#~ msgstr "메시지를 입력해 주세요"
-
-#~ msgid "Redirecting to ORE ID authentication page"
-#~ msgstr "ORE ID 인증 페이지로 리디렉션"
-
-#~ msgid "Submit Article Edits"
-#~ msgstr "기사 편집을 제출하십시오"
-
-#~ msgid "TRANSACTION FAILED!"
-#~ msgstr "거래 실패!"
-
-#~ msgid "TRANSACTION SUCCESSFUL!"
-#~ msgstr "거래 성공"
-
-#~ msgid ""
-#~ "Wait a moment while we load your account.  You will be redirected to "
-#~ "OreID to confirm your proposed edit.  You may be required to enter the "
-#~ "pin that you created when you set up your account."
-#~ msgstr ""
-#~ "계정을로드하는 동안 잠시 기다려주십시오. 제안 된 편집을 확인하기 위해 "
-#~ "OreID로 리디렉션됩니다. 계정을 설정할 때 생성 한 핀을 입력해야 할 수도 있"
-#~ "습니다."
-
-#~ msgid "A new paradigm for internet knowledge."
-#~ msgstr "인터넷 지식을위한 새로운 패러다임."
-
-#~ msgid "Add or edit an infobox"
-#~ msgstr "정보함 추가 또는 편집"
-
-#~ msgid "Add or edit the image"
-#~ msgstr "인용문 추가 또는 편집"
-
-#~ msgid "All Time"
-#~ msgstr "전체 기간"
-
-#~ msgid "Chat to save into directory"
-#~ msgstr "디렉토리에 채팅이 없습니다."
-
-#~ msgid "Choose a new image"
-#~ msgstr "새로운 메인 이미지 선택"
-
-#~ msgid "Create New"
-#~ msgstr "새로 만들기"
-
-#~ msgid "Create Page"
-#~ msgstr "페이지 만들기"
-
-#~ msgid "Day"
-#~ msgstr "일"
-
-#~ msgid "Enter article title..."
-#~ msgstr "기사 제목 입력 ..."
-
-#~ msgid "Generated unique slug"
-#~ msgstr "생성 된 고유 슬러그"
-
-#~ msgid "Get help"
-#~ msgstr "도움 받기"
-
-#~ msgid "Having trouble?"
-#~ msgstr "문제가있다?"
-
-#~ msgid "Make sure the article does not already exist!"
-#~ msgstr "기사가 이미 존재하지 않는지 확인하십시오!"
-
-#~ msgid "Month"
-#~ msgstr "월"
-
-#~ msgid "Must"
-#~ msgstr "채팅에 참여하려면 로그인해야합니다."
-
-#~ msgid "Need to contact us?"
-#~ msgstr "저희에게 연락해야합니까?"
-
-#~ msgid "OK"
-#~ msgstr "확인"
-
-#~ msgid ""
-#~ "Our vibrant community is open and welcoming to people from all "
-#~ "backgrounds. Our guidelines and\n"
-#~ "\t\t\t\t\t\tpolicies are based on common sense rather than strict "
-#~ "bureaucracy."
-#~ msgstr ""
-#~ "우리의 활기찬 커뮤니티는 모든 사람들에게 열려 있고, 이들을 환영합니다. 우"
-#~ "리의지침과 정책은 엄격한 관료적 절차보다 상식을 기반으로 합니다."
-
-#~ msgid "RECENTLY UPDATED"
-#~ msgstr "최근 트위터"
-
-#~ msgid "Register"
-#~ msgstr "가입"
-
-#~ msgid "Save / Submit the current page"
-#~ msgstr "현재 페이지 저장 / 전송"
-
-#~ msgid "See FAQs"
-#~ msgstr "FAQ보기"
-
-#~ msgid "Start with 10 IQ"
-#~ msgstr "시작하다"
-
-#~ msgid ""
-#~ "The Everipedia IQ blockchain provides a new paradigm change and knowledge "
-#~ "economy to\n"
-#~ "                                    disrupt the old centralized internet "
-#~ "knowledge encyclopedia model similar to\n"
-#~ "                                    Wikipedia. By creating a new "
-#~ "incentive structure and a distributed backend hosted\n"
-#~ "                                    within a blockchain, the new "
-#~ "Everipedia knowledge base will be able to improve upon\n"
-#~ "                                    all fundamental features of Wikipedia."
-#~ msgstr ""
-#~ "Everipedia IQ 블록 체인은 새로운 패러다임 변화와 지식 경제를 제공해서, "
-#~ "Wikipedia와 유사한 낡은 중앙집중형 인터넷 지식 백과사전 모델을 타파합니"
-#~ "다. 새로운 Everipedia 지식 기반은 새 인센티브 구조 창출과 블록체인 기반 분"
-#~ "산형 백엔드를 통해 Wikipedia의 모든 기본 기능을 향상시킬 수 있습니다."
-
-#~ msgid "Tools"
-#~ msgstr "도구"
-
-#~ msgid "Top Contributors"
-#~ msgstr "최우수 기여자"
-
-#~ msgid "Total IQ"
-#~ msgstr "총 IQ"
-
-#~ msgid "VERSION HISTORY"
-#~ msgstr "버전 역사"
-
-#~ msgid "VOTE NOW"
-#~ msgstr "지금 투표하십시오."
-
-#~ msgid "Week"
-#~ msgstr "주"
-
-#~ msgid "to see directory"
-#~ msgstr "디렉토리에 채팅이 없습니다."
-
-#~ msgid "IQ Information and Tools"
-#~ msgstr "IQ 정보 및 도구"
-
-#~ msgid "GET IN TOUCH WITH US"
-#~ msgstr "연락하기"
-
-#~ msgid "No Messages"
-#~ msgstr "메시지"
-
-#~ msgid "No Participants"
-#~ msgstr "참가자 없음"
-
-#~ msgid "Citation / Link"
-#~ msgstr "인용 / 링크"
-
-#~ msgid "Would you like to save the page?"
-#~ msgstr "페이지를 저장 하시겠습니까?"
-
-#~ msgid "Chain"
-#~ msgstr "체인"
-
-#~ msgid "Forum"
-#~ msgstr "포럼"
-
-#~ msgid "Investors"
-#~ msgstr "투자자"
-
-#~ msgid "Header.Activity"
-#~ msgstr "Header.Activity"
-
-#~ msgid "Header.Login"
-#~ msgstr "헤더. 로그인"
