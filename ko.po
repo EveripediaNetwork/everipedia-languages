@@ -1,7 +1,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: \n"
-"POT-Creation-Date: 2019-08-09T14:23:49.759Z\n"
+"POT-Creation-Date: 2019-08-15T01:35:34.405Z\n"
 "PO-Revision-Date: \n"
 "Last-Translator: \n"
 "Language-Team: \n"
@@ -318,6 +318,9 @@ msgstr "관련 페이지 추가"
 msgid "Add and Add Another"
 msgstr "추가 및 추가"
 
+#. [CitationModal.AddEditFile.AddAndInsert]
+#. defaultMessage is:
+#. Add and Insert
 #. [CitationModal.AddEditISBN.AddAndInsert]
 #. defaultMessage is:
 #. Add and Insert
@@ -327,6 +330,7 @@ msgstr "추가 및 추가"
 #. [SectionMediaModal.AddEditURL.AddAndInsert]
 #. defaultMessage is:
 #. Add and Insert
+#: public/messages/src/editor/plugins/citation-modal/panes/add-edit-file.json
 #: public/messages/src/editor/plugins/citation-modal/panes/add-edit-isbn.json
 #: public/messages/src/editor/plugins/citation-modal/panes/add-edit-url.json
 #: public/messages/src/editor/plugins/section-media-modal/panes/add-edit-url.json
@@ -358,12 +362,16 @@ msgstr "인용문 추가 또는 편집"
 msgid "Add or edit the main image"
 msgstr "인용문 추가 또는 편집"
 
+#. [CitationModal.AddEditFile.AddWithoutInsert]
+#. defaultMessage is:
+#. Add without Inserting
 #. [CitationModal.AddEditISBN.AddWithoutInsert]
 #. defaultMessage is:
 #. Add without Inserting
 #. [CitationModal.AddEditURL.AddWithoutInsert]
 #. defaultMessage is:
 #. Add without Inserting
+#: public/messages/src/editor/plugins/citation-modal/panes/add-edit-file.json
 #: public/messages/src/editor/plugins/citation-modal/panes/add-edit-isbn.json
 #: public/messages/src/editor/plugins/citation-modal/panes/add-edit-url.json
 msgid "Add without Inserting"
@@ -391,6 +399,21 @@ msgstr ""
 msgid "Adding media makes an article more interactive and engaging."
 msgstr "미디어를 추가하면 기사가 더욱 상호 작용하고 매력적으로 변합니다."
 
+#. [NewPageTemplate.NPT_Organization_AddressLocation]
+#. defaultMessage is:
+#. Address / Location
+#. [NewPageTemplate.NPT_Person_Addr_Loc]
+#. defaultMessage is:
+#. Address / Location
+#. [NewPageTemplate.NPT_Place_AddressLocation]
+#. defaultMessage is:
+#. Address / Location
+#: public/messages/src/editor/utils/editing-utils/template-packs/organization.json
+#: public/messages/src/editor/utils/editing-utils/template-packs/person.json
+#: public/messages/src/editor/utils/editing-utils/template-packs/place.json
+msgid "Address / Location"
+msgstr "주소 / 위치"
+
 #. [MetadataModal.AdultContent]
 #. defaultMessage is:
 #. Adult Content
@@ -415,6 +438,14 @@ msgstr ""
 #: public/messages/src/editor/plugins/metadata/metadata-modal.json
 msgid "Allow Non-Googlebot"
 msgstr "비 Googlebot 허용"
+
+#. [CitationModal.AddEditFile.AllowedFormats]
+#. defaultMessage is:
+#. Allowed formats:
+#: public/messages/src/editor/plugins/citation-modal/panes/add-edit-file.json
+
+msgid "Allowed formats:"
+msgstr "허용되는 형식 :"
 
 #. [Homepage.ModernAge]
 #. defaultMessage is:
@@ -479,6 +510,14 @@ msgstr ""
 "편집자로서 Everipedia의 살인자 기능은 소스와 중립적 인 표현을 사용하는 한 원"
 "하는 것에 대한 기사를 작성할 수 있다는 것입니다. 네가 좋아하는 그림, 너 자신."
 
+#. [NewPageTemplate.NPT_Product_Audience]
+#. defaultMessage is:
+#. Audience
+#: public/messages/src/editor/utils/editing-utils/template-packs/product.json
+
+msgid "Audience"
+msgstr "청중"
+
 #. [AccountNameHeader.Available]
 #. defaultMessage is:
 #. Available
@@ -499,6 +538,13 @@ msgstr "사용 가능한 잔액"
 #: public/messages/src/app/containers/about/about.container.json
 msgid "Become an Editor"
 msgstr "편집자되기"
+
+#. [NewPageTemplate.NPT_Person_Birthday]
+#. defaultMessage is:
+#. Birthday
+#: public/messages/src/editor/utils/editing-utils/template-packs/person.json
+msgid "Birthday"
+msgstr "생일"
 
 #. [Suggestions.Citations]
 #. defaultMessage is:
@@ -575,6 +621,21 @@ msgstr "취소"
 #: public/messages/src/app/containers/searchResultsFull/searchResultsFull.container.json
 msgid "Can’t find what you’re looking for?"
 msgstr "찾고있는 것을 찾을 수 없습니까?"
+
+#. [NewPageTemplate.NPT_Event_Capacity]
+#. defaultMessage is:
+#. Capacity
+#: public/messages/src/editor/utils/editing-utils/template-packs/event.json
+msgid "Capacity"
+msgstr "용량"
+
+#. [NewPageTemplate.NPT_Person_Career]
+#. defaultMessage is:
+#. Career
+#: public/messages/src/editor/utils/editing-utils/template-packs/person.json
+
+msgid "Career"
+msgstr "직업"
 
 #. [SaveModalAgain.CategoryLabel]
 #. defaultMessage is:
@@ -699,6 +760,18 @@ msgstr "인용문 추가 또는 편집"
 #: public/messages/src/editor/plugins/citation-modal/index.json
 msgid "Cite"
 msgstr "인용"
+
+#. [CitationModal.AddEditFile.Intro]
+#. defaultMessage is:
+#. Click or drag a non-media file to this area to upload, such as a PDF, Word document, or Excel file.
+#: public/messages/src/editor/plugins/citation-modal/panes/add-edit-file.json
+
+msgid ""
+"Click or drag a non-media file to this area to upload, such as a PDF, Word "
+"document, or Excel file."
+msgstr ""
+"미디어가 아닌 파일을이 영역으로 클릭하거나 드래그하여 PDF, Word 문서 또는 "
+"Excel 파일과 같은 업로드하십시오."
 
 #. [SaveModalAgain.ClickToSelectTheType]
 #. defaultMessage is:
@@ -906,6 +979,22 @@ msgstr "신설"
 msgid "Creative Work / Art"
 msgstr "창작/예술"
 
+#. [NewPageTemplate.NPT_CreativeWork_Creator]
+#. defaultMessage is:
+#. Creator
+#: public/messages/src/editor/utils/editing-utils/template-packs/creative-work.json
+msgid "Creator"
+msgstr "작성자"
+
+#. [NewPageTemplate.NPT_Product_Creator]
+#. defaultMessage is:
+#. Creator(s)
+#: public/messages/src/editor/utils/editing-utils/template-packs/product.json
+
+#| msgid "Creation"
+msgid "Creator(s)"
+msgstr "신설"
+
 #. [Dashboard.CurrentlyStaked]
 #. defaultMessage is:
 #. Currently Staked
@@ -934,6 +1023,13 @@ msgstr ""
 "웨어 개발자입니다. Daniel은 벤처 캐피털 투자자, 소프트웨어 개발자, 제품 관리"
 "자 및 창업자를 포함한 많은 모자를 착용했으며 2017 년부터 분산 응용 프로그램"
 "을 제작 해 왔습니다."
+
+#. [NewPageTemplate.NPT_CreativeWork_Date_Created]
+#. defaultMessage is:
+#. Date Created
+#: public/messages/src/editor/utils/editing-utils/template-packs/creative-work.json
+msgid "Date Created"
+msgstr "작성일"
 
 #. [About.Decentralized]
 #. defaultMessage is:
@@ -1021,6 +1117,9 @@ msgstr "기고하기 시작"
 #. [Leaderboard.Edit]
 #. defaultMessage is:
 #. Edit
+#. [CitationModal.AddEditFile.Edit]
+#. defaultMessage is:
+#. Edit
 #. [CitationModal.AddEditISBN.Edit]
 #. defaultMessage is:
 #. Edit
@@ -1045,6 +1144,7 @@ msgstr "기고하기 시작"
 #: public/messages/src/app/components/Chat/index.json
 #: public/messages/src/app/components/content-top-nav/index.json
 #: public/messages/src/app/containers/homepageContainer/leaderboard.json
+#: public/messages/src/editor/plugins/citation-modal/panes/add-edit-file.json
 #: public/messages/src/editor/plugins/citation-modal/panes/add-edit-isbn.json
 #: public/messages/src/editor/plugins/citation-modal/panes/add-edit-url.json
 #: public/messages/src/editor/plugins/infobox/infobox-modal.json
@@ -1094,7 +1194,19 @@ msgstr "편집 / 투표 문제"
 #. [EditorContainer.EditingWikipedia]
 #. defaultMessage is:
 #. Editing Wikipedia-imported pages is currently disabled, but is expected to be available in the future.
+#. [NewPageTemplate.Person.AAAAA]
+#. defaultMessage is:
+#. Editing Wikipedia-imported pages is currently disabled, but is expected to be available in the future.
+#. [NewPageTemplate.List.AAAAA]
+#. defaultMessage is:
+#. Editing Wikipedia-imported pages is currently disabled, but is expected to be available in the future.
+#. [NewPageTemplate.Thing.AAAAA]
+#. defaultMessage is:
+#. Editing Wikipedia-imported pages is currently disabled, but is expected to be available in the future.
 #: public/messages/src/editor/editor.container.json
+#: public/messages/src/editor/utils/editing-utils/template-packs/index.json
+#: public/messages/src/editor/utils/editing-utils/template-packs/list.json
+#: public/messages/src/editor/utils/editing-utils/template-packs/thing.json
 msgid ""
 "Editing Wikipedia-imported pages is currently disabled, but is expected to "
 "be available in the future."
@@ -1133,7 +1245,15 @@ msgstr "전자 제품/소프트웨어"
 #. [ContactUs.Email]
 #. defaultMessage is:
 #. Email
+#. [NewPageTemplate.NPT_Organization_Email]
+#. defaultMessage is:
+#. Email
+#. [NewPageTemplate.NPT_Person_Email]
+#. defaultMessage is:
+#. Email
 #: public/messages/src/app/components/ContactUsForm/index.json
+#: public/messages/src/editor/utils/editing-utils/template-packs/organization.json
+#: public/messages/src/editor/utils/editing-utils/template-packs/person.json
 msgid "Email"
 msgstr "이메일"
 
@@ -1150,6 +1270,13 @@ msgstr "만료 예정"
 #: public/messages/src/app/containers/contact-us/messages.json
 msgid "Email address"
 msgstr "이메일 주소"
+
+#. [NewPageTemplate.NPT_Event_EndDate]
+#. defaultMessage is:
+#. End Date
+#: public/messages/src/editor/utils/editing-utils/template-packs/event.json
+msgid "End Date"
+msgstr "종료일"
 
 #. [ActivityCard.Ended]
 #. defaultMessage is:
@@ -1232,6 +1359,14 @@ msgstr "오류"
 #: public/messages/src/app/components/SubmitVote/ConfirmationModal.json
 msgid "Error code"
 msgstr "오류"
+
+#. [NewPageTemplate.NPT_Person_Ethnicity]
+#. defaultMessage is:
+#. Ethnicity
+#: public/messages/src/editor/utils/editing-utils/template-packs/person.json
+
+msgid "Ethnicity"
+msgstr "민족"
 
 #. [MetadataModal.Event]
 #. defaultMessage is:
@@ -1342,6 +1477,42 @@ msgstr "자주 묻는 질문"
 msgid "Failed to Vote"
 msgstr "투표하기"
 
+#. [NewPageTemplate.NPT_CreativeWork_Features]
+#. defaultMessage is:
+#. Features
+#. [NewPageTemplate.NPT_Event_Features]
+#. defaultMessage is:
+#. Features
+#. [NewPageTemplate.NPT_Place_Features]
+#. defaultMessage is:
+#. Features
+#. [NewPageTemplate.NPT_Product_Features]
+#. defaultMessage is:
+#. Features
+#: public/messages/src/editor/utils/editing-utils/template-packs/creative-work.json
+#: public/messages/src/editor/utils/editing-utils/template-packs/event.json
+#: public/messages/src/editor/utils/editing-utils/template-packs/place.json
+#: public/messages/src/editor/utils/editing-utils/template-packs/product.json
+
+msgid "Features"
+msgstr "곧 출시될 기능과 개발에 대해 알아보십시오!"
+
+#. [NewPageTemplate.NPT_CreativeWork_FeaturesInclude]
+#. defaultMessage is:
+#. Features include
+#: public/messages/src/editor/utils/editing-utils/template-packs/creative-work.json
+
+msgid "Features include"
+msgstr "특징은 다음과 같습니다"
+
+#. [NewPageTemplate.NPT_Product_FeaturesOf]
+#. defaultMessage is:
+#. Features of
+#: public/messages/src/editor/utils/editing-utils/template-packs/product.json
+
+msgid "Features of"
+msgstr "곧 출시될 기능과 개발에 대해 알아보십시오!"
+
 #. [ContactUs.feedback]
 #. defaultMessage is:
 #. Feedback
@@ -1360,8 +1531,6 @@ msgstr "술책"
 #. defaultMessage is:
 #. Fetch Info
 #: public/messages/src/editor/plugins/citation-modal/panes/add-edit-isbn.json
-#, fuzzy
-#| msgid "Fetch"
 msgid "Fetch Info"
 msgstr "술책"
 
@@ -1371,6 +1540,13 @@ msgstr "술책"
 #: public/messages/src/shared/inputs/image-uploader/image-uploader.component.json
 msgid "Fetching..."
 msgstr "가져 오는 중 ..."
+
+#. [CitationModal.File]
+#. defaultMessage is:
+#. File
+#: public/messages/src/editor/plugins/citation-modal/citation-modal.json
+msgid "File"
+msgstr "파일"
 
 #. [CitationModal.FilterCitations]
 #. defaultMessage is:
@@ -1404,6 +1580,38 @@ msgstr "최신 편집"
 msgid "Formatting"
 msgstr "서식 지정"
 
+#. [NewPageTemplate.NPT_Organization_FoundedAt]
+#. defaultMessage is:
+#. Founded at
+#: public/messages/src/editor/utils/editing-utils/template-packs/organization.json
+
+msgid "Founded at"
+msgstr ""
+"트래비스 무어 (Travis Moore)는 이탈리아계 미국인 컴퓨터 프로그래머, 천사 투자"
+"가이자 로스 앤젤레스 근교의 사우 전드 옥스 (Sousand Oaks) 출신의 사업가입니"
+"다. 그는 UCLA에서 2011 년 분자 생물학, 생화학 및 신경 과학 학위를 취득하여 "
+"Everipedia를 공동 설립했습니다."
+
+#. [NewPageTemplate.NPT_Organization_FoundedOn]
+#. defaultMessage is:
+#. Founded on
+#: public/messages/src/editor/utils/editing-utils/template-packs/organization.json
+
+msgid "Founded on"
+msgstr ""
+"트래비스 무어 (Travis Moore)는 이탈리아계 미국인 컴퓨터 프로그래머, 천사 투자"
+"가이자 로스 앤젤레스 근교의 사우 전드 옥스 (Sousand Oaks) 출신의 사업가입니"
+"다. 그는 UCLA에서 2011 년 분자 생물학, 생화학 및 신경 과학 학위를 취득하여 "
+"Everipedia를 공동 설립했습니다."
+
+#. [NewPageTemplate.NPT_Organization_Founders]
+#. defaultMessage is:
+#. Founder(s)
+#: public/messages/src/editor/utils/editing-utils/template-packs/organization.json
+
+msgid "Founder(s)"
+msgstr "설립자"
+
 #. [FAQ.FAQ]
 #. defaultMessage is:
 #. Frequently Asked Questions
@@ -1432,6 +1640,13 @@ msgstr "성명"
 msgid "Full name"
 msgstr "성명"
 
+#. [NewPageTemplate.NPT_Person_Gender]
+#. defaultMessage is:
+#. Gender
+#: public/messages/src/editor/utils/editing-utils/template-packs/person.json
+msgid "Gender"
+msgstr "성별"
+
 #. [ContactUs.generalInquiry]
 #. defaultMessage is:
 #. General inquiry
@@ -1445,6 +1660,13 @@ msgstr "일반적인 문의"
 #: public/messages/src/app/components/create-new-page/index.json
 msgid "Generated unique URL"
 msgstr "생성 된 고유 URL"
+
+#. [NewPageTemplate.NPT_CreativeWork_Genre]
+#. defaultMessage is:
+#. Genre
+#: public/messages/src/editor/utils/editing-utils/template-packs/creative-work.json
+msgid "Genre"
+msgstr "유형"
 
 #. [Index.GetIQ]
 #. defaultMessage is:
@@ -1488,6 +1710,47 @@ msgstr "IQ를 더 받으십시오."
 #: public/messages/src/app/utils/comment-utils.json
 msgid "Grammar"
 msgstr "문법"
+
+#. [NewPageTemplate.NPT_Person_HeSheLikesTo]
+#. defaultMessage is:
+#. He/She likes to
+#: public/messages/src/editor/utils/editing-utils/template-packs/person.json
+
+msgid "He/She likes to"
+msgstr "그녀는 좋아한다"
+
+#. [NewPageTemplate.NPT_Person_HeSheWasBornIn]
+#. defaultMessage is:
+#. He/she was born in
+#: public/messages/src/editor/utils/editing-utils/template-packs/person.json
+
+msgid "He/she was born in"
+msgstr "태어났다"
+
+#. [NewPageTemplate.NPT_CreativeWork_History]
+#. defaultMessage is:
+#. History
+#. [NewPageTemplate.NPT_Event_History]
+#. defaultMessage is:
+#. History
+#. [NewPageTemplate.NPT_Organization_History]
+#. defaultMessage is:
+#. History
+#. [NewPageTemplate.NPT_Place_History]
+#. defaultMessage is:
+#. History
+#. [NewPageTemplate.NPT_Product_History]
+#. defaultMessage is:
+#. History
+#: public/messages/src/editor/utils/editing-utils/template-packs/creative-work.json
+#: public/messages/src/editor/utils/editing-utils/template-packs/event.json
+#: public/messages/src/editor/utils/editing-utils/template-packs/organization.json
+#: public/messages/src/editor/utils/editing-utils/template-packs/place.json
+#: public/messages/src/editor/utils/editing-utils/template-packs/product.json
+
+#| msgid "View History"
+msgid "History"
+msgstr "역사"
 
 #. [Header.Home]
 #. defaultMessage is:
@@ -1596,7 +1859,6 @@ msgstr ""
 #. defaultMessage is:
 #. ISBN (Book)
 #: public/messages/src/editor/plugins/citation-modal/citation-modal.json
-#, fuzzy
 msgid "ISBN (Book)"
 msgstr "ISBN (도서)"
 
@@ -1815,6 +2077,14 @@ msgstr "자세히 알아보기"
 msgid "Learn more"
 msgstr "자세히 알아보기"
 
+#. [NewPageTemplate.NPT_MedicalEntity_LegalStatus]
+#. defaultMessage is:
+#. Legal Status
+#: public/messages/src/editor/utils/editing-utils/template-packs/medical-entity.json
+
+msgid "Legal Status"
+msgstr "법적 지위"
+
 #. [EPLinkModal.Link]
 #. defaultMessage is:
 #. Link
@@ -1893,6 +2163,13 @@ msgstr "로딩 중..."
 #: public/messages/src/shared/inputs/image-uploader/image-uploader.component.json
 msgid "Local File"
 msgstr "로컬 파일"
+
+#. [NewPageTemplate.NPT_Event_Location]
+#. defaultMessage is:
+#. Location
+#: public/messages/src/editor/utils/editing-utils/template-packs/event.json
+msgid "Location"
+msgstr "위치"
 
 #. [MetadataModal.Locked]
 #. defaultMessage is:
@@ -2022,8 +2299,6 @@ msgstr "Everipedia에 로그인하기"
 #. defaultMessage is:
 #. Login to Start Contributing
 #: public/messages/src/app/components/SubmitVote/index.json
-#, fuzzy
-#| msgid "Start Contributing"
 msgid "Login to Start Contributing"
 msgstr "기고하기 시작"
 
@@ -2126,8 +2401,6 @@ msgstr "내 활동"
 #. defaultMessage is:
 #. Make an Edit
 #: public/messages/src/app/components/SubmitVote/index.json
-#, fuzzy
-#| msgid "Become an Editor"
 msgid "Make an Edit"
 msgstr "편집자되기"
 
@@ -2172,6 +2445,15 @@ msgstr "미디어"
 #. Medical / Biology
 #: public/messages/src/editor/plugins/metadata/metadata-modal.json
 msgid "Medical / Biology"
+msgstr "의학/생물학"
+
+#. [NewPageTemplate.NPT_MedicalEntity_MedicalCode]
+#. defaultMessage is:
+#. Medical Code
+#: public/messages/src/editor/utils/editing-utils/template-packs/medical-entity.json
+
+#| msgid "Medical / Biology"
+msgid "Medical Code"
 msgstr "의학/생물학"
 
 #. [ThirdBlock.MeetOurTeam]
@@ -2258,6 +2540,13 @@ msgstr "더 많은 결과"
 msgid "Must log in to chat"
 msgstr "채팅에 로그인해야합니다."
 
+#. [NewPageTemplate.NPT_Person_Nationality]
+#. defaultMessage is:
+#. Nationality
+#: public/messages/src/editor/utils/editing-utils/template-packs/person.json
+msgid "Nationality"
+msgstr "국적"
+
 #. [ArticleContainer.NewArticle]
 #. defaultMessage is:
 #. New Article
@@ -2297,6 +2586,15 @@ msgstr "디렉토리에 채팅이 없습니다."
 msgid "No Edits"
 msgstr "최신 편집"
 
+#. [LinkRenderer.NoPreviewAvailable]
+#. defaultMessage is:
+#. No Preview Available
+#: public/messages/src/app/components/link-renderer/index.json
+
+#| msgid "Preview Not Available"
+msgid "No Preview Available"
+msgstr "미리보기를 사용할 수 없음"
+
 #. [Leaderboard.NoVotes]
 #. defaultMessage is:
 #. No Votes
@@ -2308,7 +2606,6 @@ msgstr "투표하기"
 #. defaultMessage is:
 #. No result returned
 #: public/messages/src/app/components/SubmitVote/index.json
-#, fuzzy
 msgid "No result returned"
 msgstr "결과가 반환되지 않았습니다"
 
@@ -2333,6 +2630,22 @@ msgstr "없음"
 msgid "Not changed"
 msgstr "변경 됨"
 
+#. [NewPageTemplate.NPT_Organization_NotablePeople]
+#. defaultMessage is:
+#. Notable People
+#: public/messages/src/editor/utils/editing-utils/template-packs/organization.json
+
+msgid "Notable People"
+msgstr "주목할만한 사람들"
+
+#. [NewPageTemplate.NPT_Organization_NumberOfEmployees]
+#. defaultMessage is:
+#. Number of Employees
+#: public/messages/src/editor/utils/editing-utils/template-packs/organization.json
+
+msgid "Number of Employees"
+msgstr "직원 수"
+
 #. [Stats.OriginalPages]
 #. defaultMessage is:
 #. ORIGINAL PAGES
@@ -2343,6 +2656,13 @@ msgstr "변경 됨"
 #: public/messages/src/app/containers/homepageContainer/stats.json
 msgid "ORIGINAL PAGES"
 msgstr "원래 페이지"
+
+#. [NewPageTemplate.NPT_Person_Occupation]
+#. defaultMessage is:
+#. Occupation
+#: public/messages/src/editor/utils/editing-utils/template-packs/person.json
+msgid "Occupation"
+msgstr "직업"
 
 #. [SaveModalAgain.OnceYouSubmitEdits]
 #. defaultMessage is:
@@ -2368,6 +2688,14 @@ msgstr ""
 "수정 사항을 제출하면 기사에 즉시 표시되고 투표가 가능합니다. 커뮤니티가 승인"
 "하면 편집 내용이 기사에 수락됩니다."
 
+#. [NewPageTemplate.NPT_Organization_OperatingArea]
+#. defaultMessage is:
+#. Operating Area
+#: public/messages/src/editor/utils/editing-utils/template-packs/organization.json
+
+msgid "Operating Area"
+msgstr "운영 영역"
+
 #. [MetadataModal.Organization]
 #. defaultMessage is:
 #. Organization
@@ -2381,6 +2709,14 @@ msgstr "조직"
 #: public/messages/src/editor/plugins/metadata/metadata-modal.json
 msgid "Organization / Company / Institution"
 msgstr "업체/회사/기관"
+
+#. [NewPageTemplate.NPT_Event_Organizers]
+#. defaultMessage is:
+#. Organizer(s)
+#: public/messages/src/editor/utils/editing-utils/template-packs/event.json
+
+msgid "Organizer(s)"
+msgstr "주최자"
 
 #. [ContactUs.Other]
 #. defaultMessage is:
@@ -2458,7 +2794,6 @@ msgstr "페이지 메모"
 #. defaultMessage is:
 #. Page Removal
 #: public/messages/src/app/utils/comment-utils.json
-#, fuzzy
 msgid "Page Removal"
 msgstr "페이지 제거"
 
@@ -2466,8 +2801,6 @@ msgstr "페이지 제거"
 #. defaultMessage is:
 #. Page Removed
 #: public/messages/src/editor/plugins/save/save-modal.json
-#, fuzzy
-#| msgid "Page Note"
 msgid "Page Removed"
 msgstr "페이지 메모"
 
@@ -2482,8 +2815,6 @@ msgstr "페이지"
 #. defaultMessage is:
 #. Page removed.
 #: public/messages/src/app/components/SubmitVote/EditOverview.json
-#, fuzzy
-#| msgid "Page Note"
 msgid "Page removed."
 msgstr "페이지 메모"
 
@@ -2500,6 +2831,14 @@ msgstr "페이지"
 #: public/messages/src/app/components/Chat/messages.json
 msgid "Participants"
 msgstr "참가자"
+
+#. [NewPageTemplate.NPT_Event_Performers]
+#. defaultMessage is:
+#. Performer(s)
+#: public/messages/src/editor/utils/editing-utils/template-packs/event.json
+
+msgid "Performer(s)"
+msgstr "출연자"
 
 #. [SubmitVote.Permalink]
 #. defaultMessage is:
@@ -2522,6 +2861,20 @@ msgstr "권한"
 msgid "Person"
 msgstr "사람"
 
+#. [NewPageTemplate.NPT_Person_Personal]
+#. defaultMessage is:
+#. Personal
+#: public/messages/src/editor/utils/editing-utils/template-packs/person.json
+msgid "Personal"
+msgstr "개인"
+
+#. [NewPageTemplate.NPT_Person_Phone]
+#. defaultMessage is:
+#. Phone
+#: public/messages/src/editor/utils/editing-utils/template-packs/person.json
+msgid "Phone"
+msgstr "전화"
+
 #. [MetadataModal.PlaceLocation]
 #. defaultMessage is:
 #. Place / Location
@@ -2532,12 +2885,18 @@ msgstr "사람"
 msgid "Place / Location"
 msgstr "장소/위치"
 
+#. [NewPageTemplate.NPT_Person_PlaceOfBirth]
+#. defaultMessage is:
+#. Place of Birth
+#: public/messages/src/editor/utils/editing-utils/template-packs/person.json
+
+msgid "Place of Birth"
+msgstr "출생지"
+
 #. [CitationModal.AddEditISBN.EnterTheBooksISBN]
 #. defaultMessage is:
 #. Please Enter the ISBN for the book
 #: public/messages/src/editor/plugins/citation-modal/panes/add-edit-isbn.json
-#, fuzzy
-#| msgid "Please enter a comment for this edit"
 msgid "Please Enter the ISBN for the book"
 msgstr "메시지를 입력해 주세요"
 
@@ -2712,6 +3071,14 @@ msgstr "상품"
 msgid "Product / Merchandise"
 msgstr "상품/제품"
 
+#. [NewPageTemplate.NPT_Product_ProductionDate]
+#. defaultMessage is:
+#. Production Date(s)
+#: public/messages/src/editor/utils/editing-utils/template-packs/product.json
+
+msgid "Production Date(s)"
+msgstr "생산 일"
+
 #. [About.DemocraticDetail]
 #. defaultMessage is:
 #. Proof of Stake (PoS) model allows for voting to change and upgrade the IQ network as it grows. Also will facilitate batch imports of new content with no fees.
@@ -2854,6 +3221,13 @@ msgstr "거부됨"
 #: public/messages/src/app/components/Sidenav/index.json
 msgid "Related Articles"
 msgstr "관련 기술문서"
+
+#. [NewPageTemplate.NPT_Product_ReleaseDate]
+#. defaultMessage is:
+#. Release Date
+#: public/messages/src/editor/utils/editing-utils/template-packs/product.json
+msgid "Release Date"
+msgstr "출시일"
 
 #. [ArticleUtils.Remaining]
 #. defaultMessage is:
@@ -3037,6 +3411,21 @@ msgstr "추가"
 msgid "Send us a message"
 msgstr "메시지를 보냄"
 
+#. [NewPageTemplate.NPT_Organization_Services]
+#. defaultMessage is:
+#. Service(s)
+#: public/messages/src/editor/utils/editing-utils/template-packs/organization.json
+
+msgid "Service(s)"
+msgstr "서비스)"
+
+#. [NewPageTemplate.NPT_Organization_ServicesTwo]
+#. defaultMessage is:
+#. Services
+#: public/messages/src/editor/utils/editing-utils/template-packs/organization.json
+msgid "Services"
+msgstr "서비스"
+
 #. [ShareModal.ShareVia]
 #. defaultMessage is:
 #. Share via:
@@ -3089,6 +3478,13 @@ msgstr "기고하기 시작"
 #: public/messages/src/app/components/error-modal/index.json
 msgid "Start Contributing on Everipedia"
 msgstr "기고하기 시작"
+
+#. [NewPageTemplate.NPT_Event_StartDate]
+#. defaultMessage is:
+#. Start Date
+#: public/messages/src/editor/utils/editing-utils/template-packs/event.json
+msgid "Start Date"
+msgstr "시작일"
 
 #. [About.StartExploring]
 #. defaultMessage is:
@@ -3166,8 +3562,6 @@ msgstr "메시지를 보냈습니다."
 #. defaultMessage is:
 #. Successfully placed
 #: public/messages/src/app/components/SubmitVote/index.json
-#, fuzzy
-#| msgid "Successfully Voted!"
 msgid "Successfully placed"
 msgstr "메시지를 보냈습니다."
 
@@ -3238,6 +3632,13 @@ msgstr "동향"
 #: public/messages/src/app/containers/about/about.container.json
 msgid "Taking the Online Encyclopedia into the Modern Age"
 msgstr "시대에 맞는 백과 사전"
+
+#. [NewPageTemplate.NPT_Organization_Telephone]
+#. defaultMessage is:
+#. Telephone
+#: public/messages/src/editor/utils/editing-utils/template-packs/organization.json
+msgid "Telephone"
+msgstr "전화번호"
 
 #. [Index.Terms]
 #. defaultMessage is:
@@ -3473,6 +3874,14 @@ msgstr ""
 "가이자 로스 앤젤레스 근교의 사우 전드 옥스 (Sousand Oaks) 출신의 사업가입니"
 "다. 그는 UCLA에서 2011 년 분자 생물학, 생화학 및 신경 과학 학위를 취득하여 "
 "Everipedia를 공동 설립했습니다."
+
+#. [NewPageTemplate.NPT_Person_Trivia]
+#. defaultMessage is:
+#. Trivia
+#: public/messages/src/editor/utils/editing-utils/template-packs/person.json
+
+msgid "Trivia"
+msgstr "하찮은 일"
 
 #. [SubmitVoteConfirmation.TryAgain]
 #. defaultMessage is:
@@ -4048,6 +4457,14 @@ msgstr "그리고"
 msgid "approve"
 msgstr "승인"
 
+#. [NewPageTemplate.NPT_Person_Born]
+#. defaultMessage is:
+#. born
+#: public/messages/src/editor/utils/editing-utils/template-packs/person.json
+
+msgid "born"
+msgstr "타고난"
+
 #. [IQInfo.BuyAndSellIQ]
 #. defaultMessage is:
 #. buy and sell IQ
@@ -4066,8 +4483,6 @@ msgstr "변경된"
 #. defaultMessage is:
 #. edit
 #: public/messages/src/app/components/SubmitVote/index.json
-#, fuzzy
-#| msgid "edited"
 msgid "edit"
 msgstr "편집하기"
 
@@ -4104,12 +4519,69 @@ msgstr "파일 크기가 너무 큼"
 msgid "for"
 msgstr "에"
 
+#. [NewPageTemplate.NPT_Organization_Founded]
+#. defaultMessage is:
+#. founded
+#: public/messages/src/editor/utils/editing-utils/template-packs/organization.json
+
+#| msgid "Ended"
+msgid "founded"
+msgstr ""
+"트래비스 무어 (Travis Moore)는 이탈리아계 미국인 컴퓨터 프로그래머, 천사 투자"
+"가이자 로스 앤젤레스 근교의 사우 전드 옥스 (Sousand Oaks) 출신의 사업가입니"
+"다. 그는 UCLA에서 2011 년 분자 생물학, 생화학 및 신경 과학 학위를 취득하여 "
+"Everipedia를 공동 설립했습니다."
+
 #. [Errors.IfYouThinkYouAre]
 #. defaultMessage is:
 #. if you think you are receiving this message in error.
 #: public/messages/src/app/utils/errors.json
 msgid "if you think you are receiving this message in error."
 msgstr "이 메시지가 잘못 전달되었다고 생각하는 경우"
+
+#. [NewPageTemplate.NPT_Product_Include]
+#. defaultMessage is:
+#. include
+#: public/messages/src/editor/utils/editing-utils/template-packs/product.json
+
+msgid "include"
+msgstr "포함"
+
+#. [NewPageTemplate.NPT_Organization_IsA]
+#. defaultMessage is:
+#. is a
+#. [NewPageTemplate.NPT_Person_IsA]
+#. defaultMessage is:
+#. is a
+#: public/messages/src/editor/utils/editing-utils/template-packs/organization.json
+#: public/messages/src/editor/utils/editing-utils/template-packs/person.json
+
+msgid "is a"
+msgstr "이다"
+
+#. [NewPageTemplate.NPT_Place_IsAPlace]
+#. defaultMessage is:
+#. is a place
+#: public/messages/src/editor/utils/editing-utils/template-packs/place.json
+
+msgid "is a place"
+msgstr "투표하기"
+
+#. [NewPageTemplate.NPT_Event_IsAnEvent]
+#. defaultMessage is:
+#. is an event that was first started on
+#: public/messages/src/editor/utils/editing-utils/template-packs/event.json
+
+msgid "is an event that was first started on"
+msgstr "처음 시작된 이벤트입니다"
+
+#. [NewPageTemplate.NPT_Place_IsKnownFor]
+#. defaultMessage is:
+#. is known for
+#: public/messages/src/editor/utils/editing-utils/template-packs/place.json
+
+msgid "is known for"
+msgstr "~로 유명하다"
 
 #. [FileUploader.IsNotASupportedFileExtension]
 #. defaultMessage is:
@@ -4122,12 +4594,26 @@ msgstr "이 메시지가 잘못 전달되었다고 생각하는 경우"
 msgid "is not a supported file extension"
 msgstr "지원되는 파일 확장명이 아닙니다."
 
+#. [NewPageTemplate.NPT_Product_IsAProductCreatedOn]
+#. defaultMessage is:
+#. is product created on
+#: public/messages/src/editor/utils/editing-utils/template-packs/product.json
+
+msgid "is product created on"
+msgstr "에 만들어진 제품입니다"
+
+#. [NewPageTemplate.NPT_CreativeWork_IsWorkThatWasCreated]
+#. defaultMessage is:
+#. is work that was created on
+#: public/messages/src/editor/utils/editing-utils/template-packs/creative-work.json
+
+msgid "is work that was created on"
+msgstr "만든 작품입니다"
+
 #. [ActivityCard.Merged2]
 #. defaultMessage is:
 #. merged
 #: public/messages/src/app/components/ActivityCards/ActivityCard.json
-#, fuzzy
-#| msgid "Merge"
 msgid "merged"
 msgstr "병합"
 
@@ -4137,6 +4623,21 @@ msgstr "병합"
 #: public/messages/src/app/components/SubmitVote/EditOverview.json
 msgid "merged into this article."
 msgstr "이 기사에 대해 이야기하십시오!"
+
+#. [NewPageTemplate.NPT_Event_Offers]
+#. defaultMessage is:
+#. offers
+#. [NewPageTemplate.NPT_Organization_Offers]
+#. defaultMessage is:
+#. offers
+#. [NewPageTemplate.NPT_Place_Offers]
+#. defaultMessage is:
+#. offers
+#: public/messages/src/editor/utils/editing-utils/template-packs/event.json
+#: public/messages/src/editor/utils/editing-utils/template-packs/organization.json
+#: public/messages/src/editor/utils/editing-utils/template-packs/place.json
+msgid "offers"
+msgstr "제안"
 
 #. [IQInfo.OnTheseExchanges]
 #. defaultMessage is:
@@ -4165,6 +4666,14 @@ msgstr "거절"
 #: public/messages/src/app/components/ActivityCards/ActivityCard.json
 msgid "removed"
 msgstr "제거되었습니다."
+
+#. [NewPageTemplate.NPT_Person_StartedHisHerCareer]
+#. defaultMessage is:
+#. started his/her career at
+#: public/messages/src/editor/utils/editing-utils/template-packs/person.json
+
+msgid "started his/her career at"
+msgstr "경력을 시작했다"
 
 #. [Errors.TheseExchanges]
 #. defaultMessage is:
@@ -4240,6 +4749,35 @@ msgstr "투표 한"
 #: public/messages/src/app/components/tooltips/index.json
 msgid "votes"
 msgstr "투표"
+
+#. [NewPageTemplate.NPT_CreativeWork_WasCreatedBy]
+#. defaultMessage is:
+#. was created by
+#. [NewPageTemplate.NPT_Product_WasCreatedBy]
+#. defaultMessage is:
+#. was created by
+#: public/messages/src/editor/utils/editing-utils/template-packs/creative-work.json
+#: public/messages/src/editor/utils/editing-utils/template-packs/product.json
+
+msgid "was created by"
+msgstr "에 의해 만들어진"
+
+#. [NewPageTemplate.NPT_Event_WasFormedBy]
+#. defaultMessage is:
+#. was formed by
+#: public/messages/src/editor/utils/editing-utils/template-packs/event.json
+
+#| msgid "Powered by"
+msgid "was formed by"
+msgstr "다음으로 작동"
+
+#. [NewPageTemplate.NPT_Organization_WasStartedBy]
+#. defaultMessage is:
+#. was started by
+#: public/messages/src/editor/utils/editing-utils/template-packs/organization.json
+
+msgid "was started by"
+msgstr "에 의해 시작되었다"
 
 #. [ActivityCard.Words]
 #. defaultMessage is:
