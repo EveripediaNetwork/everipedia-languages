@@ -1,0 +1,6014 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"POT-Creation-Date: 2019-11-25T22:10:07.335Z\n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: es\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 2.2.4\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+#. [MobileHamburger.SignUp]
+#. defaultMessage is:
+#. + Create an Account / Login
+#: public/messages/src/app/components/Header/Mobile-Hamburger.json
+
+msgid "+ Create an Account / Login"
+msgstr "+ Crear una Cuenta / Entrar"
+
+#. [Chat.NoMessages]
+#. defaultMessage is:
+#. 0 Messages
+#: public/messages/src/app/components/Chat/messages.json
+msgid "0 Messages"
+msgstr "Mensajes"
+
+#. [Chat.NoParticipants]
+#. defaultMessage is:
+#. 0 Participants
+#: public/messages/src/app/components/Chat/messages.json
+msgid "0 Participants"
+msgstr "Participantes"
+
+#. [DashboardComponent.OneMonth]
+#. defaultMessage is:
+#. 1 MONTH
+#: public/messages/src/app/containers/dashboard/dashboard_component.json
+msgid "1 MONTH"
+msgstr "1 MES"
+
+#. [Chat.OneMessage]
+#. defaultMessage is:
+#. 1 Message
+#: public/messages/src/app/components/Chat/messages.json
+msgid "1 Message"
+msgstr "1 Mensaje"
+
+#. [Chat.OneParticipant]
+#. defaultMessage is:
+#. 1 Participant
+#: public/messages/src/app/components/Chat/messages.json
+msgid "1 Participant"
+msgstr "1 Participante"
+
+#. [DashboardComponent.OneYear]
+#. defaultMessage is:
+#. 1 YEAR
+#: public/messages/src/app/containers/dashboard/dashboard_component.json
+msgid "1 YEAR"
+msgstr "1 AÑO"
+
+#. [DashboardComponent.ThreeMonths]
+#. defaultMessage is:
+#. 3 MONTHS
+#: public/messages/src/app/containers/dashboard/dashboard_component.json
+msgid "3 MONTHS"
+msgstr "3 MESES"
+
+#. [DashboardComponent.SixMonths]
+#. defaultMessage is:
+#. 6 MONTHS
+#: public/messages/src/app/containers/dashboard/dashboard_component.json
+msgid "6 MONTHS"
+msgstr "6 MESES"
+
+#. [DashboardComponent.SevenDays]
+#. defaultMessage is:
+#. 7 DAYS
+#: public/messages/src/app/containers/dashboard/dashboard_component.json
+msgid "7 DAYS"
+msgstr "7 DIAS"
+
+#. [Homepage.UniverseOfKnowledge]
+#. defaultMessage is:
+#. A universe of knowledge.
+#: public/messages/src/app/containers/homepageContainer/homepage.container.json
+msgid "A universe of knowledge."
+msgstr "Un universo de conocimiento."
+
+#. [Leaderboard.AllTimeCap]
+#. defaultMessage is:
+#. ALL TIME
+#: public/messages/src/app/containers/homepageContainer/leaderboard.json
+
+msgid "ALL TIME"
+msgstr "Todo el tiempo"
+
+#. [Index.APIBy]
+#. defaultMessage is:
+#. API by
+#: public/messages/src/app/components/Footer/index.json
+msgid "API by"
+msgstr "API de"
+
+#. [SubmitVote.ArticleHistory]
+#. defaultMessage is:
+#. ARTICLE HISTORY
+#: public/messages/src/app/components/SubmitVote/index.json
+
+msgid "ARTICLE HISTORY"
+msgstr "HISTORIAL DE ARTÍCULOS"
+
+#. [Stats.ArticleViews]
+#. defaultMessage is:
+#. ARTICLE VIEWS
+#: public/messages/src/app/containers/admin/admin.container.json
+msgid "ARTICLE VIEWS"
+msgstr "PUNTOS DE VISTA DEL ARTÍCULO"
+
+#. [Stats.Articles]
+#. defaultMessage is:
+#. ARTICLES
+#. [Suggestions.Articles]
+#. defaultMessage is:
+#. ARTICLES
+#: public/messages/src/app/containers/admin/admin.container.json
+#: public/messages/src/editor/components/mentions/suggestions.json
+msgid "ARTICLES"
+msgstr ""
+"Los artículos se obtienen utilizando Almacenamiento IPFS y EOS. La mayoría "
+"del IQ se distribuye durante el airdrop."
+
+#. [AsSeenIn.AsSeenIn]
+#. defaultMessage is:
+#. AS SEEN IN
+#: public/messages/src/app/containers/about/as-seen.json
+
+msgid "AS SEEN IN"
+msgstr "Como se vio en"
+
+#. [SubmitBoostModal.AvailableBalance]
+#. defaultMessage is:
+#. AVAILABLE BALANCE
+#. [SubmitVoteConfirmation.AvailableBalance]
+#. defaultMessage is:
+#. AVAILABLE BALANCE
+#: public/messages/src/app/components/Boost/SubmitBoostModal.json
+#: public/messages/src/app/components/SubmitVote/ConfirmationModal.json
+
+msgid "AVAILABLE BALANCE"
+msgstr "Saldo disponible"
+
+#. [Index.About]
+#. defaultMessage is:
+#. About
+#. [Header.About]
+#. defaultMessage is:
+#. About
+#. [MobileHamburger.About]
+#. defaultMessage is:
+#. About
+#. [About.About]
+#. defaultMessage is:
+#. About
+#. [Header.AboutTwo]
+#. defaultMessage is:
+#. About
+#: public/messages/src/app/components/Footer/index.json
+#: public/messages/src/app/components/Header/index.json
+#: public/messages/src/app/components/Header/Mobile-Hamburger.json
+#: public/messages/src/app/containers/about/about.container.json
+#: public/messages/src/app/containers/homepageContainer/featured.json
+msgid "About"
+msgstr "Acerca de"
+
+#. [LearnMore.AboutEveripedia]
+#. defaultMessage is:
+#. About Everipedia
+#: public/messages/src/app/components/learn-more/index.json
+msgid "About Everipedia"
+msgstr "Acerca de Everipedia"
+
+#. [EditProfile.AboutMe]
+#. defaultMessage is:
+#. About Me
+#. [Dashboard.AboutMe]
+#. defaultMessage is:
+#. About Me
+#: public/messages/src/app/components/edit-profile/index.json
+#: public/messages/src/app/containers/dashboard/dashboard_component.json
+msgid "About Me"
+msgstr "Sobre mi"
+
+#. [EditProfile.AboutMeMustBeLonger]
+#. defaultMessage is:
+#. About Me must be longer than 3 characters
+#: public/messages/src/app/components/edit-profile/index.json
+
+msgid "About Me must be longer than 3 characters"
+msgstr "Sobre Mí debe tener más de 3 caracteres"
+
+#. [SubmitVoteConfirmation.Accept]
+#. defaultMessage is:
+#. Accept
+#: public/messages/src/app/components/SubmitVote/ConfirmationModal.json
+msgid "Accept"
+msgstr "Aceptar"
+
+#. [SubmitVote.Accepted]
+#. defaultMessage is:
+#. Accepted
+#. [SubmitVote.AcceptedTwo]
+#. defaultMessage is:
+#. Accepted
+#: public/messages/src/app/components/SubmitVote/index.json
+msgid "Accepted"
+msgstr "Aceptado"
+
+#. [Login.Account]
+#. defaultMessage is:
+#. Account
+#: public/messages/src/app/components/Login/auth.json
+msgid "Account"
+msgstr "Cuenta"
+
+#. [ContactUs.accountIssues]
+#. defaultMessage is:
+#. Account Issues
+#: public/messages/src/app/containers/contact-us/messages.json
+msgid "Account Issues"
+msgstr "Cuenta"
+
+#. [EditProfile.AccountName]
+#. defaultMessage is:
+#. Account Name
+#: public/messages/src/app/components/edit-profile/index.json
+msgid "Account Name"
+msgstr "Nombre de la cuenta"
+
+#. [Dashboard.ActiveBoosts]
+#. defaultMessage is:
+#. Active Boosts
+#: public/messages/src/app/containers/dashboard/dashboard_component.json
+
+#| msgid "Active Voting"
+msgid "Active Boosts"
+msgstr "Voto Activo"
+
+#. [CategoryResultCard.ActiveVoting]
+#. defaultMessage is:
+#. Active Voting
+#. [SearchCard.ActiveVoting]
+#. defaultMessage is:
+#. Active Voting
+#: public/messages/src/app/containers/category-results/categoryResultCard.json
+#: public/messages/src/app/containers/searchResultsFull/searchCard.json
+msgid "Active Voting"
+msgstr "Voto Activo"
+
+#. [Chat.ActivityThree]
+#. defaultMessage is:
+#. Activity
+#. [Header.Activity]
+#. defaultMessage is:
+#. Activity
+#. [MobileHamburger.Activity]
+#. defaultMessage is:
+#. Activity
+#. [Header.ActivityTwo]
+#. defaultMessage is:
+#. Activity
+#: public/messages/src/app/components/Chat/index.json
+#: public/messages/src/app/components/Header/index.json
+#: public/messages/src/app/components/Header/Mobile-Hamburger.json
+#: public/messages/src/app/containers/homepageContainer/featured.json
+msgid "Activity"
+msgstr "Límite de actividad alcanzado"
+
+#. [InfoboxModal.Add]
+#. defaultMessage is:
+#. Add
+#. [SectionMediaModal.AddEditURL.Add]
+#. defaultMessage is:
+#. Add
+#: public/messages/src/editor/plugins/infobox/infobox-modal.json
+#: public/messages/src/editor/plugins/section-media-modal/panes/add-edit-url.json
+msgid "Add"
+msgstr "Añadir nuevo artículo de la caja de información"
+
+#. [InfoboxModal.AddAnother]
+#. defaultMessage is:
+#. Add Another
+#: public/messages/src/editor/plugins/infobox/infobox-modal.json
+msgid "Add Another"
+msgstr "Agregar otro"
+
+#. [CitationModal.AddCitation]
+#. defaultMessage is:
+#. Add Citation
+#: public/messages/src/editor/plugins/citation-modal/citation-modal.json
+
+msgid "Add Citation"
+msgstr "Añadir cita"
+
+#. [CategoriesNode.AddFirstCategory]
+#. defaultMessage is:
+#. Add First Category
+#: public/messages/src/editor/plugins/categories/categories.node.json
+
+#| msgid "Category"
+msgid "Add First Category"
+msgstr "Categoría"
+
+#. [MediaGallery.AddImage]
+#. defaultMessage is:
+#. Add Image or Video to Media Gallery
+#: public/messages/src/editor/plugins/media-gallery/media-gallery-modal.json
+
+msgid "Add Image or Video to Media Gallery"
+msgstr "Añadir imagen o vídeo a la galería multimedia"
+
+#. [SectionMediaModal.AddInlineImage]
+#. defaultMessage is:
+#. Add Inline Image
+#: public/messages/src/editor/plugins/section-media-modal/section-media-modal.json
+
+msgid "Add Inline Image"
+msgstr "Agregar imagen en línea"
+
+#. [InfoboxModal.AddLabel]
+#. defaultMessage is:
+#. Add Label
+#: public/messages/src/editor/plugins/infobox/infobox-modal.json
+msgid "Add Label"
+msgstr "Añadir Etiqueta"
+
+#. [MainPhoto.AddMainPhoto]
+#. defaultMessage is:
+#. Add Main Photo
+#: public/messages/src/editor/plugins/main-photo/main-photo-modal.json
+
+msgid "Add Main Photo"
+msgstr "Añadir foto principal"
+
+#. [MediaGallery.AddNewItem]
+#. defaultMessage is:
+#. Add New Image or Video to Gallery
+#: public/messages/src/editor/plugins/media-gallery/media-gallery.node.json
+
+msgid "Add New Image or Video to Gallery"
+msgstr "Agregar nueva imagen o vídeo a la galería"
+
+#. [InfoboxModal.AddNewItem]
+#. defaultMessage is:
+#. Add New Item to Infobox
+#. [InfoboxModal.AddNewItemToInfobox]
+#. defaultMessage is:
+#. Add New Item to Infobox
+#. [InfoboxModal.AddNewItemInfobox]
+#. defaultMessage is:
+#. Add New Item to Infobox
+#: public/messages/src/editor/plugins/infobox/infobox-modal.json
+
+msgid "Add New Item to Infobox"
+msgstr "Agregar un nuevo artículo a Infobox"
+
+#. [AddRelatedModal.Title]
+#. defaultMessage is:
+#. Add a related page
+#: public/messages/src/editor/plugins/add-related/add-related-modal.json
+msgid "Add a related page"
+msgstr "Añadir una página relacionada"
+
+#. [InfoboxModal.AddAndAddAnother]
+#. defaultMessage is:
+#. Add and Add Another
+#: public/messages/src/editor/plugins/infobox/infobox-modal.json
+msgid "Add and Add Another"
+msgstr "Agregar y agregar otro"
+
+#. [CitationModal.AddEditFile.AddAndInsert]
+#. defaultMessage is:
+#. Add and Insert
+#. [CitationModal.AddEditISBN.AddAndInsert]
+#. defaultMessage is:
+#. Add and Insert
+#. [CitationModal.AddEditURL.AddAndInsert]
+#. defaultMessage is:
+#. Add and Insert
+#. [SectionMediaModal.AddEditURL.AddAndInsert]
+#. defaultMessage is:
+#. Add and Insert
+#: public/messages/src/editor/plugins/citation-modal/panes/add-edit-file.json
+#: public/messages/src/editor/plugins/citation-modal/panes/add-edit-isbn.json
+#: public/messages/src/editor/plugins/citation-modal/panes/add-edit-url.json
+#: public/messages/src/editor/plugins/section-media-modal/panes/add-edit-url.json
+msgid "Add and Insert"
+msgstr "Agregar y agregar otro"
+
+#. [ImageUploader.AddCustomCaption]
+#. defaultMessage is:
+#. Add custom caption (optional)
+#: public/messages/src/shared/inputs/image-uploader/image-uploader.component.json
+
+msgid "Add custom caption (optional)"
+msgstr "Agregar subtítulo personalizado (opcional)"
+
+#. [CitationModdal.Title]
+#. defaultMessage is:
+#. Add or edit a citation
+#. [SectionMediaModal.Title]
+#. defaultMessage is:
+#. Add or edit a citation
+#: public/messages/src/editor/plugins/citation-modal/citation-modal.json
+#: public/messages/src/editor/plugins/section-media-modal/section-media-modal.json
+msgid "Add or edit a citation"
+msgstr "Agregar o editar una cita"
+
+#. [MainPhoto.Title]
+#. defaultMessage is:
+#. Add or edit the main image
+#: public/messages/src/editor/plugins/main-photo/main-photo-modal.json
+msgid "Add or edit the main image"
+msgstr "Agregar o editar una cita"
+
+#. [CitationModal.AddEditFile.AddWithoutInsert]
+#. defaultMessage is:
+#. Add without Inserting
+#. [CitationModal.AddEditISBN.AddWithoutInsert]
+#. defaultMessage is:
+#. Add without Inserting
+#. [CitationModal.AddEditURL.AddWithoutInsert]
+#. defaultMessage is:
+#. Add without Inserting
+#: public/messages/src/editor/plugins/citation-modal/panes/add-edit-file.json
+#: public/messages/src/editor/plugins/citation-modal/panes/add-edit-isbn.json
+#: public/messages/src/editor/plugins/citation-modal/panes/add-edit-url.json
+
+#| msgid "Add and Insert"
+msgid "Add without Inserting"
+msgstr "Agregar y agregar otro"
+
+#. [CreatePage.Description]
+#. defaultMessage is:
+#. Add your contribution to the world’s most universal knowledge base. You can create an article about anything.
+#: public/messages/src/app/components/create-new-page/index.json
+
+msgid ""
+"Add your contribution to the world’s most universal knowledge base. You can "
+"create an article about anything."
+msgstr ""
+"Añada su contribución a la base de conocimientos más universal del mundo. "
+"Puedes crear un artículo sobre cualquier cosa."
+
+#. [MediaGallery.AddingMediaMakes]
+#. defaultMessage is:
+#. Adding media makes an article more interactive and engaging.
+#. [SectionMediaModal.AddingMediaMakes]
+#. defaultMessage is:
+#. Adding media makes an article more interactive and engaging.
+#: public/messages/src/editor/plugins/media-gallery/media-gallery-modal.json
+#: public/messages/src/editor/plugins/section-media-modal/section-media-modal.json
+
+msgid "Adding media makes an article more interactive and engaging."
+msgstr ""
+"Agregar medios de comunicación hace que un artículo sea más interactivo y "
+"atractivo."
+
+#. [SubmitBoostModal.AdditionalBoostAmount]
+#. defaultMessage is:
+#. Additional boost amount
+#: public/messages/src/app/components/Boost/SubmitBoostModal.json
+
+msgid "Additional boost amount"
+msgstr "Importe adicional de refuerzo"
+
+#. [NewPageTemplate.NPT_Organization_AddressLocation]
+#. defaultMessage is:
+#. Address / Location
+#. [NewPageTemplate.NPT_Person_Addr_Loc]
+#. defaultMessage is:
+#. Address / Location
+#. [NewPageTemplate.NPT_Place_AddressLocation]
+#. defaultMessage is:
+#. Address / Location
+#: public/messages/src/editor/utils/editing-utils/template-packs/organization.json
+#: public/messages/src/editor/utils/editing-utils/template-packs/person.json
+#: public/messages/src/editor/utils/editing-utils/template-packs/place.json
+msgid "Address / Location"
+msgstr "Dirección / Ubicación"
+
+#. [MetadataModal.AdultContent]
+#. defaultMessage is:
+#. Adult Content
+#: public/messages/src/editor/plugins/metadata/metadata-modal.json
+msgid "Adult Content"
+msgstr "Contenido para adultos"
+
+#. [About.FinancialIncentiveDetail]
+#. defaultMessage is:
+#. All holders of IQ will be incentivized to create quality, neutral content and to work together in building the reputation of the network.
+#: public/messages/src/app/containers/about/about.container.json
+msgid ""
+"All holders of IQ will be incentivized to create quality, neutral content "
+"and to work together in building the reputation of the network."
+msgstr ""
+"Todos los poseedores de IQ serán incentivados para crear contenido neutralde "
+"calidad y para trabajar juntos en la construcción de la reputación de la red."
+
+#. [MetadataModal.AllowNonGooglebot]
+#. defaultMessage is:
+#. Allow Non-Googlebot
+#: public/messages/src/editor/plugins/metadata/metadata-modal.json
+msgid "Allow Non-Googlebot"
+msgstr "Permitir que los usuarios que no sean usuarios de Googlebot"
+
+#. [CitationModal.AddEditFile.AllowedFormats]
+#. defaultMessage is:
+#. Allowed formats:
+#: public/messages/src/editor/plugins/citation-modal/panes/add-edit-file.json
+
+msgid "Allowed formats:"
+msgstr "Formatos permitidos:"
+
+#. [Homepage.ModernAge]
+#. defaultMessage is:
+#. An encyclopedia for the modern age.
+#: public/messages/src/app/containers/homepageContainer/homepage.container.json
+
+msgid "An encyclopedia for the modern age."
+msgstr "Una enciclopedia para la época moderna"
+
+#. [ThirdBlock.OpenCommunity]
+#. defaultMessage is:
+#. An open community expanding the world’s knowledge
+#: public/messages/src/app/containers/about/third-block.json
+
+msgid "An open community expanding the world’s knowledge"
+msgstr "Una comunidad abierta que expande el conocimiento del mundo"
+
+#. [ContactUs.AnonymousTip]
+#. defaultMessage is:
+#. Anonymous Tip
+#: public/messages/src/app/components/ContactUsForm/index.json
+msgid "Anonymous Tip"
+msgstr "Consejo Anónimo"
+
+#. [About.DemocraticGovernanceText]
+#. defaultMessage is:
+#. Anyone with IQ Tokens is a stakeholder in the Everipedia Network. Using IQ tokens to vote, users decide which new articles and edits are added to the knowledge base.
+#: public/messages/src/app/containers/about/about.container.json
+
+msgid ""
+"Anyone with IQ Tokens is a stakeholder in the Everipedia Network. Using IQ "
+"tokens to vote, users decide which new articles and edits are added to the "
+"knowledge base."
+msgstr ""
+"Cualquier persona con IQ Tokens es parte interesada en la Red Everipedia. "
+"Utilizando tokens de CI para votar, los usuarios deciden qué nuevos "
+"artículos y ediciones se añaden a la base de conocimientos."
+
+#. [Chat.AreYouSureYouWantToDeleteThis]
+#. defaultMessage is:
+#. Are you sure you want to delete this
+#: public/messages/src/app/components/Chat/messages.json
+msgid "Are you sure you want to delete this"
+msgstr "¿Estás seguro de que quieres borrar esto?"
+
+#. [About.DecentralizedDetail]
+#. defaultMessage is:
+#. Articles are fetched using IPFS and EOS Storage. Majority of IQ being distributed during the airdrop.
+#: public/messages/src/app/containers/about/about.container.json
+msgid ""
+"Articles are fetched using IPFS and EOS Storage. Majority of IQ being "
+"distributed during the airdrop."
+msgstr ""
+"Los artículos se obtienen utilizando Almacenamiento IPFS y EOS. La mayoría "
+"del IQ se distribuye durante el airdrop."
+
+#. [ThirdBlock.AsAnEditor]
+#. defaultMessage is:
+#. As an editor, the killer feature of Everipedia is that as long as you use sources and a neutral wording, you can write an article about anything you want. A dapp you like, yourself — anything.
+#: public/messages/src/app/containers/about/third-block.json
+
+msgid ""
+"As an editor, the killer feature of Everipedia is that as long as you use "
+"sources and a neutral wording, you can write an article about anything you "
+"want. A dapp you like, yourself — anything."
+msgstr ""
+"Como editor, la característica principal de Everipedia es que, siempre que "
+"se utilicen fuentes y una redacción neutra, se puede escribir un artículo "
+"sobre cualquier cosa que se desee. Un tipo que te guste, a ti mismo, lo que "
+"sea."
+
+#. [NewPageTemplate.NPT_Product_Audience]
+#. defaultMessage is:
+#. Audience
+#: public/messages/src/editor/utils/editing-utils/template-packs/product.json
+msgid "Audience"
+msgstr "Destinatarios"
+
+#. [AccountNameHeader.Available]
+#. defaultMessage is:
+#. Available
+#: public/messages/src/app/components/Header/account-name-header.json
+msgid "Available"
+msgstr "Disponible"
+
+#. [Dashboard.AvailableBalance]
+#. defaultMessage is:
+#. Available Balance
+#: public/messages/src/app/containers/dashboard/dashboard_component.json
+msgid "Available Balance"
+msgstr "Saldo disponible"
+
+#. [Dashboard.BalanceDetail]
+#. defaultMessage is:
+#. Balance Detail
+#: public/messages/src/app/containers/dashboard/dashboard_component.json
+
+msgid "Balance Detail"
+msgstr "Detalle de Saldo"
+
+#. [About.BecomeAnEditor]
+#. defaultMessage is:
+#. Become an Editor
+#: public/messages/src/app/containers/about/about.container.json
+
+msgid "Become an Editor"
+msgstr "Conviértase en editor"
+
+#. [NewPageTemplate.NPT_Person_Birthday]
+#. defaultMessage is:
+#. Birthday
+#: public/messages/src/editor/utils/editing-utils/template-packs/person.json
+msgid "Birthday"
+msgstr "Cumpleaños"
+
+#. [BoostBox.Boost]
+#. defaultMessage is:
+#. Boost
+#. [SubmitBoostModal.Boost]
+#. defaultMessage is:
+#. Boost
+#: public/messages/src/app/components/Boost/index.json
+#: public/messages/src/app/components/Boost/SubmitBoostModal.json
+msgid "Boost"
+msgstr "Potenciar"
+
+#. [SubmitBoostModal.BoostAmount]
+#. defaultMessage is:
+#. Boost amount
+#: public/messages/src/app/components/Boost/SubmitBoostModal.json
+
+msgid "Boost amount"
+msgstr "Cantidad de votos"
+
+#. [SubmitBoostModal.BoostYourVotingPower]
+#. defaultMessage is:
+#. Boost your voting power
+#: public/messages/src/app/components/Boost/SubmitBoostModal.json
+
+msgid "Boost your voting power"
+msgstr "Aumente su poder de voto"
+
+#. [SubmitBoostModal.BoostingFailed]
+#. defaultMessage is:
+#. Boosting Failed
+#: public/messages/src/app/components/Boost/SubmitBoostModal.json
+
+msgid "Boosting Failed"
+msgstr "Impulso fallido"
+
+#. [BoostBox.BoostsVotingPower]
+#. defaultMessage is:
+#. Boosts / Voting Power
+#. [Sidenav.Boosts]
+#. defaultMessage is:
+#. Boosts / Voting Power
+#: public/messages/src/app/components/Boost/index.json
+#: public/messages/src/app/components/Sidenav/index.json
+
+msgid "Boosts / Voting Power"
+msgstr "Impulsos / Poder de Voto"
+
+#. [CategoryBox.Categories]
+#. defaultMessage is:
+#. CATEGORIES
+#: public/messages/src/app/components/ArticleComponent/CategoryBox.json
+msgid "CATEGORIES"
+msgstr "CATEGORÍAS"
+
+#. [Suggestions.Citations]
+#. defaultMessage is:
+#. CITATIONS
+#: public/messages/src/editor/components/mentions/suggestions.json
+msgid "CITATIONS"
+msgstr "CITACIONES"
+
+#. [SubmitBoostModal.Cancel]
+#. defaultMessage is:
+#. Cancel
+#. [SubmitVoteConfirmation.Cancel]
+#. defaultMessage is:
+#. Cancel
+#. [CategoriesModal.Cancel]
+#. defaultMessage is:
+#. Cancel
+#. [CitationModal.AddEditFile.Cancel]
+#. defaultMessage is:
+#. Cancel
+#. [CitationModal.AddEditISBN.Cancel]
+#. defaultMessage is:
+#. Cancel
+#. [CitationModal.AddEditURL.Cancel]
+#. defaultMessage is:
+#. Cancel
+#. [CitationModal.InsertExisting.Cancel]
+#. defaultMessage is:
+#. Cancel
+#. [ConnectLanguagesModal.Cancel]
+#. defaultMessage is:
+#. Cancel
+#. [InfoboxModal.Cancel]
+#. defaultMessage is:
+#. Cancel
+#. [MergeModalAgain.Cancel]
+#. defaultMessage is:
+#. Cancel
+#. [MetadataModal.Cancel]
+#. defaultMessage is:
+#. Cancel
+#. [SaveModalAgain.CancelTwo]
+#. defaultMessage is:
+#. Cancel
+#. [SaveModalAgain.Cancel]
+#. defaultMessage is:
+#. Cancel
+#. [SectionMediaModal.AddEditURL.Cancel]
+#. defaultMessage is:
+#. Cancel
+#. [SectionMediaModal.InsertExisting.Cancel]
+#. defaultMessage is:
+#. Cancel
+#. [FileUploader.Cancel]
+#. defaultMessage is:
+#. Cancel
+#. [ImageUploader.Cancel]
+#. defaultMessage is:
+#. Cancel
+#: public/messages/src/app/components/Boost/SubmitBoostModal.json
+#: public/messages/src/app/components/SubmitVote/ConfirmationModal.json
+#: public/messages/src/editor/plugins/categories/categories-modal.json
+#: public/messages/src/editor/plugins/citation-modal/panes/add-edit-file.json
+#: public/messages/src/editor/plugins/citation-modal/panes/add-edit-isbn.json
+#: public/messages/src/editor/plugins/citation-modal/panes/add-edit-url.json
+#: public/messages/src/editor/plugins/citation-modal/panes/insert-existing.json
+#: public/messages/src/editor/plugins/connect-languages/connect-languages-modal.json
+#: public/messages/src/editor/plugins/infobox/infobox-modal.json
+#: public/messages/src/editor/plugins/merge/merge-modal.json
+#: public/messages/src/editor/plugins/metadata/metadata-modal.json
+#: public/messages/src/editor/plugins/save/save-modal.json
+#: public/messages/src/editor/plugins/section-media-modal/panes/add-edit-url.json
+#: public/messages/src/editor/plugins/section-media-modal/panes/insert-existing.json
+#: public/messages/src/shared/inputs/image-uploader/file-uploader.component.json
+#: public/messages/src/shared/inputs/image-uploader/image-uploader.component.json
+msgid "Cancel"
+msgstr "Cancelar"
+
+#. [SearchResults.CantFindWhat]
+#. defaultMessage is:
+#. Can’t find what you’re looking for?
+#: public/messages/src/app/containers/searchResultsFull/searchResultsFull.container.json
+msgid "Can’t find what you’re looking for?"
+msgstr "¿No encuentra lo que busca?"
+
+#. [NewPageTemplate.NPT_Event_Capacity]
+#. defaultMessage is:
+#. Capacity
+#: public/messages/src/editor/utils/editing-utils/template-packs/event.json
+msgid "Capacity"
+msgstr "Capacidad"
+
+#. [NewPageTemplate.NPT_Person_Career]
+#. defaultMessage is:
+#. Career
+#: public/messages/src/editor/utils/editing-utils/template-packs/person.json
+msgid "Career"
+msgstr "Carrera"
+
+#. [CategoryBox.CategoriesPlain]
+#. defaultMessage is:
+#. Categories
+#. [Sidenav.Categories]
+#. defaultMessage is:
+#. Categories
+#. [CommentUtils.Categories]
+#. defaultMessage is:
+#. Categories
+#: public/messages/src/app/components/ArticleComponent/CategoryBox.json
+#: public/messages/src/app/components/Sidenav/index.json
+#: public/messages/src/app/utils/comment-utils.json
+msgid "Categories"
+msgstr "Categorías"
+
+#. [SaveModalAgain.CategoryLabel]
+#. defaultMessage is:
+#. Category
+#: public/messages/src/editor/plugins/save/save-modal-parts/comment-and-category.json
+msgid "Category"
+msgstr "Categoría"
+
+#. [About.CensorshipResistant]
+#. defaultMessage is:
+#. Censorship Resistant
+#: public/messages/src/app/containers/about/about.container.json
+msgid "Censorship Resistant"
+msgstr "Resistente a la censura"
+
+#. [IQInfo.Centralized]
+#. defaultMessage is:
+#. Centralized
+#: public/messages/src/app/containers/iq-info/iq-info.container.json
+
+#| msgid "Decentralized"
+msgid "Centralized"
+msgstr ""
+"El blockchain de Everipedia IQ proporciona un nuevo cambio de paradigma y la "
+"economía del conocimiento para interrumpir el viejo modelo de enciclopedia "
+"centralizada del conocimiento de Internet similar al de Wikipedia. Creando "
+"una nueva estructura de incentivos y un backend distribuido alojado dentro "
+"de un blockchain, la nueva base de conocimiento de Everipedia será capaz de "
+"mejorar todas las características fundamentales de Wikipedia."
+
+#. [ActivityCard.Changed]
+#. defaultMessage is:
+#. Changed
+#. [Chat.ChangedTwo]
+#. defaultMessage is:
+#. Changed
+#. [ChatItem.Changed]
+#. defaultMessage is:
+#. Changed
+#. [EditOverview.ChangedTwo]
+#. defaultMessage is:
+#. Changed
+#: public/messages/src/app/components/ActivityCards/ActivityCard.json
+#: public/messages/src/app/components/Chat/ChatItem.json
+#: public/messages/src/app/components/SubmitVote/EditOverview.json
+msgid "Changed"
+msgstr "Cambiado"
+
+#. [Chat.ChatThree]
+#. defaultMessage is:
+#. Chat
+#. [Chat.ChatMessages]
+#. defaultMessage is:
+#. Chat
+#. [Header.ChatTwo]
+#. defaultMessage is:
+#. Chat
+#. [MobileHamburger.Chat]
+#. defaultMessage is:
+#. Chat
+#. [Header.Chat]
+#. defaultMessage is:
+#. Chat
+#: public/messages/src/app/components/Chat/index.json
+#: public/messages/src/app/components/Chat/messages.json
+#: public/messages/src/app/components/Header/index.json
+#: public/messages/src/app/components/Header/Mobile-Hamburger.json
+#: public/messages/src/app/containers/homepageContainer/featured.json
+msgid "Chat"
+msgstr "Chat"
+
+#. [Chat.ChatAboutThisArticle]
+#. defaultMessage is:
+#. Chat about this article!
+#: public/messages/src/app/components/Chat/messages.json
+msgid "Chat about this article!"
+msgstr "Chatea sobre este artículo!"
+
+#. [TeamInfo.TheodorForseliusTitle]
+#. defaultMessage is:
+#. Chief Executive Officer
+#: public/messages/src/app/containers/about/third-block.json
+
+msgid "Chief Executive Officer"
+msgstr "Director Ejecutivo, Cofundador"
+
+#. [TeamInfo.LarrySangerTitle]
+#. defaultMessage is:
+#. Chief Information Officer
+#: public/messages/src/app/containers/about/third-block.json
+msgid "Chief Information Officer"
+msgstr "Director de Información"
+
+#. [TeamInfo.SuchetDhindsaTitle]
+#. defaultMessage is:
+#. Chief Operating Officer
+#: public/messages/src/app/containers/about/third-block.json
+msgid "Chief Operating Officer"
+msgstr "Director de operaciones"
+
+#. [TeamInfo.DanielLiebeskindTitle]
+#. defaultMessage is:
+#. Chief Product Officer
+#: public/messages/src/app/containers/about/third-block.json
+
+msgid "Chief Product Officer"
+msgstr "Jefe de Producto"
+
+#. [TeamInfo.TravisMooreTitle]
+#. defaultMessage is:
+#. Chief Technology Officer
+#: public/messages/src/app/containers/about/third-block.json
+
+msgid "Chief Technology Officer"
+msgstr "Director de Tecnología, Cofundador"
+
+#. [MainPhoto.ButtonText]
+#. defaultMessage is:
+#. Choose a new main image
+#: public/messages/src/editor/plugins/main-photo/main-photo-modal.json
+msgid "Choose a new main image"
+msgstr "Elegir una nueva imagen principal"
+
+#. [Login.AnotherLoginMethod]
+#. defaultMessage is:
+#. Choose another login method
+#: public/messages/src/app/components/Login/index.json
+
+msgid "Choose another login method"
+msgstr "Elija otro método de acceso"
+
+#. [FileUploader.ChooseImages]
+#. defaultMessage is:
+#. Choose images
+#. [ImageUploader.ChooseImages]
+#. defaultMessage is:
+#. Choose images
+#: public/messages/src/shared/inputs/image-uploader/file-uploader.component.json
+#: public/messages/src/shared/inputs/image-uploader/image-uploader.component.json
+msgid "Choose images"
+msgstr "Elija imágenes"
+
+#. [CommentUtils.Citation]
+#. defaultMessage is:
+#. Citation
+#: public/messages/src/app/utils/comment-utils.json
+msgid "Citation"
+msgstr "Agregar o editar una cita"
+
+#. [CitationModal.Cite]
+#. defaultMessage is:
+#. Cite
+#: public/messages/src/editor/plugins/citation-modal/index.json
+msgid "Cite"
+msgstr "Citar"
+
+#. [EditProfile.City]
+#. defaultMessage is:
+#. City
+#: public/messages/src/app/components/edit-profile/index.json
+msgid "City"
+msgstr "Ciudad"
+
+#. [ContactUs.ClickHere]
+#. defaultMessage is:
+#. Click here
+#: public/messages/src/app/containers/contact-us/contact-form.json
+
+msgid "Click here"
+msgstr "Haz clic aquí para subir una imagen para tu perfil de editor."
+
+#. [CitationModal.AddEditFile.Intro]
+#. defaultMessage is:
+#. Click or drag a non-media file to this area to upload, such as a PDF, Word document, or Excel file.
+#: public/messages/src/editor/plugins/citation-modal/panes/add-edit-file.json
+
+msgid ""
+"Click or drag a non-media file to this area to upload, such as a PDF, Word "
+"document, or Excel file."
+msgstr ""
+"Haga clic o arrastre un archivo que no sea multimedia a esta área para "
+"cargarlo, como un archivo PDF, un documento de Word o un archivo de Excel."
+
+#. [SaveModalAgain.ClickToSelectTheType]
+#. defaultMessage is:
+#. Click to select the type of edit you made (required)
+#: public/messages/src/editor/plugins/save/save-modal-parts/comment-and-category.json
+
+msgid "Click to select the type of edit you made (required)"
+msgstr ""
+"Haga clic para seleccionar el tipo de edición que ha realizado (obligatorio)"
+
+#. [SubmitVote.ClickToVoteOnThisEdit]
+#. defaultMessage is:
+#. Click to vote on this edit
+#: public/messages/src/app/components/SubmitVote/index.json
+
+msgid "Click to vote on this edit"
+msgstr "Haga clic para votar sobre esta edición"
+
+#. [ThirdBlock.CoFounderWikipedia]
+#. defaultMessage is:
+#. Co-Founder Wikipedia, CIO Everipedia
+#: public/messages/src/app/containers/about/third-block.json
+
+msgid "Co-Founder Wikipedia, CIO Everipedia"
+msgstr "Cofundador de Wikipedia, CIO Everipedia"
+
+#. [TableMenu.Column]
+#. defaultMessage is:
+#. Column
+#: public/messages/src/editor/plugins/table/table-button.json
+msgid "Column"
+msgstr "Columna"
+
+#. [ActivityCard.Comment]
+#. defaultMessage is:
+#. Comment
+#. [SaveModalAgain.CommentLabel]
+#. defaultMessage is:
+#. Comment
+#: public/messages/src/app/components/ActivityCards/ActivityCard.json
+#: public/messages/src/editor/plugins/save/save-modal-parts/comment-and-category.json
+msgid "Comment"
+msgstr "Comentario"
+
+#. [ContactUs.CommonQuestions]
+#. defaultMessage is:
+#. Common Questions
+#: public/messages/src/app/containers/contact-us/contact-us.container.json
+msgid "Common Questions"
+msgstr "Preguntas más frecuentes"
+
+#. [SubmitBoostModal.ConfirmYourBoost]
+#. defaultMessage is:
+#. Confirm Your Boost
+#: public/messages/src/app/components/Boost/SubmitBoostModal.json
+
+msgid "Confirm Your Boost"
+msgstr "Confirme su aumento de presión"
+
+#. [SubmitVoteConfirmation.ConfirmYourVote]
+#. defaultMessage is:
+#. Confirm Your Vote
+#: public/messages/src/app/components/SubmitVote/ConfirmationModal.json
+
+msgid "Confirm Your Vote"
+msgstr "Confirme su voto"
+
+#. [MergeModalAgain.ConfirmYouAreUsingTheLatestWalletVersion]
+#. defaultMessage is:
+#. Confirm that you are using the latest version of your wallet.
+#. [SaveModalAgain.ConfirmYouAreUsingTheLatestWalletVersion]
+#. defaultMessage is:
+#. Confirm that you are using the latest version of your wallet.
+#: public/messages/src/editor/plugins/merge/merge-modal.json
+#: public/messages/src/editor/plugins/save/save-modal.json
+
+msgid "Confirm that you are using the latest version of your wallet."
+msgstr "Confirme que está usando la última versión de Scatter."
+
+#. [MergeModalAgain.ConfirmYouHaveEnoughInWallet]
+#. defaultMessage is:
+#. Confirm that you have enough IQ in your wallet (50IQ required to submit at edit)
+#. [SaveModalAgain.ConfirmYouHaveEnoughInWallet]
+#. defaultMessage is:
+#. Confirm that you have enough IQ in your wallet (50IQ required to submit at edit)
+#: public/messages/src/editor/plugins/merge/merge-modal.json
+#: public/messages/src/editor/plugins/save/save-modal.json
+
+msgid ""
+"Confirm that you have enough IQ in your wallet (50IQ required to submit at "
+"edit)"
+msgstr ""
+"Confirme que tiene suficiente CI en su billetera Scatter (se requiere 50 CI "
+"para enviar en la edición)"
+
+#. [MergeModalAgain.ConfirmThatYouHaveSufficientEOS]
+#. defaultMessage is:
+#. Confirm that you have sufficient EOS resources. For additional information, please see our FAQs.
+#. [SaveModalAgain.ConfirmThatYouHaveSufficientEOS]
+#. defaultMessage is:
+#. Confirm that you have sufficient EOS resources. For additional information, please see our FAQs.
+#: public/messages/src/editor/plugins/merge/merge-modal.json
+#: public/messages/src/editor/plugins/save/save-modal.json
+
+msgid ""
+"Confirm that you have sufficient EOS resources. For additional information, "
+"please see our FAQs."
+msgstr ""
+"Confirme que tiene suficientes recursos de EOS. Para obtener más "
+"información, consulte nuestras preguntas frecuentes."
+
+#. [MergeModalAgain.ConfirmYouHaveWalletOpen]
+#. defaultMessage is:
+#. Confirm that you have your wallet open and that you are logged in
+#. [SaveModalAgain.ConfirmYouHaveWalletOpen]
+#. defaultMessage is:
+#. Confirm that you have your wallet open and that you are logged in
+#: public/messages/src/editor/plugins/merge/merge-modal.json
+#: public/messages/src/editor/plugins/save/save-modal.json
+
+msgid "Confirm that you have your wallet open and that you are logged in"
+msgstr "Confirme que tiene Scatter abierto y que ha iniciado sesión"
+
+#. [SubmitBoostModal.CongratulationsYourBoostWasRecorded]
+#. defaultMessage is:
+#. Congratulations, your boost was recorded for this article.
+#: public/messages/src/app/components/Boost/SubmitBoostModal.json
+
+msgid "Congratulations, your boost was recorded for this article."
+msgstr "Felicitaciones, su impulso fue grabado para este artículo."
+
+#. [SubmitVoteConfirmation.CongratulationsYourVoteWasRecorded]
+#. defaultMessage is:
+#. Congratulations, your vote was recorded for this article.
+#: public/messages/src/app/components/SubmitVote/ConfirmationModal.json
+
+msgid "Congratulations, your vote was recorded for this article."
+msgstr "Felicitaciones, su voto fue registrado para este artículo."
+
+#. [ConnectLanguagesModal.Title]
+#. defaultMessage is:
+#. Connect this page to another language variant of it
+#: public/messages/src/editor/plugins/connect-languages/connect-languages-modal.json
+msgid "Connect this page to another language variant of it"
+msgstr "Conectar esta página a otra variante de idioma"
+
+#. [Index.Contact]
+#. defaultMessage is:
+#. Contact
+#. [MobileHamburger.Contact]
+#. defaultMessage is:
+#. Contact
+#: public/messages/src/app/components/Footer/index.json
+#: public/messages/src/app/components/Header/Mobile-Hamburger.json
+msgid "Contact"
+msgstr "Contacto"
+
+#. [Dashboard.ContactInfo]
+#. defaultMessage is:
+#. Contact Info
+#: public/messages/src/app/containers/dashboard/dashboard_component.json
+msgid "Contact Info"
+msgstr "Información de contacto"
+
+#. [ContactUs.ContactType]
+#. defaultMessage is:
+#. Contact Type
+#: public/messages/src/app/components/ContactUsForm/index.json
+msgid "Contact Type"
+msgstr "Tipo De Contacto"
+
+#. [Errors.ContactUs]
+#. defaultMessage is:
+#. Contact us
+#: public/messages/src/app/utils/errors.json
+msgid "Contact us"
+msgstr "Contáctanos"
+
+#. [CommentUtils.Content]
+#. defaultMessage is:
+#. Content
+#: public/messages/src/app/utils/comment-utils.json
+msgid "Content"
+msgstr "Contenido"
+
+#. [Chat.CopyText]
+#. defaultMessage is:
+#. Copy Text
+#: public/messages/src/app/components/Chat/index.json
+msgid "Copy Text"
+msgstr "Copiar texto"
+
+#. [ShareModal.CopyURL]
+#. defaultMessage is:
+#. Copy URL
+#: public/messages/src/app/components/ArticleComponent/ShareModal.json
+msgid "Copy URL"
+msgstr "Copiar URL"
+
+#. [EditProfile.Country]
+#. defaultMessage is:
+#. Country
+#: public/messages/src/app/components/edit-profile/index.json
+msgid "Country"
+msgstr "País"
+
+#. [CreatePage.CreateNewArticle]
+#. defaultMessage is:
+#. Create New Wiki
+#. [CreatePage.CreateArticle]
+#. defaultMessage is:
+#. Create New Wiki
+#. [Header.CreateArticle]
+#. defaultMessage is:
+#. Create New Wiki
+#. [MobileHamburger.CreateArticle]
+#. defaultMessage is:
+#. Create New Wiki
+#. [SearchResults.CreateArticle]
+#. defaultMessage is:
+#. Create New Wiki
+#. [Header.CreateArticleTwo]
+#. defaultMessage is:
+#. Create New Wiki
+#: public/messages/src/app/components/create-new-page/index.json
+#: public/messages/src/app/components/Header/index.json
+#: public/messages/src/app/components/Header/Mobile-Hamburger.json
+#: public/messages/src/app/components/Search/SearchResults.json
+#: public/messages/src/app/containers/homepageContainer/featured.json
+
+msgid "Create New Wiki"
+msgstr "Crear una nueva wiki"
+
+#. [SearchResults.CreateAnArticle]
+#. defaultMessage is:
+#. Create an Article
+#: public/messages/src/app/containers/searchResultsFull/searchResultsFull.container.json
+
+msgid "Create an Article"
+msgstr "Crear artículo nuevo"
+
+#. [MetadataModal.Creation]
+#. defaultMessage is:
+#. Creation
+#: public/messages/src/editor/plugins/metadata/metadata-modal.json
+msgid "Creation"
+msgstr "Creación"
+
+#. [MetadataModal.CreativeWorkArt]
+#. defaultMessage is:
+#. Creative Work / Art
+#. [MetadataModal.CreativeWork]
+#. defaultMessage is:
+#. Creative Work / Art
+#: public/messages/src/editor/plugins/metadata/metadata-modal.json
+
+msgid "Creative Work / Art"
+msgstr "Trabajo creativo/Arte"
+
+#. [NewPageTemplate.NPT_CreativeWork_Creator]
+#. defaultMessage is:
+#. Creator
+#: public/messages/src/editor/utils/editing-utils/template-packs/creative-work.json
+msgid "Creator"
+msgstr "Creador"
+
+#. [NewPageTemplate.NPT_Product_Creator]
+#. defaultMessage is:
+#. Creator(s)
+#: public/messages/src/editor/utils/editing-utils/template-packs/product.json
+
+#| msgid "Creation"
+msgid "Creator(s)"
+msgstr "Creación"
+
+#. [Dashboard.CurrentIqPrice]
+#. defaultMessage is:
+#. Current IQ Price
+#: public/messages/src/app/containers/dashboard/dashboard_component.json
+
+msgid "Current IQ Price"
+msgstr "Precio actual del CI"
+
+#. [Dashboard.CurrentlyStaked]
+#. defaultMessage is:
+#. Currently Staked
+#: public/messages/src/app/containers/dashboard/dashboard_component.json
+msgid "Currently Staked"
+msgstr "Actualmente en juego"
+
+#. [Leaderboard.DayCap]
+#. defaultMessage is:
+#. DAY
+#: public/messages/src/app/containers/homepageContainer/leaderboard.json
+
+msgid "DAY"
+msgstr "Día"
+
+#. [TeamInfo.DanielLiebeskindBio]
+#. defaultMessage is:
+#. Daniel Liebeskind is a product-oriented software developer focused on creating great user experiences.  Daniel has worn many hats including venture capital investor, software developer, product manager and startup founder and has been building distributed apps since 2017.
+#: public/messages/src/app/containers/about/third-block.json
+
+msgid ""
+"Daniel Liebeskind is a product-oriented software developer focused on "
+"creating great user experiences.  Daniel has worn many hats including "
+"venture capital investor, software developer, product manager and startup "
+"founder and has been building distributed apps since 2017."
+msgstr ""
+"Daniel Liebeskind es un desarrollador de software orientado a productos que "
+"se centra en la creación de grandes experiencias de usuario.  Daniel ha "
+"llevado muchos sombreros incluyendo inversor de capital de riesgo, "
+"desarrollador de software, gerente de producto y fundador de startups y ha "
+"estado construyendo aplicaciones distribuidas desde 2017."
+
+#. [NewPageTemplate.NPT_CreativeWork_Date_Created]
+#. defaultMessage is:
+#. Date Created
+#: public/messages/src/editor/utils/editing-utils/template-packs/creative-work.json
+msgid "Date Created"
+msgstr "Fecha de creación"
+
+#. [About.Decentralized]
+#. defaultMessage is:
+#. Decentralized
+#. [IQInfo.Decentralized]
+#. defaultMessage is:
+#. Decentralized
+#: public/messages/src/app/containers/about/about.container.json
+#: public/messages/src/app/containers/iq-info/iq-info.container.json
+msgid "Decentralized"
+msgstr "Descentralizado"
+
+#. [Chat.DeleteMessage]
+#. defaultMessage is:
+#. Delete Message
+#: public/messages/src/app/components/Chat/index.json
+msgid "Delete Message"
+msgstr "Borrar Mensaje"
+
+#. [About.Democratic]
+#. defaultMessage is:
+#. Democratic
+#: public/messages/src/app/containers/about/about.container.json
+msgid "Democratic"
+msgstr "Democrático"
+
+#. [About.DemocraticGovernanceTitle]
+#. defaultMessage is:
+#. Democratic Governance
+#: public/messages/src/app/containers/about/about.container.json
+msgid "Democratic Governance"
+msgstr "Gestión democrática"
+
+#. [About.DesktopViewAlt]
+#. defaultMessage is:
+#. Desktop view of Everipedia article
+#: public/messages/src/app/containers/about/about.container.json
+
+msgid "Desktop view of Everipedia article"
+msgstr "Vista de escritorio del artículo de Everipedia"
+
+#. [TeamInfo.KedarIyerTitle]
+#. defaultMessage is:
+#. Director of Software Engineering
+#: public/messages/src/app/containers/about/third-block.json
+
+msgid "Director of Software Engineering"
+msgstr "Director de Ingeniería de Software"
+
+#. [EditorDraftContinuationGuard.Discard]
+#. defaultMessage is:
+#. Discard
+#. [EditorDraft.Discard]
+#. defaultMessage is:
+#. Discard
+#: public/messages/src/editor/components/continuation-guard/continuation-guard.component.json
+#: public/messages/src/editor/editor.container.json
+msgid "Discard"
+msgstr "Descartar"
+
+#. [EditProfile.DisplayName]
+#. defaultMessage is:
+#. Display Name
+#: public/messages/src/app/components/edit-profile/index.json
+msgid "Display Name"
+msgstr "Nombre para mostrar"
+
+#. [EditProfile.DisplayNameMustBeLonger]
+#. defaultMessage is:
+#. Display Name must be longer than 3 characters
+#: public/messages/src/app/components/edit-profile/index.json
+
+msgid "Display Name must be longer than 3 characters"
+msgstr "El nombre para mostrar debe tener más de 3 caracteres"
+
+#. [Index.PrivacyCalifornia]
+#. defaultMessage is:
+#. Do Not Sell My Personal Information
+#: public/messages/src/app/components/Footer/index.json
+
+msgid "Do Not Sell My Personal Information"
+msgstr "No venda mi información personal"
+
+#. [Tooltips.EditorComment]
+#. defaultMessage is:
+#. EDITOR COMMENT
+#: public/messages/src/app/components/tooltips/index.json
+msgid "EDITOR COMMENT"
+msgstr "COMENTARIO DEL EDITOR"
+
+#. [Stats.Editors]
+#. defaultMessage is:
+#. EDITORS
+#: public/messages/src/app/containers/admin/admin.container.json
+
+msgid "EDITORS"
+msgstr "Editores"
+
+#. [ActivityCards.edits]
+#. defaultMessage is:
+#. EDITS
+#: public/messages/src/app/components/ActivityCards/index.json
+
+msgid "EDITS"
+msgstr "Modificaciones"
+
+#. [SubmitBoostModal.ExistingBoost]
+#. defaultMessage is:
+#. EXISTING BOOST
+#: public/messages/src/app/components/Boost/SubmitBoostModal.json
+
+msgid "EXISTING BOOST"
+msgstr "Caduca pronto"
+
+#. [ActivityCards.ExpiringSoon]
+#. defaultMessage is:
+#. EXPIRING SOON
+#: public/messages/src/app/components/ActivityCards/index.json
+
+msgid "EXPIRING SOON"
+msgstr "Caduca pronto"
+
+#. [SubmitVoteConfirmation.EarnIQRewards]
+#. defaultMessage is:
+#. Earn IQ rewards by voting.
+#: public/messages/src/app/components/SubmitVote/ConfirmationModal.json
+
+msgid "Earn IQ rewards by voting."
+msgstr "Gane recompensas de coeficiente intelectual votando."
+
+#. [About.EarnRewardsTitle]
+#. defaultMessage is:
+#. Earn Rewards for Contributing
+#: public/messages/src/app/containers/about/about.container.json
+
+msgid "Earn Rewards for Contributing"
+msgstr "Gane recompensas por contribuir"
+
+#. [Chat.Edit]
+#. defaultMessage is:
+#. Edit
+#. [TopNav.Edit]
+#. defaultMessage is:
+#. Edit
+#. [Leaderboard.Edit]
+#. defaultMessage is:
+#. Edit
+#. [CategoriesModal.Edit]
+#. defaultMessage is:
+#. Edit
+#. [CitationModal.AddEditFile.Edit]
+#. defaultMessage is:
+#. Edit
+#. [CitationModal.AddEditISBN.Edit]
+#. defaultMessage is:
+#. Edit
+#. [CitationModal.AddEditURL.Edit]
+#. defaultMessage is:
+#. Edit
+#. [InfoboxModal.Edit]
+#. defaultMessage is:
+#. Edit
+#. [MetadataModal.Edit]
+#. defaultMessage is:
+#. Edit
+#. [SectionMediaModal.AddEditURL.Edit]
+#. defaultMessage is:
+#. Edit
+#. [FileUploader.Edit]
+#. defaultMessage is:
+#. Edit
+#. [ImageUploader.Edit]
+#. defaultMessage is:
+#. Edit
+#: public/messages/src/app/components/Chat/index.json
+#: public/messages/src/app/components/content-top-nav/index.json
+#: public/messages/src/app/containers/homepageContainer/leaderboard.json
+#: public/messages/src/editor/plugins/categories/categories-modal.json
+#: public/messages/src/editor/plugins/citation-modal/panes/add-edit-file.json
+#: public/messages/src/editor/plugins/citation-modal/panes/add-edit-isbn.json
+#: public/messages/src/editor/plugins/citation-modal/panes/add-edit-url.json
+#: public/messages/src/editor/plugins/infobox/infobox-modal.json
+#: public/messages/src/editor/plugins/metadata/metadata-modal.json
+#: public/messages/src/editor/plugins/section-media-modal/panes/add-edit-url.json
+#: public/messages/src/shared/inputs/image-uploader/file-uploader.component.json
+#: public/messages/src/shared/inputs/image-uploader/image-uploader.component.json
+msgid "Edit"
+msgstr "Editar"
+
+#. [CategoriesNode.EditCategories]
+#. defaultMessage is:
+#. Edit Categories
+#: public/messages/src/editor/plugins/categories/categories.node.json
+msgid "Edit Categories"
+msgstr "Editar las categorías"
+
+#. [Chat.EditNow]
+#. defaultMessage is:
+#. Edit Now
+#: public/messages/src/app/components/ArticleComponent/index.json
+
+msgid "Edit Now"
+msgstr "Editar ahora"
+
+#. [EditProfile.EditPublicProfile]
+#. defaultMessage is:
+#. Edit Public Profile
+#: public/messages/src/app/components/edit-profile/index.json
+msgid "Edit Public Profile"
+msgstr "Editar Perfil publico"
+
+#. [MetadataModal.Title]
+#. defaultMessage is:
+#. Edit a metadata item
+#: public/messages/src/editor/plugins/metadata/metadata-modal.json
+msgid "Edit a metadata item"
+msgstr "Editar un elemento de metadatos"
+
+#. [CategoriesModal.Title]
+#. defaultMessage is:
+#. Edit the list of categories for the page
+#: public/messages/src/editor/plugins/categories/categories-modal.json
+
+msgid "Edit the list of categories for the page"
+msgstr "Editar la lista de categorías de la página"
+
+#. [ActivityCard.Edited1]
+#. defaultMessage is:
+#. Edited
+#. [HomepageCarouselSlide.Edited]
+#. defaultMessage is:
+#. Edited
+#. [HomepageCarousel.Edited]
+#. defaultMessage is:
+#. Edited
+#. [CategoryResultCard.Edited]
+#. defaultMessage is:
+#. Edited
+#: public/messages/src/app/components/ActivityCards/ActivityCard.json
+#: public/messages/src/app/components/carousel/carouselHomepageSlide.json
+#: public/messages/src/app/components/carousel/carouselSlide.json
+#: public/messages/src/app/containers/category-results/categoryResultCard.json
+msgid "Edited"
+msgstr "corregido"
+
+#. [ContactUs.editingVotingIssues]
+#. defaultMessage is:
+#. Editing / Voting issues
+#: public/messages/src/app/containers/contact-us/messages.json
+
+msgid "Editing / Voting issues"
+msgstr "Edición/cuestiones de votación"
+
+#. [EditorContainer.EditingWikipedia]
+#. defaultMessage is:
+#. Editing Wikipedia-imported pages is currently disabled, but is expected to be available in the future.
+#. [NewPageTemplate.Person.AAAAA]
+#. defaultMessage is:
+#. Editing Wikipedia-imported pages is currently disabled, but is expected to be available in the future.
+#. [NewPageTemplate.List.AAAAA]
+#. defaultMessage is:
+#. Editing Wikipedia-imported pages is currently disabled, but is expected to be available in the future.
+#. [NewPageTemplate.Thing.AAAAA]
+#. defaultMessage is:
+#. Editing Wikipedia-imported pages is currently disabled, but is expected to be available in the future.
+#: public/messages/src/editor/editor.container.json
+#: public/messages/src/editor/utils/editing-utils/template-packs/index.json
+#: public/messages/src/editor/utils/editing-utils/template-packs/list.json
+#: public/messages/src/editor/utils/editing-utils/template-packs/thing.json
+msgid ""
+"Editing Wikipedia-imported pages is currently disabled, but is expected to "
+"be available in the future."
+msgstr ""
+"La edición de páginas importadas por Wikipedia está actualmente desactivada, "
+"pero se espera que esté disponible en el futuro."
+
+#. [ThirdBlock.Editor]
+#. defaultMessage is:
+#. Editor
+#: public/messages/src/app/containers/about/third-block.json
+
+#| msgid "Edit"
+msgid "Editor"
+msgstr "Ir al Perfil del Editor"
+
+#. [Leaderboard.Edits]
+#. defaultMessage is:
+#. Edits
+#: public/messages/src/app/containers/homepageContainer/leaderboard.json
+msgid "Edits"
+msgstr "Modificaciones"
+
+#. [DashboardComponent.EditsProposed]
+#. defaultMessage is:
+#. Edits Proposed
+#: public/messages/src/app/containers/dashboard/dashboard_component.json
+msgid "Edits Proposed"
+msgstr "Ediciones propuestas"
+
+#. [MetadataModal.ElectronicsSoftware]
+#. defaultMessage is:
+#. Electronics / Software
+#: public/messages/src/editor/plugins/metadata/metadata-modal.json
+
+msgid "Electronics / Software"
+msgstr "Electrónica/Software"
+
+#. [ContactUs.Email]
+#. defaultMessage is:
+#. Email
+#. [NewPageTemplate.NPT_Organization_Email]
+#. defaultMessage is:
+#. Email
+#. [NewPageTemplate.NPT_Person_Email]
+#. defaultMessage is:
+#. Email
+#: public/messages/src/app/components/ContactUsForm/index.json
+#: public/messages/src/editor/utils/editing-utils/template-packs/organization.json
+#: public/messages/src/editor/utils/editing-utils/template-packs/person.json
+msgid "Email"
+msgstr "Email"
+
+#. [LoginModal.EmailComingSoon]
+#. defaultMessage is:
+#. Email Coming Soon
+#: public/messages/src/app/components/Login/index.json
+
+msgid "Email Coming Soon"
+msgstr "Próximamente por correo electrónico"
+
+#. [ContactUs.EmailAddress]
+#. defaultMessage is:
+#. Email address
+#: public/messages/src/app/containers/contact-us/messages.json
+msgid "Email address"
+msgstr "Dirección de correo electrónico"
+
+#. [NewPageTemplate.NPT_Event_EndDate]
+#. defaultMessage is:
+#. End Date
+#: public/messages/src/editor/utils/editing-utils/template-packs/event.json
+msgid "End Date"
+msgstr "Fecha de finalización"
+
+#. [ActivityCard.Ended]
+#. defaultMessage is:
+#. Ended
+#: public/messages/src/app/components/ActivityCards/ActivityCard.json
+msgid "Ended"
+msgstr "Finalizado"
+
+#. [CitationModal.AddEditURL.EnterAURL]
+#. defaultMessage is:
+#. Enter a URL
+#. [SectionMediaModal.AddEditURL.EnterAURL]
+#. defaultMessage is:
+#. Enter a URL
+#: public/messages/src/editor/plugins/citation-modal/panes/add-edit-url.json
+#: public/messages/src/editor/plugins/section-media-modal/panes/add-edit-url.json
+msgid "Enter a URL"
+msgstr "Ingresar una URL"
+
+#. [CitationModal.AddEditURL.EnterADescription]
+#. defaultMessage is:
+#. Enter a description
+#. [SectionMediaModal.AddEditURL.EnterADescription]
+#. defaultMessage is:
+#. Enter a description
+#: public/messages/src/editor/plugins/citation-modal/panes/add-edit-url.json
+#: public/messages/src/editor/plugins/section-media-modal/panes/add-edit-url.json
+msgid "Enter a description"
+msgstr "Introducir descripción"
+
+#. [AddRelatedModal.SearchPlaceholder]
+#. defaultMessage is:
+#. Enter a search term
+#: public/messages/src/editor/plugins/add-related/add-related-modal.json
+msgid "Enter a search term"
+msgstr "Introduzca un término de búsqueda"
+
+#. [InfoboxModal.EnterAType]
+#. defaultMessage is:
+#. Enter a type
+#: public/messages/src/editor/plugins/infobox/infobox-modal.json
+msgid "Enter a type"
+msgstr "Introduzca un tipo"
+
+#. [Login.EnterCode]
+#. defaultMessage is:
+#. Enter the code that was sent to your email address. If you haven't received a code, go back and try again.
+#: public/messages/src/app/components/Login/email_login.json
+
+msgid ""
+"Enter the code that was sent to your email address. If you haven't received "
+"a code, go back and try again."
+msgstr ""
+"Introduzca el código que se le envió a su dirección de correo electrónico. "
+"Si no has recibido un código, vuelve e inténtalo de nuevo."
+
+#. [Login.EnterEmail]
+#. defaultMessage is:
+#. Enter your email and we'll send a code to that email address.
+#: public/messages/src/app/components/Login/email_login.json
+
+msgid "Enter your email and we'll send a code to that email address."
+msgstr ""
+"Ingrese su correo electrónico y le enviaremos un código a esa dirección de "
+"correo electrónico."
+
+#. [ContactUs.EnterYourMessage]
+#. defaultMessage is:
+#. Enter your message...
+#: public/messages/src/app/containers/contact-us/messages.json
+msgid "Enter your message..."
+msgstr "Ingrese su mensaje..."
+
+#. [TopNav.Error]
+#. defaultMessage is:
+#. Error
+#: public/messages/src/app/components/error-modal/index.json
+msgid "Error"
+msgstr "Error"
+
+#. [SubmitBoostModal.ErrorCode]
+#. defaultMessage is:
+#. Error code
+#. [SubmitVoteConfirmation.ErrorCode]
+#. defaultMessage is:
+#. Error code
+#: public/messages/src/app/components/Boost/SubmitBoostModal.json
+#: public/messages/src/app/components/SubmitVote/ConfirmationModal.json
+msgid "Error code"
+msgstr "Código de error"
+
+#. [NewPageTemplate.NPT_Person_Ethnicity]
+#. defaultMessage is:
+#. Ethnicity
+#: public/messages/src/editor/utils/editing-utils/template-packs/person.json
+msgid "Ethnicity"
+msgstr "Etnicidad"
+
+#. [MetadataModal.Event]
+#. defaultMessage is:
+#. Event
+#: public/messages/src/editor/plugins/metadata/metadata-modal.json
+msgid "Event"
+msgstr "Evento"
+
+#. [Index.Everipedia]
+#. defaultMessage is:
+#. Everipedia
+#: public/messages/src/app/components/Footer/index.json
+
+msgid "Everipedia"
+msgstr "Iniciar sesión en Everipedia"
+
+#. [Directory.EveripediaChat]
+#. defaultMessage is:
+#. Everipedia Chat
+#: public/messages/src/app/components/Chat/Directory.json
+
+msgid "Everipedia Chat"
+msgstr "Everipedia Chat"
+
+#. [About.MoreArticlesText]
+#. defaultMessage is:
+#. Everipedia allows you to create an article about anything as long as you have a citation. This allows for a much broader scope of content in the knowledge base.
+#: public/messages/src/app/containers/about/about.container.json
+
+msgid ""
+"Everipedia allows you to create an article about anything as long as you "
+"have a citation. This allows for a much broader scope of content in the "
+"knowledge base."
+msgstr ""
+"Everipedia le permite crear un artículo sobre cualquier cosa siempre y "
+"cuando tenga una cita. Esto permite un alcance mucho más amplio del "
+"contenido de la base de conocimientos."
+
+#. [About.LearnMore]
+#. defaultMessage is:
+#. Everipedia offers a space for you to dive into anything you find interesting, connect with people who share your interests, and contribute your own perspective.
+#. [Homepage.EveripediaOffersASpace]
+#. defaultMessage is:
+#. Everipedia offers a space for you to dive into anything you find interesting, connect with people who share your interests, and contribute your own perspective.
+#: public/messages/src/app/containers/about/about.container.json
+#: public/messages/src/app/containers/homepageContainer/homepage.container.json
+
+msgid ""
+"Everipedia offers a space for you to dive into anything you find "
+"interesting, connect with people who share your interests, and contribute "
+"your own perspective."
+msgstr ""
+"Everipedia ofrece un espacio para que te sumerjas en todo lo que te parezca "
+"interesante, te conectes con gente que comparta tus intereses y aportes tu "
+"propia perspectiva."
+
+#. [About.Blockchain]
+#. defaultMessage is:
+#. Everipedia uses blockchain technology to help us fulfill our vision for a world where all knowledge is available to all people - a world in which everyone, everywhere can participate in sharing what they know and providing value to others.
+#: public/messages/src/app/containers/about/about.container.json
+
+msgid ""
+"Everipedia uses blockchain technology to help us fulfill our vision for a "
+"world where all knowledge is available to all people - a world in which "
+"everyone, everywhere can participate in sharing what they know and providing "
+"value to others."
+msgstr ""
+"Everipedia utiliza la tecnología de bloqueo para ayudarnos a cumplir nuestra "
+"visión de un mundo en el que todo el conocimiento esté disponible para todas "
+"las personas - un mundo en el que todos, en todas partes, puedan participar "
+"en compartir lo que saben y proporcionar valor a los demás."
+
+#. [About.ModernDesignText]
+#. defaultMessage is:
+#. Everipedia’s design and features have been built for the modern age.
+#: public/messages/src/app/containers/about/about.container.json
+
+msgid "Everipedia’s design and features have been built for the modern age."
+msgstr ""
+"El diseño y las características de Everipedia han sido construidos para la "
+"era moderna."
+
+#. [ThirdBlock.VibrantCommunity]
+#. defaultMessage is:
+#. Everipedia’s vibrant community is open and welcoming to everyone. We’re already one of the world’s largest encyclopedias, but we’re far from complete. Join us today.
+#: public/messages/src/app/containers/about/third-block.json
+
+msgid ""
+"Everipedia’s vibrant community is open and welcoming to everyone. We’re "
+"already one of the world’s largest encyclopedias, but we’re far from "
+"complete. Join us today."
+msgstr ""
+"La vibrante comunidad de Everipedia es abierta y acogedora para todos. Ya "
+"somos una de las enciclopedias más grandes del mundo, pero estamos lejos de "
+"estar completos. Únase a nosotros hoy."
+
+#. [LastBlock.ExploreYourCuriosity]
+#. defaultMessage is:
+#. Explore your curiosity.
+#: public/messages/src/app/containers/about/last-block.json
+
+msgid "Explore your curiosity."
+msgstr "Explora tu curiosidad"
+
+#. [Search.ExploreYourCuriosity...]
+#. defaultMessage is:
+#. Explore your curiosity...
+#. [EditorArticleSearch.ExploreYourCuriosity...]
+#. defaultMessage is:
+#. Explore your curiosity...
+#: public/messages/src/app/components/Search/index.json
+#: public/messages/src/editor/components/search/article-search.json
+
+msgid "Explore your curiosity..."
+msgstr "Explora tu curiosidad"
+
+#. [Index.FAQ]
+#. defaultMessage is:
+#. FAQ
+#. [MobileHamburger.FAQ]
+#. defaultMessage is:
+#. FAQ
+#: public/messages/src/app/components/Footer/index.json
+#: public/messages/src/app/components/Header/Mobile-Hamburger.json
+msgid "FAQ"
+msgstr "Preguntas Frecuentes"
+
+#. [SubmitBoostModal.Failure]
+#. defaultMessage is:
+#. Failed to Vote
+#. [SubmitVoteConfirmation.Failure]
+#. defaultMessage is:
+#. Failed to Vote
+#: public/messages/src/app/components/Boost/SubmitBoostModal.json
+#: public/messages/src/app/components/SubmitVote/ConfirmationModal.json
+
+msgid "Failed to Vote"
+msgstr "No votó"
+
+#. [NewPageTemplate.NPT_CreativeWork_Features]
+#. defaultMessage is:
+#. Features
+#. [NewPageTemplate.NPT_Event_Features]
+#. defaultMessage is:
+#. Features
+#. [NewPageTemplate.NPT_Place_Features]
+#. defaultMessage is:
+#. Features
+#. [NewPageTemplate.NPT_Product_Features]
+#. defaultMessage is:
+#. Features
+#: public/messages/src/editor/utils/editing-utils/template-packs/creative-work.json
+#: public/messages/src/editor/utils/editing-utils/template-packs/event.json
+#: public/messages/src/editor/utils/editing-utils/template-packs/place.json
+#: public/messages/src/editor/utils/editing-utils/template-packs/product.json
+msgid "Features"
+msgstr "Características"
+
+#. [NewPageTemplate.NPT_CreativeWork_FeaturesInclude]
+#. defaultMessage is:
+#. Features include
+#: public/messages/src/editor/utils/editing-utils/template-packs/creative-work.json
+msgid "Features include"
+msgstr "Funciones incluidas"
+
+#. [NewPageTemplate.NPT_Product_FeaturesOf]
+#. defaultMessage is:
+#. Features of
+#: public/messages/src/editor/utils/editing-utils/template-packs/product.json
+
+msgid "Features of"
+msgstr "Características de"
+
+#. [ContactUs.feedback]
+#. defaultMessage is:
+#. Feedback
+#: public/messages/src/app/containers/contact-us/messages.json
+msgid "Feedback"
+msgstr "Comentarios"
+
+#. [ImageUploader.Fetch]
+#. defaultMessage is:
+#. Fetch
+#: public/messages/src/shared/inputs/image-uploader/image-uploader.component.json
+msgid "Fetch"
+msgstr "Extraer"
+
+#. [CitationModal.AddEditISBN.FetchInfo]
+#. defaultMessage is:
+#. Fetch Info
+#: public/messages/src/editor/plugins/citation-modal/panes/add-edit-isbn.json
+msgid "Fetch Info"
+msgstr "Obtener información"
+
+#. [ImageUploader.Fetching]
+#. defaultMessage is:
+#. Fetching...
+#: public/messages/src/shared/inputs/image-uploader/image-uploader.component.json
+msgid "Fetching..."
+msgstr "Recuperando..."
+
+#. [CitationModal.File]
+#. defaultMessage is:
+#. File
+#: public/messages/src/editor/plugins/citation-modal/citation-modal.json
+msgid "File"
+msgstr "Archivo"
+
+#. [CitationModal.FilterCitations]
+#. defaultMessage is:
+#. Filter citations
+#: public/messages/src/editor/plugins/citation-modal/panes/insert-existing.json
+
+msgid "Filter citations"
+msgstr "Citas de filtros"
+
+#. [About.FinancialIncentive]
+#. defaultMessage is:
+#. Financial Incentive
+#: public/messages/src/app/containers/about/about.container.json
+msgid "Financial Incentive"
+msgstr "Incentivo financiero"
+
+#. [ActivityCard.FirstEdit]
+#. defaultMessage is:
+#. First Edit
+#. [EditOverview.FirstEditTwo]
+#. defaultMessage is:
+#. First Edit
+#: public/messages/src/app/components/ActivityCards/ActivityCard.json
+#: public/messages/src/app/components/SubmitVote/EditOverview.json
+
+#| msgid "Last Edited"
+msgid "First Edit"
+msgstr "Última edición"
+
+#. [CommentUtils.Formatting]
+#. defaultMessage is:
+#. Formatting
+#: public/messages/src/app/utils/comment-utils.json
+msgid "Formatting"
+msgstr "Formato"
+
+#. [NewPageTemplate.NPT_Organization_FoundedAt]
+#. defaultMessage is:
+#. Founded at
+#: public/messages/src/editor/utils/editing-utils/template-packs/organization.json
+
+msgid "Founded at"
+msgstr "Fundada en"
+
+#. [NewPageTemplate.NPT_Organization_FoundedOn]
+#. defaultMessage is:
+#. Founded on
+#: public/messages/src/editor/utils/editing-utils/template-packs/organization.json
+
+msgid "Founded on"
+msgstr "Fundado en"
+
+#. [NewPageTemplate.NPT_Organization_Founders]
+#. defaultMessage is:
+#. Founder(s)
+#: public/messages/src/editor/utils/editing-utils/template-packs/organization.json
+
+msgid "Founder(s)"
+msgstr "Fundador(es)"
+
+#. [FAQ.FAQ]
+#. defaultMessage is:
+#. Frequently Asked Questions
+#: public/messages/src/app/containers/faq/faq.container.json
+msgid "Frequently Asked Questions"
+msgstr "Preguntas frecuentes"
+
+#. [MetadataModal.FromWikipedia]
+#. defaultMessage is:
+#. From Wikipedia
+#: public/messages/src/editor/plugins/metadata/metadata-modal.json
+msgid "From Wikipedia"
+msgstr "De Wikipedia"
+
+#. [ContactUs.FullName]
+#. defaultMessage is:
+#. Full Name
+#: public/messages/src/app/components/ContactUsForm/index.json
+msgid "Full Name"
+msgstr "Nombre completo"
+
+#. [ContactUs.FullNameText]
+#. defaultMessage is:
+#. Full name
+#: public/messages/src/app/containers/contact-us/messages.json
+msgid "Full name"
+msgstr "Nombre completo"
+
+#. [NewPageTemplate.NPT_Person_Gender]
+#. defaultMessage is:
+#. Gender
+#: public/messages/src/editor/utils/editing-utils/template-packs/person.json
+msgid "Gender"
+msgstr "Género"
+
+#. [ContactUs.generalInquiry]
+#. defaultMessage is:
+#. General inquiry
+#: public/messages/src/app/containers/contact-us/messages.json
+msgid "General inquiry"
+msgstr "Consulta general"
+
+#. [CreatePage.GeneratedUniqueURL]
+#. defaultMessage is:
+#. Generated unique URL
+#: public/messages/src/app/components/create-new-page/index.json
+
+msgid "Generated unique URL"
+msgstr "URL única generada"
+
+#. [NewPageTemplate.NPT_CreativeWork_Genre]
+#. defaultMessage is:
+#. Genre
+#: public/messages/src/editor/utils/editing-utils/template-packs/creative-work.json
+msgid "Genre"
+msgstr "Género"
+
+#. [Index.GetIQ]
+#. defaultMessage is:
+#. Get IQ
+#. [LastBlock.GetIQ]
+#. defaultMessage is:
+#. Get IQ
+#. [IQInfo.GetIQ]
+#. defaultMessage is:
+#. Get IQ
+#: public/messages/src/app/components/Footer/index.json
+#: public/messages/src/app/containers/about/last-block.json
+#: public/messages/src/app/containers/iq-info/iq-info.container.json
+msgid "Get IQ"
+msgstr "Obtener IQ"
+
+#. [ContactUs.getStarted]
+#. defaultMessage is:
+#. Get Started
+#: public/messages/src/app/containers/contact-us/messages.json
+msgid "Get Started"
+msgstr "Comenzar"
+
+#. [ChatList.GetAnAccount]
+#. defaultMessage is:
+#. Get an Account
+#: public/messages/src/app/components/Chat/ChatList.json
+
+#| msgid "Account"
+msgid "Get an Account"
+msgstr "Cuenta"
+
+#. [ContactUs.GetInTouch]
+#. defaultMessage is:
+#. Get in Touch
+#: public/messages/src/app/containers/contact-us/contact-us.container.json
+msgid "Get in Touch"
+msgstr "Contacta con nosotros"
+
+#. [SubmitVote.GetMoreIQHere]
+#. defaultMessage is:
+#. Get more IQ here
+#: public/messages/src/app/components/SubmitVote/index.json
+
+msgid "Get more IQ here"
+msgstr "Obtenga más IQ aquí"
+
+#. [CommentUtils.Grammar]
+#. defaultMessage is:
+#. Grammar
+#: public/messages/src/app/utils/comment-utils.json
+
+msgid "Grammar"
+msgstr "Gramática"
+
+#. [NewPageTemplate.NPT_Person_HeSheLikesTo]
+#. defaultMessage is:
+#. He/She likes to
+#: public/messages/src/editor/utils/editing-utils/template-packs/person.json
+
+msgid "He/She likes to"
+msgstr "A él/ella le gusta"
+
+#. [NewPageTemplate.NPT_Person_HeSheWasBornIn]
+#. defaultMessage is:
+#. He/she was born in
+#: public/messages/src/editor/utils/editing-utils/template-packs/person.json
+
+msgid "He/she was born in"
+msgstr "Nació en"
+
+#. [NewPageTemplate.NPT_CreativeWork_History]
+#. defaultMessage is:
+#. History
+#. [NewPageTemplate.NPT_Event_History]
+#. defaultMessage is:
+#. History
+#. [NewPageTemplate.NPT_Organization_History]
+#. defaultMessage is:
+#. History
+#. [NewPageTemplate.NPT_Place_History]
+#. defaultMessage is:
+#. History
+#. [NewPageTemplate.NPT_Product_History]
+#. defaultMessage is:
+#. History
+#: public/messages/src/editor/utils/editing-utils/template-packs/creative-work.json
+#: public/messages/src/editor/utils/editing-utils/template-packs/event.json
+#: public/messages/src/editor/utils/editing-utils/template-packs/organization.json
+#: public/messages/src/editor/utils/editing-utils/template-packs/place.json
+#: public/messages/src/editor/utils/editing-utils/template-packs/product.json
+
+msgid "History"
+msgstr "Historial"
+
+#. [MobileHamburger.Home]
+#. defaultMessage is:
+#. Home
+#. [Homepage.Home]
+#. defaultMessage is:
+#. Home
+#: public/messages/src/app/components/Header/Mobile-Hamburger.json
+#: public/messages/src/app/containers/homepageContainer/homepage.container.json
+msgid "Home"
+msgstr "Inicio"
+
+#. [ContactUs.HowCanWeHelp]
+#. defaultMessage is:
+#. How can we help?
+#: public/messages/src/app/components/ContactUsForm/index.json
+msgid "How can we help?"
+msgstr "¿Cómo podemos ayudar?"
+
+#. [BoostBox.HowItWorks]
+#. defaultMessage is:
+#. How it works
+#: public/messages/src/app/components/Boost/index.json
+msgid "How it works"
+msgstr "Cómo funciona"
+
+#. [SubmitBoostModal.HowMuch]
+#. defaultMessage is:
+#. How much IQ should I boost?
+#: public/messages/src/app/components/Boost/SubmitBoostModal.json
+
+msgid "How much IQ should I boost?"
+msgstr "¿Cuánto coeficiente intelectual debo votar?"
+
+#. [SubmitVoteConfirmation.HowMuch]
+#. defaultMessage is:
+#. How much IQ should I vote?
+#: public/messages/src/app/components/SubmitVote/ConfirmationModal.json
+
+msgid "How much IQ should I vote?"
+msgstr "¿Cuánto coeficiente intelectual debo votar?"
+
+#. [ThirdBlock.ILoveEveripediaBecause]
+#. defaultMessage is:
+#. I love Everipedia because everyone benefits, particularly the contributors. As an IQ token holder, I have an incentive to participate in the network.
+#: public/messages/src/app/containers/about/third-block.json
+
+msgid ""
+"I love Everipedia because everyone benefits, particularly the contributors. "
+"As an IQ token holder, I have an incentive to participate in the network."
+msgstr ""
+"Me encanta Everipedia porque todo el mundo se beneficia, especialmente los "
+"contribuyentes. Como poseedor de un token IQ, tengo un incentivo para "
+"participar en la red."
+
+#. [InTheNews.InTheNews]
+#. defaultMessage is:
+#. IN THE NEWS
+#: public/messages/src/app/containers/homepageContainer/inTheNews.json
+
+msgid "IN THE NEWS"
+msgstr "Noticias"
+
+#. [Stats.IQEarned]
+#. defaultMessage is:
+#. IQ EARNED
+#: public/messages/src/app/containers/admin/admin.container.json
+msgid "IQ EARNED"
+msgstr "CI GANADO"
+
+#. [Stats.IqHolders]
+#. defaultMessage is:
+#. IQ HOLDERS
+#. [Stats.IqHoldersTwo]
+#. defaultMessage is:
+#. IQ HOLDERS
+#: public/messages/src/app/containers/admin/admin.container.json
+#: public/messages/src/app/containers/homepageContainer/stats.json
+
+msgid "IQ HOLDERS"
+msgstr "TITULARES IQ"
+
+#. [Index.IQToken]
+#. defaultMessage is:
+#. IQ Token
+#: public/messages/src/app/components/Footer/index.json
+
+msgid "IQ Token"
+msgstr "Cuenta IQ Tokens"
+
+#. [About.EarnRewardsText]
+#. defaultMessage is:
+#. IQ Tokens allow us to keep track and reward people for contributing to Everipedia, and as the value of the platform grows, the people who built it get to share in its success.
+#: public/messages/src/app/containers/about/about.container.json
+
+msgid ""
+"IQ Tokens allow us to keep track and reward people for contributing to "
+"Everipedia, and as the value of the platform grows, the people who built it "
+"get to share in its success."
+msgstr ""
+"IQ Tokens nos permite llevar un registro y recompensar a la gente por "
+"contribuir a Everipedia, y a medida que el valor de la plataforma crece, la "
+"gente que la construyó puede compartir su éxito."
+
+#. [IQInfo.IQTokensPower]
+#. defaultMessage is:
+#. IQ tokens power the Everipedia Network. They are used to contribute content to our
+#. ever-growing knowledge base and to vote for / against new articles and edits to existing
+#. articles. Contributors are rewarded in the form of IQ tokens. In addition, each token
+#. holder can also vote on upgrades and modifications to the system.
+#: public/messages/src/app/containers/iq-info/iq-info.container.json
+
+msgid ""
+"IQ tokens power the Everipedia Network. They are used to contribute content "
+"to our\n"
+"                                ever-growing knowledge base and to vote "
+"for / against new articles and edits to existing\n"
+"                                articles. Contributors are rewarded in the "
+"form of IQ tokens. In addition, each token\n"
+"                                holder can also vote on upgrades and "
+"modifications to the system."
+msgstr ""
+"Los tokens de IQ alimentan la red Everipedia. Se utilizan para contribuir "
+"con contenido a nuestro\n"
+"                                una base de conocimientos en constante "
+"crecimiento y votar a favor / en contra de nuevos artículos y ediciones de "
+"los ya existentes\n"
+"                                artículos. Los contribuidores son "
+"recompensados en forma de fichas de CI. Además, cada ficha\n"
+"                                el titular también puede votar sobre las "
+"actualizaciones y modificaciones del sistema."
+
+#. [CitationModal.ISBNBook]
+#. defaultMessage is:
+#. ISBN (Book)
+#: public/messages/src/editor/plugins/citation-modal/citation-modal.json
+
+msgid "ISBN (Book)"
+msgstr "ISBN (Libro)"
+
+#. [MergeModalAgain.IfItIsRejected]
+#. defaultMessage is:
+#. If it is rejected, the IQ tokens that you used to propose your edit will be locked up for a longer period of time, which is proportional to the difference between the total number of votes in the majority and the minority.
+#. [SaveModalAgain.IfItIsRejected]
+#. defaultMessage is:
+#. If it is rejected, the IQ tokens that you used to propose your edit will be locked up for a longer period of time, which is proportional to the difference between the total number of votes in the majority and the minority.
+#: public/messages/src/editor/plugins/merge/merge-modal.json
+#: public/messages/src/editor/plugins/save/save-modal.json
+
+msgid ""
+"If it is rejected, the IQ tokens that you used to propose your edit will be "
+"locked up for a longer period of time, which is proportional to the "
+"difference between the total number of votes in the majority and the "
+"minority."
+msgstr ""
+"Si se rechaza, los tokens de CI que usó para proponer su edición se "
+"bloquearán durante un período de tiempo más largo, que es proporcional a la "
+"diferencia entre el número total de votos en la mayoría y en la minoría."
+
+#. [SubmitVoteConfirmation.IfYourVoteIsInTheMajority]
+#. defaultMessage is:
+#. If your vote is in the majority, you will receive an IQ reward in proportion to the amount of IQ you voted.
+#: public/messages/src/app/components/SubmitVote/ConfirmationModal.json
+
+msgid ""
+"If your vote is in the majority, you will receive an IQ reward in proportion "
+"to the amount of IQ you voted."
+msgstr ""
+"Puedes votar con cualquier cantidad de IQ.  Si usted vota con la mayoría, "
+"recibirá una recompensa que es proporcional a la cantidad que usted vota!"
+
+#. [ImageUploader.ImageURL]
+#. defaultMessage is:
+#. Image URL
+#: public/messages/src/shared/inputs/image-uploader/image-uploader.component.json
+msgid "Image URL"
+msgstr "URL de la imagen"
+
+#. [LastBlock.InThePress]
+#. defaultMessage is:
+#. In the press
+#: public/messages/src/app/containers/about/last-block.json
+msgid "In the press"
+msgstr ""
+"Para enlazar a otra página de Everipedia haz clic en el botón 'Link "
+"Page' (‘Enlazar pagina’). También puedes pulsar la tecla @ o @ al escribir y "
+"aparecerá un desplegable. Trata de enlazar a tantas páginas como sea "
+"necesario para que cada página sea lo más rica e informativa posible."
+
+#. [SubmitBoostModal.IncreaseYourVotingPower]
+#. defaultMessage is:
+#. Increase your voting power by boosting!
+#: public/messages/src/app/components/Boost/SubmitBoostModal.json
+
+msgid "Increase your voting power by boosting!"
+msgstr "Aumente su poder de voto aumentando!"
+
+#. [MetadataModal.Indexed]
+#. defaultMessage is:
+#. Indexed
+#: public/messages/src/editor/plugins/metadata/metadata-modal.json
+msgid "Indexed"
+msgstr "Indexado"
+
+#. [MobileHamburger.Info]
+#. defaultMessage is:
+#. Info
+#: public/messages/src/app/components/Header/Mobile-Hamburger.json
+msgid "Info"
+msgstr "Información"
+
+#. [CommentUtils.Infobox]
+#. defaultMessage is:
+#. Infobox
+#: public/messages/src/app/utils/comment-utils.json
+msgid "Infobox"
+msgstr "Caja de información"
+
+#. [CommentUtils.Information]
+#. defaultMessage is:
+#. Information
+#: public/messages/src/app/utils/comment-utils.json
+msgid "Information"
+msgstr "Información y herramientas de IQ"
+
+#. [TableMenu.InsertAbove]
+#. defaultMessage is:
+#. Insert Above
+#: public/messages/src/editor/plugins/table/table-button.json
+
+msgid "Insert Above"
+msgstr "Insertar arriba"
+
+#. [TableMenu.InsertBelow]
+#. defaultMessage is:
+#. Insert Below
+#: public/messages/src/editor/plugins/table/table-button.json
+
+msgid "Insert Below"
+msgstr "Insertar abajo"
+
+#. [CitationModal.InsertExisting]
+#. defaultMessage is:
+#. Insert Existing
+#: public/messages/src/editor/plugins/citation-modal/citation-modal.json
+msgid "Insert Existing"
+msgstr "Insertar Existente"
+
+#. [SectionMediaModal.InsertFromMediaGallery]
+#. defaultMessage is:
+#. Insert From Media Gallery
+#: public/messages/src/editor/plugins/section-media-modal/section-media-modal.json
+
+msgid "Insert From Media Gallery"
+msgstr "Añadir imagen o vídeo a la galería multimedia"
+
+#. [TableMenu.InsertLeft]
+#. defaultMessage is:
+#. Insert Left
+#: public/messages/src/editor/plugins/table/table-button.json
+
+#| msgid "Insert Existing"
+msgid "Insert Left"
+msgstr "Insertar Existente"
+
+#. [TableMenu.InsertNew]
+#. defaultMessage is:
+#. Insert New
+#: public/messages/src/editor/plugins/table/table-button.json
+
+msgid "Insert New"
+msgstr "Insertar Nuevo"
+
+#. [TableMenu.InsertRight]
+#. defaultMessage is:
+#. Insert Right
+#: public/messages/src/editor/plugins/table/table-button.json
+
+#| msgid "Insert Existing"
+msgid "Insert Right"
+msgstr "Insertar Existente"
+
+#. [ContactUs.InvestmentInquiry]
+#. defaultMessage is:
+#. Investment Inquiry
+#: public/messages/src/app/components/ContactUsForm/index.json
+msgid "Investment Inquiry"
+msgstr "Consulta de inversión"
+
+#. [EditorDraftContinuationGuard.Unsaved]
+#. defaultMessage is:
+#. It looks like you may have unsaved edits. Would you like to continue?
+#. [EditorDraft.Unsaved]
+#. defaultMessage is:
+#. It looks like you may have unsaved edits. Would you like to continue?
+#: public/messages/src/editor/components/continuation-guard/continuation-guard.component.json
+#: public/messages/src/editor/editor.container.json
+
+msgid "It looks like you may have unsaved edits. Would you like to continue?"
+msgstr ""
+"Parece que puedes tener ediciones no guardadas. ¿Te gustaría continuar?"
+
+#. [InfoboxModal.Items]
+#. defaultMessage is:
+#. Item(s)
+#: public/messages/src/editor/plugins/infobox/infobox-modal.json
+msgid "Item(s)"
+msgstr "Artículos"
+
+#. [Login.JustGettingStarted]
+#. defaultMessage is:
+#. Just getting started?
+#: public/messages/src/app/components/Login/login.modal.json
+msgid "Just getting started?"
+msgstr "¿Acaba de empezar?"
+
+#. [TeamInfo.KedarIyerBio]
+#. defaultMessage is:
+#. Kedar Iyer is a software engineer from Santa Clara, California. He has written two books about blockchain technology, including a textbook for Solidity developers on how to build decentralized applications on Ethereum.
+#: public/messages/src/app/containers/about/third-block.json
+
+msgid ""
+"Kedar Iyer is a software engineer from Santa Clara, California. He has "
+"written two books about blockchain technology, including a textbook for "
+"Solidity developers on how to build decentralized applications on Ethereum."
+msgstr ""
+"Kedar Iyer es un ingeniero de software de Santa Clara, California. Ha "
+"escrito dos libros sobre tecnología de cadenas de bloques, incluyendo un "
+"libro de texto para desarrolladores de Solidity sobre cómo construir "
+"aplicaciones descentralizadas en Ethereum."
+
+#. [InfoboxModal.Label]
+#. defaultMessage is:
+#. Label
+#: public/messages/src/editor/plugins/infobox/infobox-modal.json
+msgid "Label"
+msgstr "Etiqueta"
+
+#. [MetadataModal.Language]
+#. defaultMessage is:
+#. Language
+#: public/messages/src/editor/plugins/metadata/metadata-modal.json
+msgid "Language"
+msgstr "Idioma"
+
+#. [TeamInfo.LarrySangerBio]
+#. defaultMessage is:
+#. Larry Sanger is a knowledge project developer; his claim to fame is that he is the co-founder of Wikipedia. He has a Ph.D. in Philosophy from Ohio State University. When he is not working on knowledge projects, he plays the Irish fiddle and homeschools his two boys.
+#: public/messages/src/app/containers/about/third-block.json
+
+msgid ""
+"Larry Sanger is a knowledge project developer; his claim to fame is that he "
+"is the co-founder of Wikipedia. He has a Ph.D. in Philosophy from Ohio State "
+"University. When he is not working on knowledge projects, he plays the Irish "
+"fiddle and homeschools his two boys."
+msgstr ""
+"Larry Sanger es un desarrollador de proyectos de conocimiento; su fama se "
+"debe a que es cofundador de Wikipedia. Tiene un doctorado en Filosofía de la "
+"Universidad Estatal de Ohio. Cuando no está trabajando en proyectos de "
+"conocimiento, toca el violín irlandés y enseña en casa a sus dos hijos."
+
+#. [SearchCard.LastEdited]
+#. defaultMessage is:
+#. Last Edited
+#: public/messages/src/app/containers/searchResultsFull/searchCard.json
+msgid "Last Edited"
+msgstr "Última edición"
+
+#. [MetadataModal.LastModified]
+#. defaultMessage is:
+#. Last Modified(s)
+#: public/messages/src/editor/plugins/metadata/metadata-modal.json
+msgid "Last Modified(s)"
+msgstr "Última(s) modificación(es)"
+
+#. [LastBlock.LatestFromOurBlog]
+#. defaultMessage is:
+#. Latest from our blog
+#: public/messages/src/app/containers/about/last-block.json
+msgid "Latest from our blog"
+msgstr "Lo último de nuestro blog"
+
+#. [Leaderboard.Leaderboard]
+#. defaultMessage is:
+#. Leaderboard
+#: public/messages/src/app/containers/homepageContainer/leaderboard.json
+msgid "Leaderboard"
+msgstr "Tabla de clasificación"
+
+#. [ChatList.LearnMore]
+#. defaultMessage is:
+#. Learn More
+#. [LearnMore.LearnMore]
+#. defaultMessage is:
+#. Learn More
+#. [Login.LearnMoreTwo]
+#. defaultMessage is:
+#. Learn More
+#. [Login.LearnMore]
+#. defaultMessage is:
+#. Learn More
+#: public/messages/src/app/components/Chat/ChatList.json
+#: public/messages/src/app/components/learn-more/index.json
+#: public/messages/src/app/components/Login/index.json
+msgid "Learn More"
+msgstr "Aprende más"
+
+#. [SubmitBoostModal.LearnHow]
+#. defaultMessage is:
+#. Learn how
+#. [SubmitVoteConfirmation.LearnHow]
+#. defaultMessage is:
+#. Learn how
+#. [MediaGallery.LearnHow]
+#. defaultMessage is:
+#. Learn how
+#. [SectionMediaModal.LearnHow]
+#. defaultMessage is:
+#. Learn how
+#: public/messages/src/app/components/Boost/SubmitBoostModal.json
+#: public/messages/src/app/components/SubmitVote/ConfirmationModal.json
+#: public/messages/src/editor/plugins/media-gallery/media-gallery-modal.json
+#: public/messages/src/editor/plugins/section-media-modal/section-media-modal.json
+msgid "Learn how"
+msgstr "Más información"
+
+#. [Login.LearnMoreThree]
+#. defaultMessage is:
+#. Learn more
+#. [IQInfo.IntroLearnMore]
+#. defaultMessage is:
+#. Learn more
+#. [IQInfo.LearnMore]
+#. defaultMessage is:
+#. Learn more
+#: public/messages/src/app/components/Login/login.modal.json
+#: public/messages/src/app/containers/iq-info/iq-info.container.json
+msgid "Learn more"
+msgstr "Aprende más"
+
+#. [NewPageTemplate.NPT_MedicalEntity_LegalStatus]
+#. defaultMessage is:
+#. Legal Status
+#: public/messages/src/editor/utils/editing-utils/template-packs/medical-entity.json
+msgid "Legal Status"
+msgstr "Situación legal"
+
+#. [EPLinkModal.Link]
+#. defaultMessage is:
+#. Link
+#: public/messages/src/editor/plugins/ep-link-modal/index.json
+msgid "Link"
+msgstr "Enlace"
+
+#. [EPLinkModal.LinkToAnotherEveripediaArticle]
+#. defaultMessage is:
+#. Link to another Everipedia Article
+#: public/messages/src/editor/plugins/ep-link-modal/ep-link-modal.json
+
+msgid "Link to another Everipedia Article"
+msgstr "Enlace a otro artículo de Everipedia"
+
+#. [EPLinkModal.Title]
+#. defaultMessage is:
+#. Link to another existing Everipedia page
+#: public/messages/src/editor/plugins/ep-link-modal/ep-link-modal.json
+
+msgid "Link to another existing Everipedia page"
+msgstr "Enlace a otra página existente de Everipedia"
+
+#. [CitationModal.LinkToCredibleSources]
+#. defaultMessage is:
+#. Link to credible sources to support your edits
+#: public/messages/src/editor/plugins/citation-modal/citation-modal.json
+
+msgid "Link to credible sources to support your edits"
+msgstr "Enlace a fuentes creíbles para apoyar sus ediciones"
+
+#. [MetadataModal.ItemList]
+#. defaultMessage is:
+#. List
+#: public/messages/src/editor/plugins/metadata/metadata-modal.json
+msgid "List"
+msgstr "Lista"
+
+#. [MetadataModal.ListRanking]
+#. defaultMessage is:
+#. List / Ranking
+#: public/messages/src/editor/plugins/metadata/metadata-modal.json
+
+msgid "List / Ranking"
+msgstr "Lista/Ranking"
+
+#. [About.CensorshipResistantDetail]
+#. defaultMessage is:
+#. Live and permanent edits of content on the blockchain beyond the control of a central authority.
+#: public/messages/src/app/containers/about/about.container.json
+msgid ""
+"Live and permanent edits of content on the blockchain beyond the control of "
+"a central authority."
+msgstr ""
+"Edición en vivo y permanente del contenido de blockchain más allá del "
+"control de una autoridad central."
+
+#. [ActivityCards.Loading]
+#. defaultMessage is:
+#. Loading
+#. [Chat.Loading]
+#. defaultMessage is:
+#. Loading
+#. [CategoryResultCards.Loading]
+#. defaultMessage is:
+#. Loading
+#. [MainPhoto.Loading]
+#. defaultMessage is:
+#. Loading
+#. [MediaGallery.Loading]
+#. defaultMessage is:
+#. Loading
+#: public/messages/src/app/components/ActivityCards/index.json
+#: public/messages/src/app/components/Chat/messages.json
+#: public/messages/src/app/containers/category-results/category-results.container.json
+#: public/messages/src/editor/plugins/main-photo/main-photo-modal.json
+#: public/messages/src/editor/plugins/media-gallery/media-gallery-modal.json
+
+msgid "Loading"
+msgstr "Cargando.."
+
+#. [ImageUploader.LocalFile]
+#. defaultMessage is:
+#. Local File
+#: public/messages/src/shared/inputs/image-uploader/image-uploader.component.json
+msgid "Local File"
+msgstr "Archivo Local"
+
+#. [EditProfile.Location]
+#. defaultMessage is:
+#. Location
+#. [NewPageTemplate.NPT_Event_Location]
+#. defaultMessage is:
+#. Location
+#: public/messages/src/app/components/edit-profile/index.json
+#: public/messages/src/editor/utils/editing-utils/template-packs/event.json
+msgid "Location"
+msgstr "Ubicación"
+
+#. [MetadataModal.Locked]
+#. defaultMessage is:
+#. Locked
+#: public/messages/src/editor/plugins/metadata/metadata-modal.json
+msgid "Locked"
+msgstr "Bloqueado"
+
+#. [Chat.LogInToChat]
+#. defaultMessage is:
+#. Log in to chat
+#: public/messages/src/app/components/Chat/messages.json
+msgid "Log in to chat"
+msgstr "Log in para chatear"
+
+#. [LoginModal.LoginWithEmail]
+#. defaultMessage is:
+#. Log in with Email
+#: public/messages/src/app/components/Login/index.json
+
+#| msgid "Log in with Line"
+msgid "Log in with Email"
+msgstr "Iniciar sesión con Line"
+
+#. [Login.LogInWithFacebook]
+#. defaultMessage is:
+#. Log in with Facebook
+#: public/messages/src/app/components/Login/auth.json
+msgid "Log in with Facebook"
+msgstr "Inicia tu sesión con Facebook"
+
+#. [Login.LogInWithGithub]
+#. defaultMessage is:
+#. Log in with Github
+#: public/messages/src/app/components/Login/auth.json
+msgid "Log in with Github"
+msgstr "Iniciar sesión con Github"
+
+#. [Login.LogInWithGoogle]
+#. defaultMessage is:
+#. Log in with Google
+#: public/messages/src/app/components/Login/auth.json
+msgid "Log in with Google"
+msgstr "Ingresar con Google"
+
+#. [Login.LogInWithKakao]
+#. defaultMessage is:
+#. Log in with Kakao
+#: public/messages/src/app/components/Login/auth.json
+msgid "Log in with Kakao"
+msgstr "Iniciar sesión con Kakao"
+
+#. [Login.LogInWithLine]
+#. defaultMessage is:
+#. Log in with Line
+#: public/messages/src/app/components/Login/auth.json
+msgid "Log in with Line"
+msgstr "Iniciar sesión con Line"
+
+#. [Login.LogInWithLinkedIn]
+#. defaultMessage is:
+#. Log in with LinkedIn
+#: public/messages/src/app/components/Login/auth.json
+msgid "Log in with LinkedIn"
+msgstr "Ingresa con LinkedIn"
+
+#. [Login.LogInWithScatter]
+#. defaultMessage is:
+#. Log in with Scatter
+#: public/messages/src/app/components/Login/auth.json
+msgid "Log in with Scatter"
+msgstr "Por favor, inicia sesión con Scatter"
+
+#. [Login.LogInWithTwitch]
+#. defaultMessage is:
+#. Log in with Twitch
+#: public/messages/src/app/components/Login/auth.json
+msgid "Log in with Twitch"
+msgstr "Iniciar sesión con Twitch"
+
+#. [Login.LogInWithTwitter]
+#. defaultMessage is:
+#. Log in with Twitter
+#: public/messages/src/app/components/Login/auth.json
+msgid "Log in with Twitter"
+msgstr "Ingresar con Twitter"
+
+#. [Dashboard.LogOut]
+#. defaultMessage is:
+#. Log out
+#: public/messages/src/app/containers/dashboard/dashboard_component.json
+
+msgid "Log out"
+msgstr "Cerrar sesión"
+
+#. [Directory.Login]
+#. defaultMessage is:
+#. Login
+#. [Chat.LoginTwo]
+#. defaultMessage is:
+#. Login
+#. [Notifications.Login]
+#. defaultMessage is:
+#. Login
+#. [AccountNameHeader.Login]
+#. defaultMessage is:
+#. Login
+#. [Errors.LoginTwo]
+#. defaultMessage is:
+#. Login
+#: public/messages/src/app/components/Chat/Directory.json
+#: public/messages/src/app/components/Chat/index.json
+#: public/messages/src/app/components/Chat/Notifications.json
+#: public/messages/src/app/components/Header/account-name-header.json
+#: public/messages/src/app/utils/errors.json
+msgid "Login"
+msgstr "Iniciar sesión"
+
+#. [Errors.LoginThree]
+#. defaultMessage is:
+#. Login / Create Account
+#: public/messages/src/app/utils/errors.json
+
+msgid "Login / Create Account"
+msgstr "Iniciar sesión / Crear una cuenta"
+
+#. [Directory.LoginToChat]
+#. defaultMessage is:
+#. Login to Chat
+#. [Notifications.LoginToChat]
+#. defaultMessage is:
+#. Login to Chat
+#: public/messages/src/app/components/Chat/Directory.json
+#: public/messages/src/app/components/Chat/Notifications.json
+msgid "Login to Chat"
+msgstr "Log in para chatear"
+
+#. [Login.LoginToEveripedia]
+#. defaultMessage is:
+#. Login to Everipedia
+#: public/messages/src/app/containers/wallet-login/wallet-login.container.json
+
+msgid "Login to Everipedia"
+msgstr "Iniciar sesión en Everipedia"
+
+#. [SubmitVote.LoginToStartContributing]
+#. defaultMessage is:
+#. Login to Start Contributing
+#: public/messages/src/app/components/SubmitVote/index.json
+
+#| msgid "Start Contributing"
+msgid "Login to Start Contributing"
+msgstr "Comience a contribuir"
+
+#. [Chat.LoginToParticipate]
+#. defaultMessage is:
+#. Login to participate in article chat
+#: public/messages/src/app/components/Chat/index.json
+
+msgid "Login to participate in article chat"
+msgstr "Iniciar sesión para participar en el chat del artículo"
+
+#. [ChatList.LoginToParticipate]
+#. defaultMessage is:
+#. Login to participate in article chat.
+#: public/messages/src/app/components/Chat/ChatList.json
+
+msgid "Login to participate in article chat."
+msgstr "Iniciar sesión para participar en el chat del artículo"
+
+#. [LoginModal.LoginWithFacebook]
+#. defaultMessage is:
+#. Login with Facebook
+#: public/messages/src/app/components/Login/index.json
+msgid "Login with Facebook"
+msgstr "Iniciar sesión con Facebook"
+
+#. [LoginModal.LoginWithGoogle]
+#. defaultMessage is:
+#. Login with Google
+#: public/messages/src/app/components/Login/index.json
+msgid "Login with Google"
+msgstr "Iniciar sesión con Google"
+
+#. [LoginModal.LoginWithKakao]
+#. defaultMessage is:
+#. Login with Kakao
+#: public/messages/src/app/components/Login/index.json
+msgid "Login with Kakao"
+msgstr "Iniciar sesión con Kakao"
+
+#. [LoginModal.LoginWithLine]
+#. defaultMessage is:
+#. Login with Line
+#: public/messages/src/app/components/Login/index.json
+msgid "Login with Line"
+msgstr "Iniciar sesión con Line"
+
+#. [LoginModal.LoginWithPhone]
+#. defaultMessage is:
+#. Login with Phone
+#: public/messages/src/app/components/Login/index.json
+
+#| msgid "Login with Line"
+msgid "Login with Phone"
+msgstr "Iniciar sesión con Line"
+
+#. [LoginModal.LoginWithScatter]
+#. defaultMessage is:
+#. Login with Scatter
+#: public/messages/src/app/components/Login/index.json
+msgid "Login with Scatter"
+msgstr "Iniciar sesión con Scatter"
+
+#. [Login.LoginWithScatterBlockchain]
+#. defaultMessage is:
+#. Login with Scatter to use your existing EOS blockchain account.
+#: public/messages/src/app/components/Login/index.json
+
+msgid "Login with Scatter to use your existing EOS blockchain account."
+msgstr "Ingresa con Scatter para usar tu cuenta de EOS blockchain existente."
+
+#. [LoginModal.LoginWithTwitter]
+#. defaultMessage is:
+#. Login with Twitter
+#: public/messages/src/app/components/Login/index.json
+msgid "Login with Twitter"
+msgstr "Iniciar sesión con Twitter"
+
+#. [MediaBox.Media]
+#. defaultMessage is:
+#. MEDIA
+#. [EditorMediaGallery.MEDIA]
+#. defaultMessage is:
+#. MEDIA
+#: public/messages/src/app/components/ArticleComponent/MediaBox.json
+#: public/messages/src/editor/plugins/media-gallery/media-gallery.node.json
+msgid "MEDIA"
+msgstr "Media"
+
+#. [Leaderboard.MonthCap]
+#. defaultMessage is:
+#. MONTH
+#: public/messages/src/app/containers/homepageContainer/leaderboard.json
+
+msgid "MONTH"
+msgstr "Mes"
+
+#. [ActivityCards.MostRecent]
+#. defaultMessage is:
+#. MOST RECENT
+#: public/messages/src/app/components/ActivityCards/index.json
+msgid "MOST RECENT"
+msgstr "MAS RECIENTES"
+
+#. [ActivityCards.MyActivity]
+#. defaultMessage is:
+#. MY ACTIVITY
+#: public/messages/src/app/components/ActivityCards/index.json
+
+msgid "MY ACTIVITY"
+msgstr "MI ACTIVIDAD"
+
+#. [ActivityCards.MyEdits]
+#. defaultMessage is:
+#. MY EDITS
+#: public/messages/src/app/components/ActivityCards/index.json
+
+msgid "MY EDITS"
+msgstr "Editores"
+
+#. [SubmitVote.MakeAnEdit]
+#. defaultMessage is:
+#. Make an Edit
+#: public/messages/src/app/components/SubmitVote/index.json
+
+msgid "Make an Edit"
+msgstr "Conviértase en editor"
+
+#. [ThirdBlock.MarketCap]
+#. defaultMessage is:
+#. Marketcap.one
+#: public/messages/src/app/containers/about/third-block.json
+
+msgid "Marketcap.one"
+msgstr "Marketcap.one"
+
+#. [FileUploader.MaxFileSize]
+#. defaultMessage is:
+#. Max file size: 5mb, accepted:
+#. [ImageUploader.MaxFileSize]
+#. defaultMessage is:
+#. Max file size: 5mb, accepted:
+#: public/messages/src/shared/inputs/image-uploader/file-uploader.component.json
+#: public/messages/src/shared/inputs/image-uploader/image-uploader.component.json
+msgid "Max file size: 5mb, accepted:"
+msgstr "Tamaño máximo de archivo: 5mb, aceptado:"
+
+#. [CommentUtils.Media]
+#. defaultMessage is:
+#. Media
+#. [SectionMediaModal.Media]
+#. defaultMessage is:
+#. Media
+#. [SectionMediaModal.MediaTwo]
+#. defaultMessage is:
+#. Media
+#: public/messages/src/app/utils/comment-utils.json
+#: public/messages/src/editor/plugins/section-media-modal/index.json
+#: public/messages/src/editor/plugins/section-media/section-media.button.json
+msgid "Media"
+msgstr "Media"
+
+#. [MetadataModal.MedicalBiology]
+#. defaultMessage is:
+#. Medical / Biology
+#. [MetadataModal.MedicalEntity]
+#. defaultMessage is:
+#. Medical / Biology
+#: public/messages/src/editor/plugins/metadata/metadata-modal.json
+
+msgid "Medical / Biology"
+msgstr "Médico/Biología"
+
+#. [NewPageTemplate.NPT_MedicalEntity_MedicalCode]
+#. defaultMessage is:
+#. Medical Code
+#: public/messages/src/editor/utils/editing-utils/template-packs/medical-entity.json
+
+msgid "Medical Code"
+msgstr "Médico/Biología"
+
+#. [ThirdBlock.MeetOurTeam]
+#. defaultMessage is:
+#. Meet our team
+#: public/messages/src/app/containers/about/third-block.json
+msgid "Meet our team"
+msgstr "Conoce a nuestro equipo"
+
+#. [CommentUtils.Merge]
+#. defaultMessage is:
+#. Merge
+#. [MergeModal.Merge]
+#. defaultMessage is:
+#. Merge
+#: public/messages/src/app/utils/comment-utils.json
+#: public/messages/src/editor/plugins/merge/index.json
+msgid "Merge"
+msgstr "Fusionar página"
+
+#. [MergeModal.Title]
+#. defaultMessage is:
+#. Merge this page into another Everipedia page
+#. [MergeModalAgain.SubmittingYourArticleEdit]
+#. defaultMessage is:
+#. Merge this page into another Everipedia page
+#: public/messages/src/editor/plugins/merge/merge-modal.json
+msgid "Merge this page into another Everipedia page"
+msgstr "Añadir o editar un enlace a otra página de Everipedia"
+
+#. [ActivityCard.Merged1]
+#. defaultMessage is:
+#. Merged
+#: public/messages/src/app/components/ActivityCards/ActivityCard.json
+msgid "Merged"
+msgstr "Combinado"
+
+#. [Chat.Messages]
+#. defaultMessage is:
+#. Messages
+#: public/messages/src/app/components/Chat/messages.json
+
+msgid "Messages"
+msgstr "Mensajes"
+
+#. [Errors.MobileEditingComing]
+#. defaultMessage is:
+#. Mobile editing coming soon
+#: public/messages/src/app/components/error-modal/index.json
+
+msgid "Mobile editing coming soon"
+msgstr "Próximamente edición móvil"
+
+#. [About.MobileViewAlt]
+#. defaultMessage is:
+#. Mobile view of Everipedia user profile
+#: public/messages/src/app/containers/about/about.container.json
+
+msgid "Mobile view of Everipedia user profile"
+msgstr "Vista móvil del perfil de usuario de Everipedia"
+
+#. [About.ModernDesignTitle]
+#. defaultMessage is:
+#. Modern Design and Features
+#: public/messages/src/app/containers/about/about.container.json
+
+msgid "Modern Design and Features"
+msgstr "Diseño moderno y características"
+
+#. [About.MoreArticlesTitle]
+#. defaultMessage is:
+#. More Articles and Content
+#: public/messages/src/app/containers/about/about.container.json
+
+msgid "More Articles and Content"
+msgstr "Más artículos y contenido"
+
+#. [SearchResults.MoreResults]
+#. defaultMessage is:
+#. More Results
+#: public/messages/src/app/components/Search/SearchResults.json
+msgid "More Results"
+msgstr "Más resultados"
+
+#. [EditProfile.MustChangeSomething]
+#. defaultMessage is:
+#. Must change something to submit your profile to the blockchain
+#: public/messages/src/app/components/edit-profile/index.json
+
+msgid "Must change something to submit your profile to the blockchain"
+msgstr "Debe cambiar algo para enviar su perfil a la cadena de bloqueo"
+
+#. [Chat.MustLogInToChat]
+#. defaultMessage is:
+#. Must log in to chat
+#: public/messages/src/app/components/Chat/messages.json
+msgid "Must log in to chat"
+msgstr "Debe iniciar sesión para chatear"
+
+#. [SubmitBoostModal.NewBoost]
+#. defaultMessage is:
+#. NEW BOOST
+#: public/messages/src/app/components/Boost/SubmitBoostModal.json
+
+msgid "NEW BOOST"
+msgstr "NUEVO IMPULSO"
+
+#. [NewPageTemplate.NPT_Person_Nationality]
+#. defaultMessage is:
+#. Nationality
+#: public/messages/src/editor/utils/editing-utils/template-packs/person.json
+msgid "Nationality"
+msgstr "Nacionalidad"
+
+#. [ArticleContainer.NewArticle]
+#. defaultMessage is:
+#. New Article
+#. [CommentUtils.NewArticle]
+#. defaultMessage is:
+#. New Article
+#: public/messages/src/app/containers/article/article.container.json
+#: public/messages/src/app/utils/comment-utils.json
+
+#| msgid "Create New Article"
+msgid "New Article"
+msgstr "Crear artículo nuevo"
+
+#. [MetadataNode.No]
+#. defaultMessage is:
+#. No
+#: public/messages/src/editor/plugins/metadata/metadata.node.json
+msgid "No"
+msgstr "No"
+
+#. [EditOverview.NoChanges]
+#. defaultMessage is:
+#. No Changes
+#: public/messages/src/app/components/SubmitVote/EditOverview.json
+
+msgid "No Changes"
+msgstr "Guardar cambios"
+
+#. [Directory.NoChatsInDirectory]
+#. defaultMessage is:
+#. No Chats in Directory
+#. [Notifications.NoChatsInDirectory]
+#. defaultMessage is:
+#. No Chats in Directory
+#: public/messages/src/app/components/Chat/Directory.json
+#: public/messages/src/app/components/Chat/Notifications.json
+msgid "No Chats in Directory"
+msgstr "No hay chats en el directorio"
+
+#. [Leaderboard.NoEdits]
+#. defaultMessage is:
+#. No Edits
+#: public/messages/src/app/containers/homepageContainer/leaderboard.json
+msgid "No Edits"
+msgstr "Últimas ediciones"
+
+#. [LinkRenderer.NoPreviewAvailable]
+#. defaultMessage is:
+#. No Preview Available
+#: public/messages/src/app/components/link-renderer/index.json
+
+#| msgid "Preview Not Available"
+msgid "No Preview Available"
+msgstr "Vista previa no disponible"
+
+#. [SearchResults.NoSearchResults]
+#. defaultMessage is:
+#. No Search Results
+#: public/messages/src/app/components/Search/SearchResults.json
+msgid "No Search Results"
+msgstr "No hay resultados"
+
+#. [Leaderboard.NoVotes]
+#. defaultMessage is:
+#. No Votes
+#: public/messages/src/app/containers/homepageContainer/leaderboard.json
+
+#| msgid "No votes"
+msgid "No Votes"
+msgstr "Poner Votos"
+
+#. [Dashboard.NoInfoAvailableTwo]
+#. defaultMessage is:
+#. No profile information available
+#: public/messages/src/app/containers/dashboard/dashboard_component.json
+
+msgid "No profile information available"
+msgstr "No hay información de perfil disponible"
+
+#. [Dashboard.NoPublicAvailable]
+#. defaultMessage is:
+#. No public profile information available
+#: public/messages/src/app/containers/dashboard/dashboard_component.json
+
+msgid "No public profile information available"
+msgstr "No hay información de perfil público disponible"
+
+#. [SubmitVote.NoResultReturned]
+#. defaultMessage is:
+#. No result returned
+#: public/messages/src/app/components/SubmitVote/index.json
+
+msgid "No result returned"
+msgstr "No se ha devuelto ningún resultado"
+
+#. [Tooltips.NoVotes]
+#. defaultMessage is:
+#. No votes
+#: public/messages/src/app/components/tooltips/index.json
+msgid "No votes"
+msgstr "Poner Votos"
+
+#. [MetadataModal.None]
+#. defaultMessage is:
+#. None
+#: public/messages/src/editor/plugins/metadata/metadata-modal.json
+msgid "None"
+msgstr "Ninguno"
+
+#. [EditOverview.NotChanged]
+#. defaultMessage is:
+#. Not changed
+#: public/messages/src/app/components/SubmitVote/EditOverview.json
+msgid "Not changed"
+msgstr "Cambiado"
+
+#. [NewPageTemplate.NPT_Organization_NotablePeople]
+#. defaultMessage is:
+#. Notable People
+#: public/messages/src/editor/utils/editing-utils/template-packs/organization.json
+
+msgid "Notable People"
+msgstr "Personas notables"
+
+#. [Notifications.Notifications]
+#. defaultMessage is:
+#. Notifications
+#. [MobileHamburger.Notifications]
+#. defaultMessage is:
+#. Notifications
+#: public/messages/src/app/components/Chat/Notifications.json
+#: public/messages/src/app/components/Header/Mobile-Hamburger.json
+msgid "Notifications"
+msgstr "Notificaciones"
+
+#. [NewPageTemplate.NPT_Organization_NumberOfEmployees]
+#. defaultMessage is:
+#. Number of Employees
+#: public/messages/src/editor/utils/editing-utils/template-packs/organization.json
+
+msgid "Number of Employees"
+msgstr "Número de empleados"
+
+#. [SubmitBoostModal.OK]
+#. defaultMessage is:
+#. OK
+#. [SubmitVoteConfirmation.OK]
+#. defaultMessage is:
+#. OK
+#: public/messages/src/app/components/Boost/SubmitBoostModal.json
+#: public/messages/src/app/components/SubmitVote/ConfirmationModal.json
+msgid "OK"
+msgstr "OK"
+
+#. [Stats.OriginalPages]
+#. defaultMessage is:
+#. ORIGINAL PAGES
+#. [Stats.OriginalPagesTwo]
+#. defaultMessage is:
+#. ORIGINAL PAGES
+#: public/messages/src/app/containers/admin/admin.container.json
+#: public/messages/src/app/containers/homepageContainer/stats.json
+
+msgid "ORIGINAL PAGES"
+msgstr "PÁGINAS ORIGINALES"
+
+#. [NewPageTemplate.NPT_Person_Occupation]
+#. defaultMessage is:
+#. Occupation
+#: public/messages/src/editor/utils/editing-utils/template-packs/person.json
+msgid "Occupation"
+msgstr "Profesión"
+
+#. [SaveModalAgain.OnceYouSubmitEdits]
+#. defaultMessage is:
+#. Once you submit edits, they will be displayed immediately in the article and be open for voting. If approved by the community, your edits will be accepted into the article.
+#: public/messages/src/editor/plugins/save/save-modal.json
+
+msgid ""
+"Once you submit edits, they will be displayed immediately in the article and "
+"be open for voting. If approved by the community, your edits will be "
+"accepted into the article."
+msgstr ""
+"Una vez que envíe las ediciones, se mostrarán inmediatamente en el artículo "
+"y estarán abiertas a la votación. Si es aprobado por la comunidad, sus "
+"ediciones serán aceptadas en el artículo."
+
+#. [SaveModalAgain.Description]
+#. defaultMessage is:
+#. Once you submit your edits, they will be displayed immediately in the article and be open for voting. If approved by the community, your edits will be accepted into the article.
+#: public/messages/src/editor/plugins/save/save-modal.json
+
+msgid ""
+"Once you submit your edits, they will be displayed immediately in the "
+"article and be open for voting. If approved by the community, your edits "
+"will be accepted into the article."
+msgstr ""
+"Una vez que envíe sus ediciones, se mostrarán inmediatamente en el artículo "
+"y estarán abiertas a la votación. Si es aprobado por la comunidad, sus "
+"ediciones serán aceptadas en el artículo."
+
+#. [NewPageTemplate.NPT_Organization_OperatingArea]
+#. defaultMessage is:
+#. Operating Area
+#: public/messages/src/editor/utils/editing-utils/template-packs/organization.json
+
+msgid "Operating Area"
+msgstr "Área Operativa"
+
+#. [MetadataModal.Organization]
+#. defaultMessage is:
+#. Organization
+#: public/messages/src/editor/plugins/metadata/metadata-modal.json
+msgid "Organization"
+msgstr "Organización"
+
+#. [MetadataModal.OrganizationCompanyInstitution]
+#. defaultMessage is:
+#. Organization / Company / Institution
+#: public/messages/src/editor/plugins/metadata/metadata-modal.json
+
+msgid "Organization / Company / Institution"
+msgstr "Organización/Empresa/Institución"
+
+#. [NewPageTemplate.NPT_Event_Organizers]
+#. defaultMessage is:
+#. Organizer(s)
+#: public/messages/src/editor/utils/editing-utils/template-packs/event.json
+
+msgid "Organizer(s)"
+msgstr "Organizador(es)"
+
+#. [ContactUs.Other]
+#. defaultMessage is:
+#. Other
+#. [ContactUs.other]
+#. defaultMessage is:
+#. Other
+#. [MetadataModal.Other]
+#. defaultMessage is:
+#. Other
+#: public/messages/src/app/components/ContactUsForm/index.json
+#: public/messages/src/app/containers/contact-us/messages.json
+#: public/messages/src/editor/plugins/metadata/metadata-modal.json
+msgid "Other"
+msgstr "Otro"
+
+#. [LoginModal.OtherLoginOptions]
+#. defaultMessage is:
+#. Other Login Options
+#: public/messages/src/app/components/Login/index.json
+msgid "Other Login Options"
+msgstr "Otras opciones de Iniciar Sesion"
+
+#. [ContactUs.OurGlobalOffices]
+#. defaultMessage is:
+#. Our global offices
+#: public/messages/src/app/containers/contact-us/contact-us.container.json
+msgid "Our global offices"
+msgstr "Nuestras oficinas globales"
+
+#. [ThirdBlock.OurMissionToBuild]
+#. defaultMessage is:
+#. Our mission to build the world’s greatest encyclopedia requires a skilled executive team that
+#. embraces grand challenges. At Everipedia, we are fortunate to have people with deep experience
+#. and knowledge in both the education and blockchain industry.
+#: public/messages/src/app/containers/about/third-block.json
+
+msgid ""
+"Our mission to build the world’s greatest encyclopedia requires a skilled "
+"executive team that\n"
+"\t\t\t\t\t\tembraces grand challenges. At Everipedia, we are fortunate to "
+"have people with deep experience\n"
+"\t\t\t\t\t\tand knowledge in both the education and blockchain industry."
+msgstr ""
+"Nuestra misión de construir la mayor enciclopedia del mundo requiere un "
+"equipo ejecutivo capacitado que\n"
+"\t\t\t\t\t\tse enfrenta a grandes desafíos. En Everipedia, tenemos la suerte "
+"de contar con personas con una gran experiencia\n"
+"\t\t\t\t\t\ty conocimiento tanto en la industria de la educación como en la "
+"de la cadena de bloques."
+
+#. [Errors.OutOfIQ]
+#. defaultMessage is:
+#. Out of IQ
+#. [Errors.OutOfIQTwo]
+#. defaultMessage is:
+#. Out of IQ
+#: public/messages/src/app/components/error-modal/index.json
+
+msgid "Out of IQ"
+msgstr "Fuera de IQ"
+
+#. [Suggestions.OverrideText]
+#. defaultMessage is:
+#. Override text?
+#: public/messages/src/editor/components/mentions/suggestions.json
+
+msgid "Override text?"
+msgstr "¿Sustituir texto?"
+
+#. [RecentPopularContent.POPULAR]
+#. defaultMessage is:
+#. POPULAR
+#: public/messages/src/app/containers/homepageContainer/recentPopularContent.json
+msgid "POPULAR"
+msgstr "POPULAR"
+
+#. [MetadataModal.PageNote]
+#. defaultMessage is:
+#. Page Note
+#: public/messages/src/editor/plugins/metadata/metadata-modal.json
+
+#| msgid "Page Type"
+msgid "Page Note"
+msgstr "Tipo de Página"
+
+#. [CommentUtils.PageRemoval]
+#. defaultMessage is:
+#. Page Removal
+#: public/messages/src/app/utils/comment-utils.json
+
+msgid "Page Removal"
+msgstr "Eliminación de páginas"
+
+#. [SaveModalAgain.PageRemoved]
+#. defaultMessage is:
+#. Page Removed
+#: public/messages/src/editor/plugins/save/save-modal.json
+
+msgid "Page Removed"
+msgstr "Página eliminada"
+
+#. [MetadataModal.PageType]
+#. defaultMessage is:
+#. Page Type
+#: public/messages/src/editor/plugins/metadata/metadata-modal.json
+msgid "Page Type"
+msgstr "Tipo de Página"
+
+#. [EditOverview.PageRemoved]
+#. defaultMessage is:
+#. Page removed.
+#: public/messages/src/app/components/SubmitVote/EditOverview.json
+
+msgid "Page removed."
+msgstr "Página eliminada."
+
+#. [CreatePage.PageType]
+#. defaultMessage is:
+#. Page type
+#: public/messages/src/app/components/create-new-page/index.json
+
+#| msgid "Page Type"
+msgid "Page type"
+msgstr "Tipo de Página"
+
+#. [Chat.Participants]
+#. defaultMessage is:
+#. Participants
+#: public/messages/src/app/components/Chat/messages.json
+msgid "Participants"
+msgstr "Participantes"
+
+#. [NewPageTemplate.NPT_Event_Performers]
+#. defaultMessage is:
+#. Performer(s)
+#: public/messages/src/editor/utils/editing-utils/template-packs/event.json
+
+msgid "Performer(s)"
+msgstr "Intérprete(s)"
+
+#. [SubmitVote.Permalink]
+#. defaultMessage is:
+#. Permalink
+#: public/messages/src/app/components/SubmitVote/index.json
+msgid "Permalink"
+msgstr "Enlace permanente"
+
+#. [BoostBox.ExplanationOne]
+#. defaultMessage is:
+#. Permanently increase your voting power for this article by burning IQ.
+#: public/messages/src/app/components/Boost/index.json
+
+msgid "Permanently increase your voting power for this article by burning IQ."
+msgstr ""
+"Aumente permanentemente su poder de voto para este artículo mediante la "
+"quema de IQ."
+
+#. [Login.Permission]
+#. defaultMessage is:
+#. Permission
+#: public/messages/src/app/components/Login/auth.json
+msgid "Permission"
+msgstr "Permiso"
+
+#. [MetadataModal.Person]
+#. defaultMessage is:
+#. Person
+#: public/messages/src/editor/plugins/metadata/metadata-modal.json
+msgid "Person"
+msgstr "Persona"
+
+#. [NewPageTemplate.NPT_Person_Personal]
+#. defaultMessage is:
+#. Personal
+#: public/messages/src/editor/utils/editing-utils/template-packs/person.json
+msgid "Personal"
+msgstr "Personal"
+
+#. [NewPageTemplate.NPT_Person_Phone]
+#. defaultMessage is:
+#. Phone
+#: public/messages/src/editor/utils/editing-utils/template-packs/person.json
+msgid "Phone"
+msgstr "Teléfono"
+
+#. [MetadataModal.PlaceLocation]
+#. defaultMessage is:
+#. Place / Location
+#. [MetadataModal.Place]
+#. defaultMessage is:
+#. Place / Location
+#: public/messages/src/editor/plugins/metadata/metadata-modal.json
+
+msgid "Place / Location"
+msgstr "Lugar/Ubicación"
+
+#. [NewPageTemplate.NPT_Person_PlaceOfBirth]
+#. defaultMessage is:
+#. Place of Birth
+#: public/messages/src/editor/utils/editing-utils/template-packs/person.json
+msgid "Place of Birth"
+msgstr "Lugar de nacimiento"
+
+#. [SaveModalAgain.PleaseAddAtLeastOne]
+#. defaultMessage is:
+#. Please add at least one citation
+#: public/messages/src/editor/plugins/save/save-modal.json
+
+#| msgid "Please enter a caption"
+msgid "Please add at least one citation"
+msgstr "Por favor, Introduzca un asunto"
+
+#. [LinkableInputSlate.PleaseBeginTyping]
+#. defaultMessage is:
+#. Please begin typing...
+#. [LinkableInput.PleaseBeginTyping]
+#. defaultMessage is:
+#. Please begin typing...
+#: public/messages/src/editor/components/linkable-input-slate/linkable-input-slate.json
+#: public/messages/src/editor/components/linkable-input/linkable-input.json
+msgid "Please begin typing..."
+msgstr "Por favor, empieza a escribir...."
+
+#. [CitationModal.AddEditURL.PleaseEnterAURL]
+#. defaultMessage is:
+#. Please enter a URL
+#. [SectionMediaModal.AddEditURL.PleaseEnterAURL]
+#. defaultMessage is:
+#. Please enter a URL
+#: public/messages/src/editor/plugins/citation-modal/panes/add-edit-url.json
+#: public/messages/src/editor/plugins/section-media-modal/panes/add-edit-url.json
+msgid "Please enter a URL"
+msgstr "Por favor escribe tu mensaje"
+
+#. [ImageUploader.EnterAURL]
+#. defaultMessage is:
+#. Please enter a URL.
+#: public/messages/src/shared/inputs/image-uploader/image-uploader.component.json
+
+msgid "Please enter a URL."
+msgstr "Por favor escribe tu mensaje"
+
+#. [FileUploader.CaptionPlaceholder]
+#. defaultMessage is:
+#. Please enter a caption
+#. [ImageUploader.CaptionPlaceholder]
+#. defaultMessage is:
+#. Please enter a caption
+#: public/messages/src/shared/inputs/image-uploader/file-uploader.component.json
+#: public/messages/src/shared/inputs/image-uploader/image-uploader.component.json
+msgid "Please enter a caption"
+msgstr "Por favor, Introduzca un asunto"
+
+#. [SaveModalAgain.CommentPlaceholder]
+#. defaultMessage is:
+#. Please enter a comment for this edit
+#: public/messages/src/editor/plugins/save/save-modal.json
+msgid "Please enter a comment for this edit"
+msgstr "Por favor escribe tu mensaje"
+
+#. [ContactUs.PleaseEnterAMessage]
+#. defaultMessage is:
+#. Please enter a message
+#. [ContactUs.PleaseEnterAMessageTwo]
+#. defaultMessage is:
+#. Please enter a message
+#: public/messages/src/app/components/ContactUsForm/index.json
+#: public/messages/src/app/containers/contact-us/messages.json
+msgid "Please enter a message"
+msgstr "Por favor escribe tu mensaje"
+
+#. [ContactUs.PleaseEnterASubject]
+#. defaultMessage is:
+#. Please enter a subject
+#: public/messages/src/app/components/ContactUsForm/index.json
+msgid "Please enter a subject"
+msgstr "Por favor, Introduzca un asunto"
+
+#. [ContactUs.PleaseEnterYourEmailAddressTwo]
+#. defaultMessage is:
+#. Please enter a valid email address
+#: public/messages/src/app/containers/contact-us/messages.json
+msgid "Please enter a valid email address"
+msgstr "Por favor introduce una dirección de correo electrónico válida"
+
+#. [CitationModal.AddEditISBN.EnterTheBooksISBN]
+#. defaultMessage is:
+#. Please enter the ISBN for the book
+#: public/messages/src/editor/plugins/citation-modal/panes/add-edit-isbn.json
+
+#| msgid "Please enter a description for the article"
+msgid "Please enter the ISBN for the book"
+msgstr "Por favor escribe tu mensaje"
+
+#. [ContactUs.PleaseEnterYourEmailAddress]
+#. defaultMessage is:
+#. Please enter your email address
+#: public/messages/src/app/components/ContactUsForm/index.json
+msgid "Please enter your email address"
+msgstr "Por favor, introduzca su dirección de correo electrónico"
+
+#. [ContactUs.PleaseEnterYourName]
+#. defaultMessage is:
+#. Please enter your full name
+#. [ContactUs.PleaseEnterYourNameTwo]
+#. defaultMessage is:
+#. Please enter your full name
+#: public/messages/src/app/components/ContactUsForm/index.json
+#: public/messages/src/app/containers/contact-us/messages.json
+msgid "Please enter your full name"
+msgstr "Introduzca su nombre completo"
+
+#. [EPLinkModal.PleaseMakeSureYouAre]
+#. defaultMessage is:
+#. Please make sure you are inserting in a valid location!
+#: public/messages/src/editor/plugins/ep-link-modal/ep-link-modal.json
+
+msgid "Please make sure you are inserting in a valid location!"
+msgstr "Por favor, asegúrese de que está insertando en una ubicación válida!"
+
+#. [SaveModalAgain.CategoryPlaceholder]
+#. defaultMessage is:
+#. Please select a comment category
+#: public/messages/src/editor/plugins/save/save-modal.json
+msgid "Please select a comment category"
+msgstr "Por favor, seleccione una categoría de comentarios"
+
+#. [MergeModalAgain.Description]
+#. defaultMessage is:
+#. Please select the page you want to merge into
+#: public/messages/src/editor/plugins/merge/merge-modal.json
+
+msgid "Please select the page you want to merge into"
+msgstr "Por favor, seleccione la página en la que desea fusionarse"
+
+#. [SubmitBoostModal.PleaseTryAgain]
+#. defaultMessage is:
+#. Please try again
+#. [SubmitVoteConfirmation.PleaseTryAgain]
+#. defaultMessage is:
+#. Please try again
+#: public/messages/src/app/components/Boost/SubmitBoostModal.json
+#: public/messages/src/app/components/SubmitVote/ConfirmationModal.json
+msgid "Please try again"
+msgstr "Hubo un error guardando, por favor inténtelo de nuevo"
+
+#. [Directory.PopularChats]
+#. defaultMessage is:
+#. Popular Chats
+#: public/messages/src/app/components/Chat/Directory.json
+
+msgid "Popular Chats"
+msgstr "Charlas populares"
+
+#. [Index.PoweredBy]
+#. defaultMessage is:
+#. Powered by
+#: public/messages/src/app/components/Footer/index.json
+msgid "Powered by"
+msgstr "Impulsado por "
+
+#. [Homepage.PoweredByYou]
+#. defaultMessage is:
+#. Powered by you.
+#: public/messages/src/app/containers/homepageContainer/homepage.container.json
+msgid "Powered by you."
+msgstr "Impulsado por "
+
+#. [TeamInfo.SamKazemianTitle]
+#. defaultMessage is:
+#. President
+#: public/messages/src/app/containers/about/third-block.json
+msgid "President"
+msgstr "Presidente"
+
+#. [ActivityCard.PreviewNotAvailable]
+#. defaultMessage is:
+#. Preview Not Available
+#. [CategoryResultCard.PreviewNotAvailable]
+#. defaultMessage is:
+#. Preview Not Available
+#. [SearchCard.PreviewNotAvailable]
+#. defaultMessage is:
+#. Preview Not Available
+#: public/messages/src/app/components/ActivityCards/ActivityCard.json
+#: public/messages/src/app/containers/category-results/categoryResultCard.json
+#: public/messages/src/app/containers/searchResultsFull/searchCard.json
+msgid "Preview Not Available"
+msgstr "Vista previa no disponible"
+
+#. [ContactUs.privacy]
+#. defaultMessage is:
+#. Privacy
+#: public/messages/src/app/containers/contact-us/messages.json
+msgid "Privacy"
+msgstr "Privacidad"
+
+#. [MetadataModal.Product]
+#. defaultMessage is:
+#. Product
+#: public/messages/src/editor/plugins/metadata/metadata-modal.json
+msgid "Product"
+msgstr "Producto"
+
+#. [MetadataModal.ProductMerchandise]
+#. defaultMessage is:
+#. Product / Merchandise
+#: public/messages/src/editor/plugins/metadata/metadata-modal.json
+
+msgid "Product / Merchandise"
+msgstr "Producto/Mercancía"
+
+#. [NewPageTemplate.NPT_Product_ProductionDate]
+#. defaultMessage is:
+#. Production Date(s)
+#: public/messages/src/editor/utils/editing-utils/template-packs/product.json
+
+msgid "Production Date(s)"
+msgstr "Fecha(s) de producción"
+
+#. [EditProfile.ProfileImage]
+#. defaultMessage is:
+#. Profile image
+#: public/messages/src/app/components/edit-profile/index.json
+msgid "Profile image"
+msgstr "Imagen de perfil"
+
+#. [About.DemocraticDetail]
+#. defaultMessage is:
+#. Proof of Stake (PoS) model allows for voting to change and upgrade the IQ network as it grows. Also will facilitate batch imports of new content with no fees.
+#: public/messages/src/app/containers/about/about.container.json
+msgid ""
+"Proof of Stake (PoS) model allows for voting to change and upgrade the IQ "
+"network as it grows. Also will facilitate batch imports of new content with "
+"no fees."
+msgstr ""
+"El modelo Proof of Stake (PoS) permite votar para cambiar y actualizar la "
+"red IQ a medida que crece. También facilitará la importación por lotes de "
+"nuevo contenido sin costo alguno."
+
+#. [DashboardComponent.Proposals]
+#. defaultMessage is:
+#. Proposals
+#: public/messages/src/app/containers/dashboard/dashboard_component.json
+msgid "Proposals"
+msgstr "Propuestas"
+
+#. [SaveModalAgain.ProvideADescription]
+#. defaultMessage is:
+#. Provide a description of your edit (optional)
+#: public/messages/src/editor/plugins/save/save-modal-parts/comment-and-category.json
+
+msgid "Provide a description of your edit (optional)"
+msgstr "Indique el motivo de su voto (opcional)"
+
+#. [SubmitVoteConfirmation.ProvideReason]
+#. defaultMessage is:
+#. Provide the reason for your vote (optional)
+#: public/messages/src/app/components/SubmitVote/ConfirmationModal.json
+
+msgid "Provide the reason for your vote (optional)"
+msgstr "Indique el motivo de su voto (opcional)"
+
+#. [ContactUs.Questions]
+#. defaultMessage is:
+#. Questions?
+#: public/messages/src/app/containers/contact-us/contact-form.json
+
+msgid "Questions?"
+msgstr "Preguntas frecuentes - Everipedia, la enciclopedia de todos"
+
+#. [Login.QuicklyLoginSocialAccount]
+#. defaultMessage is:
+#. Quickly login or create a new account to make edits, create articles, vote, and more!
+#: public/messages/src/app/components/Login/index.json
+
+msgid ""
+"Quickly login or create a new account to make edits, create articles, vote, "
+"and more!"
+msgstr ""
+"Inicie sesión rápidamente o cree una nueva cuenta para realizar ediciones, "
+"crear artículos, votar y mucho más!"
+
+#. [RecentPopularContent.RECENT]
+#. defaultMessage is:
+#. RECENT
+#: public/messages/src/app/containers/homepageContainer/recentPopularContent.json
+msgid "RECENT"
+msgstr "Haz clic aquí para volver a la actividad reciente"
+
+#. [TweetBox.recentTweets]
+#. defaultMessage is:
+#. RECENT TWEETS
+#: public/messages/src/app/components/ArticleComponent/TweetBox.json
+msgid "RECENT TWEETS"
+msgstr "DOS PUNTOS RECIENTES"
+
+#. [TopNav.Read]
+#. defaultMessage is:
+#. Read
+#: public/messages/src/app/components/content-top-nav/index.json
+msgid "Read"
+msgstr "Leer"
+
+#. [RecentActivity.Title]
+#. defaultMessage is:
+#. Recent Activity
+#. [RecentActivity.ContainerTitle]
+#. defaultMessage is:
+#. Recent Activity
+#. [Dashboard.RecentActivityTwo]
+#. defaultMessage is:
+#. Recent Activity
+#: public/messages/src/app/app.json
+#: public/messages/src/app/containers/activity/activity.container.json
+#: public/messages/src/app/containers/dashboard/dashboard_component.json
+msgid "Recent Activity"
+msgstr "Actividad Reciente"
+
+#. [Directory.RecentChats]
+#. defaultMessage is:
+#. Recent Chats
+#. [Notifications.RecentChats]
+#. defaultMessage is:
+#. Recent Chats
+#: public/messages/src/app/components/Chat/Directory.json
+#: public/messages/src/app/components/Chat/Notifications.json
+msgid "Recent Chats"
+msgstr "Charlas recientes"
+
+#. [SaveModalAgain.txOREIDRedirect]
+#. defaultMessage is:
+#. Redirecting to ORE ID authentication page
+#: public/messages/src/editor/plugins/save/save-modal.json
+msgid "Redirecting to ORE ID authentication page"
+msgstr "Redireccionamiento a la página de autenticación de ORE ID"
+
+#. [OreID.txOREIDRedirect]
+#. defaultMessage is:
+#. Redirecting to ORE ID authentication page.
+#: public/messages/src/app/components/Login/oreid.json
+
+msgid "Redirecting to ORE ID authentication page."
+msgstr "Redireccionamiento a la página de autenticación de ORE ID"
+
+#. [ArticleComponent.References]
+#. defaultMessage is:
+#. References
+#. [Sidenav.References]
+#. defaultMessage is:
+#. References
+#. [EditorContainer.References]
+#. defaultMessage is:
+#. References
+#: public/messages/src/app/components/ArticleComponent/References.json
+#: public/messages/src/app/components/Sidenav/index.json
+#: public/messages/src/editor/editor.container.json
+msgid "References"
+msgstr "Referencias"
+
+#. [SubmitVoteConfirmation.Reject]
+#. defaultMessage is:
+#. Reject
+#: public/messages/src/app/components/SubmitVote/ConfirmationModal.json
+msgid "Reject"
+msgstr "Rechazar"
+
+#. [SubmitVote.Rejected]
+#. defaultMessage is:
+#. Rejected
+#. [SubmitVote.RejectedTwo]
+#. defaultMessage is:
+#. Rejected
+#: public/messages/src/app/components/SubmitVote/index.json
+msgid "Rejected"
+msgstr "Rechazado"
+
+#. [SeeAlso.RelatedArticles]
+#. defaultMessage is:
+#. Related Articles
+#. [Sidenav.RelatedArticles]
+#. defaultMessage is:
+#. Related Articles
+#: public/messages/src/app/components/ArticleComponent/SeeAlso.json
+#: public/messages/src/app/components/Sidenav/index.json
+msgid "Related Articles"
+msgstr "Artículos relacionados"
+
+#. [NewPageTemplate.NPT_Product_ReleaseDate]
+#. defaultMessage is:
+#. Release Date
+#: public/messages/src/editor/utils/editing-utils/template-packs/product.json
+msgid "Release Date"
+msgstr "Fecha de lanzamiento"
+
+#. [ArticleUtils.Remaining]
+#. defaultMessage is:
+#. Remaining
+#: public/messages/src/app/utils/article-utils.json
+msgid "Remaining"
+msgstr "Tiempo restante"
+
+#. [ImageUploader.RemoteURL]
+#. defaultMessage is:
+#. Remote URL
+#: public/messages/src/shared/inputs/image-uploader/image-uploader.component.json
+
+msgid "Remote URL"
+msgstr "URL remoto"
+
+#. [TableMenu.Remove]
+#. defaultMessage is:
+#. Remove
+#: public/messages/src/editor/plugins/table/table-button.json
+msgid "Remove"
+msgstr "Eliminar"
+
+#. [MetadataModal.RemovePage]
+#. defaultMessage is:
+#. Remove Page
+#: public/messages/src/editor/plugins/metadata/metadata-modal.json
+
+msgid "Remove Page"
+msgstr "Eliminar página"
+
+#. [ActivityCard.Removed1]
+#. defaultMessage is:
+#. Removed
+#: public/messages/src/app/components/ActivityCards/ActivityCard.json
+msgid "Removed"
+msgstr "Removido"
+
+#. [Chat.Reply]
+#. defaultMessage is:
+#. Reply
+#: public/messages/src/app/components/Chat/index.json
+msgid "Reply"
+msgstr "Responder"
+
+#. [ContactUs.ReportAbuse]
+#. defaultMessage is:
+#. Report Abuse
+#: public/messages/src/app/components/ContactUsForm/index.json
+msgid "Report Abuse"
+msgstr "Denunciar"
+
+#. [ContactUs.ReportBug]
+#. defaultMessage is:
+#. Report Bug
+#: public/messages/src/app/components/ContactUsForm/index.json
+msgid "Report Bug"
+msgstr "Reportar un error"
+
+#. [Index.ReportBug]
+#. defaultMessage is:
+#. Report a Bug
+#. [ContactUs.reportBug]
+#. defaultMessage is:
+#. Report a Bug
+#: public/messages/src/app/components/Footer/index.json
+#: public/messages/src/app/containers/contact-us/messages.json
+msgid "Report a Bug"
+msgstr "Informar de un error"
+
+#. [Stats.RestrictedArea]
+#. defaultMessage is:
+#. Restricted area.
+#: public/messages/src/app/containers/admin/admin.container.json
+msgid "Restricted area."
+msgstr "Área restringida."
+
+#. [EditorDraftContinuationGuard.Resume]
+#. defaultMessage is:
+#. Resume
+#. [EditorDraft.Resume]
+#. defaultMessage is:
+#. Resume
+#: public/messages/src/editor/components/continuation-guard/continuation-guard.component.json
+#: public/messages/src/editor/editor.container.json
+msgid "Resume"
+msgstr "Reanudar"
+
+#. [TableMenu.Row]
+#. defaultMessage is:
+#. Row
+#: public/messages/src/editor/plugins/table/table-button.json
+msgid "Row"
+msgstr "Fila"
+
+#. [TeamInfo.SamKazemianBio]
+#. defaultMessage is:
+#. Sam Kazemian is an Iranian-American Internet entrepreneur and programmer. His journey in crypto started after he put together a homemade CPU+GPU mining rig in his UCLA dorm room. His passion for the industry led him to integrate blockchain technology to an online knowledge base for the first time in history.
+#: public/messages/src/app/containers/about/third-block.json
+
+msgid ""
+"Sam Kazemian is an Iranian-American Internet entrepreneur and programmer. "
+"His journey in crypto started after he put together a homemade CPU+GPU "
+"mining rig in his UCLA dorm room. His passion for the industry led him to "
+"integrate blockchain technology to an online knowledge base for the first "
+"time in history."
+msgstr ""
+"Sam Kazemian es un empresario y programador iraní-americano de Internet. Su "
+"viaje en criptografía comenzó después de armar un equipo de minería de CPU"
+"+GPU casero en su dormitorio de UCLA. Su pasión por la industria lo llevó a "
+"integrar la tecnología de las cadenas de bloques a una base de conocimientos "
+"en línea por primera vez en la historia."
+
+#. [SaveModalAgain.Save]
+#. defaultMessage is:
+#. Save
+#: public/messages/src/editor/plugins/save/save-modal.json
+msgid "Save"
+msgstr "Guardar"
+
+#. [MetadataModal.ScienceAcademiaHumanities]
+#. defaultMessage is:
+#. Science / Academia / Humanities
+#: public/messages/src/editor/plugins/metadata/metadata-modal.json
+
+msgid "Science / Academia / Humanities"
+msgstr "Ciencias/Academia/Humanidades"
+
+#. [Search.SearchPlaceholder]
+#. defaultMessage is:
+#. Search Everipedia...
+#: public/messages/src/app/components/Search/index.json
+
+msgid "Search Everipedia..."
+msgstr "Buscar Everipedia"
+
+#. [Search.CreateNewSearchMobile]
+#. defaultMessage is:
+#. Search to find out if the topic already exists
+#: public/messages/src/app/components/Search/index.json
+
+msgid "Search to find out if the topic already exists"
+msgstr "Buscar para averiguar si el tema ya tiene un artículo"
+
+#. [Search.CreateNewSearch]
+#. defaultMessage is:
+#. Search to find out if the topic already has an article
+#: public/messages/src/app/components/Search/index.json
+
+msgid "Search to find out if the topic already has an article"
+msgstr "Buscar para averiguar si el tema ya tiene un artículo"
+
+#. [LearnMore.SeeActivity]
+#. defaultMessage is:
+#. See Activity
+#. [LearnMore.SeeActivityTwo]
+#. defaultMessage is:
+#. See Activity
+#: public/messages/src/app/components/learn-more/index.json
+#: public/messages/src/app/containers/about/last-block.json
+
+msgid "See Activity"
+msgstr "Ver Actividad"
+
+#. [LastBlock.SeeMoreBlogPosts]
+#. defaultMessage is:
+#. See more blog posts
+#: public/messages/src/app/containers/about/last-block.json
+msgid "See more blog posts"
+msgstr "Ver más artículos en el blog"
+
+#. [Chat.SeeSomethingMissing]
+#. defaultMessage is:
+#. See something missing?
+#: public/messages/src/app/components/ArticleComponent/index.json
+
+msgid "See something missing?"
+msgstr "¿Ves que falta algo?"
+
+#. [MergeModalAgain.SeeYourEditOnABlockExplorer]
+#. defaultMessage is:
+#. See your edit on a block explorer
+#. [SaveModalAgain.SeeYourEditOnABlockExplorer]
+#. defaultMessage is:
+#. See your edit on a block explorer
+#: public/messages/src/editor/plugins/merge/merge-modal.json
+#: public/messages/src/editor/plugins/save/save-modal.json
+
+msgid "See your edit on a block explorer"
+msgstr "Ver tu edición en un explorador de bloques"
+
+#. [EditProfile.Select]
+#. defaultMessage is:
+#. Select
+#: public/messages/src/app/components/edit-profile/index.json
+
+msgid "Select"
+msgstr "Seleccione un motivo diferente"
+
+#. [CategoriesModal.SelectCategories]
+#. defaultMessage is:
+#. Select Categories
+#: public/messages/src/editor/plugins/categories/categories-modal.json
+msgid "Select Categories"
+msgstr "Seleccionar Categorías"
+
+#. [LoginModal.SelectOtherSocial]
+#. defaultMessage is:
+#. Select Other Social Login Option
+#: public/messages/src/app/components/Login/index.json
+
+msgid "Select Other Social Login Option"
+msgstr "Seleccione otra opción de inicio de sesión social"
+
+#. [EditProfile.SelectPlatform]
+#. defaultMessage is:
+#. Select Platform
+#: public/messages/src/app/components/edit-profile/index.json
+
+#| msgid "Select a reason"
+msgid "Select Platform"
+msgstr "Seleccione una razón"
+
+#. [ContactUs.selectAReason]
+#. defaultMessage is:
+#. Select a reason
+#: public/messages/src/app/containers/contact-us/messages.json
+msgid "Select a reason"
+msgstr "Seleccione una razón"
+
+#. [ContactUs.selectDifferentReason]
+#. defaultMessage is:
+#. Select different reason
+#: public/messages/src/app/containers/contact-us/messages.json
+msgid "Select different reason"
+msgstr "Seleccione un motivo diferente"
+
+#. [Chat.Send]
+#. defaultMessage is:
+#. Send
+#: public/messages/src/app/components/Chat/index.json
+msgid "Send"
+msgstr "Enviar"
+
+#. [ContactUs.sendAnother]
+#. defaultMessage is:
+#. Send Another
+#: public/messages/src/app/containers/contact-us/messages.json
+msgid "Send Another"
+msgstr "Agregar otro"
+
+#. [Chat.SendMessageToEditors]
+#. defaultMessage is:
+#. Send a message to other editors
+#. [Chat.SendAMessageToOther]
+#. defaultMessage is:
+#. Send a message to other editors
+#: public/messages/src/app/components/Chat/messages.json
+
+msgid "Send a message to other editors"
+msgstr "Enviar un mensaje a otros editores"
+
+#. [ContactUs.sendUsMessage]
+#. defaultMessage is:
+#. Send us a message
+#: public/messages/src/app/containers/contact-us/messages.json
+msgid "Send us a message"
+msgstr "Envíenos un mensaje"
+
+#. [NewPageTemplate.NPT_Organization_Services]
+#. defaultMessage is:
+#. Service(s)
+#: public/messages/src/editor/utils/editing-utils/template-packs/organization.json
+msgid "Service(s)"
+msgstr "Servicio(s)"
+
+#. [NewPageTemplate.NPT_Organization_ServicesTwo]
+#. defaultMessage is:
+#. Services
+#: public/messages/src/editor/utils/editing-utils/template-packs/organization.json
+msgid "Services"
+msgstr "Servicios"
+
+#. [ShareModal.ShareVia]
+#. defaultMessage is:
+#. Share via:
+#: public/messages/src/app/components/ArticleComponent/ShareModal.json
+msgid "Share via:"
+msgstr "Compartir en:"
+
+#. [ArticleComponent.ShowAllCitations]
+#. defaultMessage is:
+#. Show All Citations
+#: public/messages/src/app/components/ArticleComponent/References.json
+
+msgid "Show All Citations"
+msgstr "Mostrar todas las citas"
+
+#. [AccountNameHeader.SignUp]
+#. defaultMessage is:
+#. Sign Up
+#. [LearnMore.SignUp]
+#. defaultMessage is:
+#. Sign Up
+#. [LearnMore.SignUpTwo]
+#. defaultMessage is:
+#. Sign Up
+#: public/messages/src/app/components/Header/account-name-header.json
+#: public/messages/src/app/components/learn-more/index.json
+#: public/messages/src/app/containers/about/last-block.json
+msgid "Sign Up"
+msgstr "Registrarse"
+
+#. [SubmitBoostModal.SignWithWallet]
+#. defaultMessage is:
+#. Sign with Wallet
+#. [SubmitVoteConfirmation.SignWithWallet]
+#. defaultMessage is:
+#. Sign with Wallet
+#: public/messages/src/app/components/Boost/SubmitBoostModal.json
+#: public/messages/src/app/components/SubmitVote/ConfirmationModal.json
+
+msgid "Sign with Wallet"
+msgstr "Cartel con billetera"
+
+#. [SocialMediaBox.SocialMedia]
+#. defaultMessage is:
+#. Social Media
+#: public/messages/src/app/components/ArticleComponent/SocialMediaBox.json
+msgid "Social Media"
+msgstr "Redes Sociales"
+
+#. [EditProfile.SocialPlatforms]
+#. defaultMessage is:
+#. Social Platforms
+#: public/messages/src/app/components/edit-profile/index.json
+
+msgid "Social Platforms"
+msgstr "Plataformas Sociales"
+
+#. [AccountNameHeader.Staked]
+#. defaultMessage is:
+#. Staked
+#: public/messages/src/app/components/Header/account-name-header.json
+msgid "Staked"
+msgstr "Estacado"
+
+#. [Homepage.StartContributing]
+#. defaultMessage is:
+#. Start Contributing
+#: public/messages/src/app/containers/homepageContainer/homepage.container.json
+msgid "Start Contributing"
+msgstr "Comience a contribuir"
+
+#. [Errors.StartContributingOn]
+#. defaultMessage is:
+#. Start Contributing on Everipedia
+#: public/messages/src/app/components/error-modal/index.json
+
+msgid "Start Contributing on Everipedia"
+msgstr "Empieza a contribuir en Everipedia"
+
+#. [NewPageTemplate.NPT_Event_StartDate]
+#. defaultMessage is:
+#. Start Date
+#: public/messages/src/editor/utils/editing-utils/template-packs/event.json
+msgid "Start Date"
+msgstr "Fecha de inicio"
+
+#. [About.StartExploring]
+#. defaultMessage is:
+#. Start Exploring
+#: public/messages/src/app/containers/about/about.container.json
+msgid "Start Exploring"
+msgstr "Comienza a explorar"
+
+#. [EditorContainer.BodyPlaceholder]
+#. defaultMessage is:
+#. Start creating content for this article here...
+#: public/messages/src/editor/editor.container.json
+
+msgid "Start creating content for this article here..."
+msgstr "Empieza a crear contenido para este artículo aquí...."
+
+#. [EditProfile.State]
+#. defaultMessage is:
+#. State
+#: public/messages/src/app/components/edit-profile/index.json
+msgid "State"
+msgstr "Estado"
+
+#. [MetadataModal.SubPageType]
+#. defaultMessage is:
+#. Sub Page Type
+#: public/messages/src/editor/plugins/metadata/metadata-modal.json
+msgid "Sub Page Type"
+msgstr "Tipo de subpágina"
+
+#. [ContactUs.Subject]
+#. defaultMessage is:
+#. Subject
+#: public/messages/src/app/components/ContactUsForm/index.json
+msgid "Subject"
+msgstr "Asunto"
+
+#. [ContactUs.Submit]
+#. defaultMessage is:
+#. Submit
+#. [EditProfile.Submit]
+#. defaultMessage is:
+#. Submit
+#. [ContactUs.submit]
+#. defaultMessage is:
+#. Submit
+#. [MergeModalAgain.Submit]
+#. defaultMessage is:
+#. Submit
+#. [SaveModalButton.Submit]
+#. defaultMessage is:
+#. Submit
+#. [SaveModalAgain.Submit]
+#. defaultMessage is:
+#. Submit
+#: public/messages/src/app/components/ContactUsForm/index.json
+#: public/messages/src/app/components/edit-profile/index.json
+#: public/messages/src/app/containers/contact-us/messages.json
+#: public/messages/src/editor/plugins/merge/merge-modal.json
+#: public/messages/src/editor/plugins/save/index.json
+#: public/messages/src/editor/plugins/save/save-modal.json
+msgid "Submit"
+msgstr "Enviar"
+
+#. [SaveModalAgain.Heading]
+#. defaultMessage is:
+#. Submit Article Edits
+#: public/messages/src/editor/plugins/save/save-modal.json
+
+msgid "Submit Article Edits"
+msgstr "Enviar ediciones de artículos"
+
+#. [SaveModalAgain.SubmittingYourArticleEdit]
+#. defaultMessage is:
+#. Submitting Your Article Edit
+#: public/messages/src/editor/plugins/save/save-modal.json
+
+msgid "Submitting Your Article Edit"
+msgstr "Envío de su artículo Editar"
+
+#. [SubmitBoostModal.Success]
+#. defaultMessage is:
+#. Successfully Voted!
+#. [SubmitVoteConfirmation.Success]
+#. defaultMessage is:
+#. Successfully Voted!
+#: public/messages/src/app/components/Boost/SubmitBoostModal.json
+#: public/messages/src/app/components/SubmitVote/ConfirmationModal.json
+
+msgid "Successfully Voted!"
+msgstr "Votado con éxito!"
+
+#. [SubmitVote.SuccessfullyPlaced]
+#. defaultMessage is:
+#. Successfully placed
+#: public/messages/src/app/components/SubmitVote/index.json
+
+msgid "Successfully placed"
+msgstr "Votado con éxito!"
+
+#. [ContactUs.successfullySentMessage]
+#. defaultMessage is:
+#. Successfully sent message
+#: public/messages/src/app/containers/contact-us/messages.json
+msgid "Successfully sent message"
+msgstr "Mensaje enviado con éxito"
+
+#. [TeamInfo.SuchetDhindsaBio]
+#. defaultMessage is:
+#. Suchet Dhindsa is a Norwegian economist, entrepreneur, and investor. Suchet has 10 years of experience in global expansion strategy, venture capital and emerging technologies.
+#: public/messages/src/app/containers/about/third-block.json
+
+msgid ""
+"Suchet Dhindsa is a Norwegian economist, entrepreneur, and investor. Suchet "
+"has 10 years of experience in global expansion strategy, venture capital and "
+"emerging technologies."
+msgstr ""
+"Suchet Dhindsa es un economista, empresario e inversor noruego. Suchet tiene "
+"10 años de experiencia en estrategia de expansión global, capital de riesgo "
+"y tecnologías emergentes."
+
+#. [IQInfo.SupportedExchanges]
+#. defaultMessage is:
+#. Supported Exchanges
+#: public/messages/src/app/containers/iq-info/iq-info.container.json
+msgid "Supported Exchanges"
+msgstr "Intercambios compatibles"
+
+#. [IQInfo.SupportedWallets]
+#. defaultMessage is:
+#. Supported Wallets
+#: public/messages/src/app/containers/iq-info/iq-info.container.json
+msgid "Supported Wallets"
+msgstr "Billeteras soportadas"
+
+#. [Stats.TotalEdits]
+#. defaultMessage is:
+#. TOTAL EDITS
+#: public/messages/src/app/containers/admin/admin.container.json
+
+msgid "TOTAL EDITS"
+msgstr "TOTAL EDICIONES"
+
+#. [SaveModalAgain.TxFailed]
+#. defaultMessage is:
+#. TRANSACTION FAILED!
+#: public/messages/src/editor/plugins/save/save-modal.json
+msgid "TRANSACTION FAILED!"
+msgstr "TRANSACCIÓN FALLIDA!"
+
+#. [SaveModalAgain.TxSuccess]
+#. defaultMessage is:
+#. TRANSACTION SUCCESSFUL!
+#: public/messages/src/editor/plugins/save/save-modal.json
+
+msgid "TRANSACTION SUCCESSFUL!"
+msgstr "La transacción se ha realizado con éxito"
+
+#. [RecentPopularContent.TRENDING]
+#. defaultMessage is:
+#. TRENDING
+#: public/messages/src/app/containers/homepageContainer/recentPopularContent.json
+msgid "TRENDING"
+msgstr "POPULARES"
+
+#. [TableMenu.Table]
+#. defaultMessage is:
+#. Table
+#: public/messages/src/editor/plugins/table/table-button.json
+
+msgid "Table"
+msgstr "Tabla de contenidos y hechos para este wiki"
+
+#. [About.ModernAge]
+#. defaultMessage is:
+#. Taking the Online Encyclopedia into the Modern Age
+#: public/messages/src/app/containers/about/about.container.json
+
+msgid "Taking the Online Encyclopedia into the Modern Age"
+msgstr "Llevando la Enciclopedia Online a la Edad Moderna"
+
+#. [NewPageTemplate.NPT_Organization_Telephone]
+#. defaultMessage is:
+#. Telephone
+#: public/messages/src/editor/utils/editing-utils/template-packs/organization.json
+msgid "Telephone"
+msgstr "Teléfono"
+
+#. [Index.Terms]
+#. defaultMessage is:
+#. Terms
+#: public/messages/src/app/components/Footer/index.json
+msgid "Terms"
+msgstr "Términos"
+
+#. [Errors.ThanksForTrialing]
+#. defaultMessage is:
+#. Thanks for trialing Everipedia. Looks like you’ve been making edits and have run out of the
+#. trial IQ Tokens. You can unlock the full potential of Everipedia and get more tokens with a
+#. Scatter login.
+#: public/messages/src/app/utils/errors.json
+
+msgid ""
+"Thanks for trialing Everipedia. Looks like you’ve been making edits and have "
+"run out of the\n"
+"\t\t\t\t\t\ttrial IQ Tokens. You can unlock the full potential of Everipedia "
+"and get more tokens with a\n"
+"\t\t\t\t\t\tScatter login."
+msgstr ""
+"Gracias por probar Everipedia. Parece que has estado haciendo ediciones y te "
+"has quedado sin el\n"
+"\t\t\t\t\t\tde prueba IQ Tokens. Puede desbloquear todo el potencial de "
+"Everipedia y obtener más tokens con un\n"
+"\t\t\t\t\t\tInicio de sesión en Scatter."
+
+#. [Errors.ThanksForUsingEveripedia]
+#. defaultMessage is:
+#. Thanks for using Everipedia. Looks like you have run out of IQ Tokens. You can get more tokens
+#. at one of
+#: public/messages/src/app/utils/errors.json
+
+msgid ""
+"Thanks for using Everipedia. Looks like you have run out of IQ Tokens. You "
+"can get more tokens\n"
+"\t\t\t\t\t\tat one of"
+msgstr ""
+"Gracias por usar Everipedia. Parece que te has quedado sin fichas de CI. "
+"Puedes conseguir más fichas\n"
+"\t\t\t\t\t\ten uno de los"
+
+#. [ThirdBlock.ThanksToNewTechnology]
+#. defaultMessage is:
+#. Thanks to new technology, it is now possible for Everipedia to move beyond Wikipedia just like how we moved beyond Britannica almost two decades ago.
+#: public/messages/src/app/containers/about/third-block.json
+
+msgid ""
+"Thanks to new technology, it is now possible for Everipedia to move beyond "
+"Wikipedia just like how we moved beyond Britannica almost two decades ago."
+msgstr ""
+"Gracias a la nueva tecnología, ahora es posible para Everipedia ir más allá "
+"de la Wikipedia, como lo hicimos con Britannica hace casi dos décadas."
+
+#. [About.EncyclopediaOfEverything]
+#. defaultMessage is:
+#. The Encyclopedia of Everything.
+#. [ContactUs.TheEncylopediaOfEverything]
+#. defaultMessage is:
+#. The Encyclopedia of Everything.
+#: public/messages/src/app/containers/about/about.container.json
+#: public/messages/src/app/containers/contact-us/contact-us.container.json
+
+msgid "The Encyclopedia of Everything."
+msgstr "Everipedia, la enciclopedia de todo"
+
+#. [About.TheEveripediaIQBlockchain]
+#. defaultMessage is:
+#. The Everipedia IQ blockchain provides a new paradigm change and knowledge economy to disrupt the old centralized internet knowledge encyclopedia model similar to Wikipedia
+#. [ContactUs.TheEveripediaIQ]
+#. defaultMessage is:
+#. The Everipedia IQ blockchain provides a new paradigm change and knowledge economy to disrupt the old centralized internet knowledge encyclopedia model similar to Wikipedia
+#. [Homepage.Intro]
+#. defaultMessage is:
+#. The Everipedia IQ blockchain provides a new paradigm change and knowledge economy to disrupt the old centralized internet knowledge encyclopedia model similar to Wikipedia
+#. [Homepage.TheEveripediaIQ]
+#. defaultMessage is:
+#. The Everipedia IQ blockchain provides a new paradigm change and knowledge economy to disrupt the old centralized internet knowledge encyclopedia model similar to Wikipedia
+#: public/messages/src/app/containers/about/about.container.json
+#: public/messages/src/app/containers/contact-us/contact-us.container.json
+#: public/messages/src/app/containers/homepageContainer/homepage.container.json
+msgid ""
+"The Everipedia IQ blockchain provides a new paradigm change and knowledge "
+"economy to disrupt the old centralized internet knowledge encyclopedia model "
+"similar to Wikipedia"
+msgstr ""
+"La cadena de bloques Everipedia IQ proporciona un nuevo cambio de paradigma "
+"y una economía del conocimiento para interrumpir el viejo modelo de "
+"enciclopedia centralizada del conocimiento de Internet similar a Wikipedia"
+
+#. [Homepage.TheEncylopediaOfEverything]
+#. defaultMessage is:
+#. The Wiki Encyclopedia for Everything, Everyone, Everywhere.
+#. [Homepage.TheEncyclopediaForEverythingEveryoneEverywhere]
+#. defaultMessage is:
+#. The Wiki Encyclopedia for Everything, Everyone, Everywhere.
+#: public/messages/src/app/containers/homepageContainer/homepage.container.json
+
+msgid "The Wiki Encyclopedia for Everything, Everyone, Everywhere."
+msgstr "La Enciclopedia Wiki para Todo, Todos, En Todas Partes."
+
+#. [InfoboxModal.TheInfoboxIsDesignedForConcise]
+#. defaultMessage is:
+#. The infobox is designed for concise, easy-to-access information.
+#: public/messages/src/editor/plugins/infobox/infobox-modal.json
+
+msgid "The infobox is designed for concise, easy-to-access information."
+msgstr ""
+"El cuadro de información está diseñado para que la información sea concisa y "
+"de fácil acceso."
+
+#. [TeamInfo.TheodorForseliusBio]
+#. defaultMessage is:
+#. Theodor Forselius  is a Swedish Internet entrepreneur and programmer. He co-founded Everipedia at the age of 20, gaining experience in digital advertising, web development, and online gaming industries in the process.
+#: public/messages/src/app/containers/about/third-block.json
+
+msgid ""
+"Theodor Forselius  is a Swedish Internet entrepreneur and programmer. He co-"
+"founded Everipedia at the age of 20, gaining experience in digital "
+"advertising, web development, and online gaming industries in the process."
+msgstr ""
+"Theodor Forselius es un empresario y programador sueco de Internet. Fue "
+"cofundador de Everipedia a la edad de 20 años, adquiriendo experiencia en "
+"publicidad digital, desarrollo web e industrias de juegos online en el "
+"proceso."
+
+#. [BoostBox.NoBoosts]
+#. defaultMessage is:
+#. There are currently no boosts for this page
+#: public/messages/src/app/components/Boost/index.json
+
+msgid "There are currently no boosts for this page"
+msgstr "Actualmente no hay impulsos para esta página"
+
+#. [SubmitVote.NoRecentEdits]
+#. defaultMessage is:
+#. There have been no recent edits to this article. Be the first person to update it.
+#: public/messages/src/app/components/SubmitVote/index.json
+
+msgid ""
+"There have been no recent edits to this article. Be the first person to "
+"update it."
+msgstr ""
+"No ha habido ediciones recientes de este artículo. Sea la primera persona en "
+"actualizarlo."
+
+#. [ChatList.ThereIsNoActivity]
+#. defaultMessage is:
+#. There is no activity on this article.
+#: public/messages/src/app/components/Chat/ChatList.json
+
+msgid "There is no activity on this article."
+msgstr "No hay actividad en este artículo."
+
+#. [SaveModalAgain.ThereWasAnIssueRecording]
+#. defaultMessage is:
+#. There was an issue recording your edit.
+#: public/messages/src/editor/plugins/save/save-modal.json
+
+msgid "There was an issue recording your edit."
+msgstr "Hubo un problema al grabar tu edición."
+
+#. [IQInfo.DecentralizedBlurb]
+#. defaultMessage is:
+#. These exchanges do not require signup, only Scatter
+#: public/messages/src/app/containers/iq-info/iq-info.container.json
+
+msgid "These exchanges do not require signup, only Scatter"
+msgstr "Estos intercambios no requieren registro, sólo Scatter"
+
+#. [IQInfo.CentralizedBlurb]
+#. defaultMessage is:
+#. These exchanges require personal information for signup, but may have additional features and fiat currency deposits / withdrawals
+#: public/messages/src/app/containers/iq-info/iq-info.container.json
+
+msgid ""
+"These exchanges require personal information for signup, but may have "
+"additional features and fiat currency deposits / withdrawals"
+msgstr ""
+"Estos intercambios requieren información personal para registrarse, pero "
+"pueden tener características adicionales y depósitos/retiros de moneda "
+"fiduciarios"
+
+#. [MetadataModal.Thing]
+#. defaultMessage is:
+#. Thing
+#: public/messages/src/editor/plugins/metadata/metadata-modal.json
+msgid "Thing"
+msgstr "Cosa"
+
+#. [SubmitVote.NotMostRecent]
+#. defaultMessage is:
+#. This is not the most recent version of this article. See the latest version here:
+#: public/messages/src/app/components/SubmitVote/index.json
+
+msgid ""
+"This is not the most recent version of this article. See the latest version "
+"here:"
+msgstr ""
+"Esta no es la versión más reciente de este artículo. Vea la última versión "
+"aquí:"
+
+#. [EditorContainer.PageIsLocked]
+#. defaultMessage is:
+#. This page is locked to new edits.
+#: public/messages/src/editor/editor.container.json
+msgid "This page is locked to new edits."
+msgstr "Esta página está bloqueada para nuevas ediciones."
+
+#. [ActivityCard.TitleNotAvailable]
+#. defaultMessage is:
+#. Title Not Available
+#. [CategoryResultCard.TitleNotAvailable]
+#. defaultMessage is:
+#. Title Not Available
+#. [SearchCard.TitleNotAvailable]
+#. defaultMessage is:
+#. Title Not Available
+#: public/messages/src/app/components/ActivityCards/ActivityCard.json
+#: public/messages/src/app/containers/category-results/categoryResultCard.json
+#: public/messages/src/app/containers/searchResultsFull/searchCard.json
+msgid "Title Not Available"
+msgstr "Título No Disponible"
+
+#. [Errors.ToEditThisArticleRightNow]
+#. defaultMessage is:
+#. To edit this article right now, use the desktop version of the site.
+#: public/messages/src/app/utils/errors.json
+
+msgid "To edit this article right now, use the desktop version of the site."
+msgstr ""
+"Para editar este artículo ahora mismo, utilice la versión de escritorio del "
+"sitio."
+
+#. [Errors.ToMakeAnEdit]
+#. defaultMessage is:
+#. To make an edit or create an article, you need an Everipedia account. You can sign up for a
+#. trial account using a social account or use Scatter to unlock Everipedia’s full features,
+#. including voting on article edits and earning IQ rewards.
+#: public/messages/src/app/utils/errors.json
+
+msgid ""
+"To make an edit or create an article, you need an Everipedia account. You "
+"can sign up for a\n"
+"\t\t\t\t\t\ttrial account using a social account or use Scatter to unlock "
+"Everipedia’s full features,\n"
+"\t\t\t\t\t\tincluding voting on article edits and earning IQ rewards."
+msgstr ""
+"Para editar o crear un artículo, necesita una cuenta Everipedia. Usted puede "
+"inscribirse en un\n"
+"\t\t\t\t\t\tutilizando una cuenta social o Scatter para desbloquear todas "
+"las funciones de Everipedia,\n"
+"\t\t\t\t\t\tincluyendo la votación sobre la edición de artículos y la "
+"obtención de recompensas de coeficiente intelectual."
+
+#. [Dashboard.TotalBalance]
+#. defaultMessage is:
+#. Total Balance
+#: public/messages/src/app/containers/dashboard/dashboard_component.json
+msgid "Total Balance"
+msgstr "Saldo Total"
+
+#. [DashboardComponent.TotalRewards]
+#. defaultMessage is:
+#. Total Rewards
+#: public/messages/src/app/containers/dashboard/dashboard_component.json
+msgid "Total Rewards"
+msgstr "Recompensas totales"
+
+#. [SubmitProposal.TxFailed]
+#. defaultMessage is:
+#. Transaction failed!
+#: public/messages/src/app/utils/wal-eos.json
+
+msgid "Transaction failed!"
+msgstr "TRANSACCIÓN FALLIDA!"
+
+#. [SubmitProposal.TxSuccess]
+#. defaultMessage is:
+#. Transaction successful!
+#: public/messages/src/app/utils/wal-eos.json
+
+msgid "Transaction successful!"
+msgstr "La transacción se ha realizado con éxito"
+
+#. [TeamInfo.TravisMooreBio]
+#. defaultMessage is:
+#. Travis Moore is an Italian-American computer programmer, angel investor and entrepreneur from Thousand Oaks, a suburb of Los Angeles. He co-founded Everipedia after graduating from UCLA with degrees in Molecular Biology, Biochemistry, and Neuroscience in 2011.
+#: public/messages/src/app/containers/about/third-block.json
+
+msgid ""
+"Travis Moore is an Italian-American computer programmer, angel investor and "
+"entrepreneur from Thousand Oaks, a suburb of Los Angeles. He co-founded "
+"Everipedia after graduating from UCLA with degrees in Molecular Biology, "
+"Biochemistry, and Neuroscience in 2011."
+msgstr ""
+"Travis Moore es un programador informático italo-americano, inversor ángel y "
+"empresario de Thousand Oaks, un suburbio de Los Ángeles. Fue cofundador de "
+"Everipedia después de graduarse de UCLA con títulos en Biología Molecular, "
+"Bioquímica y Neurociencia en 2011."
+
+#. [NewPageTemplate.NPT_Person_Trivia]
+#. defaultMessage is:
+#. Trivia
+#: public/messages/src/editor/utils/editing-utils/template-packs/person.json
+msgid "Trivia"
+msgstr "Trivia"
+
+#. [SubmitBoostModal.TryAgain]
+#. defaultMessage is:
+#. Try Again
+#. [EditProfile.TryAgain]
+#. defaultMessage is:
+#. Try Again
+#. [SubmitVoteConfirmation.TryAgain]
+#. defaultMessage is:
+#. Try Again
+#. [MergeModalAgain.TryAgain]
+#. defaultMessage is:
+#. Try Again
+#. [SaveModalAgain.TryAgain]
+#. defaultMessage is:
+#. Try Again
+#: public/messages/src/app/components/Boost/SubmitBoostModal.json
+#: public/messages/src/app/components/edit-profile/index.json
+#: public/messages/src/app/components/SubmitVote/ConfirmationModal.json
+#: public/messages/src/editor/plugins/merge/merge-modal.json
+#: public/messages/src/editor/plugins/save/save-modal.json
+msgid "Try Again"
+msgstr "Volver a intentarlo"
+
+#. [Login.TryAgainTwo]
+#. defaultMessage is:
+#. Try again
+#. [Login.TryAgain]
+#. defaultMessage is:
+#. Try again
+#: public/messages/src/app/components/Login/index.json
+#: public/messages/src/app/containers/wallet-login/wallet-login.container.json
+msgid "Try again"
+msgstr "Inténtalo de nuevo"
+
+#. [ContactUs.Type]
+#. defaultMessage is:
+#. Type
+#. [InfoboxModal.Type]
+#. defaultMessage is:
+#. Type
+#. [MetadataModal.Type]
+#. defaultMessage is:
+#. Type
+#: public/messages/src/app/components/ContactUsForm/index.json
+#: public/messages/src/editor/plugins/infobox/infobox-modal.json
+#: public/messages/src/editor/plugins/metadata/metadata-modal.json
+msgid "Type"
+msgstr "Tipo"
+
+#. [EditorArticleSearch.TypeToSearch]
+#. defaultMessage is:
+#. Type to search...
+#: public/messages/src/editor/components/search/article-search.json
+msgid "Type to search..."
+msgstr "Escribe para buscar..."
+
+#. [MetadataModal.URLSlug]
+#. defaultMessage is:
+#. URL Slug
+#: public/messages/src/editor/plugins/metadata/metadata-modal.json
+msgid "URL Slug"
+msgstr "Slug de la URL"
+
+#. [MetadataModal.URLSlugAlt]
+#. defaultMessage is:
+#. URL Slug Alt
+#: public/messages/src/editor/plugins/metadata/metadata-modal.json
+msgid "URL Slug Alt"
+msgstr "URL Slug Alt"
+
+#. [EditProfile.UndoChanges]
+#. defaultMessage is:
+#. Undo Changes
+#: public/messages/src/app/components/edit-profile/index.json
+msgid "Undo Changes"
+msgstr "Anular Cambios"
+
+#. [MainItem.Updated]
+#. defaultMessage is:
+#. Updated
+#. [RightList.Updated]
+#. defaultMessage is:
+#. Updated
+#: public/messages/src/app/containers/homepageContainer/mainItem.json
+#: public/messages/src/app/containers/homepageContainer/rightList.json
+msgid "Updated"
+msgstr "Actualizado"
+
+#. [FileUploader.Upload]
+#. defaultMessage is:
+#. Upload
+#. [ImageUploader.Upload]
+#. defaultMessage is:
+#. Upload
+#: public/messages/src/shared/inputs/image-uploader/file-uploader.component.json
+#: public/messages/src/shared/inputs/image-uploader/image-uploader.component.json
+msgid "Upload"
+msgstr "Subir"
+
+#. [MediaGallery.ButtonText]
+#. defaultMessage is:
+#. Upload from computer
+#: public/messages/src/editor/plugins/media-gallery/media-gallery-modal.json
+
+msgid "Upload from computer"
+msgstr "Subir desde el ordenador"
+
+#. [ImageUploader.Uploading]
+#. defaultMessage is:
+#. Uploading...
+#: public/messages/src/shared/inputs/image-uploader/image-uploader.component.json
+msgid "Uploading..."
+msgstr "Subiendo..."
+
+#. [FileUploader.Uploading]
+#. defaultMessage is:
+#. Uploading....
+#: public/messages/src/shared/inputs/image-uploader/file-uploader.component.json
+
+msgid "Uploading...."
+msgstr "Subiendo..."
+
+#. [ContentTopNav.Views]
+#. defaultMessage is:
+#. VIEWS
+#. [TopNav.Views]
+#. defaultMessage is:
+#. VIEWS
+#. [Stats.ArticleViewsTwo]
+#. defaultMessage is:
+#. VIEWS
+#: public/messages/src/app/components/content-top-nav/index.json
+#: public/messages/src/app/components/TopNav/index.json
+#: public/messages/src/app/containers/homepageContainer/stats.json
+msgid "VIEWS"
+msgstr "Vistas"
+
+#. [ActivityCards.Votes]
+#. defaultMessage is:
+#. VOTES
+#: public/messages/src/app/components/ActivityCards/index.json
+
+msgid "VOTES"
+msgstr "votos"
+
+#. [InfoboxModal.Value]
+#. defaultMessage is:
+#. Value
+#. [MetadataModal.Value]
+#. defaultMessage is:
+#. Value
+#: public/messages/src/editor/plugins/infobox/infobox-modal.json
+#: public/messages/src/editor/plugins/metadata/metadata-modal.json
+msgid "Value"
+msgstr "Valor"
+
+#. [InfoboxModal.Values]
+#. defaultMessage is:
+#. Value(s)
+#: public/messages/src/editor/plugins/infobox/infobox-modal.json
+msgid "Value(s)"
+msgstr "Valor(es)"
+
+#. [ContactUs.VerifyAccount]
+#. defaultMessage is:
+#. Verify Account
+#: public/messages/src/app/components/ContactUsForm/index.json
+msgid "Verify Account"
+msgstr "Verificar Cuenta"
+
+#. [SearchResults.View]
+#. defaultMessage is:
+#. View
+#: public/messages/src/app/components/Search/SearchResults.json
+msgid "View"
+msgstr "Vistas"
+
+#. [MergeModalAgain.ViewEdit]
+#. defaultMessage is:
+#. View Edit
+#. [SaveModalAgain.ViewEdit]
+#. defaultMessage is:
+#. View Edit
+#: public/messages/src/editor/plugins/merge/merge-modal.json
+#: public/messages/src/editor/plugins/save/save-modal.json
+
+msgid "View Edit"
+msgstr "Ver Editar"
+
+#. [TopNav.ViewHistory]
+#. defaultMessage is:
+#. View History
+#: public/messages/src/app/components/content-top-nav/index.json
+msgid "View History"
+msgstr "Ver historial"
+
+#. [SubmitBoostModal.ViewTransaction]
+#. defaultMessage is:
+#. View Transaction
+#. [SubmitVoteConfirmation.ViewTransaction]
+#. defaultMessage is:
+#. View Transaction
+#: public/messages/src/app/components/Boost/SubmitBoostModal.json
+#: public/messages/src/app/components/SubmitVote/ConfirmationModal.json
+msgid "View Transaction"
+msgstr "Ver Transacción"
+
+#. [SaveModalAgain.ViewBlockChainTransaction]
+#. defaultMessage is:
+#. View blockchain transaction
+#: public/messages/src/editor/plugins/save/save-modal.json
+
+msgid "View blockchain transaction"
+msgstr "Ver transacción de cadena de bloques"
+
+#. [Chat.ViewEdit]
+#. defaultMessage is:
+#. View edit
+#: public/messages/src/app/components/Chat/ChatItem.json
+
+msgid "View edit"
+msgstr "Ver Editar"
+
+#. [SearchResults.Views]
+#. defaultMessage is:
+#. Views
+#: public/messages/src/app/components/Search/SearchResults.json
+msgid "Views"
+msgstr "Vistas"
+
+#. [EditProfile.Username]
+#. defaultMessage is:
+#. VotUsernameed
+#: public/messages/src/app/components/edit-profile/index.json
+
+msgid "VotUsernameed"
+msgstr "VotUsernameed"
+
+#. [ActivityCard.Vote]
+#. defaultMessage is:
+#. Vote
+#. [SubmitVote.Vote]
+#. defaultMessage is:
+#. Vote
+#. [SubmitVote.VoteOreID]
+#. defaultMessage is:
+#. Vote
+#. [SubmitVote.LoginToVote]
+#. defaultMessage is:
+#. Vote
+#. [Leaderboard.Vote]
+#. defaultMessage is:
+#. Vote
+#: public/messages/src/app/components/ActivityCards/ActivityCard.json
+#: public/messages/src/app/components/SubmitVote/index.json
+#: public/messages/src/app/containers/homepageContainer/leaderboard.json
+msgid "Vote"
+msgstr "Votar"
+
+#. [Chat.VoteAcceptedTwo]
+#. defaultMessage is:
+#. Vote accepted
+#: public/messages/src/app/components/Chat/ChatItem.json
+
+msgid "Vote accepted"
+msgstr "Voto aceptado"
+
+#. [SubmitVoteConfirmation.VoteAmount]
+#. defaultMessage is:
+#. Vote amount
+#: public/messages/src/app/components/SubmitVote/ConfirmationModal.json
+
+msgid "Vote amount"
+msgstr "Cantidad de votos"
+
+#. [Chat.VoteNowSmall]
+#. defaultMessage is:
+#. Vote now
+#: public/messages/src/app/components/Chat/ChatItem.json
+
+msgid "Vote now"
+msgstr "VOTA AHORA"
+
+#. [SubmitVoteConfirmation.VoteOnChanges]
+#. defaultMessage is:
+#. Vote on these article changes
+#: public/messages/src/app/components/SubmitVote/ConfirmationModal.json
+
+msgid "Vote on these article changes"
+msgstr "Votar sobre estos cambios en el artículo"
+
+#. [Chat.VoteRejectedTwo]
+#. defaultMessage is:
+#. Vote rejected
+#: public/messages/src/app/components/Chat/ChatItem.json
+
+msgid "Vote rejected"
+msgstr "Voto rechazado"
+
+#. [ActivityCard.Voted]
+#. defaultMessage is:
+#. Voted
+#. [EditProfile.Voted]
+#. defaultMessage is:
+#. Voted
+#. [SubmitVote.Voted]
+#. defaultMessage is:
+#. Voted
+#: public/messages/src/app/components/ActivityCards/ActivityCard.json
+#: public/messages/src/app/components/edit-profile/index.json
+#: public/messages/src/app/components/SubmitVote/index.json
+msgid "Voted"
+msgstr "Votado"
+
+#. [DashboardComponent.Votes]
+#. defaultMessage is:
+#. Votes
+#. [Leaderboard.Votes]
+#. defaultMessage is:
+#. Votes
+#: public/messages/src/app/containers/dashboard/dashboard_component.json
+#: public/messages/src/app/containers/homepageContainer/leaderboard.json
+msgid "Votes"
+msgstr "votos"
+
+#. [SubmitVote.VotingCloses]
+#. defaultMessage is:
+#. Voting Closes
+#: public/messages/src/app/components/SubmitVote/index.json
+msgid "Voting Closes"
+msgstr "Cierre de votaciones"
+
+#. [SubmitVoteConfirmation.VotingFailed]
+#. defaultMessage is:
+#. Voting Failed
+#: public/messages/src/app/components/SubmitVote/ConfirmationModal.json
+
+#| msgid "Voting Closes"
+msgid "Voting Failed"
+msgstr "Cierre de votaciones"
+
+#. [Leaderboard.WeekCap]
+#. defaultMessage is:
+#. WEEK
+#: public/messages/src/app/containers/homepageContainer/leaderboard.json
+
+msgid "WEEK"
+msgstr "Semana"
+
+#. [Stats.ArticlesTwo]
+#. defaultMessage is:
+#. WIKIS
+#: public/messages/src/app/containers/homepageContainer/stats.json
+
+msgid "WIKIS"
+msgstr "WIKIS"
+
+#. [SaveModalAgain.WaitAMomentOneLynx]
+#. defaultMessage is:
+#. Wait a moment while we load Lynx.
+#: public/messages/src/editor/plugins/save/save-modal.json
+
+msgid "Wait a moment while we load Lynx."
+msgstr "Espera un momento mientras cargamos a Lynx."
+
+#. [LoginModal.WaitAMomentWhileWeLoad]
+#. defaultMessage is:
+#. Wait a moment while we load Scatter – If you don’t see the Scatter window, check if it has loaded behind your current window.
+#: public/messages/src/app/components/Login/index.json
+
+msgid ""
+"Wait a moment while we load Scatter – If you don’t see the Scatter window, "
+"check if it has loaded behind your current window."
+msgstr ""
+"Espere un momento mientras cargamos Scatter - Si no ve la ventana Scatter, "
+"compruebe si se ha cargado detrás de su ventana actual."
+
+#. [SaveModalAgain.txLoadScatter]
+#. defaultMessage is:
+#. Wait a moment while we load Scatter.  If you do not see the Scatter window, check if it has loaded behind your current window.
+#: public/messages/src/editor/plugins/save/save-modal.json
+
+msgid ""
+"Wait a moment while we load Scatter.  If you do not see the Scatter window, "
+"check if it has loaded behind your current window."
+msgstr ""
+"Espere un momento mientras cargamos Scatter - Si no ve la ventana Scatter, "
+"compruebe si se ha cargado detrás de su ventana actual."
+
+#. [SaveModalAgain.WaitAMomentOne]
+#. defaultMessage is:
+#. Wait a moment while we load Scatter. If you don’t see the Scatter window, check if it has loaded behind your current window.
+#: public/messages/src/editor/plugins/save/save-modal.json
+
+msgid ""
+"Wait a moment while we load Scatter. If you don’t see the Scatter window, "
+"check if it has loaded behind your current window."
+msgstr ""
+"Espere un momento mientras cargamos Scatter - Si no ve la ventana Scatter, "
+"compruebe si se ha cargado detrás de su ventana actual."
+
+#. [SaveModalAgain.txLoadLynx]
+#. defaultMessage is:
+#. Wait a moment while we load the Lynx transaction window.
+#: public/messages/src/editor/plugins/save/save-modal.json
+
+msgid "Wait a moment while we load the Lynx transaction window."
+msgstr "Espere un momento mientras cargamos la ventana de transacción de Lynx."
+
+#. [SaveModalAgain.txLoadOreId]
+#. defaultMessage is:
+#. Wait a moment while we load your account.  You will be redirected to OreID to confirm your proposed edit.  You may be required to enter the pin that you created when you set up your account.
+#: public/messages/src/editor/plugins/save/save-modal.json
+
+msgid ""
+"Wait a moment while we load your account.  You will be redirected to OreID "
+"to confirm your proposed edit.  You may be required to enter the pin that "
+"you created when you set up your account."
+msgstr ""
+"Espere un momento mientras cargamos su cuenta.  Se le redirigirá al OreID "
+"para que confirme la edición propuesta.  Es posible que se le pida que "
+"ingrese el pin que creó cuando configuró su cuenta."
+
+#. [SaveModalAgain.WaitAMomentTwo]
+#. defaultMessage is:
+#. Wait a moment while we load your account. You will be redirected to OreID to confirm your proposed edit. You may be required to enter the pin that you created when you set up your account.
+#: public/messages/src/editor/plugins/save/save-modal.json
+
+msgid ""
+"Wait a moment while we load your account. You will be redirected to OreID to "
+"confirm your proposed edit. You may be required to enter the pin that you "
+"created when you set up your account."
+msgstr ""
+"Espere un momento mientras cargamos su cuenta. Se le redirigirá al OreID "
+"para que confirme la edición propuesta. Es posible que se le pida que "
+"ingrese el pin que creó cuando configuró su cuenta."
+
+#. [SubmitBoostModal.WaitAMomentWallet]
+#. defaultMessage is:
+#. Wait a moment while we load your wallet. If you don’t see the wallet window, check if it has loaded behind your current window.
+#. [SubmitVoteConfirmation.WaitAMomentWallet]
+#. defaultMessage is:
+#. Wait a moment while we load your wallet. If you don’t see the wallet window, check if it has loaded behind your current window.
+#: public/messages/src/app/components/Boost/SubmitBoostModal.json
+#: public/messages/src/app/components/SubmitVote/ConfirmationModal.json
+
+msgid ""
+"Wait a moment while we load your wallet. If you don’t see the wallet window, "
+"check if it has loaded behind your current window."
+msgstr ""
+"Espere un momento mientras cargamos Scatter - Si no ve la ventana Scatter, "
+"compruebe si se ha cargado detrás de su ventana actual."
+
+#. [SubmitBoostModal.WaitAMomentOREID]
+#. defaultMessage is:
+#. Wait a moment while we redirect you to Ore ID.  You will be returned here once you have completed signing
+#. [SubmitVoteConfirmation.WaitAMomentOREID]
+#. defaultMessage is:
+#. Wait a moment while we redirect you to Ore ID.  You will be returned here once you have completed signing
+#: public/messages/src/app/components/Boost/SubmitBoostModal.json
+#: public/messages/src/app/components/SubmitVote/ConfirmationModal.json
+
+msgid ""
+"Wait a moment while we redirect you to Ore ID.  You will be returned here "
+"once you have completed signing"
+msgstr ""
+"Espere un momento mientras lo redirigimos a la identificación del mineral.  "
+"Usted será devuelto aquí una vez que haya completado la firma"
+
+#. [EditorContainer.Warning]
+#. defaultMessage is:
+#. Warning
+#: public/messages/src/editor/editor.container.json
+msgid "Warning"
+msgstr "Advertencia"
+
+#. [EditProfile.Warning]
+#. defaultMessage is:
+#. Warning: Your public profile will be visible to everyone and stored on-chain
+#: public/messages/src/app/components/edit-profile/index.json
+
+msgid ""
+"Warning: Your public profile will be visible to everyone and stored on-chain"
+msgstr ""
+"Advertencia: Su perfil público será visible para todos y se almacenará en la "
+"cadena"
+
+#. [MergeModalAgain.WeReceivedTheFollowingError]
+#. defaultMessage is:
+#. We received the following error
+#. [SaveModalAgain.WeReceivedTheFollowingError]
+#. defaultMessage is:
+#. We received the following error
+#: public/messages/src/editor/plugins/merge/merge-modal.json
+#: public/messages/src/editor/plugins/save/save-modal.json
+
+msgid "We received the following error"
+msgstr "Recibimos el siguiente error"
+
+#. [ContactUs.WedLoveToHearFromYou]
+#. defaultMessage is:
+#. We'd love to hear from you
+#: public/messages/src/app/containers/contact-us/contact-us.container.json
+msgid "We'd love to hear from you"
+msgstr "¡Nos encantaría saber de usted!"
+
+#. [WelcomeBanner.Welcome]
+#. defaultMessage is:
+#. Welcome
+#: public/messages/src/app/components/WelcomeBanner/index.json
+msgid "Welcome"
+msgstr "Bienvenido"
+
+#. [EPLinkModal.WhatArticleDoYouWantTo]
+#. defaultMessage is:
+#. What article do you want to link to?
+#: public/messages/src/editor/plugins/ep-link-modal/ep-link-modal.json
+
+msgid "What article do you want to link to?"
+msgstr "¿A qué artículo quieres enlazar?"
+
+#. [AccountNameHeader.Worth]
+#. defaultMessage is:
+#. Worth
+#: public/messages/src/app/components/Header/account-name-header.json
+
+msgid "Worth"
+msgstr "Vale la pena"
+
+#. [Chat.WriteAMessage]
+#. defaultMessage is:
+#. Write a message
+#: public/messages/src/app/components/Chat/messages.json
+
+msgid "Write a message"
+msgstr "Borrar Mensaje"
+
+#. [Chat.WriteAMessageTwo]
+#. defaultMessage is:
+#. Write a message...
+#: public/messages/src/app/components/Chat/messages.json
+msgid "Write a message..."
+msgstr "Escribir un mensaje..."
+
+#. [ChatList.WriteYourMessageBelow]
+#. defaultMessage is:
+#. Write your message below to start the conversation
+#: public/messages/src/app/components/Chat/ChatList.json
+
+msgid "Write your message below to start the conversation"
+msgstr "Escriba su mensaje a continuación para iniciar la conversación"
+
+#. [MetadataNode.Yes]
+#. defaultMessage is:
+#. Yes
+#: public/messages/src/editor/plugins/metadata/metadata.node.json
+msgid "Yes"
+msgstr "Sí"
+
+#. [SubmitVote.YouAreOutOfIQ]
+#. defaultMessage is:
+#. You are out of IQ.
+#: public/messages/src/app/components/SubmitVote/index.json
+
+msgid "You are out of IQ."
+msgstr "Estás fuera de IQ."
+
+#. [IQInfo.YouCan]
+#. defaultMessage is:
+#. You can
+#: public/messages/src/app/containers/iq-info/iq-info.container.json
+
+msgid "You can"
+msgstr "También puedes crear un nuevo artículo en la wiki haciendo clic aquí."
+
+#. [SubmitBoostModal.YouCan]
+#. defaultMessage is:
+#. You can boost with any amount of IQ. Your future voting power increases the more you boost!
+#: public/messages/src/app/components/Boost/SubmitBoostModal.json
+
+msgid ""
+"You can boost with any amount of IQ. Your future voting power increases the "
+"more you boost!"
+msgstr ""
+"Puedes aumentar con cualquier cantidad de CI. Su futuro poder de voto "
+"aumenta cuanto más aumenta!"
+
+#. [SubmitVoteConfirmation.YouCan]
+#. defaultMessage is:
+#. You can vote with any amount of IQ.  If you vote with the majority, you will receive a reward that is proportional to the amount you vote!
+#: public/messages/src/app/components/SubmitVote/ConfirmationModal.json
+
+msgid ""
+"You can vote with any amount of IQ.  If you vote with the majority, you will "
+"receive a reward that is proportional to the amount you vote!"
+msgstr ""
+"Puedes votar con cualquier cantidad de IQ.  Si usted vota con la mayoría, "
+"recibirá una recompensa que es proporcional a la cantidad que usted vota!"
+
+#. [Notifications.NoNotifications]
+#. defaultMessage is:
+#. You don't have any notifications yet.
+#: public/messages/src/app/components/Chat/Notifications.json
+
+msgid "You don't have any notifications yet."
+msgstr "Aún no tienes ninguna notificación."
+
+#. [MergeModalAgain.YouMayHaveReceivedThisError]
+#. defaultMessage is:
+#. You may have received this error for a variety of reasons. The most common reasons:
+#. [SaveModalAgain.YouMayHaveReceivedThisError]
+#. defaultMessage is:
+#. You may have received this error for a variety of reasons. The most common reasons:
+#: public/messages/src/editor/plugins/merge/merge-modal.json
+#: public/messages/src/editor/plugins/save/save-modal.json
+
+msgid ""
+"You may have received this error for a variety of reasons. The most common "
+"reasons:"
+msgstr ""
+"Es posible que haya recibido este error por varias razones. Las razones más "
+"comunes:"
+
+#. [Chat.YouMustBeLoggedIn]
+#. defaultMessage is:
+#. You must be logged in to participate in chat
+#: public/messages/src/app/components/Chat/messages.json
+msgid "You must be logged in to participate in chat"
+msgstr "Debes estar registrado para participar en el chat"
+
+#. [SubmitVote.YouMustLogInToVote]
+#. defaultMessage is:
+#. You must login to vote
+#: public/messages/src/app/components/SubmitVote/index.json
+
+#| msgid "Must log in to chat"
+msgid "You must login to vote"
+msgstr "Debe iniciar sesión para chatear"
+
+#. [SubmitVote.YouNeedToMakeAnEdit]
+#. defaultMessage is:
+#. You need to make an edit before you can vote with your Ore ID account
+#: public/messages/src/app/components/SubmitVote/index.json
+
+msgid "You need to make an edit before you can vote with your Ore ID account"
+msgstr ""
+"Necesita hacer una edición antes de poder votar con su cuenta de "
+"identificación de mineral"
+
+#. [SubmitBoostModal.YourBoostWasSuccessful]
+#. defaultMessage is:
+#. Your Boost was Successful
+#: public/messages/src/app/components/Boost/SubmitBoostModal.json
+
+msgid "Your Boost was Successful"
+msgstr "Su impulso fue un éxito"
+
+#. [Directory.YourChats]
+#. defaultMessage is:
+#. Your Chats
+#: public/messages/src/app/components/Chat/Directory.json
+
+msgid "Your Chats"
+msgstr "Tus chats"
+
+#. [SaveModalAgain.YourEditWasSuccessfully]
+#. defaultMessage is:
+#. Your Edit Was Successfully Submitted for Voting
+#: public/messages/src/editor/plugins/save/save-modal.json
+
+msgid "Your Edit Was Successfully Submitted for Voting"
+msgstr "Su edición fue enviada con éxito para su votación"
+
+#. [SaveModalAgain.YourEditWasNotSubmitted]
+#. defaultMessage is:
+#. Your Edit was not Submitted
+#: public/messages/src/editor/plugins/save/save-modal.json
+
+msgid "Your Edit was not Submitted"
+msgstr "Su edición no ha sido enviada"
+
+#. [SubmitVoteConfirmation.YourVoteWasSuccessful]
+#. defaultMessage is:
+#. Your Vote was Successful
+#: public/messages/src/app/components/SubmitVote/ConfirmationModal.json
+
+msgid "Your Vote was Successful"
+msgstr "Su voto fue un éxito"
+
+#. [Directory.ActiveChats]
+#. defaultMessage is:
+#. Your active chats will be displayed here when you start conversations in articles.
+#: public/messages/src/app/components/Chat/Directory.json
+
+msgid ""
+"Your active chats will be displayed here when you start conversations in "
+"articles."
+msgstr ""
+"Sus chats activos se mostrarán aquí cuando inicie conversaciones en "
+"artículos."
+
+#. [MergeModalAgain.YourEditWillNowBeVotedOn]
+#. defaultMessage is:
+#. Your edit will now be voted on by the community. If it is accepted, you will receive an IQ reward for your contribution.  The IQ Tokens that you used to propose your edit will be locked up (staked) for 21 days.
+#. [SaveModalAgain.YourEditWillNowBeVotedOn]
+#. defaultMessage is:
+#. Your edit will now be voted on by the community. If it is accepted, you will receive an IQ reward for your contribution.  The IQ Tokens that you used to propose your edit will be locked up (staked) for 21 days.
+#: public/messages/src/editor/plugins/merge/merge-modal.json
+#: public/messages/src/editor/plugins/save/save-modal.json
+
+msgid ""
+"Your edit will now be voted on by the community. If it is accepted, you will "
+"receive an IQ reward for your contribution.  The IQ Tokens that you used to "
+"propose your edit will be locked up (staked) for 21 days."
+msgstr ""
+"Su edición será ahora votada por la comunidad. Si es aceptado, recibirás una "
+"recompensa de IQ por tu contribución.  Los IQ Tokens que usó para proponer "
+"su edición serán bloqueados (estacados) durante 21 días."
+
+#. [IQInfo.AboutEOSandIQ]
+#. defaultMessage is:
+#. about EOS and IQ, or
+#: public/messages/src/app/containers/iq-info/iq-info.container.json
+
+msgid "about EOS and IQ, or"
+msgstr "sobre EOS e IQ, o"
+
+#. [Login.aboutLoginOptions]
+#. defaultMessage is:
+#. about Everipedia’s login options.
+#: public/messages/src/app/components/Login/login.modal.json
+
+msgid "about Everipedia’s login options."
+msgstr "sobre las opciones de acceso a Everipedia."
+
+#. [IQInfo.AboutUsingAWallet]
+#. defaultMessage is:
+#. about using a wallet
+#: public/messages/src/app/containers/iq-info/iq-info.container.json
+
+msgid "about using a wallet"
+msgstr "sobre el uso de una billetera"
+
+#. [Index.And]
+#. defaultMessage is:
+#. and
+#: public/messages/src/app/components/Footer/index.json
+msgid "and"
+msgstr "y"
+
+#. [SubmitVote.Approve]
+#. defaultMessage is:
+#. approve
+#: public/messages/src/app/components/SubmitVote/index.json
+
+msgid "approve"
+msgstr "Aprobar"
+
+#. [NewPageTemplate.NPT_Person_Born]
+#. defaultMessage is:
+#. born
+#: public/messages/src/editor/utils/editing-utils/template-packs/person.json
+
+msgid "born"
+msgstr "nacido"
+
+#. [IQInfo.BuyAndSellIQ]
+#. defaultMessage is:
+#. buy and sell IQ
+#: public/messages/src/app/containers/iq-info/iq-info.container.json
+
+msgid "buy and sell IQ"
+msgstr "comprar y vender IQ"
+
+#. [SaveModalAgain.Bytes]
+#. defaultMessage is:
+#. bytes
+#: public/messages/src/editor/plugins/save/save-modal-parts/comment-and-category.json
+msgid "bytes"
+msgstr "bytes"
+
+#. [EditOverview.Changed]
+#. defaultMessage is:
+#. changed
+#: public/messages/src/app/components/SubmitVote/EditOverview.json
+
+msgid "changed"
+msgstr "Cambiado"
+
+#. [SubmitVote.EditTwo]
+#. defaultMessage is:
+#. edit
+#: public/messages/src/app/components/SubmitVote/index.json
+
+msgid "edit"
+msgstr "Editar"
+
+#. [ActivityCard.Edited2]
+#. defaultMessage is:
+#. edited
+#. [Chat.Edited]
+#. defaultMessage is:
+#. edited
+#. [SubmitVoteConfirmation.Edited]
+#. defaultMessage is:
+#. edited
+#: public/messages/src/app/components/ActivityCards/ActivityCard.json
+#: public/messages/src/app/components/Chat/ChatItem.json
+#: public/messages/src/app/components/SubmitVote/ConfirmationModal.json
+msgid "edited"
+msgstr "corregido"
+
+#. [FileUploader.FileSizeTooBig]
+#. defaultMessage is:
+#. file size is too big
+#. [ImageUploader.FileSizeTooBig]
+#. defaultMessage is:
+#. file size is too big
+#: public/messages/src/shared/inputs/image-uploader/file-uploader.component.json
+#: public/messages/src/shared/inputs/image-uploader/image-uploader.component.json
+msgid "file size is too big"
+msgstr "el tamaño del archivo es demasiado grande"
+
+#. [SubmitVote.For]
+#. defaultMessage is:
+#. for
+#: public/messages/src/app/components/SubmitVote/index.json
+msgid "for"
+msgstr "para"
+
+#. [NewPageTemplate.NPT_Organization_Founded]
+#. defaultMessage is:
+#. founded
+#: public/messages/src/editor/utils/editing-utils/template-packs/organization.json
+
+#| msgid "Ended"
+msgid "founded"
+msgstr "Finalizado"
+
+#. [Errors.IfYouThinkYouAre]
+#. defaultMessage is:
+#. if you think you are receiving this message in error.
+#: public/messages/src/app/utils/errors.json
+
+msgid "if you think you are receiving this message in error."
+msgstr "si cree que está recibiendo este mensaje por error."
+
+#. [NewPageTemplate.NPT_Product_Include]
+#. defaultMessage is:
+#. include
+#: public/messages/src/editor/utils/editing-utils/template-packs/product.json
+
+msgid "include"
+msgstr "contener"
+
+#. [NewPageTemplate.NPT_Organization_IsA]
+#. defaultMessage is:
+#. is a
+#. [NewPageTemplate.NPT_Person_IsA]
+#. defaultMessage is:
+#. is a
+#: public/messages/src/editor/utils/editing-utils/template-packs/organization.json
+#: public/messages/src/editor/utils/editing-utils/template-packs/person.json
+
+msgid "is a"
+msgstr "es un"
+
+#. [NewPageTemplate.NPT_Place_IsAPlace]
+#. defaultMessage is:
+#. is a place
+#: public/messages/src/editor/utils/editing-utils/template-packs/place.json
+
+msgid "is a place"
+msgstr "Poner Votos"
+
+#. [NewPageTemplate.NPT_Event_IsAnEvent]
+#. defaultMessage is:
+#. is an event that was first started on
+#: public/messages/src/editor/utils/editing-utils/template-packs/event.json
+
+msgid "is an event that was first started on"
+msgstr "es un evento que se inició por primera vez en"
+
+#. [NewPageTemplate.NPT_Place_IsKnownFor]
+#. defaultMessage is:
+#. is known for
+#: public/messages/src/editor/utils/editing-utils/template-packs/place.json
+
+msgid "is known for"
+msgstr "es conocido por"
+
+#. [FileUploader.IsNotASupportedFileExtension]
+#. defaultMessage is:
+#. is not a supported file extension
+#. [ImageUploader.IsNotASupportedFileExtension]
+#. defaultMessage is:
+#. is not a supported file extension
+#: public/messages/src/shared/inputs/image-uploader/file-uploader.component.json
+#: public/messages/src/shared/inputs/image-uploader/image-uploader.component.json
+msgid "is not a supported file extension"
+msgstr "no es una extensión de archivo compatible"
+
+#. [NewPageTemplate.NPT_Product_IsAProductCreatedOn]
+#. defaultMessage is:
+#. is product created on
+#: public/messages/src/editor/utils/editing-utils/template-packs/product.json
+
+msgid "is product created on"
+msgstr "es un producto creado en"
+
+#. [NewPageTemplate.NPT_CreativeWork_IsWorkThatWasCreated]
+#. defaultMessage is:
+#. is work that was created on
+#: public/messages/src/editor/utils/editing-utils/template-packs/creative-work.json
+
+msgid "is work that was created on"
+msgstr "es un trabajo que fue creado en"
+
+#. [ActivityCard.Merged2]
+#. defaultMessage is:
+#. merged
+#: public/messages/src/app/components/ActivityCards/ActivityCard.json
+msgid "merged"
+msgstr "fusionado"
+
+#. [EditOverview.MergedIntoThisArticle]
+#. defaultMessage is:
+#. merged into this article.
+#: public/messages/src/app/components/SubmitVote/EditOverview.json
+
+#| msgid "Chat about this article!"
+msgid "merged into this article."
+msgstr "Chatea sobre este artículo!"
+
+#. [NewPageTemplate.NPT_Event_Offers]
+#. defaultMessage is:
+#. offers
+#. [NewPageTemplate.NPT_Organization_Offers]
+#. defaultMessage is:
+#. offers
+#. [NewPageTemplate.NPT_Place_Offers]
+#. defaultMessage is:
+#. offers
+#: public/messages/src/editor/utils/editing-utils/template-packs/event.json
+#: public/messages/src/editor/utils/editing-utils/template-packs/organization.json
+#: public/messages/src/editor/utils/editing-utils/template-packs/place.json
+msgid "offers"
+msgstr "ofertas"
+
+#. [IQInfo.OnTheseExchanges]
+#. defaultMessage is:
+#. on these exchanges
+#: public/messages/src/app/containers/iq-info/iq-info.container.json
+
+msgid "on these exchanges"
+msgstr "Intercambios compatibles"
+
+#. [Login.Or]
+#. defaultMessage is:
+#. or
+#: public/messages/src/app/components/Login/index.json
+msgid "or"
+msgstr "o"
+
+#. [SubmitVote.Reject]
+#. defaultMessage is:
+#. reject
+#: public/messages/src/app/components/SubmitVote/index.json
+msgid "reject"
+msgstr "Rechazar"
+
+#. [ActivityCard.Removed2]
+#. defaultMessage is:
+#. removed
+#: public/messages/src/app/components/ActivityCards/ActivityCard.json
+msgid "removed"
+msgstr "borrado"
+
+#. [NewPageTemplate.NPT_Person_StartedHisHerCareer]
+#. defaultMessage is:
+#. started his/her career at
+#: public/messages/src/editor/utils/editing-utils/template-packs/person.json
+
+msgid "started his/her career at"
+msgstr "comenzó su carrera en"
+
+#. [IQInfo.TalkToSomeone]
+#. defaultMessage is:
+#. talk to someone about getting started!
+#: public/messages/src/app/containers/iq-info/iq-info.container.json
+
+msgid "talk to someone about getting started!"
+msgstr "¿Acabas de empezar?"
+
+#. [Errors.TheseExchanges]
+#. defaultMessage is:
+#. these exchanges.
+#: public/messages/src/app/utils/errors.json
+
+msgid "these exchanges."
+msgstr "Intercambios compatibles"
+
+#. [MediaGallery.ToChooseAQualityImage]
+#. defaultMessage is:
+#. to choose a quality image
+#: public/messages/src/editor/plugins/media-gallery/media-gallery-modal.json
+
+msgid "to choose a quality image"
+msgstr "elegir una imagen de calidad"
+
+#. [SectionMediaModal.ToChooseAQualityImage]
+#. defaultMessage is:
+#. to choose a quality image.
+#: public/messages/src/editor/plugins/section-media-modal/section-media-modal.json
+
+msgid "to choose a quality image."
+msgstr "para elegir una imagen de calidad."
+
+#. [Directory.ToParticipate]
+#. defaultMessage is:
+#. to participate in community conversations
+#. [Notifications.ToParticipate]
+#. defaultMessage is:
+#. to participate in community conversations
+#: public/messages/src/app/components/Chat/Directory.json
+#: public/messages/src/app/components/Chat/Notifications.json
+
+msgid "to participate in community conversations"
+msgstr "para participar en conversaciones de la comunidad"
+
+#. [ContactUs.toViewFAQ]
+#. defaultMessage is:
+#. to view our FAQs
+#: public/messages/src/app/containers/contact-us/contact-form.json
+
+msgid "to view our FAQs"
+msgstr "para ver nuestras preguntas frecuentes"
+
+#. [CategoryResultCard.Views]
+#. defaultMessage is:
+#. views
+#. [MainItem.Views]
+#. defaultMessage is:
+#. views
+#. [RightList.Views]
+#. defaultMessage is:
+#. views
+#. [SearchCard.Views]
+#. defaultMessage is:
+#. views
+#: public/messages/src/app/containers/category-results/categoryResultCard.json
+#: public/messages/src/app/containers/homepageContainer/mainItem.json
+#: public/messages/src/app/containers/homepageContainer/rightList.json
+#: public/messages/src/app/containers/searchResultsFull/searchCard.json
+
+msgid "views"
+msgstr "Vistas"
+
+#. [SubmitVote.VoteTwo]
+#. defaultMessage is:
+#. vote
+#. [Tooltips.Vote]
+#. defaultMessage is:
+#. vote
+#: public/messages/src/app/components/SubmitVote/index.json
+#: public/messages/src/app/components/tooltips/index.json
+msgid "vote"
+msgstr "Votar"
+
+#. [Chat.Voted]
+#. defaultMessage is:
+#. voted
+#: public/messages/src/app/components/Chat/ChatItem.json
+msgid "voted"
+msgstr "votado"
+
+#. [Tooltips.Votes]
+#. defaultMessage is:
+#. votes
+#: public/messages/src/app/components/tooltips/index.json
+msgid "votes"
+msgstr "votos"
+
+#. [NewPageTemplate.NPT_CreativeWork_WasCreatedBy]
+#. defaultMessage is:
+#. was created by
+#. [NewPageTemplate.NPT_Product_WasCreatedBy]
+#. defaultMessage is:
+#. was created by
+#: public/messages/src/editor/utils/editing-utils/template-packs/creative-work.json
+#: public/messages/src/editor/utils/editing-utils/template-packs/product.json
+
+msgid "was created by"
+msgstr "fue creado por"
+
+#. [NewPageTemplate.NPT_Event_WasFormedBy]
+#. defaultMessage is:
+#. was formed by
+#: public/messages/src/editor/utils/editing-utils/template-packs/event.json
+
+#| msgid "Powered by"
+msgid "was formed by"
+msgstr "Impulsado por "
+
+#. [NewPageTemplate.NPT_Organization_WasStartedBy]
+#. defaultMessage is:
+#. was started by
+#: public/messages/src/editor/utils/editing-utils/template-packs/organization.json
+
+msgid "was started by"
+msgstr "fue iniciada por"
+
+#. [ActivityCard.Words]
+#. defaultMessage is:
+#. words
+#. [Chat.WordsTwo]
+#. defaultMessage is:
+#. words
+#. [EditOverview.WordsThree]
+#. defaultMessage is:
+#. words
+#: public/messages/src/app/components/ActivityCards/ActivityCard.json
+#: public/messages/src/app/components/Chat/ChatItem.json
+#: public/messages/src/app/components/SubmitVote/EditOverview.json
+msgid "words"
+msgstr "palabras"
+
+
+#~ msgid "Account activity timeline"
+#~ msgstr "Cronología de la actividad de la cuenta"
+
+
+#~ msgid "Learn more."
+#~ msgstr "Aprende más"
+
+
+#~ msgid ""
+#~ "Login with Scatter to unlock Everipedia’s full features. Earn IQ rewards "
+#~ "and participate in\n"
+#~ "\t\t\t\t\t\tvoting on proposed article edits."
+#~ msgstr ""
+#~ "Inicie sesión con Scatter para desbloquear todas las funciones de "
+#~ "Everipedia. Gane recompensas de CI y participe en\n"
+#~ "\t\t\t\t\t\tvotación sobre las propuestas de edición de artículos."
+
+
+#~ msgid ""
+#~ "Quickly login with a social account to make an edit or create an article. "
+#~ "You will be limited to\n"
+#~ "\t\t\t\t\t\t4 edits and will not earn rewards or participate in voting."
+#~ msgstr ""
+#~ "Inicie sesión rápidamente con una cuenta social para editar o crear un "
+#~ "artículo. Usted se limitará a\n"
+#~ "\t\t\t\t\t\t4 edita y no ganará recompensas ni participará en la votación."
+
+#~ msgid "View Comment"
+#~ msgstr "Ver comentario"
+
+
+#~ msgid ""
+#~ "Your account is a trial account (using OREID) and is edit-only. To\n"
+#~ "                                            participate in voting and to "
+#~ "receive IQ rewards, login with Scatter."
+#~ msgstr ""
+#~ "Su cuenta es una cuenta de prueba (usando OREID) y es sólo de edición. "
+#~ "Para\n"
+#~ "                                            participar en la votación y "
+#~ "recibir recompensas de IQ, inicia sesión con Scatter."
