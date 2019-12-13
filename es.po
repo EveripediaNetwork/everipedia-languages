@@ -1,11 +1,11 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: \n"
-"POT-Creation-Date: 2019-11-25T22:10:07.335Z\n"
+"POT-Creation-Date: 2019-12-07T03:31:42.704Z\n"
 "PO-Revision-Date: \n"
 "Last-Translator: \n"
 "Language-Team: \n"
-"Language: es\n"
+"Language: es_ES\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
@@ -16,7 +16,6 @@ msgstr ""
 #. defaultMessage is:
 #. + Create an Account / Login
 #: public/messages/src/app/components/Header/Mobile-Hamburger.json
-
 msgid "+ Create an Account / Login"
 msgstr "+ Crear una Cuenta / Entrar"
 
@@ -94,7 +93,6 @@ msgstr "Un universo de conocimiento."
 #. defaultMessage is:
 #. ALL TIME
 #: public/messages/src/app/containers/homepageContainer/leaderboard.json
-
 msgid "ALL TIME"
 msgstr "Todo el tiempo"
 
@@ -109,7 +107,6 @@ msgstr "API de"
 #. defaultMessage is:
 #. ARTICLE HISTORY
 #: public/messages/src/app/components/SubmitVote/index.json
-
 msgid "ARTICLE HISTORY"
 msgstr "HISTORIAL DE ARTÍCULOS"
 
@@ -137,7 +134,6 @@ msgstr ""
 #. defaultMessage is:
 #. AS SEEN IN
 #: public/messages/src/app/containers/about/as-seen.json
-
 msgid "AS SEEN IN"
 msgstr "Como se vio en"
 
@@ -149,7 +145,6 @@ msgstr "Como se vio en"
 #. AVAILABLE BALANCE
 #: public/messages/src/app/components/Boost/SubmitBoostModal.json
 #: public/messages/src/app/components/SubmitVote/ConfirmationModal.json
-
 msgid "AVAILABLE BALANCE"
 msgstr "Saldo disponible"
 
@@ -198,7 +193,6 @@ msgstr "Sobre mi"
 #. defaultMessage is:
 #. About Me must be longer than 3 characters
 #: public/messages/src/app/components/edit-profile/index.json
-
 msgid "About Me must be longer than 3 characters"
 msgstr "Sobre Mí debe tener más de 3 caracteres"
 
@@ -244,10 +238,8 @@ msgstr "Nombre de la cuenta"
 #. defaultMessage is:
 #. Active Boosts
 #: public/messages/src/app/containers/dashboard/dashboard_component.json
-
-#| msgid "Active Voting"
 msgid "Active Boosts"
-msgstr "Voto Activo"
+msgstr "Impulsos Activos"
 
 #. [CategoryResultCard.ActiveVoting]
 #. defaultMessage is:
@@ -301,7 +293,6 @@ msgstr "Agregar otro"
 #. defaultMessage is:
 #. Add Citation
 #: public/messages/src/editor/plugins/citation-modal/citation-modal.json
-
 msgid "Add Citation"
 msgstr "Añadir cita"
 
@@ -309,16 +300,13 @@ msgstr "Añadir cita"
 #. defaultMessage is:
 #. Add First Category
 #: public/messages/src/editor/plugins/categories/categories.node.json
-
-#| msgid "Category"
 msgid "Add First Category"
-msgstr "Categoría"
+msgstr "Añadir primera categoría"
 
 #. [MediaGallery.AddImage]
 #. defaultMessage is:
 #. Add Image or Video to Media Gallery
 #: public/messages/src/editor/plugins/media-gallery/media-gallery-modal.json
-
 msgid "Add Image or Video to Media Gallery"
 msgstr "Añadir imagen o vídeo a la galería multimedia"
 
@@ -326,7 +314,6 @@ msgstr "Añadir imagen o vídeo a la galería multimedia"
 #. defaultMessage is:
 #. Add Inline Image
 #: public/messages/src/editor/plugins/section-media-modal/section-media-modal.json
-
 msgid "Add Inline Image"
 msgstr "Agregar imagen en línea"
 
@@ -341,7 +328,6 @@ msgstr "Añadir Etiqueta"
 #. defaultMessage is:
 #. Add Main Photo
 #: public/messages/src/editor/plugins/main-photo/main-photo-modal.json
-
 msgid "Add Main Photo"
 msgstr "Añadir foto principal"
 
@@ -349,7 +335,6 @@ msgstr "Añadir foto principal"
 #. defaultMessage is:
 #. Add New Image or Video to Gallery
 #: public/messages/src/editor/plugins/media-gallery/media-gallery.node.json
-
 msgid "Add New Image or Video to Gallery"
 msgstr "Agregar nueva imagen o vídeo a la galería"
 
@@ -363,7 +348,6 @@ msgstr "Agregar nueva imagen o vídeo a la galería"
 #. defaultMessage is:
 #. Add New Item to Infobox
 #: public/messages/src/editor/plugins/infobox/infobox-modal.json
-
 msgid "Add New Item to Infobox"
 msgstr "Agregar un nuevo artículo a Infobox"
 
@@ -404,7 +388,6 @@ msgstr "Agregar y agregar otro"
 #. defaultMessage is:
 #. Add custom caption (optional)
 #: public/messages/src/shared/inputs/image-uploader/image-uploader.component.json
-
 msgid "Add custom caption (optional)"
 msgstr "Agregar subtítulo personalizado (opcional)"
 
@@ -438,16 +421,13 @@ msgstr "Agregar o editar una cita"
 #: public/messages/src/editor/plugins/citation-modal/panes/add-edit-file.json
 #: public/messages/src/editor/plugins/citation-modal/panes/add-edit-isbn.json
 #: public/messages/src/editor/plugins/citation-modal/panes/add-edit-url.json
-
-#| msgid "Add and Insert"
 msgid "Add without Inserting"
-msgstr "Agregar y agregar otro"
+msgstr "Añadir sin insertar"
 
 #. [CreatePage.Description]
 #. defaultMessage is:
 #. Add your contribution to the world’s most universal knowledge base. You can create an article about anything.
 #: public/messages/src/app/components/create-new-page/index.json
-
 msgid ""
 "Add your contribution to the world’s most universal knowledge base. You can "
 "create an article about anything."
@@ -463,7 +443,6 @@ msgstr ""
 #. Adding media makes an article more interactive and engaging.
 #: public/messages/src/editor/plugins/media-gallery/media-gallery-modal.json
 #: public/messages/src/editor/plugins/section-media-modal/section-media-modal.json
-
 msgid "Adding media makes an article more interactive and engaging."
 msgstr ""
 "Agregar medios de comunicación hace que un artículo sea más interactivo y "
@@ -473,7 +452,6 @@ msgstr ""
 #. defaultMessage is:
 #. Additional boost amount
 #: public/messages/src/app/components/Boost/SubmitBoostModal.json
-
 msgid "Additional boost amount"
 msgstr "Importe adicional de refuerzo"
 
@@ -521,7 +499,6 @@ msgstr "Permitir que los usuarios que no sean usuarios de Googlebot"
 #. defaultMessage is:
 #. Allowed formats:
 #: public/messages/src/editor/plugins/citation-modal/panes/add-edit-file.json
-
 msgid "Allowed formats:"
 msgstr "Formatos permitidos:"
 
@@ -529,7 +506,6 @@ msgstr "Formatos permitidos:"
 #. defaultMessage is:
 #. An encyclopedia for the modern age.
 #: public/messages/src/app/containers/homepageContainer/homepage.container.json
-
 msgid "An encyclopedia for the modern age."
 msgstr "Una enciclopedia para la época moderna"
 
@@ -537,7 +513,6 @@ msgstr "Una enciclopedia para la época moderna"
 #. defaultMessage is:
 #. An open community expanding the world’s knowledge
 #: public/messages/src/app/containers/about/third-block.json
-
 msgid "An open community expanding the world’s knowledge"
 msgstr "Una comunidad abierta que expande el conocimiento del mundo"
 
@@ -552,7 +527,6 @@ msgstr "Consejo Anónimo"
 #. defaultMessage is:
 #. Anyone with IQ Tokens is a stakeholder in the Everipedia Network. Using IQ tokens to vote, users decide which new articles and edits are added to the knowledge base.
 #: public/messages/src/app/containers/about/about.container.json
-
 msgid ""
 "Anyone with IQ Tokens is a stakeholder in the Everipedia Network. Using IQ "
 "tokens to vote, users decide which new articles and edits are added to the "
@@ -584,7 +558,6 @@ msgstr ""
 #. defaultMessage is:
 #. As an editor, the killer feature of Everipedia is that as long as you use sources and a neutral wording, you can write an article about anything you want. A dapp you like, yourself — anything.
 #: public/messages/src/app/containers/about/third-block.json
-
 msgid ""
 "As an editor, the killer feature of Everipedia is that as long as you use "
 "sources and a neutral wording, you can write an article about anything you "
@@ -620,7 +593,6 @@ msgstr "Saldo disponible"
 #. defaultMessage is:
 #. Balance Detail
 #: public/messages/src/app/containers/dashboard/dashboard_component.json
-
 msgid "Balance Detail"
 msgstr "Detalle de Saldo"
 
@@ -628,7 +600,6 @@ msgstr "Detalle de Saldo"
 #. defaultMessage is:
 #. Become an Editor
 #: public/messages/src/app/containers/about/about.container.json
-
 msgid "Become an Editor"
 msgstr "Conviértase en editor"
 
@@ -654,15 +625,13 @@ msgstr "Potenciar"
 #. defaultMessage is:
 #. Boost amount
 #: public/messages/src/app/components/Boost/SubmitBoostModal.json
-
 msgid "Boost amount"
-msgstr "Cantidad de votos"
+msgstr "Aumentar la cantidad"
 
 #. [SubmitBoostModal.BoostYourVotingPower]
 #. defaultMessage is:
 #. Boost your voting power
 #: public/messages/src/app/components/Boost/SubmitBoostModal.json
-
 msgid "Boost your voting power"
 msgstr "Aumente su poder de voto"
 
@@ -670,7 +639,6 @@ msgstr "Aumente su poder de voto"
 #. defaultMessage is:
 #. Boosting Failed
 #: public/messages/src/app/components/Boost/SubmitBoostModal.json
-
 msgid "Boosting Failed"
 msgstr "Impulso fallido"
 
@@ -682,7 +650,6 @@ msgstr "Impulso fallido"
 #. Boosts / Voting Power
 #: public/messages/src/app/components/Boost/index.json
 #: public/messages/src/app/components/Sidenav/index.json
-
 msgid "Boosts / Voting Power"
 msgstr "Impulsos / Poder de Voto"
 
@@ -824,8 +791,6 @@ msgstr "Resistente a la censura"
 #. defaultMessage is:
 #. Centralized
 #: public/messages/src/app/containers/iq-info/iq-info.container.json
-
-#| msgid "Decentralized"
 msgid "Centralized"
 msgstr ""
 "El blockchain de Everipedia IQ proporciona un nuevo cambio de paradigma y la "
@@ -887,7 +852,6 @@ msgstr "Chatea sobre este artículo!"
 #. defaultMessage is:
 #. Chief Executive Officer
 #: public/messages/src/app/containers/about/third-block.json
-
 msgid "Chief Executive Officer"
 msgstr "Director Ejecutivo, Cofundador"
 
@@ -909,7 +873,6 @@ msgstr "Director de operaciones"
 #. defaultMessage is:
 #. Chief Product Officer
 #: public/messages/src/app/containers/about/third-block.json
-
 msgid "Chief Product Officer"
 msgstr "Jefe de Producto"
 
@@ -917,7 +880,6 @@ msgstr "Jefe de Producto"
 #. defaultMessage is:
 #. Chief Technology Officer
 #: public/messages/src/app/containers/about/third-block.json
-
 msgid "Chief Technology Officer"
 msgstr "Director de Tecnología, Cofundador"
 
@@ -932,7 +894,6 @@ msgstr "Elegir una nueva imagen principal"
 #. defaultMessage is:
 #. Choose another login method
 #: public/messages/src/app/components/Login/index.json
-
 msgid "Choose another login method"
 msgstr "Elija otro método de acceso"
 
@@ -972,7 +933,6 @@ msgstr "Ciudad"
 #. defaultMessage is:
 #. Click here
 #: public/messages/src/app/containers/contact-us/contact-form.json
-
 msgid "Click here"
 msgstr "Haz clic aquí para subir una imagen para tu perfil de editor."
 
@@ -980,7 +940,6 @@ msgstr "Haz clic aquí para subir una imagen para tu perfil de editor."
 #. defaultMessage is:
 #. Click or drag a non-media file to this area to upload, such as a PDF, Word document, or Excel file.
 #: public/messages/src/editor/plugins/citation-modal/panes/add-edit-file.json
-
 msgid ""
 "Click or drag a non-media file to this area to upload, such as a PDF, Word "
 "document, or Excel file."
@@ -992,7 +951,6 @@ msgstr ""
 #. defaultMessage is:
 #. Click to select the type of edit you made (required)
 #: public/messages/src/editor/plugins/save/save-modal-parts/comment-and-category.json
-
 msgid "Click to select the type of edit you made (required)"
 msgstr ""
 "Haga clic para seleccionar el tipo de edición que ha realizado (obligatorio)"
@@ -1001,7 +959,6 @@ msgstr ""
 #. defaultMessage is:
 #. Click to vote on this edit
 #: public/messages/src/app/components/SubmitVote/index.json
-
 msgid "Click to vote on this edit"
 msgstr "Haga clic para votar sobre esta edición"
 
@@ -1009,7 +966,6 @@ msgstr "Haga clic para votar sobre esta edición"
 #. defaultMessage is:
 #. Co-Founder Wikipedia, CIO Everipedia
 #: public/messages/src/app/containers/about/third-block.json
-
 msgid "Co-Founder Wikipedia, CIO Everipedia"
 msgstr "Cofundador de Wikipedia, CIO Everipedia"
 
@@ -1042,7 +998,6 @@ msgstr "Preguntas más frecuentes"
 #. defaultMessage is:
 #. Confirm Your Boost
 #: public/messages/src/app/components/Boost/SubmitBoostModal.json
-
 msgid "Confirm Your Boost"
 msgstr "Confirme su aumento de presión"
 
@@ -1050,7 +1005,6 @@ msgstr "Confirme su aumento de presión"
 #. defaultMessage is:
 #. Confirm Your Vote
 #: public/messages/src/app/components/SubmitVote/ConfirmationModal.json
-
 msgid "Confirm Your Vote"
 msgstr "Confirme su voto"
 
@@ -1062,9 +1016,8 @@ msgstr "Confirme su voto"
 #. Confirm that you are using the latest version of your wallet.
 #: public/messages/src/editor/plugins/merge/merge-modal.json
 #: public/messages/src/editor/plugins/save/save-modal.json
-
 msgid "Confirm that you are using the latest version of your wallet."
-msgstr "Confirme que está usando la última versión de Scatter."
+msgstr "Confirme que está usando la última versión de su billetera."
 
 #. [MergeModalAgain.ConfirmYouHaveEnoughInWallet]
 #. defaultMessage is:
@@ -1074,13 +1027,12 @@ msgstr "Confirme que está usando la última versión de Scatter."
 #. Confirm that you have enough IQ in your wallet (50IQ required to submit at edit)
 #: public/messages/src/editor/plugins/merge/merge-modal.json
 #: public/messages/src/editor/plugins/save/save-modal.json
-
 msgid ""
 "Confirm that you have enough IQ in your wallet (50IQ required to submit at "
 "edit)"
 msgstr ""
-"Confirme que tiene suficiente CI en su billetera Scatter (se requiere 50 CI "
-"para enviar en la edición)"
+"Confirme que tiene suficiente CI en su billetera (se requiere 50 CI para "
+"enviar en la edición)"
 
 #. [MergeModalAgain.ConfirmThatYouHaveSufficientEOS]
 #. defaultMessage is:
@@ -1090,7 +1042,6 @@ msgstr ""
 #. Confirm that you have sufficient EOS resources. For additional information, please see our FAQs.
 #: public/messages/src/editor/plugins/merge/merge-modal.json
 #: public/messages/src/editor/plugins/save/save-modal.json
-
 msgid ""
 "Confirm that you have sufficient EOS resources. For additional information, "
 "please see our FAQs."
@@ -1106,15 +1057,13 @@ msgstr ""
 #. Confirm that you have your wallet open and that you are logged in
 #: public/messages/src/editor/plugins/merge/merge-modal.json
 #: public/messages/src/editor/plugins/save/save-modal.json
-
 msgid "Confirm that you have your wallet open and that you are logged in"
-msgstr "Confirme que tiene Scatter abierto y que ha iniciado sesión"
+msgstr "Confirme que tiene su billetera abierta y que ha iniciado sesión"
 
 #. [SubmitBoostModal.CongratulationsYourBoostWasRecorded]
 #. defaultMessage is:
 #. Congratulations, your boost was recorded for this article.
 #: public/messages/src/app/components/Boost/SubmitBoostModal.json
-
 msgid "Congratulations, your boost was recorded for this article."
 msgstr "Felicitaciones, su impulso fue grabado para este artículo."
 
@@ -1122,7 +1071,6 @@ msgstr "Felicitaciones, su impulso fue grabado para este artículo."
 #. defaultMessage is:
 #. Congratulations, your vote was recorded for this article.
 #: public/messages/src/app/components/SubmitVote/ConfirmationModal.json
-
 msgid "Congratulations, your vote was recorded for this article."
 msgstr "Felicitaciones, su voto fue registrado para este artículo."
 
@@ -1216,7 +1164,6 @@ msgstr "País"
 #: public/messages/src/app/components/Header/Mobile-Hamburger.json
 #: public/messages/src/app/components/Search/SearchResults.json
 #: public/messages/src/app/containers/homepageContainer/featured.json
-
 msgid "Create New Wiki"
 msgstr "Crear una nueva wiki"
 
@@ -1224,7 +1171,6 @@ msgstr "Crear una nueva wiki"
 #. defaultMessage is:
 #. Create an Article
 #: public/messages/src/app/containers/searchResultsFull/searchResultsFull.container.json
-
 msgid "Create an Article"
 msgstr "Crear artículo nuevo"
 
@@ -1242,7 +1188,6 @@ msgstr "Creación"
 #. defaultMessage is:
 #. Creative Work / Art
 #: public/messages/src/editor/plugins/metadata/metadata-modal.json
-
 msgid "Creative Work / Art"
 msgstr "Trabajo creativo/Arte"
 
@@ -1257,16 +1202,13 @@ msgstr "Creador"
 #. defaultMessage is:
 #. Creator(s)
 #: public/messages/src/editor/utils/editing-utils/template-packs/product.json
-
-#| msgid "Creation"
 msgid "Creator(s)"
-msgstr "Creación"
+msgstr "Creador(es)"
 
 #. [Dashboard.CurrentIqPrice]
 #. defaultMessage is:
 #. Current IQ Price
 #: public/messages/src/app/containers/dashboard/dashboard_component.json
-
 msgid "Current IQ Price"
 msgstr "Precio actual del CI"
 
@@ -1281,7 +1223,6 @@ msgstr "Actualmente en juego"
 #. defaultMessage is:
 #. DAY
 #: public/messages/src/app/containers/homepageContainer/leaderboard.json
-
 msgid "DAY"
 msgstr "Día"
 
@@ -1289,7 +1230,6 @@ msgstr "Día"
 #. defaultMessage is:
 #. Daniel Liebeskind is a product-oriented software developer focused on creating great user experiences.  Daniel has worn many hats including venture capital investor, software developer, product manager and startup founder and has been building distributed apps since 2017.
 #: public/messages/src/app/containers/about/third-block.json
-
 msgid ""
 "Daniel Liebeskind is a product-oriented software developer focused on "
 "creating great user experiences.  Daniel has worn many hats including "
@@ -1345,7 +1285,6 @@ msgstr "Gestión democrática"
 #. defaultMessage is:
 #. Desktop view of Everipedia article
 #: public/messages/src/app/containers/about/about.container.json
-
 msgid "Desktop view of Everipedia article"
 msgstr "Vista de escritorio del artículo de Everipedia"
 
@@ -1353,7 +1292,6 @@ msgstr "Vista de escritorio del artículo de Everipedia"
 #. defaultMessage is:
 #. Director of Software Engineering
 #: public/messages/src/app/containers/about/third-block.json
-
 msgid "Director of Software Engineering"
 msgstr "Director de Ingeniería de Software"
 
@@ -1379,7 +1317,6 @@ msgstr "Nombre para mostrar"
 #. defaultMessage is:
 #. Display Name must be longer than 3 characters
 #: public/messages/src/app/components/edit-profile/index.json
-
 msgid "Display Name must be longer than 3 characters"
 msgstr "El nombre para mostrar debe tener más de 3 caracteres"
 
@@ -1387,7 +1324,6 @@ msgstr "El nombre para mostrar debe tener más de 3 caracteres"
 #. defaultMessage is:
 #. Do Not Sell My Personal Information
 #: public/messages/src/app/components/Footer/index.json
-
 msgid "Do Not Sell My Personal Information"
 msgstr "No venda mi información personal"
 
@@ -1402,7 +1338,6 @@ msgstr "COMENTARIO DEL EDITOR"
 #. defaultMessage is:
 #. EDITORS
 #: public/messages/src/app/containers/admin/admin.container.json
-
 msgid "EDITORS"
 msgstr "Editores"
 
@@ -1410,7 +1345,6 @@ msgstr "Editores"
 #. defaultMessage is:
 #. EDITS
 #: public/messages/src/app/components/ActivityCards/index.json
-
 msgid "EDITS"
 msgstr "Modificaciones"
 
@@ -1418,15 +1352,13 @@ msgstr "Modificaciones"
 #. defaultMessage is:
 #. EXISTING BOOST
 #: public/messages/src/app/components/Boost/SubmitBoostModal.json
-
 msgid "EXISTING BOOST"
-msgstr "Caduca pronto"
+msgstr "IMPULSO EXISTENTE"
 
 #. [ActivityCards.ExpiringSoon]
 #. defaultMessage is:
 #. EXPIRING SOON
 #: public/messages/src/app/components/ActivityCards/index.json
-
 msgid "EXPIRING SOON"
 msgstr "Caduca pronto"
 
@@ -1434,7 +1366,6 @@ msgstr "Caduca pronto"
 #. defaultMessage is:
 #. Earn IQ rewards by voting.
 #: public/messages/src/app/components/SubmitVote/ConfirmationModal.json
-
 msgid "Earn IQ rewards by voting."
 msgstr "Gane recompensas de coeficiente intelectual votando."
 
@@ -1442,7 +1373,6 @@ msgstr "Gane recompensas de coeficiente intelectual votando."
 #. defaultMessage is:
 #. Earn Rewards for Contributing
 #: public/messages/src/app/containers/about/about.container.json
-
 msgid "Earn Rewards for Contributing"
 msgstr "Gane recompensas por contribuir"
 
@@ -1508,7 +1438,6 @@ msgstr "Editar las categorías"
 #. defaultMessage is:
 #. Edit Now
 #: public/messages/src/app/components/ArticleComponent/index.json
-
 msgid "Edit Now"
 msgstr "Editar ahora"
 
@@ -1530,7 +1459,6 @@ msgstr "Editar un elemento de metadatos"
 #. defaultMessage is:
 #. Edit the list of categories for the page
 #: public/messages/src/editor/plugins/categories/categories-modal.json
-
 msgid "Edit the list of categories for the page"
 msgstr "Editar la lista de categorías de la página"
 
@@ -1557,7 +1485,6 @@ msgstr "corregido"
 #. defaultMessage is:
 #. Editing / Voting issues
 #: public/messages/src/app/containers/contact-us/messages.json
-
 msgid "Editing / Voting issues"
 msgstr "Edición/cuestiones de votación"
 
@@ -1588,14 +1515,16 @@ msgstr ""
 #. defaultMessage is:
 #. Editor
 #: public/messages/src/app/containers/about/third-block.json
-
-#| msgid "Edit"
 msgid "Editor"
 msgstr "Ir al Perfil del Editor"
 
+#. [DashboardComponent.Edits]
+#. defaultMessage is:
+#. Edits
 #. [Leaderboard.Edits]
 #. defaultMessage is:
 #. Edits
+#: public/messages/src/app/containers/dashboard/dashboard_component.json
 #: public/messages/src/app/containers/homepageContainer/leaderboard.json
 msgid "Edits"
 msgstr "Modificaciones"
@@ -1611,7 +1540,6 @@ msgstr "Ediciones propuestas"
 #. defaultMessage is:
 #. Electronics / Software
 #: public/messages/src/editor/plugins/metadata/metadata-modal.json
-
 msgid "Electronics / Software"
 msgstr "Electrónica/Software"
 
@@ -1634,7 +1562,6 @@ msgstr "Email"
 #. defaultMessage is:
 #. Email Coming Soon
 #: public/messages/src/app/components/Login/index.json
-
 msgid "Email Coming Soon"
 msgstr "Próximamente por correo electrónico"
 
@@ -1699,7 +1626,6 @@ msgstr "Introduzca un tipo"
 #. defaultMessage is:
 #. Enter the code that was sent to your email address. If you haven't received a code, go back and try again.
 #: public/messages/src/app/components/Login/email_login.json
-
 msgid ""
 "Enter the code that was sent to your email address. If you haven't received "
 "a code, go back and try again."
@@ -1711,7 +1637,6 @@ msgstr ""
 #. defaultMessage is:
 #. Enter your email and we'll send a code to that email address.
 #: public/messages/src/app/components/Login/email_login.json
-
 msgid "Enter your email and we'll send a code to that email address."
 msgstr ""
 "Ingrese su correo electrónico y le enviaremos un código a esa dirección de "
@@ -1760,15 +1685,13 @@ msgstr "Evento"
 #. defaultMessage is:
 #. Everipedia
 #: public/messages/src/app/components/Footer/index.json
-
 msgid "Everipedia"
-msgstr "Iniciar sesión en Everipedia"
+msgstr "Acerca de Everipedia"
 
 #. [Directory.EveripediaChat]
 #. defaultMessage is:
 #. Everipedia Chat
 #: public/messages/src/app/components/Chat/Directory.json
-
 msgid "Everipedia Chat"
 msgstr "Everipedia Chat"
 
@@ -1776,7 +1699,6 @@ msgstr "Everipedia Chat"
 #. defaultMessage is:
 #. Everipedia allows you to create an article about anything as long as you have a citation. This allows for a much broader scope of content in the knowledge base.
 #: public/messages/src/app/containers/about/about.container.json
-
 msgid ""
 "Everipedia allows you to create an article about anything as long as you "
 "have a citation. This allows for a much broader scope of content in the "
@@ -1794,7 +1716,6 @@ msgstr ""
 #. Everipedia offers a space for you to dive into anything you find interesting, connect with people who share your interests, and contribute your own perspective.
 #: public/messages/src/app/containers/about/about.container.json
 #: public/messages/src/app/containers/homepageContainer/homepage.container.json
-
 msgid ""
 "Everipedia offers a space for you to dive into anything you find "
 "interesting, connect with people who share your interests, and contribute "
@@ -1808,7 +1729,6 @@ msgstr ""
 #. defaultMessage is:
 #. Everipedia uses blockchain technology to help us fulfill our vision for a world where all knowledge is available to all people - a world in which everyone, everywhere can participate in sharing what they know and providing value to others.
 #: public/messages/src/app/containers/about/about.container.json
-
 msgid ""
 "Everipedia uses blockchain technology to help us fulfill our vision for a "
 "world where all knowledge is available to all people - a world in which "
@@ -1824,7 +1744,6 @@ msgstr ""
 #. defaultMessage is:
 #. Everipedia’s design and features have been built for the modern age.
 #: public/messages/src/app/containers/about/about.container.json
-
 msgid "Everipedia’s design and features have been built for the modern age."
 msgstr ""
 "El diseño y las características de Everipedia han sido construidos para la "
@@ -1834,7 +1753,6 @@ msgstr ""
 #. defaultMessage is:
 #. Everipedia’s vibrant community is open and welcoming to everyone. We’re already one of the world’s largest encyclopedias, but we’re far from complete. Join us today.
 #: public/messages/src/app/containers/about/third-block.json
-
 msgid ""
 "Everipedia’s vibrant community is open and welcoming to everyone. We’re "
 "already one of the world’s largest encyclopedias, but we’re far from "
@@ -1848,7 +1766,6 @@ msgstr ""
 #. defaultMessage is:
 #. Explore your curiosity.
 #: public/messages/src/app/containers/about/last-block.json
-
 msgid "Explore your curiosity."
 msgstr "Explora tu curiosidad"
 
@@ -1860,7 +1777,6 @@ msgstr "Explora tu curiosidad"
 #. Explore your curiosity...
 #: public/messages/src/app/components/Search/index.json
 #: public/messages/src/editor/components/search/article-search.json
-
 msgid "Explore your curiosity..."
 msgstr "Explora tu curiosidad"
 
@@ -1883,7 +1799,6 @@ msgstr "Preguntas Frecuentes"
 #. Failed to Vote
 #: public/messages/src/app/components/Boost/SubmitBoostModal.json
 #: public/messages/src/app/components/SubmitVote/ConfirmationModal.json
-
 msgid "Failed to Vote"
 msgstr "No votó"
 
@@ -1917,9 +1832,8 @@ msgstr "Funciones incluidas"
 #. defaultMessage is:
 #. Features of
 #: public/messages/src/editor/utils/editing-utils/template-packs/product.json
-
 msgid "Features of"
-msgstr "Características de"
+msgstr "Características"
 
 #. [ContactUs.feedback]
 #. defaultMessage is:
@@ -1960,7 +1874,6 @@ msgstr "Archivo"
 #. defaultMessage is:
 #. Filter citations
 #: public/messages/src/editor/plugins/citation-modal/panes/insert-existing.json
-
 msgid "Filter citations"
 msgstr "Citas de filtros"
 
@@ -1979,10 +1892,8 @@ msgstr "Incentivo financiero"
 #. First Edit
 #: public/messages/src/app/components/ActivityCards/ActivityCard.json
 #: public/messages/src/app/components/SubmitVote/EditOverview.json
-
-#| msgid "Last Edited"
 msgid "First Edit"
-msgstr "Última edición"
+msgstr "Primera edición"
 
 #. [CommentUtils.Formatting]
 #. defaultMessage is:
@@ -1995,7 +1906,6 @@ msgstr "Formato"
 #. defaultMessage is:
 #. Founded at
 #: public/messages/src/editor/utils/editing-utils/template-packs/organization.json
-
 msgid "Founded at"
 msgstr "Fundada en"
 
@@ -2003,7 +1913,6 @@ msgstr "Fundada en"
 #. defaultMessage is:
 #. Founded on
 #: public/messages/src/editor/utils/editing-utils/template-packs/organization.json
-
 msgid "Founded on"
 msgstr "Fundado en"
 
@@ -2011,7 +1920,6 @@ msgstr "Fundado en"
 #. defaultMessage is:
 #. Founder(s)
 #: public/messages/src/editor/utils/editing-utils/template-packs/organization.json
-
 msgid "Founder(s)"
 msgstr "Fundador(es)"
 
@@ -2061,7 +1969,6 @@ msgstr "Consulta general"
 #. defaultMessage is:
 #. Generated unique URL
 #: public/messages/src/app/components/create-new-page/index.json
-
 msgid "Generated unique URL"
 msgstr "URL única generada"
 
@@ -2098,10 +2005,8 @@ msgstr "Comenzar"
 #. defaultMessage is:
 #. Get an Account
 #: public/messages/src/app/components/Chat/ChatList.json
-
-#| msgid "Account"
 msgid "Get an Account"
-msgstr "Cuenta"
+msgstr "Obtener una cuenta"
 
 #. [ContactUs.GetInTouch]
 #. defaultMessage is:
@@ -2114,7 +2019,6 @@ msgstr "Contacta con nosotros"
 #. defaultMessage is:
 #. Get more IQ here
 #: public/messages/src/app/components/SubmitVote/index.json
-
 msgid "Get more IQ here"
 msgstr "Obtenga más IQ aquí"
 
@@ -2122,7 +2026,6 @@ msgstr "Obtenga más IQ aquí"
 #. defaultMessage is:
 #. Grammar
 #: public/messages/src/app/utils/comment-utils.json
-
 msgid "Grammar"
 msgstr "Gramática"
 
@@ -2130,7 +2033,6 @@ msgstr "Gramática"
 #. defaultMessage is:
 #. He/She likes to
 #: public/messages/src/editor/utils/editing-utils/template-packs/person.json
-
 msgid "He/She likes to"
 msgstr "A él/ella le gusta"
 
@@ -2138,7 +2040,6 @@ msgstr "A él/ella le gusta"
 #. defaultMessage is:
 #. He/she was born in
 #: public/messages/src/editor/utils/editing-utils/template-packs/person.json
-
 msgid "He/she was born in"
 msgstr "Nació en"
 
@@ -2162,7 +2063,6 @@ msgstr "Nació en"
 #: public/messages/src/editor/utils/editing-utils/template-packs/organization.json
 #: public/messages/src/editor/utils/editing-utils/template-packs/place.json
 #: public/messages/src/editor/utils/editing-utils/template-packs/product.json
-
 msgid "History"
 msgstr "Historial"
 
@@ -2195,15 +2095,13 @@ msgstr "Cómo funciona"
 #. defaultMessage is:
 #. How much IQ should I boost?
 #: public/messages/src/app/components/Boost/SubmitBoostModal.json
-
 msgid "How much IQ should I boost?"
-msgstr "¿Cuánto coeficiente intelectual debo votar?"
+msgstr "¿Cuánto coeficiente intelectual debo aumentar?"
 
 #. [SubmitVoteConfirmation.HowMuch]
 #. defaultMessage is:
 #. How much IQ should I vote?
 #: public/messages/src/app/components/SubmitVote/ConfirmationModal.json
-
 msgid "How much IQ should I vote?"
 msgstr "¿Cuánto coeficiente intelectual debo votar?"
 
@@ -2211,7 +2109,6 @@ msgstr "¿Cuánto coeficiente intelectual debo votar?"
 #. defaultMessage is:
 #. I love Everipedia because everyone benefits, particularly the contributors. As an IQ token holder, I have an incentive to participate in the network.
 #: public/messages/src/app/containers/about/third-block.json
-
 msgid ""
 "I love Everipedia because everyone benefits, particularly the contributors. "
 "As an IQ token holder, I have an incentive to participate in the network."
@@ -2224,9 +2121,15 @@ msgstr ""
 #. defaultMessage is:
 #. IN THE NEWS
 #: public/messages/src/app/containers/homepageContainer/inTheNews.json
-
 msgid "IN THE NEWS"
 msgstr "Noticias"
+
+#. [Leaderboard.IQ]
+#. defaultMessage is:
+#. IQ
+#: public/messages/src/app/containers/homepageContainer/leaderboard.json
+msgid "IQ"
+msgstr "IQ (Calificación Interna)"
 
 #. [Stats.IQEarned]
 #. defaultMessage is:
@@ -2243,7 +2146,6 @@ msgstr "CI GANADO"
 #. IQ HOLDERS
 #: public/messages/src/app/containers/admin/admin.container.json
 #: public/messages/src/app/containers/homepageContainer/stats.json
-
 msgid "IQ HOLDERS"
 msgstr "TITULARES IQ"
 
@@ -2251,15 +2153,13 @@ msgstr "TITULARES IQ"
 #. defaultMessage is:
 #. IQ Token
 #: public/messages/src/app/components/Footer/index.json
-
 msgid "IQ Token"
-msgstr "Cuenta IQ Tokens"
+msgstr "Ficha IQ"
 
 #. [About.EarnRewardsText]
 #. defaultMessage is:
 #. IQ Tokens allow us to keep track and reward people for contributing to Everipedia, and as the value of the platform grows, the people who built it get to share in its success.
 #: public/messages/src/app/containers/about/about.container.json
-
 msgid ""
 "IQ Tokens allow us to keep track and reward people for contributing to "
 "Everipedia, and as the value of the platform grows, the people who built it "
@@ -2276,7 +2176,6 @@ msgstr ""
 #. articles. Contributors are rewarded in the form of IQ tokens. In addition, each token
 #. holder can also vote on upgrades and modifications to the system.
 #: public/messages/src/app/containers/iq-info/iq-info.container.json
-
 msgid ""
 "IQ tokens power the Everipedia Network. They are used to contribute content "
 "to our\n"
@@ -2301,7 +2200,6 @@ msgstr ""
 #. defaultMessage is:
 #. ISBN (Book)
 #: public/messages/src/editor/plugins/citation-modal/citation-modal.json
-
 msgid "ISBN (Book)"
 msgstr "ISBN (Libro)"
 
@@ -2313,7 +2211,6 @@ msgstr "ISBN (Libro)"
 #. If it is rejected, the IQ tokens that you used to propose your edit will be locked up for a longer period of time, which is proportional to the difference between the total number of votes in the majority and the minority.
 #: public/messages/src/editor/plugins/merge/merge-modal.json
 #: public/messages/src/editor/plugins/save/save-modal.json
-
 msgid ""
 "If it is rejected, the IQ tokens that you used to propose your edit will be "
 "locked up for a longer period of time, which is proportional to the "
@@ -2328,13 +2225,12 @@ msgstr ""
 #. defaultMessage is:
 #. If your vote is in the majority, you will receive an IQ reward in proportion to the amount of IQ you voted.
 #: public/messages/src/app/components/SubmitVote/ConfirmationModal.json
-
 msgid ""
 "If your vote is in the majority, you will receive an IQ reward in proportion "
 "to the amount of IQ you voted."
 msgstr ""
-"Puedes votar con cualquier cantidad de IQ.  Si usted vota con la mayoría, "
-"recibirá una recompensa que es proporcional a la cantidad que usted vota!"
+"Si su voto es mayoritario, recibirá una recompensa de CI proporcional a la "
+"cantidad de CI que haya votado."
 
 #. [ImageUploader.ImageURL]
 #. defaultMessage is:
@@ -2358,7 +2254,6 @@ msgstr ""
 #. defaultMessage is:
 #. Increase your voting power by boosting!
 #: public/messages/src/app/components/Boost/SubmitBoostModal.json
-
 msgid "Increase your voting power by boosting!"
 msgstr "Aumente su poder de voto aumentando!"
 
@@ -2394,7 +2289,6 @@ msgstr "Información y herramientas de IQ"
 #. defaultMessage is:
 #. Insert Above
 #: public/messages/src/editor/plugins/table/table-button.json
-
 msgid "Insert Above"
 msgstr "Insertar arriba"
 
@@ -2402,7 +2296,6 @@ msgstr "Insertar arriba"
 #. defaultMessage is:
 #. Insert Below
 #: public/messages/src/editor/plugins/table/table-button.json
-
 msgid "Insert Below"
 msgstr "Insertar abajo"
 
@@ -2417,24 +2310,20 @@ msgstr "Insertar Existente"
 #. defaultMessage is:
 #. Insert From Media Gallery
 #: public/messages/src/editor/plugins/section-media-modal/section-media-modal.json
-
 msgid "Insert From Media Gallery"
-msgstr "Añadir imagen o vídeo a la galería multimedia"
+msgstr "Insertar desde la galería de medios"
 
 #. [TableMenu.InsertLeft]
 #. defaultMessage is:
 #. Insert Left
 #: public/messages/src/editor/plugins/table/table-button.json
-
-#| msgid "Insert Existing"
 msgid "Insert Left"
-msgstr "Insertar Existente"
+msgstr "Insertar a la izquierda"
 
 #. [TableMenu.InsertNew]
 #. defaultMessage is:
 #. Insert New
 #: public/messages/src/editor/plugins/table/table-button.json
-
 msgid "Insert New"
 msgstr "Insertar Nuevo"
 
@@ -2442,10 +2331,8 @@ msgstr "Insertar Nuevo"
 #. defaultMessage is:
 #. Insert Right
 #: public/messages/src/editor/plugins/table/table-button.json
-
-#| msgid "Insert Existing"
 msgid "Insert Right"
-msgstr "Insertar Existente"
+msgstr "Insertar a la derecha"
 
 #. [ContactUs.InvestmentInquiry]
 #. defaultMessage is:
@@ -2462,7 +2349,6 @@ msgstr "Consulta de inversión"
 #. It looks like you may have unsaved edits. Would you like to continue?
 #: public/messages/src/editor/components/continuation-guard/continuation-guard.component.json
 #: public/messages/src/editor/editor.container.json
-
 msgid "It looks like you may have unsaved edits. Would you like to continue?"
 msgstr ""
 "Parece que puedes tener ediciones no guardadas. ¿Te gustaría continuar?"
@@ -2485,7 +2371,6 @@ msgstr "¿Acaba de empezar?"
 #. defaultMessage is:
 #. Kedar Iyer is a software engineer from Santa Clara, California. He has written two books about blockchain technology, including a textbook for Solidity developers on how to build decentralized applications on Ethereum.
 #: public/messages/src/app/containers/about/third-block.json
-
 msgid ""
 "Kedar Iyer is a software engineer from Santa Clara, California. He has "
 "written two books about blockchain technology, including a textbook for "
@@ -2514,7 +2399,6 @@ msgstr "Idioma"
 #. defaultMessage is:
 #. Larry Sanger is a knowledge project developer; his claim to fame is that he is the co-founder of Wikipedia. He has a Ph.D. in Philosophy from Ohio State University. When he is not working on knowledge projects, he plays the Irish fiddle and homeschools his two boys.
 #: public/messages/src/app/containers/about/third-block.json
-
 msgid ""
 "Larry Sanger is a knowledge project developer; his claim to fame is that he "
 "is the co-founder of Wikipedia. He has a Ph.D. in Philosophy from Ohio State "
@@ -2547,11 +2431,11 @@ msgstr "Última(s) modificación(es)"
 msgid "Latest from our blog"
 msgstr "Lo último de nuestro blog"
 
-#. [Leaderboard.Leaderboard]
+#. [Leaderboard.LeaderboardOf]
 #. defaultMessage is:
-#. Leaderboard
+#. Leaderboard of
 #: public/messages/src/app/containers/homepageContainer/leaderboard.json
-msgid "Leaderboard"
+msgid "Leaderboard of"
 msgstr "Tabla de clasificación"
 
 #. [ChatList.LearnMore]
@@ -2623,7 +2507,6 @@ msgstr "Enlace"
 #. defaultMessage is:
 #. Link to another Everipedia Article
 #: public/messages/src/editor/plugins/ep-link-modal/ep-link-modal.json
-
 msgid "Link to another Everipedia Article"
 msgstr "Enlace a otro artículo de Everipedia"
 
@@ -2631,7 +2514,6 @@ msgstr "Enlace a otro artículo de Everipedia"
 #. defaultMessage is:
 #. Link to another existing Everipedia page
 #: public/messages/src/editor/plugins/ep-link-modal/ep-link-modal.json
-
 msgid "Link to another existing Everipedia page"
 msgstr "Enlace a otra página existente de Everipedia"
 
@@ -2639,7 +2521,6 @@ msgstr "Enlace a otra página existente de Everipedia"
 #. defaultMessage is:
 #. Link to credible sources to support your edits
 #: public/messages/src/editor/plugins/citation-modal/citation-modal.json
-
 msgid "Link to credible sources to support your edits"
 msgstr "Enlace a fuentes creíbles para apoyar sus ediciones"
 
@@ -2654,7 +2535,6 @@ msgstr "Lista"
 #. defaultMessage is:
 #. List / Ranking
 #: public/messages/src/editor/plugins/metadata/metadata-modal.json
-
 msgid "List / Ranking"
 msgstr "Lista/Ranking"
 
@@ -2689,7 +2569,6 @@ msgstr ""
 #: public/messages/src/app/containers/category-results/category-results.container.json
 #: public/messages/src/editor/plugins/main-photo/main-photo-modal.json
 #: public/messages/src/editor/plugins/media-gallery/media-gallery-modal.json
-
 msgid "Loading"
 msgstr "Cargando.."
 
@@ -2729,10 +2608,8 @@ msgstr "Log in para chatear"
 #. defaultMessage is:
 #. Log in with Email
 #: public/messages/src/app/components/Login/index.json
-
-#| msgid "Log in with Line"
 msgid "Log in with Email"
-msgstr "Iniciar sesión con Line"
+msgstr "Iniciar sesión con correo electrónico"
 
 #. [Login.LogInWithFacebook]
 #. defaultMessage is:
@@ -2801,7 +2678,6 @@ msgstr "Ingresar con Twitter"
 #. defaultMessage is:
 #. Log out
 #: public/messages/src/app/containers/dashboard/dashboard_component.json
-
 msgid "Log out"
 msgstr "Cerrar sesión"
 
@@ -2832,7 +2708,6 @@ msgstr "Iniciar sesión"
 #. defaultMessage is:
 #. Login / Create Account
 #: public/messages/src/app/utils/errors.json
-
 msgid "Login / Create Account"
 msgstr "Iniciar sesión / Crear una cuenta"
 
@@ -2851,7 +2726,6 @@ msgstr "Log in para chatear"
 #. defaultMessage is:
 #. Login to Everipedia
 #: public/messages/src/app/containers/wallet-login/wallet-login.container.json
-
 msgid "Login to Everipedia"
 msgstr "Iniciar sesión en Everipedia"
 
@@ -2859,16 +2733,13 @@ msgstr "Iniciar sesión en Everipedia"
 #. defaultMessage is:
 #. Login to Start Contributing
 #: public/messages/src/app/components/SubmitVote/index.json
-
-#| msgid "Start Contributing"
 msgid "Login to Start Contributing"
-msgstr "Comience a contribuir"
+msgstr "Inicie sesión para comenzar a contribuir"
 
 #. [Chat.LoginToParticipate]
 #. defaultMessage is:
 #. Login to participate in article chat
 #: public/messages/src/app/components/Chat/index.json
-
 msgid "Login to participate in article chat"
 msgstr "Iniciar sesión para participar en el chat del artículo"
 
@@ -2876,9 +2747,8 @@ msgstr "Iniciar sesión para participar en el chat del artículo"
 #. defaultMessage is:
 #. Login to participate in article chat.
 #: public/messages/src/app/components/Chat/ChatList.json
-
 msgid "Login to participate in article chat."
-msgstr "Iniciar sesión para participar en el chat del artículo"
+msgstr "Inicie sesión para participar en el chat del artículo."
 
 #. [LoginModal.LoginWithFacebook]
 #. defaultMessage is:
@@ -2912,10 +2782,8 @@ msgstr "Iniciar sesión con Line"
 #. defaultMessage is:
 #. Login with Phone
 #: public/messages/src/app/components/Login/index.json
-
-#| msgid "Login with Line"
 msgid "Login with Phone"
-msgstr "Iniciar sesión con Line"
+msgstr "Iniciar sesión con el teléfono"
 
 #. [LoginModal.LoginWithScatter]
 #. defaultMessage is:
@@ -2928,7 +2796,6 @@ msgstr "Iniciar sesión con Scatter"
 #. defaultMessage is:
 #. Login with Scatter to use your existing EOS blockchain account.
 #: public/messages/src/app/components/Login/index.json
-
 msgid "Login with Scatter to use your existing EOS blockchain account."
 msgstr "Ingresa con Scatter para usar tu cuenta de EOS blockchain existente."
 
@@ -2954,7 +2821,6 @@ msgstr "Media"
 #. defaultMessage is:
 #. MONTH
 #: public/messages/src/app/containers/homepageContainer/leaderboard.json
-
 msgid "MONTH"
 msgstr "Mes"
 
@@ -2969,7 +2835,6 @@ msgstr "MAS RECIENTES"
 #. defaultMessage is:
 #. MY ACTIVITY
 #: public/messages/src/app/components/ActivityCards/index.json
-
 msgid "MY ACTIVITY"
 msgstr "MI ACTIVIDAD"
 
@@ -2977,23 +2842,20 @@ msgstr "MI ACTIVIDAD"
 #. defaultMessage is:
 #. MY EDITS
 #: public/messages/src/app/components/ActivityCards/index.json
-
 msgid "MY EDITS"
-msgstr "Editores"
+msgstr "MIS EDITOS"
 
 #. [SubmitVote.MakeAnEdit]
 #. defaultMessage is:
 #. Make an Edit
 #: public/messages/src/app/components/SubmitVote/index.json
-
 msgid "Make an Edit"
-msgstr "Conviértase en editor"
+msgstr "Realizar una edición"
 
 #. [ThirdBlock.MarketCap]
 #. defaultMessage is:
 #. Marketcap.one
 #: public/messages/src/app/containers/about/third-block.json
-
 msgid "Marketcap.one"
 msgstr "Marketcap.one"
 
@@ -3030,7 +2892,6 @@ msgstr "Media"
 #. defaultMessage is:
 #. Medical / Biology
 #: public/messages/src/editor/plugins/metadata/metadata-modal.json
-
 msgid "Medical / Biology"
 msgstr "Médico/Biología"
 
@@ -3038,9 +2899,8 @@ msgstr "Médico/Biología"
 #. defaultMessage is:
 #. Medical Code
 #: public/messages/src/editor/utils/editing-utils/template-packs/medical-entity.json
-
 msgid "Medical Code"
-msgstr "Médico/Biología"
+msgstr "Código Médico"
 
 #. [ThirdBlock.MeetOurTeam]
 #. defaultMessage is:
@@ -3081,7 +2941,6 @@ msgstr "Combinado"
 #. defaultMessage is:
 #. Messages
 #: public/messages/src/app/components/Chat/messages.json
-
 msgid "Messages"
 msgstr "Mensajes"
 
@@ -3089,7 +2948,6 @@ msgstr "Mensajes"
 #. defaultMessage is:
 #. Mobile editing coming soon
 #: public/messages/src/app/components/error-modal/index.json
-
 msgid "Mobile editing coming soon"
 msgstr "Próximamente edición móvil"
 
@@ -3097,7 +2955,6 @@ msgstr "Próximamente edición móvil"
 #. defaultMessage is:
 #. Mobile view of Everipedia user profile
 #: public/messages/src/app/containers/about/about.container.json
-
 msgid "Mobile view of Everipedia user profile"
 msgstr "Vista móvil del perfil de usuario de Everipedia"
 
@@ -3105,7 +2962,6 @@ msgstr "Vista móvil del perfil de usuario de Everipedia"
 #. defaultMessage is:
 #. Modern Design and Features
 #: public/messages/src/app/containers/about/about.container.json
-
 msgid "Modern Design and Features"
 msgstr "Diseño moderno y características"
 
@@ -3113,7 +2969,6 @@ msgstr "Diseño moderno y características"
 #. defaultMessage is:
 #. More Articles and Content
 #: public/messages/src/app/containers/about/about.container.json
-
 msgid "More Articles and Content"
 msgstr "Más artículos y contenido"
 
@@ -3128,7 +2983,6 @@ msgstr "Más resultados"
 #. defaultMessage is:
 #. Must change something to submit your profile to the blockchain
 #: public/messages/src/app/components/edit-profile/index.json
-
 msgid "Must change something to submit your profile to the blockchain"
 msgstr "Debe cambiar algo para enviar su perfil a la cadena de bloqueo"
 
@@ -3143,7 +2997,6 @@ msgstr "Debe iniciar sesión para chatear"
 #. defaultMessage is:
 #. NEW BOOST
 #: public/messages/src/app/components/Boost/SubmitBoostModal.json
-
 msgid "NEW BOOST"
 msgstr "NUEVO IMPULSO"
 
@@ -3162,8 +3015,6 @@ msgstr "Nacionalidad"
 #. New Article
 #: public/messages/src/app/containers/article/article.container.json
 #: public/messages/src/app/utils/comment-utils.json
-
-#| msgid "Create New Article"
 msgid "New Article"
 msgstr "Crear artículo nuevo"
 
@@ -3178,9 +3029,8 @@ msgstr "No"
 #. defaultMessage is:
 #. No Changes
 #: public/messages/src/app/components/SubmitVote/EditOverview.json
-
 msgid "No Changes"
-msgstr "Guardar cambios"
+msgstr "Anular Cambios"
 
 #. [Directory.NoChatsInDirectory]
 #. defaultMessage is:
@@ -3204,8 +3054,6 @@ msgstr "Últimas ediciones"
 #. defaultMessage is:
 #. No Preview Available
 #: public/messages/src/app/components/link-renderer/index.json
-
-#| msgid "Preview Not Available"
 msgid "No Preview Available"
 msgstr "Vista previa no disponible"
 
@@ -3220,8 +3068,6 @@ msgstr "No hay resultados"
 #. defaultMessage is:
 #. No Votes
 #: public/messages/src/app/containers/homepageContainer/leaderboard.json
-
-#| msgid "No votes"
 msgid "No Votes"
 msgstr "Poner Votos"
 
@@ -3229,7 +3075,6 @@ msgstr "Poner Votos"
 #. defaultMessage is:
 #. No profile information available
 #: public/messages/src/app/containers/dashboard/dashboard_component.json
-
 msgid "No profile information available"
 msgstr "No hay información de perfil disponible"
 
@@ -3237,7 +3082,6 @@ msgstr "No hay información de perfil disponible"
 #. defaultMessage is:
 #. No public profile information available
 #: public/messages/src/app/containers/dashboard/dashboard_component.json
-
 msgid "No public profile information available"
 msgstr "No hay información de perfil público disponible"
 
@@ -3245,7 +3089,6 @@ msgstr "No hay información de perfil público disponible"
 #. defaultMessage is:
 #. No result returned
 #: public/messages/src/app/components/SubmitVote/index.json
-
 msgid "No result returned"
 msgstr "No se ha devuelto ningún resultado"
 
@@ -3274,7 +3117,6 @@ msgstr "Cambiado"
 #. defaultMessage is:
 #. Notable People
 #: public/messages/src/editor/utils/editing-utils/template-packs/organization.json
-
 msgid "Notable People"
 msgstr "Personas notables"
 
@@ -3293,7 +3135,6 @@ msgstr "Notificaciones"
 #. defaultMessage is:
 #. Number of Employees
 #: public/messages/src/editor/utils/editing-utils/template-packs/organization.json
-
 msgid "Number of Employees"
 msgstr "Número de empleados"
 
@@ -3316,7 +3157,6 @@ msgstr "OK"
 #. ORIGINAL PAGES
 #: public/messages/src/app/containers/admin/admin.container.json
 #: public/messages/src/app/containers/homepageContainer/stats.json
-
 msgid "ORIGINAL PAGES"
 msgstr "PÁGINAS ORIGINALES"
 
@@ -3331,7 +3171,6 @@ msgstr "Profesión"
 #. defaultMessage is:
 #. Once you submit edits, they will be displayed immediately in the article and be open for voting. If approved by the community, your edits will be accepted into the article.
 #: public/messages/src/editor/plugins/save/save-modal.json
-
 msgid ""
 "Once you submit edits, they will be displayed immediately in the article and "
 "be open for voting. If approved by the community, your edits will be "
@@ -3345,7 +3184,6 @@ msgstr ""
 #. defaultMessage is:
 #. Once you submit your edits, they will be displayed immediately in the article and be open for voting. If approved by the community, your edits will be accepted into the article.
 #: public/messages/src/editor/plugins/save/save-modal.json
-
 msgid ""
 "Once you submit your edits, they will be displayed immediately in the "
 "article and be open for voting. If approved by the community, your edits "
@@ -3359,7 +3197,6 @@ msgstr ""
 #. defaultMessage is:
 #. Operating Area
 #: public/messages/src/editor/utils/editing-utils/template-packs/organization.json
-
 msgid "Operating Area"
 msgstr "Área Operativa"
 
@@ -3374,7 +3211,6 @@ msgstr "Organización"
 #. defaultMessage is:
 #. Organization / Company / Institution
 #: public/messages/src/editor/plugins/metadata/metadata-modal.json
-
 msgid "Organization / Company / Institution"
 msgstr "Organización/Empresa/Institución"
 
@@ -3382,7 +3218,6 @@ msgstr "Organización/Empresa/Institución"
 #. defaultMessage is:
 #. Organizer(s)
 #: public/messages/src/editor/utils/editing-utils/template-packs/event.json
-
 msgid "Organizer(s)"
 msgstr "Organizador(es)"
 
@@ -3421,7 +3256,6 @@ msgstr "Nuestras oficinas globales"
 #. embraces grand challenges. At Everipedia, we are fortunate to have people with deep experience
 #. and knowledge in both the education and blockchain industry.
 #: public/messages/src/app/containers/about/third-block.json
-
 msgid ""
 "Our mission to build the world’s greatest encyclopedia requires a skilled "
 "executive team that\n"
@@ -3443,7 +3277,6 @@ msgstr ""
 #. defaultMessage is:
 #. Out of IQ
 #: public/messages/src/app/components/error-modal/index.json
-
 msgid "Out of IQ"
 msgstr "Fuera de IQ"
 
@@ -3451,7 +3284,6 @@ msgstr "Fuera de IQ"
 #. defaultMessage is:
 #. Override text?
 #: public/messages/src/editor/components/mentions/suggestions.json
-
 msgid "Override text?"
 msgstr "¿Sustituir texto?"
 
@@ -3466,16 +3298,13 @@ msgstr "POPULAR"
 #. defaultMessage is:
 #. Page Note
 #: public/messages/src/editor/plugins/metadata/metadata-modal.json
-
-#| msgid "Page Type"
 msgid "Page Note"
-msgstr "Tipo de Página"
+msgstr "Página Nota"
 
 #. [CommentUtils.PageRemoval]
 #. defaultMessage is:
 #. Page Removal
 #: public/messages/src/app/utils/comment-utils.json
-
 msgid "Page Removal"
 msgstr "Eliminación de páginas"
 
@@ -3483,7 +3312,6 @@ msgstr "Eliminación de páginas"
 #. defaultMessage is:
 #. Page Removed
 #: public/messages/src/editor/plugins/save/save-modal.json
-
 msgid "Page Removed"
 msgstr "Página eliminada"
 
@@ -3498,7 +3326,6 @@ msgstr "Tipo de Página"
 #. defaultMessage is:
 #. Page removed.
 #: public/messages/src/app/components/SubmitVote/EditOverview.json
-
 msgid "Page removed."
 msgstr "Página eliminada."
 
@@ -3506,8 +3333,6 @@ msgstr "Página eliminada."
 #. defaultMessage is:
 #. Page type
 #: public/messages/src/app/components/create-new-page/index.json
-
-#| msgid "Page Type"
 msgid "Page type"
 msgstr "Tipo de Página"
 
@@ -3522,7 +3347,6 @@ msgstr "Participantes"
 #. defaultMessage is:
 #. Performer(s)
 #: public/messages/src/editor/utils/editing-utils/template-packs/event.json
-
 msgid "Performer(s)"
 msgstr "Intérprete(s)"
 
@@ -3537,7 +3361,6 @@ msgstr "Enlace permanente"
 #. defaultMessage is:
 #. Permanently increase your voting power for this article by burning IQ.
 #: public/messages/src/app/components/Boost/index.json
-
 msgid "Permanently increase your voting power for this article by burning IQ."
 msgstr ""
 "Aumente permanentemente su poder de voto para este artículo mediante la "
@@ -3578,7 +3401,6 @@ msgstr "Teléfono"
 #. defaultMessage is:
 #. Place / Location
 #: public/messages/src/editor/plugins/metadata/metadata-modal.json
-
 msgid "Place / Location"
 msgstr "Lugar/Ubicación"
 
@@ -3593,10 +3415,8 @@ msgstr "Lugar de nacimiento"
 #. defaultMessage is:
 #. Please add at least one citation
 #: public/messages/src/editor/plugins/save/save-modal.json
-
-#| msgid "Please enter a caption"
 msgid "Please add at least one citation"
-msgstr "Por favor, Introduzca un asunto"
+msgstr "Por favor, añada al menos una cita"
 
 #. [LinkableInputSlate.PleaseBeginTyping]
 #. defaultMessage is:
@@ -3624,7 +3444,6 @@ msgstr "Por favor escribe tu mensaje"
 #. defaultMessage is:
 #. Please enter a URL.
 #: public/messages/src/shared/inputs/image-uploader/image-uploader.component.json
-
 msgid "Please enter a URL."
 msgstr "Por favor escribe tu mensaje"
 
@@ -3675,10 +3494,8 @@ msgstr "Por favor introduce una dirección de correo electrónico válida"
 #. defaultMessage is:
 #. Please enter the ISBN for the book
 #: public/messages/src/editor/plugins/citation-modal/panes/add-edit-isbn.json
-
-#| msgid "Please enter a description for the article"
 msgid "Please enter the ISBN for the book"
-msgstr "Por favor escribe tu mensaje"
+msgstr "Por favor, introduzca el ISBN para el libro"
 
 #. [ContactUs.PleaseEnterYourEmailAddress]
 #. defaultMessage is:
@@ -3702,7 +3519,6 @@ msgstr "Introduzca su nombre completo"
 #. defaultMessage is:
 #. Please make sure you are inserting in a valid location!
 #: public/messages/src/editor/plugins/ep-link-modal/ep-link-modal.json
-
 msgid "Please make sure you are inserting in a valid location!"
 msgstr "Por favor, asegúrese de que está insertando en una ubicación válida!"
 
@@ -3717,7 +3533,6 @@ msgstr "Por favor, seleccione una categoría de comentarios"
 #. defaultMessage is:
 #. Please select the page you want to merge into
 #: public/messages/src/editor/plugins/merge/merge-modal.json
-
 msgid "Please select the page you want to merge into"
 msgstr "Por favor, seleccione la página en la que desea fusionarse"
 
@@ -3736,7 +3551,6 @@ msgstr "Hubo un error guardando, por favor inténtelo de nuevo"
 #. defaultMessage is:
 #. Popular Chats
 #: public/messages/src/app/components/Chat/Directory.json
-
 msgid "Popular Chats"
 msgstr "Charlas populares"
 
@@ -3794,7 +3608,6 @@ msgstr "Producto"
 #. defaultMessage is:
 #. Product / Merchandise
 #: public/messages/src/editor/plugins/metadata/metadata-modal.json
-
 msgid "Product / Merchandise"
 msgstr "Producto/Mercancía"
 
@@ -3802,7 +3615,6 @@ msgstr "Producto/Mercancía"
 #. defaultMessage is:
 #. Production Date(s)
 #: public/messages/src/editor/utils/editing-utils/template-packs/product.json
-
 msgid "Production Date(s)"
 msgstr "Fecha(s) de producción"
 
@@ -3837,15 +3649,13 @@ msgstr "Propuestas"
 #. defaultMessage is:
 #. Provide a description of your edit (optional)
 #: public/messages/src/editor/plugins/save/save-modal-parts/comment-and-category.json
-
 msgid "Provide a description of your edit (optional)"
-msgstr "Indique el motivo de su voto (opcional)"
+msgstr "Proporcione una descripción de su edición (opcional)"
 
 #. [SubmitVoteConfirmation.ProvideReason]
 #. defaultMessage is:
 #. Provide the reason for your vote (optional)
 #: public/messages/src/app/components/SubmitVote/ConfirmationModal.json
-
 msgid "Provide the reason for your vote (optional)"
 msgstr "Indique el motivo de su voto (opcional)"
 
@@ -3853,15 +3663,13 @@ msgstr "Indique el motivo de su voto (opcional)"
 #. defaultMessage is:
 #. Questions?
 #: public/messages/src/app/containers/contact-us/contact-form.json
-
 msgid "Questions?"
-msgstr "Preguntas frecuentes - Everipedia, la enciclopedia de todos"
+msgstr "Preguntas frecuentes"
 
 #. [Login.QuicklyLoginSocialAccount]
 #. defaultMessage is:
 #. Quickly login or create a new account to make edits, create articles, vote, and more!
 #: public/messages/src/app/components/Login/index.json
-
 msgid ""
 "Quickly login or create a new account to make edits, create articles, vote, "
 "and more!"
@@ -3874,7 +3682,7 @@ msgstr ""
 #. RECENT
 #: public/messages/src/app/containers/homepageContainer/recentPopularContent.json
 msgid "RECENT"
-msgstr "Haz clic aquí para volver a la actividad reciente"
+msgstr "RECIENTE"
 
 #. [TweetBox.recentTweets]
 #. defaultMessage is:
@@ -3882,6 +3690,13 @@ msgstr "Haz clic aquí para volver a la actividad reciente"
 #: public/messages/src/app/components/ArticleComponent/TweetBox.json
 msgid "RECENT TWEETS"
 msgstr "DOS PUNTOS RECIENTES"
+
+#. [RecentPopularContent.RECENTLYUPDATED]
+#. defaultMessage is:
+#. RECENTLY UPDATED
+#: public/messages/src/app/containers/homepageContainer/recentPopularContent.json
+msgid "RECENTLY UPDATED"
+msgstr "RECIENTEMENTE ACTUALIZADO"
 
 #. [TopNav.Read]
 #. defaultMessage is:
@@ -3927,7 +3742,6 @@ msgstr "Redireccionamiento a la página de autenticación de ORE ID"
 #. defaultMessage is:
 #. Redirecting to ORE ID authentication page.
 #: public/messages/src/app/components/Login/oreid.json
-
 msgid "Redirecting to ORE ID authentication page."
 msgstr "Redireccionamiento a la página de autenticación de ORE ID"
 
@@ -3992,7 +3806,6 @@ msgstr "Tiempo restante"
 #. defaultMessage is:
 #. Remote URL
 #: public/messages/src/shared/inputs/image-uploader/image-uploader.component.json
-
 msgid "Remote URL"
 msgstr "URL remoto"
 
@@ -4007,7 +3820,6 @@ msgstr "Eliminar"
 #. defaultMessage is:
 #. Remove Page
 #: public/messages/src/editor/plugins/metadata/metadata-modal.json
-
 msgid "Remove Page"
 msgstr "Eliminar página"
 
@@ -4079,7 +3891,6 @@ msgstr "Fila"
 #. defaultMessage is:
 #. Sam Kazemian is an Iranian-American Internet entrepreneur and programmer. His journey in crypto started after he put together a homemade CPU+GPU mining rig in his UCLA dorm room. His passion for the industry led him to integrate blockchain technology to an online knowledge base for the first time in history.
 #: public/messages/src/app/containers/about/third-block.json
-
 msgid ""
 "Sam Kazemian is an Iranian-American Internet entrepreneur and programmer. "
 "His journey in crypto started after he put together a homemade CPU+GPU "
@@ -4104,7 +3915,6 @@ msgstr "Guardar"
 #. defaultMessage is:
 #. Science / Academia / Humanities
 #: public/messages/src/editor/plugins/metadata/metadata-modal.json
-
 msgid "Science / Academia / Humanities"
 msgstr "Ciencias/Academia/Humanidades"
 
@@ -4112,7 +3922,6 @@ msgstr "Ciencias/Academia/Humanidades"
 #. defaultMessage is:
 #. Search Everipedia...
 #: public/messages/src/app/components/Search/index.json
-
 msgid "Search Everipedia..."
 msgstr "Buscar Everipedia"
 
@@ -4120,15 +3929,13 @@ msgstr "Buscar Everipedia"
 #. defaultMessage is:
 #. Search to find out if the topic already exists
 #: public/messages/src/app/components/Search/index.json
-
 msgid "Search to find out if the topic already exists"
-msgstr "Buscar para averiguar si el tema ya tiene un artículo"
+msgstr "Buscar para averiguar si el tema ya existe"
 
 #. [Search.CreateNewSearch]
 #. defaultMessage is:
 #. Search to find out if the topic already has an article
 #: public/messages/src/app/components/Search/index.json
-
 msgid "Search to find out if the topic already has an article"
 msgstr "Buscar para averiguar si el tema ya tiene un artículo"
 
@@ -4140,7 +3947,6 @@ msgstr "Buscar para averiguar si el tema ya tiene un artículo"
 #. See Activity
 #: public/messages/src/app/components/learn-more/index.json
 #: public/messages/src/app/containers/about/last-block.json
-
 msgid "See Activity"
 msgstr "Ver Actividad"
 
@@ -4155,7 +3961,6 @@ msgstr "Ver más artículos en el blog"
 #. defaultMessage is:
 #. See something missing?
 #: public/messages/src/app/components/ArticleComponent/index.json
-
 msgid "See something missing?"
 msgstr "¿Ves que falta algo?"
 
@@ -4167,7 +3972,6 @@ msgstr "¿Ves que falta algo?"
 #. See your edit on a block explorer
 #: public/messages/src/editor/plugins/merge/merge-modal.json
 #: public/messages/src/editor/plugins/save/save-modal.json
-
 msgid "See your edit on a block explorer"
 msgstr "Ver tu edición en un explorador de bloques"
 
@@ -4175,9 +3979,8 @@ msgstr "Ver tu edición en un explorador de bloques"
 #. defaultMessage is:
 #. Select
 #: public/messages/src/app/components/edit-profile/index.json
-
 msgid "Select"
-msgstr "Seleccione un motivo diferente"
+msgstr "Por favor, seleccione una categoría de comentarios"
 
 #. [CategoriesModal.SelectCategories]
 #. defaultMessage is:
@@ -4190,7 +3993,6 @@ msgstr "Seleccionar Categorías"
 #. defaultMessage is:
 #. Select Other Social Login Option
 #: public/messages/src/app/components/Login/index.json
-
 msgid "Select Other Social Login Option"
 msgstr "Seleccione otra opción de inicio de sesión social"
 
@@ -4198,10 +4000,8 @@ msgstr "Seleccione otra opción de inicio de sesión social"
 #. defaultMessage is:
 #. Select Platform
 #: public/messages/src/app/components/edit-profile/index.json
-
-#| msgid "Select a reason"
 msgid "Select Platform"
-msgstr "Seleccione una razón"
+msgstr "Seleccione Plataforma"
 
 #. [ContactUs.selectAReason]
 #. defaultMessage is:
@@ -4238,7 +4038,6 @@ msgstr "Agregar otro"
 #. defaultMessage is:
 #. Send a message to other editors
 #: public/messages/src/app/components/Chat/messages.json
-
 msgid "Send a message to other editors"
 msgstr "Enviar un mensaje a otros editores"
 
@@ -4274,7 +4073,6 @@ msgstr "Compartir en:"
 #. defaultMessage is:
 #. Show All Citations
 #: public/messages/src/app/components/ArticleComponent/References.json
-
 msgid "Show All Citations"
 msgstr "Mostrar todas las citas"
 
@@ -4301,7 +4099,6 @@ msgstr "Registrarse"
 #. Sign with Wallet
 #: public/messages/src/app/components/Boost/SubmitBoostModal.json
 #: public/messages/src/app/components/SubmitVote/ConfirmationModal.json
-
 msgid "Sign with Wallet"
 msgstr "Cartel con billetera"
 
@@ -4316,7 +4113,6 @@ msgstr "Redes Sociales"
 #. defaultMessage is:
 #. Social Platforms
 #: public/messages/src/app/components/edit-profile/index.json
-
 msgid "Social Platforms"
 msgstr "Plataformas Sociales"
 
@@ -4338,7 +4134,6 @@ msgstr "Comience a contribuir"
 #. defaultMessage is:
 #. Start Contributing on Everipedia
 #: public/messages/src/app/components/error-modal/index.json
-
 msgid "Start Contributing on Everipedia"
 msgstr "Empieza a contribuir en Everipedia"
 
@@ -4360,7 +4155,6 @@ msgstr "Comienza a explorar"
 #. defaultMessage is:
 #. Start creating content for this article here...
 #: public/messages/src/editor/editor.container.json
-
 msgid "Start creating content for this article here..."
 msgstr "Empieza a crear contenido para este artículo aquí...."
 
@@ -4416,7 +4210,6 @@ msgstr "Enviar"
 #. defaultMessage is:
 #. Submit Article Edits
 #: public/messages/src/editor/plugins/save/save-modal.json
-
 msgid "Submit Article Edits"
 msgstr "Enviar ediciones de artículos"
 
@@ -4424,7 +4217,6 @@ msgstr "Enviar ediciones de artículos"
 #. defaultMessage is:
 #. Submitting Your Article Edit
 #: public/messages/src/editor/plugins/save/save-modal.json
-
 msgid "Submitting Your Article Edit"
 msgstr "Envío de su artículo Editar"
 
@@ -4436,7 +4228,6 @@ msgstr "Envío de su artículo Editar"
 #. Successfully Voted!
 #: public/messages/src/app/components/Boost/SubmitBoostModal.json
 #: public/messages/src/app/components/SubmitVote/ConfirmationModal.json
-
 msgid "Successfully Voted!"
 msgstr "Votado con éxito!"
 
@@ -4444,9 +4235,8 @@ msgstr "Votado con éxito!"
 #. defaultMessage is:
 #. Successfully placed
 #: public/messages/src/app/components/SubmitVote/index.json
-
 msgid "Successfully placed"
-msgstr "Votado con éxito!"
+msgstr "Colocado con éxito"
 
 #. [ContactUs.successfullySentMessage]
 #. defaultMessage is:
@@ -4459,7 +4249,6 @@ msgstr "Mensaje enviado con éxito"
 #. defaultMessage is:
 #. Suchet Dhindsa is a Norwegian economist, entrepreneur, and investor. Suchet has 10 years of experience in global expansion strategy, venture capital and emerging technologies.
 #: public/messages/src/app/containers/about/third-block.json
-
 msgid ""
 "Suchet Dhindsa is a Norwegian economist, entrepreneur, and investor. Suchet "
 "has 10 years of experience in global expansion strategy, venture capital and "
@@ -4487,7 +4276,6 @@ msgstr "Billeteras soportadas"
 #. defaultMessage is:
 #. TOTAL EDITS
 #: public/messages/src/app/containers/admin/admin.container.json
-
 msgid "TOTAL EDITS"
 msgstr "TOTAL EDICIONES"
 
@@ -4502,7 +4290,6 @@ msgstr "TRANSACCIÓN FALLIDA!"
 #. defaultMessage is:
 #. TRANSACTION SUCCESSFUL!
 #: public/messages/src/editor/plugins/save/save-modal.json
-
 msgid "TRANSACTION SUCCESSFUL!"
 msgstr "La transacción se ha realizado con éxito"
 
@@ -4517,7 +4304,6 @@ msgstr "POPULARES"
 #. defaultMessage is:
 #. Table
 #: public/messages/src/editor/plugins/table/table-button.json
-
 msgid "Table"
 msgstr "Tabla de contenidos y hechos para este wiki"
 
@@ -4525,7 +4311,6 @@ msgstr "Tabla de contenidos y hechos para este wiki"
 #. defaultMessage is:
 #. Taking the Online Encyclopedia into the Modern Age
 #: public/messages/src/app/containers/about/about.container.json
-
 msgid "Taking the Online Encyclopedia into the Modern Age"
 msgstr "Llevando la Enciclopedia Online a la Edad Moderna"
 
@@ -4549,7 +4334,6 @@ msgstr "Términos"
 #. trial IQ Tokens. You can unlock the full potential of Everipedia and get more tokens with a
 #. Scatter login.
 #: public/messages/src/app/utils/errors.json
-
 msgid ""
 "Thanks for trialing Everipedia. Looks like you’ve been making edits and have "
 "run out of the\n"
@@ -4568,7 +4352,6 @@ msgstr ""
 #. Thanks for using Everipedia. Looks like you have run out of IQ Tokens. You can get more tokens
 #. at one of
 #: public/messages/src/app/utils/errors.json
-
 msgid ""
 "Thanks for using Everipedia. Looks like you have run out of IQ Tokens. You "
 "can get more tokens\n"
@@ -4582,7 +4365,6 @@ msgstr ""
 #. defaultMessage is:
 #. Thanks to new technology, it is now possible for Everipedia to move beyond Wikipedia just like how we moved beyond Britannica almost two decades ago.
 #: public/messages/src/app/containers/about/third-block.json
-
 msgid ""
 "Thanks to new technology, it is now possible for Everipedia to move beyond "
 "Wikipedia just like how we moved beyond Britannica almost two decades ago."
@@ -4598,7 +4380,6 @@ msgstr ""
 #. The Encyclopedia of Everything.
 #: public/messages/src/app/containers/about/about.container.json
 #: public/messages/src/app/containers/contact-us/contact-us.container.json
-
 msgid "The Encyclopedia of Everything."
 msgstr "Everipedia, la enciclopedia de todo"
 
@@ -4633,7 +4414,6 @@ msgstr ""
 #. defaultMessage is:
 #. The Wiki Encyclopedia for Everything, Everyone, Everywhere.
 #: public/messages/src/app/containers/homepageContainer/homepage.container.json
-
 msgid "The Wiki Encyclopedia for Everything, Everyone, Everywhere."
 msgstr "La Enciclopedia Wiki para Todo, Todos, En Todas Partes."
 
@@ -4641,7 +4421,6 @@ msgstr "La Enciclopedia Wiki para Todo, Todos, En Todas Partes."
 #. defaultMessage is:
 #. The infobox is designed for concise, easy-to-access information.
 #: public/messages/src/editor/plugins/infobox/infobox-modal.json
-
 msgid "The infobox is designed for concise, easy-to-access information."
 msgstr ""
 "El cuadro de información está diseñado para que la información sea concisa y "
@@ -4651,7 +4430,6 @@ msgstr ""
 #. defaultMessage is:
 #. Theodor Forselius  is a Swedish Internet entrepreneur and programmer. He co-founded Everipedia at the age of 20, gaining experience in digital advertising, web development, and online gaming industries in the process.
 #: public/messages/src/app/containers/about/third-block.json
-
 msgid ""
 "Theodor Forselius  is a Swedish Internet entrepreneur and programmer. He co-"
 "founded Everipedia at the age of 20, gaining experience in digital "
@@ -4666,7 +4444,6 @@ msgstr ""
 #. defaultMessage is:
 #. There are currently no boosts for this page
 #: public/messages/src/app/components/Boost/index.json
-
 msgid "There are currently no boosts for this page"
 msgstr "Actualmente no hay impulsos para esta página"
 
@@ -4674,7 +4451,6 @@ msgstr "Actualmente no hay impulsos para esta página"
 #. defaultMessage is:
 #. There have been no recent edits to this article. Be the first person to update it.
 #: public/messages/src/app/components/SubmitVote/index.json
-
 msgid ""
 "There have been no recent edits to this article. Be the first person to "
 "update it."
@@ -4686,7 +4462,6 @@ msgstr ""
 #. defaultMessage is:
 #. There is no activity on this article.
 #: public/messages/src/app/components/Chat/ChatList.json
-
 msgid "There is no activity on this article."
 msgstr "No hay actividad en este artículo."
 
@@ -4694,7 +4469,6 @@ msgstr "No hay actividad en este artículo."
 #. defaultMessage is:
 #. There was an issue recording your edit.
 #: public/messages/src/editor/plugins/save/save-modal.json
-
 msgid "There was an issue recording your edit."
 msgstr "Hubo un problema al grabar tu edición."
 
@@ -4702,7 +4476,6 @@ msgstr "Hubo un problema al grabar tu edición."
 #. defaultMessage is:
 #. These exchanges do not require signup, only Scatter
 #: public/messages/src/app/containers/iq-info/iq-info.container.json
-
 msgid "These exchanges do not require signup, only Scatter"
 msgstr "Estos intercambios no requieren registro, sólo Scatter"
 
@@ -4710,7 +4483,6 @@ msgstr "Estos intercambios no requieren registro, sólo Scatter"
 #. defaultMessage is:
 #. These exchanges require personal information for signup, but may have additional features and fiat currency deposits / withdrawals
 #: public/messages/src/app/containers/iq-info/iq-info.container.json
-
 msgid ""
 "These exchanges require personal information for signup, but may have "
 "additional features and fiat currency deposits / withdrawals"
@@ -4730,7 +4502,6 @@ msgstr "Cosa"
 #. defaultMessage is:
 #. This is not the most recent version of this article. See the latest version here:
 #: public/messages/src/app/components/SubmitVote/index.json
-
 msgid ""
 "This is not the most recent version of this article. See the latest version "
 "here:"
@@ -4764,7 +4535,6 @@ msgstr "Título No Disponible"
 #. defaultMessage is:
 #. To edit this article right now, use the desktop version of the site.
 #: public/messages/src/app/utils/errors.json
-
 msgid "To edit this article right now, use the desktop version of the site."
 msgstr ""
 "Para editar este artículo ahora mismo, utilice la versión de escritorio del "
@@ -4776,7 +4546,6 @@ msgstr ""
 #. trial account using a social account or use Scatter to unlock Everipedia’s full features,
 #. including voting on article edits and earning IQ rewards.
 #: public/messages/src/app/utils/errors.json
-
 msgid ""
 "To make an edit or create an article, you need an Everipedia account. You "
 "can sign up for a\n"
@@ -4809,7 +4578,6 @@ msgstr "Recompensas totales"
 #. defaultMessage is:
 #. Transaction failed!
 #: public/messages/src/app/utils/wal-eos.json
-
 msgid "Transaction failed!"
 msgstr "TRANSACCIÓN FALLIDA!"
 
@@ -4817,7 +4585,6 @@ msgstr "TRANSACCIÓN FALLIDA!"
 #. defaultMessage is:
 #. Transaction successful!
 #: public/messages/src/app/utils/wal-eos.json
-
 msgid "Transaction successful!"
 msgstr "La transacción se ha realizado con éxito"
 
@@ -4825,7 +4592,6 @@ msgstr "La transacción se ha realizado con éxito"
 #. defaultMessage is:
 #. Travis Moore is an Italian-American computer programmer, angel investor and entrepreneur from Thousand Oaks, a suburb of Los Angeles. He co-founded Everipedia after graduating from UCLA with degrees in Molecular Biology, Biochemistry, and Neuroscience in 2011.
 #: public/messages/src/app/containers/about/third-block.json
-
 msgid ""
 "Travis Moore is an Italian-American computer programmer, angel investor and "
 "entrepreneur from Thousand Oaks, a suburb of Los Angeles. He co-founded "
@@ -4947,7 +4713,6 @@ msgstr "Subir"
 #. defaultMessage is:
 #. Upload from computer
 #: public/messages/src/editor/plugins/media-gallery/media-gallery-modal.json
-
 msgid "Upload from computer"
 msgstr "Subir desde el ordenador"
 
@@ -4962,7 +4727,6 @@ msgstr "Subiendo..."
 #. defaultMessage is:
 #. Uploading....
 #: public/messages/src/shared/inputs/image-uploader/file-uploader.component.json
-
 msgid "Uploading...."
 msgstr "Subiendo..."
 
@@ -4985,7 +4749,6 @@ msgstr "Vistas"
 #. defaultMessage is:
 #. VOTES
 #: public/messages/src/app/components/ActivityCards/index.json
-
 msgid "VOTES"
 msgstr "votos"
 
@@ -5029,7 +4792,6 @@ msgstr "Vistas"
 #. View Edit
 #: public/messages/src/editor/plugins/merge/merge-modal.json
 #: public/messages/src/editor/plugins/save/save-modal.json
-
 msgid "View Edit"
 msgstr "Ver Editar"
 
@@ -5055,7 +4817,6 @@ msgstr "Ver Transacción"
 #. defaultMessage is:
 #. View blockchain transaction
 #: public/messages/src/editor/plugins/save/save-modal.json
-
 msgid "View blockchain transaction"
 msgstr "Ver transacción de cadena de bloques"
 
@@ -5063,9 +4824,8 @@ msgstr "Ver transacción de cadena de bloques"
 #. defaultMessage is:
 #. View edit
 #: public/messages/src/app/components/Chat/ChatItem.json
-
 msgid "View edit"
-msgstr "Ver Editar"
+msgstr "Ver edición"
 
 #. [SearchResults.Views]
 #. defaultMessage is:
@@ -5078,7 +4838,6 @@ msgstr "Vistas"
 #. defaultMessage is:
 #. VotUsernameed
 #: public/messages/src/app/components/edit-profile/index.json
-
 msgid "VotUsernameed"
 msgstr "VotUsernameed"
 
@@ -5107,7 +4866,6 @@ msgstr "Votar"
 #. defaultMessage is:
 #. Vote accepted
 #: public/messages/src/app/components/Chat/ChatItem.json
-
 msgid "Vote accepted"
 msgstr "Voto aceptado"
 
@@ -5115,7 +4873,6 @@ msgstr "Voto aceptado"
 #. defaultMessage is:
 #. Vote amount
 #: public/messages/src/app/components/SubmitVote/ConfirmationModal.json
-
 msgid "Vote amount"
 msgstr "Cantidad de votos"
 
@@ -5123,7 +4880,6 @@ msgstr "Cantidad de votos"
 #. defaultMessage is:
 #. Vote now
 #: public/messages/src/app/components/Chat/ChatItem.json
-
 msgid "Vote now"
 msgstr "VOTA AHORA"
 
@@ -5131,7 +4887,6 @@ msgstr "VOTA AHORA"
 #. defaultMessage is:
 #. Vote on these article changes
 #: public/messages/src/app/components/SubmitVote/ConfirmationModal.json
-
 msgid "Vote on these article changes"
 msgstr "Votar sobre estos cambios en el artículo"
 
@@ -5139,7 +4894,6 @@ msgstr "Votar sobre estos cambios en el artículo"
 #. defaultMessage is:
 #. Vote rejected
 #: public/messages/src/app/components/Chat/ChatItem.json
-
 msgid "Vote rejected"
 msgstr "Voto rechazado"
 
@@ -5180,16 +4934,13 @@ msgstr "Cierre de votaciones"
 #. defaultMessage is:
 #. Voting Failed
 #: public/messages/src/app/components/SubmitVote/ConfirmationModal.json
-
-#| msgid "Voting Closes"
 msgid "Voting Failed"
-msgstr "Cierre de votaciones"
+msgstr "Votación fallida"
 
 #. [Leaderboard.WeekCap]
 #. defaultMessage is:
 #. WEEK
 #: public/messages/src/app/containers/homepageContainer/leaderboard.json
-
 msgid "WEEK"
 msgstr "Semana"
 
@@ -5197,7 +4948,6 @@ msgstr "Semana"
 #. defaultMessage is:
 #. WIKIS
 #: public/messages/src/app/containers/homepageContainer/stats.json
-
 msgid "WIKIS"
 msgstr "WIKIS"
 
@@ -5205,7 +4955,6 @@ msgstr "WIKIS"
 #. defaultMessage is:
 #. Wait a moment while we load Lynx.
 #: public/messages/src/editor/plugins/save/save-modal.json
-
 msgid "Wait a moment while we load Lynx."
 msgstr "Espera un momento mientras cargamos a Lynx."
 
@@ -5213,7 +4962,6 @@ msgstr "Espera un momento mientras cargamos a Lynx."
 #. defaultMessage is:
 #. Wait a moment while we load Scatter – If you don’t see the Scatter window, check if it has loaded behind your current window.
 #: public/messages/src/app/components/Login/index.json
-
 msgid ""
 "Wait a moment while we load Scatter – If you don’t see the Scatter window, "
 "check if it has loaded behind your current window."
@@ -5225,31 +4973,28 @@ msgstr ""
 #. defaultMessage is:
 #. Wait a moment while we load Scatter.  If you do not see the Scatter window, check if it has loaded behind your current window.
 #: public/messages/src/editor/plugins/save/save-modal.json
-
 msgid ""
 "Wait a moment while we load Scatter.  If you do not see the Scatter window, "
 "check if it has loaded behind your current window."
 msgstr ""
-"Espere un momento mientras cargamos Scatter - Si no ve la ventana Scatter, "
-"compruebe si se ha cargado detrás de su ventana actual."
+"Espera un momento mientras cargamos Scatter.  Si no ve la ventana Scatter, "
+"compruebe si se ha cargado detrás de la ventana actual."
 
 #. [SaveModalAgain.WaitAMomentOne]
 #. defaultMessage is:
 #. Wait a moment while we load Scatter. If you don’t see the Scatter window, check if it has loaded behind your current window.
 #: public/messages/src/editor/plugins/save/save-modal.json
-
 msgid ""
 "Wait a moment while we load Scatter. If you don’t see the Scatter window, "
 "check if it has loaded behind your current window."
 msgstr ""
-"Espere un momento mientras cargamos Scatter - Si no ve la ventana Scatter, "
-"compruebe si se ha cargado detrás de su ventana actual."
+"Espera un momento mientras cargamos Scatter. Si no ve la ventana Scatter, "
+"compruebe si se ha cargado detrás de la ventana actual."
 
 #. [SaveModalAgain.txLoadLynx]
 #. defaultMessage is:
 #. Wait a moment while we load the Lynx transaction window.
 #: public/messages/src/editor/plugins/save/save-modal.json
-
 msgid "Wait a moment while we load the Lynx transaction window."
 msgstr "Espere un momento mientras cargamos la ventana de transacción de Lynx."
 
@@ -5257,7 +5002,6 @@ msgstr "Espere un momento mientras cargamos la ventana de transacción de Lynx."
 #. defaultMessage is:
 #. Wait a moment while we load your account.  You will be redirected to OreID to confirm your proposed edit.  You may be required to enter the pin that you created when you set up your account.
 #: public/messages/src/editor/plugins/save/save-modal.json
-
 msgid ""
 "Wait a moment while we load your account.  You will be redirected to OreID "
 "to confirm your proposed edit.  You may be required to enter the pin that "
@@ -5271,7 +5015,6 @@ msgstr ""
 #. defaultMessage is:
 #. Wait a moment while we load your account. You will be redirected to OreID to confirm your proposed edit. You may be required to enter the pin that you created when you set up your account.
 #: public/messages/src/editor/plugins/save/save-modal.json
-
 msgid ""
 "Wait a moment while we load your account. You will be redirected to OreID to "
 "confirm your proposed edit. You may be required to enter the pin that you "
@@ -5289,13 +5032,12 @@ msgstr ""
 #. Wait a moment while we load your wallet. If you don’t see the wallet window, check if it has loaded behind your current window.
 #: public/messages/src/app/components/Boost/SubmitBoostModal.json
 #: public/messages/src/app/components/SubmitVote/ConfirmationModal.json
-
 msgid ""
 "Wait a moment while we load your wallet. If you don’t see the wallet window, "
 "check if it has loaded behind your current window."
 msgstr ""
-"Espere un momento mientras cargamos Scatter - Si no ve la ventana Scatter, "
-"compruebe si se ha cargado detrás de su ventana actual."
+"Espera un momento mientras cargamos tu billetera. Si no ve la ventana de la "
+"billetera, compruebe si se ha cargado detrás de su ventana actual."
 
 #. [SubmitBoostModal.WaitAMomentOREID]
 #. defaultMessage is:
@@ -5305,7 +5047,6 @@ msgstr ""
 #. Wait a moment while we redirect you to Ore ID.  You will be returned here once you have completed signing
 #: public/messages/src/app/components/Boost/SubmitBoostModal.json
 #: public/messages/src/app/components/SubmitVote/ConfirmationModal.json
-
 msgid ""
 "Wait a moment while we redirect you to Ore ID.  You will be returned here "
 "once you have completed signing"
@@ -5324,7 +5065,6 @@ msgstr "Advertencia"
 #. defaultMessage is:
 #. Warning: Your public profile will be visible to everyone and stored on-chain
 #: public/messages/src/app/components/edit-profile/index.json
-
 msgid ""
 "Warning: Your public profile will be visible to everyone and stored on-chain"
 msgstr ""
@@ -5339,7 +5079,6 @@ msgstr ""
 #. We received the following error
 #: public/messages/src/editor/plugins/merge/merge-modal.json
 #: public/messages/src/editor/plugins/save/save-modal.json
-
 msgid "We received the following error"
 msgstr "Recibimos el siguiente error"
 
@@ -5361,7 +5100,6 @@ msgstr "Bienvenido"
 #. defaultMessage is:
 #. What article do you want to link to?
 #: public/messages/src/editor/plugins/ep-link-modal/ep-link-modal.json
-
 msgid "What article do you want to link to?"
 msgstr "¿A qué artículo quieres enlazar?"
 
@@ -5369,7 +5107,6 @@ msgstr "¿A qué artículo quieres enlazar?"
 #. defaultMessage is:
 #. Worth
 #: public/messages/src/app/components/Header/account-name-header.json
-
 msgid "Worth"
 msgstr "Vale la pena"
 
@@ -5377,9 +5114,8 @@ msgstr "Vale la pena"
 #. defaultMessage is:
 #. Write a message
 #: public/messages/src/app/components/Chat/messages.json
-
 msgid "Write a message"
-msgstr "Borrar Mensaje"
+msgstr "Escribir un mensaje..."
 
 #. [Chat.WriteAMessageTwo]
 #. defaultMessage is:
@@ -5392,7 +5128,6 @@ msgstr "Escribir un mensaje..."
 #. defaultMessage is:
 #. Write your message below to start the conversation
 #: public/messages/src/app/components/Chat/ChatList.json
-
 msgid "Write your message below to start the conversation"
 msgstr "Escriba su mensaje a continuación para iniciar la conversación"
 
@@ -5407,7 +5142,6 @@ msgstr "Sí"
 #. defaultMessage is:
 #. You are out of IQ.
 #: public/messages/src/app/components/SubmitVote/index.json
-
 msgid "You are out of IQ."
 msgstr "Estás fuera de IQ."
 
@@ -5415,7 +5149,6 @@ msgstr "Estás fuera de IQ."
 #. defaultMessage is:
 #. You can
 #: public/messages/src/app/containers/iq-info/iq-info.container.json
-
 msgid "You can"
 msgstr "También puedes crear un nuevo artículo en la wiki haciendo clic aquí."
 
@@ -5423,7 +5156,6 @@ msgstr "También puedes crear un nuevo artículo en la wiki haciendo clic aquí.
 #. defaultMessage is:
 #. You can boost with any amount of IQ. Your future voting power increases the more you boost!
 #: public/messages/src/app/components/Boost/SubmitBoostModal.json
-
 msgid ""
 "You can boost with any amount of IQ. Your future voting power increases the "
 "more you boost!"
@@ -5435,7 +5167,6 @@ msgstr ""
 #. defaultMessage is:
 #. You can vote with any amount of IQ.  If you vote with the majority, you will receive a reward that is proportional to the amount you vote!
 #: public/messages/src/app/components/SubmitVote/ConfirmationModal.json
-
 msgid ""
 "You can vote with any amount of IQ.  If you vote with the majority, you will "
 "receive a reward that is proportional to the amount you vote!"
@@ -5447,7 +5178,6 @@ msgstr ""
 #. defaultMessage is:
 #. You don't have any notifications yet.
 #: public/messages/src/app/components/Chat/Notifications.json
-
 msgid "You don't have any notifications yet."
 msgstr "Aún no tienes ninguna notificación."
 
@@ -5459,7 +5189,6 @@ msgstr "Aún no tienes ninguna notificación."
 #. You may have received this error for a variety of reasons. The most common reasons:
 #: public/messages/src/editor/plugins/merge/merge-modal.json
 #: public/messages/src/editor/plugins/save/save-modal.json
-
 msgid ""
 "You may have received this error for a variety of reasons. The most common "
 "reasons:"
@@ -5478,16 +5207,13 @@ msgstr "Debes estar registrado para participar en el chat"
 #. defaultMessage is:
 #. You must login to vote
 #: public/messages/src/app/components/SubmitVote/index.json
-
-#| msgid "Must log in to chat"
 msgid "You must login to vote"
-msgstr "Debe iniciar sesión para chatear"
+msgstr "Debe iniciar sesión para votar"
 
 #. [SubmitVote.YouNeedToMakeAnEdit]
 #. defaultMessage is:
 #. You need to make an edit before you can vote with your Ore ID account
 #: public/messages/src/app/components/SubmitVote/index.json
-
 msgid "You need to make an edit before you can vote with your Ore ID account"
 msgstr ""
 "Necesita hacer una edición antes de poder votar con su cuenta de "
@@ -5497,7 +5223,6 @@ msgstr ""
 #. defaultMessage is:
 #. Your Boost was Successful
 #: public/messages/src/app/components/Boost/SubmitBoostModal.json
-
 msgid "Your Boost was Successful"
 msgstr "Su impulso fue un éxito"
 
@@ -5505,7 +5230,6 @@ msgstr "Su impulso fue un éxito"
 #. defaultMessage is:
 #. Your Chats
 #: public/messages/src/app/components/Chat/Directory.json
-
 msgid "Your Chats"
 msgstr "Tus chats"
 
@@ -5513,7 +5237,6 @@ msgstr "Tus chats"
 #. defaultMessage is:
 #. Your Edit Was Successfully Submitted for Voting
 #: public/messages/src/editor/plugins/save/save-modal.json
-
 msgid "Your Edit Was Successfully Submitted for Voting"
 msgstr "Su edición fue enviada con éxito para su votación"
 
@@ -5521,7 +5244,6 @@ msgstr "Su edición fue enviada con éxito para su votación"
 #. defaultMessage is:
 #. Your Edit was not Submitted
 #: public/messages/src/editor/plugins/save/save-modal.json
-
 msgid "Your Edit was not Submitted"
 msgstr "Su edición no ha sido enviada"
 
@@ -5529,7 +5251,6 @@ msgstr "Su edición no ha sido enviada"
 #. defaultMessage is:
 #. Your Vote was Successful
 #: public/messages/src/app/components/SubmitVote/ConfirmationModal.json
-
 msgid "Your Vote was Successful"
 msgstr "Su voto fue un éxito"
 
@@ -5537,7 +5258,6 @@ msgstr "Su voto fue un éxito"
 #. defaultMessage is:
 #. Your active chats will be displayed here when you start conversations in articles.
 #: public/messages/src/app/components/Chat/Directory.json
-
 msgid ""
 "Your active chats will be displayed here when you start conversations in "
 "articles."
@@ -5553,7 +5273,6 @@ msgstr ""
 #. Your edit will now be voted on by the community. If it is accepted, you will receive an IQ reward for your contribution.  The IQ Tokens that you used to propose your edit will be locked up (staked) for 21 days.
 #: public/messages/src/editor/plugins/merge/merge-modal.json
 #: public/messages/src/editor/plugins/save/save-modal.json
-
 msgid ""
 "Your edit will now be voted on by the community. If it is accepted, you will "
 "receive an IQ reward for your contribution.  The IQ Tokens that you used to "
@@ -5567,7 +5286,6 @@ msgstr ""
 #. defaultMessage is:
 #. about EOS and IQ, or
 #: public/messages/src/app/containers/iq-info/iq-info.container.json
-
 msgid "about EOS and IQ, or"
 msgstr "sobre EOS e IQ, o"
 
@@ -5575,7 +5293,6 @@ msgstr "sobre EOS e IQ, o"
 #. defaultMessage is:
 #. about Everipedia’s login options.
 #: public/messages/src/app/components/Login/login.modal.json
-
 msgid "about Everipedia’s login options."
 msgstr "sobre las opciones de acceso a Everipedia."
 
@@ -5583,7 +5300,6 @@ msgstr "sobre las opciones de acceso a Everipedia."
 #. defaultMessage is:
 #. about using a wallet
 #: public/messages/src/app/containers/iq-info/iq-info.container.json
-
 msgid "about using a wallet"
 msgstr "sobre el uso de una billetera"
 
@@ -5598,7 +5314,6 @@ msgstr "y"
 #. defaultMessage is:
 #. approve
 #: public/messages/src/app/components/SubmitVote/index.json
-
 msgid "approve"
 msgstr "Aprobar"
 
@@ -5606,7 +5321,6 @@ msgstr "Aprobar"
 #. defaultMessage is:
 #. born
 #: public/messages/src/editor/utils/editing-utils/template-packs/person.json
-
 msgid "born"
 msgstr "nacido"
 
@@ -5614,7 +5328,6 @@ msgstr "nacido"
 #. defaultMessage is:
 #. buy and sell IQ
 #: public/messages/src/app/containers/iq-info/iq-info.container.json
-
 msgid "buy and sell IQ"
 msgstr "comprar y vender IQ"
 
@@ -5629,7 +5342,6 @@ msgstr "bytes"
 #. defaultMessage is:
 #. changed
 #: public/messages/src/app/components/SubmitVote/EditOverview.json
-
 msgid "changed"
 msgstr "Cambiado"
 
@@ -5637,7 +5349,6 @@ msgstr "Cambiado"
 #. defaultMessage is:
 #. edit
 #: public/messages/src/app/components/SubmitVote/index.json
-
 msgid "edit"
 msgstr "Editar"
 
@@ -5678,16 +5389,13 @@ msgstr "para"
 #. defaultMessage is:
 #. founded
 #: public/messages/src/editor/utils/editing-utils/template-packs/organization.json
-
-#| msgid "Ended"
 msgid "founded"
-msgstr "Finalizado"
+msgstr "fundado"
 
 #. [Errors.IfYouThinkYouAre]
 #. defaultMessage is:
 #. if you think you are receiving this message in error.
 #: public/messages/src/app/utils/errors.json
-
 msgid "if you think you are receiving this message in error."
 msgstr "si cree que está recibiendo este mensaje por error."
 
@@ -5695,7 +5403,6 @@ msgstr "si cree que está recibiendo este mensaje por error."
 #. defaultMessage is:
 #. include
 #: public/messages/src/editor/utils/editing-utils/template-packs/product.json
-
 msgid "include"
 msgstr "contener"
 
@@ -5707,7 +5414,6 @@ msgstr "contener"
 #. is a
 #: public/messages/src/editor/utils/editing-utils/template-packs/organization.json
 #: public/messages/src/editor/utils/editing-utils/template-packs/person.json
-
 msgid "is a"
 msgstr "es un"
 
@@ -5715,7 +5421,6 @@ msgstr "es un"
 #. defaultMessage is:
 #. is a place
 #: public/messages/src/editor/utils/editing-utils/template-packs/place.json
-
 msgid "is a place"
 msgstr "Poner Votos"
 
@@ -5723,7 +5428,6 @@ msgstr "Poner Votos"
 #. defaultMessage is:
 #. is an event that was first started on
 #: public/messages/src/editor/utils/editing-utils/template-packs/event.json
-
 msgid "is an event that was first started on"
 msgstr "es un evento que se inició por primera vez en"
 
@@ -5731,7 +5435,6 @@ msgstr "es un evento que se inició por primera vez en"
 #. defaultMessage is:
 #. is known for
 #: public/messages/src/editor/utils/editing-utils/template-packs/place.json
-
 msgid "is known for"
 msgstr "es conocido por"
 
@@ -5750,7 +5453,6 @@ msgstr "no es una extensión de archivo compatible"
 #. defaultMessage is:
 #. is product created on
 #: public/messages/src/editor/utils/editing-utils/template-packs/product.json
-
 msgid "is product created on"
 msgstr "es un producto creado en"
 
@@ -5758,7 +5460,6 @@ msgstr "es un producto creado en"
 #. defaultMessage is:
 #. is work that was created on
 #: public/messages/src/editor/utils/editing-utils/template-packs/creative-work.json
-
 msgid "is work that was created on"
 msgstr "es un trabajo que fue creado en"
 
@@ -5773,10 +5474,8 @@ msgstr "fusionado"
 #. defaultMessage is:
 #. merged into this article.
 #: public/messages/src/app/components/SubmitVote/EditOverview.json
-
-#| msgid "Chat about this article!"
 msgid "merged into this article."
-msgstr "Chatea sobre este artículo!"
+msgstr "se fusionó con este artículo."
 
 #. [NewPageTemplate.NPT_Event_Offers]
 #. defaultMessage is:
@@ -5797,7 +5496,6 @@ msgstr "ofertas"
 #. defaultMessage is:
 #. on these exchanges
 #: public/messages/src/app/containers/iq-info/iq-info.container.json
-
 msgid "on these exchanges"
 msgstr "Intercambios compatibles"
 
@@ -5826,7 +5524,6 @@ msgstr "borrado"
 #. defaultMessage is:
 #. started his/her career at
 #: public/messages/src/editor/utils/editing-utils/template-packs/person.json
-
 msgid "started his/her career at"
 msgstr "comenzó su carrera en"
 
@@ -5834,15 +5531,13 @@ msgstr "comenzó su carrera en"
 #. defaultMessage is:
 #. talk to someone about getting started!
 #: public/messages/src/app/containers/iq-info/iq-info.container.json
-
 msgid "talk to someone about getting started!"
-msgstr "¿Acabas de empezar?"
+msgstr "hable con alguien sobre cómo empezar!"
 
 #. [Errors.TheseExchanges]
 #. defaultMessage is:
 #. these exchanges.
 #: public/messages/src/app/utils/errors.json
-
 msgid "these exchanges."
 msgstr "Intercambios compatibles"
 
@@ -5850,7 +5545,6 @@ msgstr "Intercambios compatibles"
 #. defaultMessage is:
 #. to choose a quality image
 #: public/messages/src/editor/plugins/media-gallery/media-gallery-modal.json
-
 msgid "to choose a quality image"
 msgstr "elegir una imagen de calidad"
 
@@ -5858,7 +5552,6 @@ msgstr "elegir una imagen de calidad"
 #. defaultMessage is:
 #. to choose a quality image.
 #: public/messages/src/editor/plugins/section-media-modal/section-media-modal.json
-
 msgid "to choose a quality image."
 msgstr "para elegir una imagen de calidad."
 
@@ -5870,7 +5563,6 @@ msgstr "para elegir una imagen de calidad."
 #. to participate in community conversations
 #: public/messages/src/app/components/Chat/Directory.json
 #: public/messages/src/app/components/Chat/Notifications.json
-
 msgid "to participate in community conversations"
 msgstr "para participar en conversaciones de la comunidad"
 
@@ -5878,7 +5570,6 @@ msgstr "para participar en conversaciones de la comunidad"
 #. defaultMessage is:
 #. to view our FAQs
 #: public/messages/src/app/containers/contact-us/contact-form.json
-
 msgid "to view our FAQs"
 msgstr "para ver nuestras preguntas frecuentes"
 
@@ -5898,7 +5589,6 @@ msgstr "para ver nuestras preguntas frecuentes"
 #: public/messages/src/app/containers/homepageContainer/mainItem.json
 #: public/messages/src/app/containers/homepageContainer/rightList.json
 #: public/messages/src/app/containers/searchResultsFull/searchCard.json
-
 msgid "views"
 msgstr "Vistas"
 
@@ -5935,7 +5625,6 @@ msgstr "votos"
 #. was created by
 #: public/messages/src/editor/utils/editing-utils/template-packs/creative-work.json
 #: public/messages/src/editor/utils/editing-utils/template-packs/product.json
-
 msgid "was created by"
 msgstr "fue creado por"
 
@@ -5943,16 +5632,13 @@ msgstr "fue creado por"
 #. defaultMessage is:
 #. was formed by
 #: public/messages/src/editor/utils/editing-utils/template-packs/event.json
-
-#| msgid "Powered by"
 msgid "was formed by"
-msgstr "Impulsado por "
+msgstr "fue formado por"
 
 #. [NewPageTemplate.NPT_Organization_WasStartedBy]
 #. defaultMessage is:
 #. was started by
 #: public/messages/src/editor/utils/editing-utils/template-packs/organization.json
-
 msgid "was started by"
 msgstr "fue iniciada por"
 
@@ -5970,45 +5656,3 @@ msgstr "fue iniciada por"
 #: public/messages/src/app/components/SubmitVote/EditOverview.json
 msgid "words"
 msgstr "palabras"
-
-
-#~ msgid "Account activity timeline"
-#~ msgstr "Cronología de la actividad de la cuenta"
-
-
-#~ msgid "Learn more."
-#~ msgstr "Aprende más"
-
-
-#~ msgid ""
-#~ "Login with Scatter to unlock Everipedia’s full features. Earn IQ rewards "
-#~ "and participate in\n"
-#~ "\t\t\t\t\t\tvoting on proposed article edits."
-#~ msgstr ""
-#~ "Inicie sesión con Scatter para desbloquear todas las funciones de "
-#~ "Everipedia. Gane recompensas de CI y participe en\n"
-#~ "\t\t\t\t\t\tvotación sobre las propuestas de edición de artículos."
-
-
-#~ msgid ""
-#~ "Quickly login with a social account to make an edit or create an article. "
-#~ "You will be limited to\n"
-#~ "\t\t\t\t\t\t4 edits and will not earn rewards or participate in voting."
-#~ msgstr ""
-#~ "Inicie sesión rápidamente con una cuenta social para editar o crear un "
-#~ "artículo. Usted se limitará a\n"
-#~ "\t\t\t\t\t\t4 edita y no ganará recompensas ni participará en la votación."
-
-#~ msgid "View Comment"
-#~ msgstr "Ver comentario"
-
-
-#~ msgid ""
-#~ "Your account is a trial account (using OREID) and is edit-only. To\n"
-#~ "                                            participate in voting and to "
-#~ "receive IQ rewards, login with Scatter."
-#~ msgstr ""
-#~ "Su cuenta es una cuenta de prueba (usando OREID) y es sólo de edición. "
-#~ "Para\n"
-#~ "                                            participar en la votación y "
-#~ "recibir recompensas de IQ, inicia sesión con Scatter."
