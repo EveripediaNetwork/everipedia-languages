@@ -115,7 +115,7 @@ msgstr "HISTORIAL DE ARTÍCULOS"
 #. ARTICLE VIEWS
 #: public/messages/src/app/containers/admin/admin.container.json
 msgid "ARTICLE VIEWS"
-msgstr "PUNTOS DE VISTA DEL ARTÍCULO"
+msgstr "VISTAS DEL ARTÍCULO"
 
 #. [Stats.Articles]
 #. defaultMessage is:
@@ -126,16 +126,14 @@ msgstr "PUNTOS DE VISTA DEL ARTÍCULO"
 #: public/messages/src/app/containers/admin/admin.container.json
 #: public/messages/src/editor/components/mentions/suggestions.json
 msgid "ARTICLES"
-msgstr ""
-"Los artículos se obtienen utilizando Almacenamiento IPFS y EOS. La mayoría "
-"del IQ se distribuye durante el airdrop."
+msgstr "ARTÍCULOS"
 
 #. [AsSeenIn.AsSeenIn]
 #. defaultMessage is:
 #. AS SEEN IN
 #: public/messages/src/app/containers/about/as-seen.json
 msgid "AS SEEN IN"
-msgstr "Como se vio en"
+msgstr "COMO SE VIO EN"
 
 #. [SubmitBoostModal.AvailableBalance]
 #. defaultMessage is:
@@ -146,7 +144,7 @@ msgstr "Como se vio en"
 #: public/messages/src/app/components/Boost/SubmitBoostModal.json
 #: public/messages/src/app/components/SubmitVote/ConfirmationModal.json
 msgid "AVAILABLE BALANCE"
-msgstr "Saldo disponible"
+msgstr "SALDO DISPONIBLE"
 
 #. [Index.About]
 #. defaultMessage is:
@@ -169,14 +167,14 @@ msgstr "Saldo disponible"
 #: public/messages/src/app/containers/about/about.container.json
 #: public/messages/src/app/containers/homepageContainer/featured.json
 msgid "About"
-msgstr "Acerca de"
+msgstr "Sobre"
 
 #. [LearnMore.AboutEveripedia]
 #. defaultMessage is:
 #. About Everipedia
 #: public/messages/src/app/components/learn-more/index.json
 msgid "About Everipedia"
-msgstr "Acerca de Everipedia"
+msgstr "Sobre Everipedia"
 
 #. [EditProfile.AboutMe]
 #. defaultMessage is:
@@ -269,7 +267,7 @@ msgstr "Voto Activo"
 #: public/messages/src/app/components/Header/Mobile-Hamburger.json
 #: public/messages/src/app/containers/homepageContainer/featured.json
 msgid "Activity"
-msgstr "Límite de actividad alcanzado"
+msgstr "Actividad"
 
 #. [InfoboxModal.Add]
 #. defaultMessage is:
@@ -280,14 +278,14 @@ msgstr "Límite de actividad alcanzado"
 #: public/messages/src/editor/plugins/infobox/infobox-modal.json
 #: public/messages/src/editor/plugins/section-media-modal/panes/add-edit-url.json
 msgid "Add"
-msgstr "Añadir nuevo artículo de la caja de información"
+msgstr "Añadir"
 
 #. [InfoboxModal.AddAnother]
 #. defaultMessage is:
 #. Add Another
 #: public/messages/src/editor/plugins/infobox/infobox-modal.json
 msgid "Add Another"
-msgstr "Agregar otro"
+msgstr "Añadir otro"
 
 #. [CitationModal.AddCitation]
 #. defaultMessage is:
@@ -315,7 +313,7 @@ msgstr "Añadir imagen o vídeo a la galería multimedia"
 #. Add Inline Image
 #: public/messages/src/editor/plugins/section-media-modal/section-media-modal.json
 msgid "Add Inline Image"
-msgstr "Agregar imagen en línea"
+msgstr "Añadir imagen en línea"
 
 #. [InfoboxModal.AddLabel]
 #. defaultMessage is:
@@ -336,7 +334,7 @@ msgstr "Añadir foto principal"
 #. Add New Image or Video to Gallery
 #: public/messages/src/editor/plugins/media-gallery/media-gallery.node.json
 msgid "Add New Image or Video to Gallery"
-msgstr "Agregar nueva imagen o vídeo a la galería"
+msgstr "Añadir nueva imagen o vídeo a la galería"
 
 #. [InfoboxModal.AddNewItem]
 #. defaultMessage is:
@@ -363,7 +361,7 @@ msgstr "Añadir una página relacionada"
 #. Add and Add Another
 #: public/messages/src/editor/plugins/infobox/infobox-modal.json
 msgid "Add and Add Another"
-msgstr "Agregar y agregar otro"
+msgstr "Añadir y Añadir otro"
 
 #. [CitationModal.AddEditFile.AddAndInsert]
 #. defaultMessage is:
@@ -493,7 +491,7 @@ msgstr ""
 #. Allow Non-Googlebot
 #: public/messages/src/editor/plugins/metadata/metadata-modal.json
 msgid "Allow Non-Googlebot"
-msgstr "Permitir que los usuarios que no sean usuarios de Googlebot"
+msgstr "Permitir Googlebot"
 
 #. [CitationModal.AddEditFile.AllowedFormats]
 #. defaultMessage is:
@@ -934,7 +932,7 @@ msgstr "Ciudad"
 #. Click here
 #: public/messages/src/app/containers/contact-us/contact-form.json
 msgid "Click here"
-msgstr "Haz clic aquí para subir una imagen para tu perfil de editor."
+msgstr "Haz clic aquí"
 
 #. [CitationModal.AddEditFile.Intro]
 #. defaultMessage is:
@@ -1031,7 +1029,7 @@ msgid ""
 "Confirm that you have enough IQ in your wallet (50IQ required to submit at "
 "edit)"
 msgstr ""
-"Confirme que tiene suficiente CI en su billetera (se requiere 50 CI para "
+"Confirme que tiene suficiente IQ en su billetera (se requiere 50 IQ para "
 "enviar en la edición)"
 
 #. [MergeModalAgain.ConfirmThatYouHaveSufficientEOS]
@@ -1210,7 +1208,7 @@ msgstr "Creador(es)"
 #. Current IQ Price
 #: public/messages/src/app/containers/dashboard/dashboard_component.json
 msgid "Current IQ Price"
-msgstr "Precio actual del CI"
+msgstr "Precio actual del IQ"
 
 #. [Dashboard.CurrentlyStaked]
 #. defaultMessage is:
@@ -1224,7 +1222,7 @@ msgstr "Actualmente en juego"
 #. DAY
 #: public/messages/src/app/containers/homepageContainer/leaderboard.json
 msgid "DAY"
-msgstr "Día"
+msgstr "DÍA"
 
 #. [TeamInfo.DanielLiebeskindBio]
 #. defaultMessage is:
@@ -1360,14 +1358,14 @@ msgstr "IMPULSO EXISTENTE"
 #. EXPIRING SOON
 #: public/messages/src/app/components/ActivityCards/index.json
 msgid "EXPIRING SOON"
-msgstr "Caduca pronto"
+msgstr "CADUCA PRONTO"
 
 #. [SubmitVoteConfirmation.EarnIQRewards]
 #. defaultMessage is:
 #. Earn IQ rewards by voting.
 #: public/messages/src/app/components/SubmitVote/ConfirmationModal.json
 msgid "Earn IQ rewards by voting."
-msgstr "Gane recompensas de coeficiente intelectual votando."
+msgstr "Gane recompensas de IQ votando."
 
 #. [About.EarnRewardsTitle]
 #. defaultMessage is:
@@ -1686,7 +1684,7 @@ msgstr "Evento"
 #. Everipedia
 #: public/messages/src/app/components/Footer/index.json
 msgid "Everipedia"
-msgstr "Acerca de Everipedia"
+msgstr "Sobre Everipedia"
 
 #. [Directory.EveripediaChat]
 #. defaultMessage is:
@@ -1854,14 +1852,14 @@ msgstr "Extraer"
 #. Fetch Info
 #: public/messages/src/editor/plugins/citation-modal/panes/add-edit-isbn.json
 msgid "Fetch Info"
-msgstr "Obtener información"
+msgstr "Extraer información"
 
 #. [ImageUploader.Fetching]
 #. defaultMessage is:
 #. Fetching...
 #: public/messages/src/shared/inputs/image-uploader/image-uploader.component.json
 msgid "Fetching..."
-msgstr "Recuperando..."
+msgstr "Extraendo..."
 
 #. [CitationModal.File]
 #. defaultMessage is:
@@ -2136,7 +2134,7 @@ msgstr "IQ (Calificación Interna)"
 #. IQ EARNED
 #: public/messages/src/app/containers/admin/admin.container.json
 msgid "IQ EARNED"
-msgstr "CI GANADO"
+msgstr "IQ GANADO"
 
 #. [Stats.IqHolders]
 #. defaultMessage is:
@@ -2217,7 +2215,7 @@ msgid ""
 "difference between the total number of votes in the majority and the "
 "minority."
 msgstr ""
-"Si se rechaza, los tokens de CI que usó para proponer su edición se "
+"Si se rechaza, los tokens de IQ que usó para proponer su edición se "
 "bloquearán durante un período de tiempo más largo, que es proporcional a la "
 "diferencia entre el número total de votos en la mayoría y en la minoría."
 
@@ -2229,8 +2227,8 @@ msgid ""
 "If your vote is in the majority, you will receive an IQ reward in proportion "
 "to the amount of IQ you voted."
 msgstr ""
-"Si su voto es mayoritario, recibirá una recompensa de CI proporcional a la "
-"cantidad de CI que haya votado."
+"Si su voto es mayoritario, recibirá una recompensa de IQ proporcional a la "
+"cantidad de IQ que haya votado."
 
 #. [ImageUploader.ImageURL]
 #. defaultMessage is:
@@ -2536,7 +2534,7 @@ msgstr "Lista"
 #. List / Ranking
 #: public/messages/src/editor/plugins/metadata/metadata-modal.json
 msgid "List / Ranking"
-msgstr "Lista/Ranking"
+msgstr "Lista / Rango"
 
 #. [About.CensorshipResistantDetail]
 #. defaultMessage is:
@@ -2893,7 +2891,7 @@ msgstr "Media"
 #. Medical / Biology
 #: public/messages/src/editor/plugins/metadata/metadata-modal.json
 msgid "Medical / Biology"
-msgstr "Médico/Biología"
+msgstr "Médico / Biología"
 
 #. [NewPageTemplate.NPT_MedicalEntity_MedicalCode]
 #. defaultMessage is:
@@ -3111,7 +3109,7 @@ msgstr "Ninguno"
 #. Not changed
 #: public/messages/src/app/components/SubmitVote/EditOverview.json
 msgid "Not changed"
-msgstr "Cambiado"
+msgstr "No ha cambiado"
 
 #. [NewPageTemplate.NPT_Organization_NotablePeople]
 #. defaultMessage is:
@@ -3445,7 +3443,7 @@ msgstr "Por favor escribe tu mensaje"
 #. Please enter a URL.
 #: public/messages/src/shared/inputs/image-uploader/image-uploader.component.json
 msgid "Please enter a URL."
-msgstr "Por favor escribe tu mensaje"
+msgstr "Por favor, entrar un enlace"
 
 #. [FileUploader.CaptionPlaceholder]
 #. defaultMessage is:
@@ -3545,7 +3543,7 @@ msgstr "Por favor, seleccione la página en la que desea fusionarse"
 #: public/messages/src/app/components/Boost/SubmitBoostModal.json
 #: public/messages/src/app/components/SubmitVote/ConfirmationModal.json
 msgid "Please try again"
-msgstr "Hubo un error guardando, por favor inténtelo de nuevo"
+msgstr "Por favor inténtelo de nuevo"
 
 #. [Directory.PopularChats]
 #. defaultMessage is:
@@ -3703,7 +3701,7 @@ msgstr "RECIENTEMENTE ACTUALIZADO"
 #. Read
 #: public/messages/src/app/components/content-top-nav/index.json
 msgid "Read"
-msgstr "Leer"
+msgstr "Leído"
 
 #. [RecentActivity.Title]
 #. defaultMessage is:
