@@ -2242,11 +2242,7 @@ msgstr "URL de la imagen"
 #. In the press
 #: public/messages/src/app/containers/about/last-block.json
 msgid "In the press"
-msgstr ""
-"Para enlazar a otra página de Everipedia haz clic en el botón 'Link "
-"Page' (‘Enlazar pagina’). También puedes pulsar la tecla @ o @ al escribir y "
-"aparecerá un desplegable. Trata de enlazar a tantas páginas como sea "
-"necesario para que cada página sea lo más rica e informativa posible."
+msgstr "En la Prensa"
 
 #. [SubmitBoostModal.IncreaseYourVotingPower]
 #. defaultMessage is:
