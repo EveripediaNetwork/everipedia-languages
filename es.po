@@ -2242,7 +2242,7 @@ msgstr "URL de la imagen"
 #. In the press
 #: public/messages/src/app/containers/about/last-block.json
 msgid "In the press"
-msgstr "En la Prensa"
+msgstr "En la prensa"
 
 #. [SubmitBoostModal.IncreaseYourVotingPower]
 #. defaultMessage is:
