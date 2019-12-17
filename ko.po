@@ -31,7 +31,7 @@ msgstr "메시지"
 #. 0 Participants
 #: public/messages/src/app/components/Chat/messages.json
 msgid "0 Participants"
-msgstr "참가자"
+msgstr "참여자"
 
 #. [DashboardComponent.OneMonth]
 #. defaultMessage is:
@@ -52,7 +52,7 @@ msgstr "메시지 1 개"
 #. 1 Participant
 #: public/messages/src/app/components/Chat/messages.json
 msgid "1 Participant"
-msgstr "참가자 1 명"
+msgstr "참여자 1 명"
 
 #. [DashboardComponent.OneYear]
 #. defaultMessage is:
@@ -87,7 +87,7 @@ msgstr "7 일"
 #. A universe of knowledge.
 #: public/messages/src/app/containers/homepageContainer/homepage.container.json
 msgid "A universe of knowledge."
-msgstr "지식의 우주."
+msgstr "지식의 바다"
 
 #. [Leaderboard.AllTimeCap]
 #. defaultMessage is:
@@ -108,14 +108,14 @@ msgstr "API"
 #. ARTICLE HISTORY
 #: public/messages/src/app/components/SubmitVote/index.json
 msgid "ARTICLE HISTORY"
-msgstr "기사보기"
+msgstr "글 기록"
 
 #. [Stats.ArticleViews]
 #. defaultMessage is:
 #. ARTICLE VIEWS
 #: public/messages/src/app/containers/admin/admin.container.json
 msgid "ARTICLE VIEWS"
-msgstr "기사보기"
+msgstr "글 보기"
 
 #. [Stats.Articles]
 #. defaultMessage is:
@@ -126,7 +126,7 @@ msgstr "기사보기"
 #: public/messages/src/app/containers/admin/admin.container.json
 #: public/messages/src/editor/components/mentions/suggestions.json
 msgid "ARTICLES"
-msgstr "조항"
+msgstr "글"
 
 #. [AsSeenIn.AsSeenIn]
 #. defaultMessage is:
@@ -145,7 +145,7 @@ msgstr "주요 특징"
 #: public/messages/src/app/components/SubmitVote/ConfirmationModal.json
 
 msgid "AVAILABLE BALANCE"
-msgstr "사용 가능한 잔액"
+msgstr "사용가능 잔액"
 
 #. [Index.About]
 #. defaultMessage is:
@@ -168,14 +168,14 @@ msgstr "사용 가능한 잔액"
 #: public/messages/src/app/containers/about/about.container.json
 #: public/messages/src/app/containers/homepageContainer/featured.json
 msgid "About"
-msgstr "에브리피디아"
+msgstr "회사 소개"
 
 #. [LearnMore.AboutEveripedia]
 #. defaultMessage is:
 #. About Everipedia
 #: public/messages/src/app/components/learn-more/index.json
 msgid "About Everipedia"
-msgstr " Everipedia소개"
+msgstr "에브리피디아 소개"
 
 #. [EditProfile.AboutMe]
 #. defaultMessage is:
@@ -186,21 +186,21 @@ msgstr " Everipedia소개"
 #: public/messages/src/app/components/edit-profile/index.json
 #: public/messages/src/app/containers/dashboard/dashboard_component.json
 msgid "About Me"
-msgstr "나에 관하여"
+msgstr "내 소개"
 
 #. [EditProfile.AboutMeMustBeLonger]
 #. defaultMessage is:
 #. About Me must be longer than 3 characters
 #: public/messages/src/app/components/edit-profile/index.json
 msgid "About Me must be longer than 3 characters"
-msgstr "내 소개는 3 자 이상이어야합니다"
+msgstr "내 소개는 세글자 이상이어야 합니다"
 
 #. [SubmitVoteConfirmation.Accept]
 #. defaultMessage is:
 #. Accept
 #: public/messages/src/app/components/SubmitVote/ConfirmationModal.json
 msgid "Accept"
-msgstr "승인"
+msgstr "찬성"
 
 #. [SubmitVote.Accepted]
 #. defaultMessage is:
@@ -210,7 +210,7 @@ msgstr "승인"
 #. Accepted
 #: public/messages/src/app/components/SubmitVote/index.json
 msgid "Accepted"
-msgstr "수락됨"
+msgstr "찬성함"
 
 #. [Login.Account]
 #. defaultMessage is:
@@ -224,21 +224,21 @@ msgstr "계정"
 #. Account Issues
 #: public/messages/src/app/containers/contact-us/messages.json
 msgid "Account Issues"
-msgstr "계정"
+msgstr "계정 문제"
 
 #. [EditProfile.AccountName]
 #. defaultMessage is:
 #. Account Name
 #: public/messages/src/app/components/edit-profile/index.json
 msgid "Account Name"
-msgstr "계정 이름"
+msgstr "계정명"
 
 #. [Dashboard.ActiveBoosts]
 #. defaultMessage is:
 #. Active Boosts
 #: public/messages/src/app/containers/dashboard/dashboard_component.json
 msgid "Active Boosts"
-msgstr "적극적인 투표"
+msgstr "부스팅"
 
 #. [CategoryResultCard.ActiveVoting]
 #. defaultMessage is:
@@ -249,7 +249,7 @@ msgstr "적극적인 투표"
 #: public/messages/src/app/containers/category-results/categoryResultCard.json
 #: public/messages/src/app/containers/searchResultsFull/searchCard.json
 msgid "Active Voting"
-msgstr "적극적인 투표"
+msgstr "투표중"
 
 #. [Chat.ActivityThree]
 #. defaultMessage is:
@@ -268,7 +268,7 @@ msgstr "적극적인 투표"
 #: public/messages/src/app/components/Header/Mobile-Hamburger.json
 #: public/messages/src/app/containers/homepageContainer/featured.json
 msgid "Activity"
-msgstr "활동 국한 도달"
+msgstr "최근 편집"
 
 #. [InfoboxModal.Add]
 #. defaultMessage is:
@@ -279,21 +279,21 @@ msgstr "활동 국한 도달"
 #: public/messages/src/editor/plugins/infobox/infobox-modal.json
 #: public/messages/src/editor/plugins/section-media-modal/panes/add-edit-url.json
 msgid "Add"
-msgstr "해당 카테고리에 대한 부가 설명 추가하기"
+msgstr "추가하기"
 
 #. [InfoboxModal.AddAnother]
 #. defaultMessage is:
 #. Add Another
 #: public/messages/src/editor/plugins/infobox/infobox-modal.json
 msgid "Add Another"
-msgstr "추가"
+msgstr "더 추가하기"
 
 #. [CitationModal.AddCitation]
 #. defaultMessage is:
 #. Add Citation
 #: public/messages/src/editor/plugins/citation-modal/citation-modal.json
 msgid "Add Citation"
-msgstr "인용문 추가 또는 편집"
+msgstr "인용 추가하기"
 
 #. [CategoriesNode.AddFirstCategory]
 #. defaultMessage is:
