@@ -87,7 +87,7 @@ msgstr "7일"
 #. A universe of knowledge.
 #: public/messages/src/app/containers/homepageContainer/homepage.container.json
 msgid "A universe of knowledge."
-msgstr "지식의 바다"
+msgstr "지식의 바다,"
 
 #. [Leaderboard.AllTimeCap]
 #. defaultMessage is:
@@ -133,7 +133,7 @@ msgstr "글"
 #. AS SEEN IN
 #: public/messages/src/app/containers/about/as-seen.json
 msgid "AS SEEN IN"
-msgstr "주요 특징"
+msgstr "언론 소개"
 
 #. [SubmitBoostModal.AvailableBalance]
 #. defaultMessage is:
@@ -268,7 +268,7 @@ msgstr "투표 진행중"
 #: public/messages/src/app/components/Header/Mobile-Hamburger.json
 #: public/messages/src/app/containers/homepageContainer/featured.json
 msgid "Activity"
-msgstr "최근 편집"
+msgstr "최근 활동"
 
 #. [InfoboxModal.Add]
 #. defaultMessage is:
@@ -279,7 +279,7 @@ msgstr "최근 편집"
 #: public/messages/src/editor/plugins/infobox/infobox-modal.json
 #: public/messages/src/editor/plugins/section-media-modal/panes/add-edit-url.json
 msgid "Add"
-msgstr "추가"
+msgstr "적용"
 
 #. [InfoboxModal.AddAnother]
 #. defaultMessage is:
@@ -555,7 +555,7 @@ msgid ""
 "sources and a neutral wording, you can write an article about anything you "
 "want. A dapp you like, yourself — anything."
 msgstr ""
-"출처와 함께 중립적인 언어를 사용한다면, 어떤 주제에 대해서든 쓰고 싶은 글을 쓸 수 있다는 것이 에브리피디아의 핵심적인 특징이다. 내가 좋아하는 디앱 서비스나, 나 자신에 대해서, 그 무엇에 대해서든."
+"출처와 함께 중립적인 언어를 사용한다면, 어떤 주제에 대해서든 쓰고 싶은 글을 쓸 수 있다는 것이 에브리피디아의 핵심적인 특징입니다. 내가 좋아하는 디앱 서비스, 나 자신에 대해서, 그 무엇에 대해서든."
 
 #. [NewPageTemplate.NPT_Product_Audience]
 #. defaultMessage is:
@@ -867,7 +867,7 @@ msgstr "최고 제품 책임자"
 #. Chief Technology Officer
 #: public/messages/src/app/containers/about/third-block.json
 msgid "Chief Technology Officer"
-msgstr "기술 담당 최고 책임자 겸 공동설립자"
+msgstr "기술 담당 최고 책임자 겸 공동 설립자"
 
 #. [MainPhoto.ButtonText]
 #. defaultMessage is:
@@ -951,7 +951,7 @@ msgstr "투표하기"
 #. Co-Founder Wikipedia, CIO Everipedia
 #: public/messages/src/app/containers/about/third-block.json
 msgid "Co-Founder Wikipedia, CIO Everipedia"
-msgstr "Wikipedia 공동설립자, 전 CIO Everipedia"
+msgstr "Wikipedia 공동 설립자, 전 CIO Everipedia"
 
 #. [TableMenu.Column]
 #. defaultMessage is:
@@ -1079,7 +1079,7 @@ msgstr "연락하기"
 #. Contact Info
 #: public/messages/src/app/containers/dashboard/dashboard_component.json
 msgid "Contact Info"
-msgstr "연락 안내"
+msgstr "연락처"
 
 #. [ContactUs.ContactType]
 #. defaultMessage is:
@@ -1340,7 +1340,7 @@ msgstr "부스트 목록"
 #. EXPIRING SOON
 #: public/messages/src/app/components/ActivityCards/index.json
 msgid "EXPIRING SOON"
-msgstr "종료 예정"
+msgstr "투표 종료 예정"
 
 #. [SubmitVoteConfirmation.EarnIQRewards]
 #. defaultMessage is:
@@ -1412,7 +1412,7 @@ msgstr "편집하기"
 #. Edit Categories
 #: public/messages/src/editor/plugins/categories/categories.node.json
 msgid "Edit Categories"
-msgstr "분류 수정하기"
+msgstr "분류 편집하기"
 
 #. [Chat.EditNow]
 #. defaultMessage is:
@@ -1440,7 +1440,7 @@ msgstr "메타데이터 항목 편집"
 #. Edit the list of categories for the page
 #: public/messages/src/editor/plugins/categories/categories-modal.json
 msgid "Edit the list of categories for the page"
-msgstr "카테고리 목록 편집하기"
+msgstr "분류 목록 편집하기"
 
 #. [ActivityCard.Edited1]
 #. defaultMessage is:
@@ -1459,7 +1459,7 @@ msgstr "카테고리 목록 편집하기"
 #: public/messages/src/app/components/carousel/carouselSlide.json
 #: public/messages/src/app/containers/category-results/categoryResultCard.json
 msgid "Edited"
-msgstr "편집됨"
+msgstr "편집함"
 
 #. [ContactUs.editingVotingIssues]
 #. defaultMessage is:
@@ -1660,14 +1660,14 @@ msgstr "이벤트"
 
 #| msgid "Login to Everipedia"
 msgid "Everipedia"
-msgstr "에브리피디아 로그인"
+msgstr "에브리피디아"
 
 #. [Directory.EveripediaChat]
 #. defaultMessage is:
 #. Everipedia Chat
 #: public/messages/src/app/components/Chat/Directory.json
 msgid "Everipedia Chat"
-msgstr "에브리피디아 채팅"
+msgstr "메인"
 
 #. [About.MoreArticlesText]
 #. defaultMessage is:
@@ -2082,7 +2082,7 @@ msgid ""
 "I love Everipedia because everyone benefits, particularly the contributors. "
 "As an IQ token holder, I have an incentive to participate in the network."
 msgstr ""
-"독자만이 아니라 특히 기여자들이 이를 통해 실제적인 가치를 공유할 수 있어서 에브리피디아를 사랑한다. IQ 토큰 사용자로서, 이 네트워크에 참여할 마땅한 동기가 있다."
+"독자만이 아니라 특히 기여자들이 이를 통해 실제적인 가치를 공유할 수 있어서 에브리피디아를 사랑합니다. IQ 토큰 사용자로서, 이 네트워크에 참여할 분명한 인센티브가 있습니다."
 
 #. [InTheNews.InTheNews]
 #. defaultMessage is:
@@ -2206,7 +2206,7 @@ msgstr "부스트하여 투표력을 높이세요"
 #. Indexed
 #: public/messages/src/editor/plugins/metadata/metadata-modal.json
 msgid "Indexed"
-msgstr "색인 생성됨"
+msgstr "색인 생성함"
 
 #. [MobileHamburger.Info]
 #. defaultMessage is:
@@ -2319,7 +2319,7 @@ msgid ""
 "written two books about blockchain technology, including a textbook for "
 "Solidity developers on how to build decentralized applications on Ethereum."
 msgstr ""
-"케이다 아이얼은 캘리포니아 산타클라라 출신의 소프트웨어 엔지니어이다. 솔리디티 개발자를 대상으로 한 이더리움기반 탈중앙화 앱 관련 저서를 포함해 블록체인기술 관련 책을 두권 집필하였다."
+"케이다 아이얼은 캘리포니아 산타클라라 출신의 소프트웨어 엔지니어이다. 솔리디티 개발자를 대상으로한 이더리움기반 탈중앙화 앱 관련 저서를 포함해, 블록체인기술관련 책을 두권 집필하였다."
 
 #. [InfoboxModal.Label]
 #. defaultMessage is:
@@ -2345,7 +2345,7 @@ msgid ""
 "University. When he is not working on knowledge projects, he plays the Irish "
 "fiddle and homeschools his two boys."
 msgstr ""
-"래리생어는 지식 프로젝트 개발자입니다. 그의 가장 유명한 업적은 위키백과를 공동설립한 것입니다. 오하이오 주립대에서 철학박사 학위를 받았습니다. 여가 시간에는 아이리쉬 바이올린을 연주하고, 홈스쿨링으로 두 아들을 가르칩니다."
+"래리생어는 지식 프로젝트 개발자이다. 그의 가장 유명한 업적은 위키백과를 공동 설립한 것이다. 오하이오 주립대에서 철학박사 학위를 수여하였다. 여가 시간에는 아이리쉬 바이올린을 연주하고, 홈스쿨링으로 두 아들을 가르친다."
 
 #. [SearchCard.LastEdited]
 #. defaultMessage is:
@@ -2769,7 +2769,7 @@ msgstr "월"
 #. MOST RECENT
 #: public/messages/src/app/components/ActivityCards/index.json
 msgid "MOST RECENT"
-msgstr "최근 변경"
+msgstr "최근 편집"
 
 #. [ActivityCards.MyActivity]
 #. defaultMessage is:
@@ -3643,7 +3643,7 @@ msgstr "읽기"
 #: public/messages/src/app/containers/activity/activity.container.json
 #: public/messages/src/app/containers/dashboard/dashboard_component.json
 msgid "Recent Activity"
-msgstr "최근 활동"
+msgstr "활동"
 
 #. [Directory.RecentChats]
 #. defaultMessage is:
@@ -3683,7 +3683,7 @@ msgstr "ORE ID 인증 페이지로 리디렉션 중입니다"
 #: public/messages/src/app/components/Sidenav/index.json
 #: public/messages/src/editor/editor.container.json
 msgid "References"
-msgstr "참조"
+msgstr "인용"
 
 #. [SubmitVoteConfirmation.Reject]
 #. defaultMessage is:
@@ -3823,7 +3823,7 @@ msgid ""
 "integrate blockchain technology to an online knowledge base for the first "
 "time in history."
 msgstr ""
-"샘 카제미안은 이란계 미국인 출신의 인터넷 사업가이자 프로그래머이다. UCLA 재학시절, 그가 직접 만든 마이닝 기기를 기숙사에서 운영하는 것으로 크립토 업계에서의 여정을 시작하였다. 이 업계에 대한 비상한 열정으로, 블록체인 기술로서 온라인 지식기반을 세계 최초로 융합하는데 이르렀다."
+"샘 카제미안은 이란계 미국인 출신의 인터넷 사업가이자 프로그래머이다. UCLA 재학시절, 그가 직접 만든 마이닝 기기를 기숙사에서 운영하는 것으로 크립토 업계에서의 여정을 시작하였다. 이 업계에 대한 비상한 열정으로, 세계 최초로 블록체인 기술을 온라인 지식기반에 통합하였다."
 
 #. [SaveModalAgain.Save]
 #. defaultMessage is:
@@ -4049,7 +4049,7 @@ msgstr "예치됨"
 #. Start Contributing
 #: public/messages/src/app/containers/homepageContainer/homepage.container.json
 msgid "Start Contributing"
-msgstr "작성 시작"
+msgstr "새 위키 만들기"
 
 #. [Errors.StartContributingOn]
 #. defaultMessage is:
@@ -4343,7 +4343,7 @@ msgid ""
 "founded Everipedia at the age of 20, gaining experience in digital "
 "advertising, web development, and online gaming industries in the process."
 msgstr ""
-"테오도르 포셀리우스는 스웨덴 출신의 인터넷 사업자이자 프로그래머이다. 20살에 에브리피디아를 공동설립했다. 디지털 광고, 웹 개발, 온라인 게이밍 업계에 근무하였다."
+"테오도르 포셀리우스는 스웨덴 출신의 인터넷 사업자이자 프로그래머이다. 20살에 에브리피디아를 공동 설립했다. 디지털 광고, 웹 개발, 온라인 게이밍 업계에 근무하였다."
 
 #. [BoostBox.NoBoosts]
 #. defaultMessage is:
@@ -4366,7 +4366,7 @@ msgstr "최근 편집이 없습니다"
 #. There is no activity on this article.
 #: public/messages/src/app/components/Chat/ChatList.json
 msgid "There is no activity on this article."
-msgstr "최근 활동이 없습니다"
+msgstr "최근 활동이 없습니다. "
 
 #. [SaveModalAgain.ThereWasAnIssueRecording]
 #. defaultMessage is:
@@ -4406,7 +4406,7 @@ msgstr "사물"
 msgid ""
 "This is not the most recent version of this article. See the latest version "
 "here:"
-msgstr "이 글은 최근 편집이 아닙니다. 최근 편집은 여기를 확인하세요"
+msgstr "이 글은 최근 편집이 아닙니다. 최근 편집은 여기를 확인하세요."
 
 #. [EditorContainer.PageIsLocked]
 #. defaultMessage is:
@@ -4490,7 +4490,7 @@ msgid ""
 "Everipedia after graduating from UCLA with degrees in Molecular Biology, "
 "Biochemistry, and Neuroscience in 2011."
 msgstr ""
-"트래비스 무어는 이탈리안계 미국인 출신의 컴퓨터 프로그래머이다. 로스엔젤레스 근교의 다우전옥스에 살고 있는 엔젤 투자자이자 사업가이다. UCLA에서 분자 생물학을 전공한 후 에브리피디아를 공동설립하였다."
+"트래비스 무어는 이탈리안계 미국인 출신의 컴퓨터 프로그래머이다. 로스엔젤레스 근교의 다우전옥스에 살고 있는 엔젤 투자자이자 사업가이다. UCLA에서 분자 생물학을 전공한 후 에브리피디아를 공동 설립하였다."
 
 #. [NewPageTemplate.NPT_Person_Trivia]
 #. defaultMessage is:
@@ -4567,7 +4567,7 @@ msgstr "웹 주소 슬러그"
 #. URL Slug Alt
 #: public/messages/src/editor/plugins/metadata/metadata-modal.json
 msgid "URL Slug Alt"
-msgstr "웹주소 슬러그 Alt"
+msgstr "웹 주소 슬러그 Alt"
 
 #. [EditProfile.UndoChanges]
 #. defaultMessage is:
@@ -5020,7 +5020,7 @@ msgstr "메시지 작성"
 #. Write your message below to start the conversation
 #: public/messages/src/app/components/Chat/ChatList.json
 msgid "Write your message below to start the conversation"
-msgstr "메시지로 대화하세요"
+msgstr "메시지로 대화하세요."
 
 #. [MetadataNode.Yes]
 #. defaultMessage is:
@@ -5249,7 +5249,7 @@ msgstr "편집하기"
 #: public/messages/src/app/components/Chat/ChatItem.json
 #: public/messages/src/app/components/SubmitVote/ConfirmationModal.json
 msgid "edited"
-msgstr "편집됨"
+msgstr "편집함"
 
 #. [FileUploader.FileSizeTooBig]
 #. defaultMessage is:
@@ -5545,7 +5545,7 @@ msgstr "시작되었습니다"
 #: public/messages/src/app/components/Chat/ChatItem.json
 #: public/messages/src/app/components/SubmitVote/EditOverview.json
 msgid "words"
-msgstr "단어수"
+msgstr "단어 편집"
 
 #~ msgid "Account activity timeline"
 #~ msgstr "계정 활동"
@@ -5711,5 +5711,4 @@ msgstr "단어수"
 
 #~ msgid "Header.Login"
 #~ msgstr "헤더. 로그인"
-
 
