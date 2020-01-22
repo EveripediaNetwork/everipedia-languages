@@ -1,7 +1,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: \n"
-"POT-Creation-Date: 2019-11-25T22:10:07.335Z\n"
+"POT-Creation-Date: 2020-01-22T07:51:26.991Z\n"
 "PO-Revision-Date: \n"
 "Last-Translator: \n"
 "Language-Team: \n"
@@ -96,10 +96,14 @@ msgstr "一个知识的世界。"
 msgid "ALL TIME"
 msgstr "始终"
 
+#. [Footer.APIBy]
+#. defaultMessage is:
+#. API by
 #. [Index.APIBy]
 #. defaultMessage is:
 #. API by
 #: public/messages/src/app/components/Footer/index.json
+#: public/messages/src/app/components/welcome-modal/index.json
 msgid "API by"
 msgstr "API提供方"
 
@@ -117,12 +121,16 @@ msgstr "文章历史"
 msgid "ARTICLE VIEWS"
 msgstr "文章浏览"
 
+#. [SearchResults.Articles]
+#. defaultMessage is:
+#. ARTICLES
 #. [Stats.Articles]
 #. defaultMessage is:
 #. ARTICLES
 #. [Suggestions.Articles]
 #. defaultMessage is:
 #. ARTICLES
+#: public/messages/src/app/components/Search/SearchResults.json
 #: public/messages/src/app/containers/admin/admin.container.json
 #: public/messages/src/editor/components/mentions/suggestions.json
 msgid "ARTICLES"
@@ -146,7 +154,7 @@ msgstr "如所见"
 msgid "AVAILABLE BALANCE"
 msgstr "可用余额"
 
-#. [Index.About]
+#. [Footer.About]
 #. defaultMessage is:
 #. About
 #. [Header.About]
@@ -155,15 +163,19 @@ msgstr "可用余额"
 #. [MobileHamburger.About]
 #. defaultMessage is:
 #. About
+#. [Index.About]
+#. defaultMessage is:
+#. About
 #. [About.About]
 #. defaultMessage is:
 #. About
-#. [Header.AboutTwo]
+#. [Featured.AboutTwo]
 #. defaultMessage is:
 #. About
 #: public/messages/src/app/components/Footer/index.json
 #: public/messages/src/app/components/Header/index.json
 #: public/messages/src/app/components/Header/Mobile-Hamburger.json
+#: public/messages/src/app/components/welcome-modal/index.json
 #: public/messages/src/app/containers/about/about.container.json
 #: public/messages/src/app/containers/homepageContainer/featured.json
 msgid "About"
@@ -259,7 +271,7 @@ msgstr "现行投票"
 #. [MobileHamburger.Activity]
 #. defaultMessage is:
 #. Activity
-#. [Header.ActivityTwo]
+#. [Featured.ActivityTwo]
 #. defaultMessage is:
 #. Activity
 #: public/messages/src/app/components/Chat/index.json
@@ -272,11 +284,11 @@ msgstr "活动"
 #. [InfoboxModal.Add]
 #. defaultMessage is:
 #. Add
-#. [SectionMediaModal.AddEditURL.Add]
+#. [SectionEmbedModal.AddEditURL.Add]
 #. defaultMessage is:
 #. Add
 #: public/messages/src/editor/plugins/infobox/infobox-modal.json
-#: public/messages/src/editor/plugins/section-media-modal/panes/add-edit-url.json
+#: public/messages/src/editor/plugins/section-embed-modal/panes/add-edit-url.json
 msgid "Add"
 msgstr "添加"
 
@@ -290,7 +302,19 @@ msgstr "添加另一个"
 #. [CitationModal.AddCitation]
 #. defaultMessage is:
 #. Add Citation
+#. [CitationModal.AddEditFile.AddCitation]
+#. defaultMessage is:
+#. Add Citation
+#. [CitationModal.AddEditISBN.AddCitation]
+#. defaultMessage is:
+#. Add Citation
+#. [CitationModal.AddEditURL.AddCitation]
+#. defaultMessage is:
+#. Add Citation
 #: public/messages/src/editor/plugins/citation-modal/citation-modal.json
+#: public/messages/src/editor/plugins/citation-modal/panes/add-edit-file.json
+#: public/messages/src/editor/plugins/citation-modal/panes/add-edit-isbn.json
+#: public/messages/src/editor/plugins/citation-modal/panes/add-edit-url.json
 msgid "Add Citation"
 msgstr "添加引文"
 
@@ -308,11 +332,11 @@ msgstr "添加第一类"
 msgid "Add Image or Video to Media Gallery"
 msgstr "将图像或视频添加到媒体库"
 
-#. [SectionMediaModal.AddInlineImage]
+#. [SectionMediaModal.AddInlineObject]
 #. defaultMessage is:
-#. Add Inline Image
+#. Add Inline Object
 #: public/messages/src/editor/plugins/section-media-modal/section-media-modal.json
-msgid "Add Inline Image"
+msgid "Add Inline Object"
 msgstr "添加内联图像"
 
 #. [InfoboxModal.AddLabel]
@@ -363,22 +387,10 @@ msgstr "添加相关页面"
 msgid "Add and Add Another"
 msgstr "添加并添加另一个"
 
-#. [CitationModal.AddEditFile.AddAndInsert]
+#. [SectionEmbedModal.AddEditURL.AddAndInsert]
 #. defaultMessage is:
 #. Add and Insert
-#. [CitationModal.AddEditISBN.AddAndInsert]
-#. defaultMessage is:
-#. Add and Insert
-#. [CitationModal.AddEditURL.AddAndInsert]
-#. defaultMessage is:
-#. Add and Insert
-#. [SectionMediaModal.AddEditURL.AddAndInsert]
-#. defaultMessage is:
-#. Add and Insert
-#: public/messages/src/editor/plugins/citation-modal/panes/add-edit-file.json
-#: public/messages/src/editor/plugins/citation-modal/panes/add-edit-isbn.json
-#: public/messages/src/editor/plugins/citation-modal/panes/add-edit-url.json
-#: public/messages/src/editor/plugins/section-media-modal/panes/add-edit-url.json
+#: public/messages/src/editor/plugins/section-embed-modal/panes/add-edit-url.json
 msgid "Add and Insert"
 msgstr "添加和插入"
 
@@ -392,10 +404,14 @@ msgstr "添加自定义标题（可选）"
 #. [CitationModdal.Title]
 #. defaultMessage is:
 #. Add or edit a citation
+#. [SectionEmbedModal.Title]
+#. defaultMessage is:
+#. Add or edit a citation
 #. [SectionMediaModal.Title]
 #. defaultMessage is:
 #. Add or edit a citation
 #: public/messages/src/editor/plugins/citation-modal/citation-modal.json
+#: public/messages/src/editor/plugins/section-embed-modal/section-embed-modal.json
 #: public/messages/src/editor/plugins/section-media-modal/section-media-modal.json
 msgid "Add or edit a citation"
 msgstr "添加或编辑引文"
@@ -407,21 +423,6 @@ msgstr "添加或编辑引文"
 msgid "Add or edit the main image"
 msgstr "添加或编辑主图像"
 
-#. [CitationModal.AddEditFile.AddWithoutInsert]
-#. defaultMessage is:
-#. Add without Inserting
-#. [CitationModal.AddEditISBN.AddWithoutInsert]
-#. defaultMessage is:
-#. Add without Inserting
-#. [CitationModal.AddEditURL.AddWithoutInsert]
-#. defaultMessage is:
-#. Add without Inserting
-#: public/messages/src/editor/plugins/citation-modal/panes/add-edit-file.json
-#: public/messages/src/editor/plugins/citation-modal/panes/add-edit-isbn.json
-#: public/messages/src/editor/plugins/citation-modal/panes/add-edit-url.json
-msgid "Add without Inserting"
-msgstr "添加而不插入"
-
 #. [CreatePage.Description]
 #. defaultMessage is:
 #. Add your contribution to the world’s most universal knowledge base. You can create an article about anything.
@@ -432,13 +433,9 @@ msgid ""
 msgstr ""
 "为世界上最为广知的知识库贡献自己的力量。您可以写一篇关于任何事物的文章。"
 
-#. [MediaGallery.AddingMediaMakes]
-#. defaultMessage is:
-#. Adding media makes an article more interactive and engaging.
 #. [SectionMediaModal.AddingMediaMakes]
 #. defaultMessage is:
 #. Adding media makes an article more interactive and engaging.
-#: public/messages/src/editor/plugins/media-gallery/media-gallery-modal.json
 #: public/messages/src/editor/plugins/section-media-modal/section-media-modal.json
 msgid "Adding media makes an article more interactive and engaging."
 msgstr "添加媒体使文章更具互动性和吸引力。"
@@ -600,6 +597,35 @@ msgstr "成为编辑"
 msgid "Birthday"
 msgstr "生日"
 
+#. [Footer.Blog]
+#. defaultMessage is:
+#. Blog
+#. [Index.Blog]
+#. defaultMessage is:
+#. Blog
+#. [Header.Blog]
+#. defaultMessage is:
+#. Blog
+#. [MobileHamburger.Blog]
+#. defaultMessage is:
+#. Blog
+#. [Featured.Blog]
+#. defaultMessage is:
+#. Blog
+#: public/messages/src/app/components/Footer/index.json
+#: public/messages/src/app/components/Header/index.json
+#: public/messages/src/app/components/Header/Mobile-Hamburger.json
+#: public/messages/src/app/containers/homepageContainer/featured.json
+msgid "Blog"
+msgstr "博客"
+
+#. [CitationModal.BookISBN]
+#. defaultMessage is:
+#. Book ISBN
+#: public/messages/src/editor/plugins/citation-modal/citation-modal.json
+msgid "Book ISBN"
+msgstr "预订ISBN"
+
 #. [BoostBox.Boost]
 #. defaultMessage is:
 #. Boost
@@ -646,7 +672,11 @@ msgstr "加速/投票能力"
 #. [CategoryBox.Categories]
 #. defaultMessage is:
 #. CATEGORIES
+#. [SearchResults.Categories]
+#. defaultMessage is:
+#. CATEGORIES
 #: public/messages/src/app/components/ArticleComponent/CategoryBox.json
+#: public/messages/src/app/components/Search/SearchResults.json
 msgid "CATEGORIES"
 msgstr "类别"
 
@@ -696,10 +726,19 @@ msgstr "引文"
 #. [SaveModalAgain.Cancel]
 #. defaultMessage is:
 #. Cancel
-#. [SectionMediaModal.AddEditURL.Cancel]
+#. [SectionEmbedModal.AddEditURL.Cancel]
 #. defaultMessage is:
 #. Cancel
-#. [SectionMediaModal.InsertExisting.Cancel]
+#. [SectionEmbedModal.Audio.Cancel]
+#. defaultMessage is:
+#. Cancel
+#. [SectionEmbedModal.ExistingMedia.Cancel]
+#. defaultMessage is:
+#. Cancel
+#. [SectionEmbedModal.ImagesPane.Images.Cancel]
+#. defaultMessage is:
+#. Cancel
+#. [SectionEmbedModal.VideosPane.Images.Cancel]
 #. defaultMessage is:
 #. Cancel
 #. [FileUploader.Cancel]
@@ -720,8 +759,11 @@ msgstr "引文"
 #: public/messages/src/editor/plugins/merge/merge-modal.json
 #: public/messages/src/editor/plugins/metadata/metadata-modal.json
 #: public/messages/src/editor/plugins/save/save-modal.json
-#: public/messages/src/editor/plugins/section-media-modal/panes/add-edit-url.json
-#: public/messages/src/editor/plugins/section-media-modal/panes/insert-existing.json
+#: public/messages/src/editor/plugins/section-embed-modal/panes/add-edit-url.json
+#: public/messages/src/editor/plugins/section-embed-modal/panes/audio.json
+#: public/messages/src/editor/plugins/section-embed-modal/panes/existing-media.json
+#: public/messages/src/editor/plugins/section-embed-modal/panes/images.json
+#: public/messages/src/editor/plugins/section-embed-modal/panes/videos.json
 #: public/messages/src/shared/inputs/image-uploader/file-uploader.component.json
 #: public/messages/src/shared/inputs/image-uploader/image-uploader.component.json
 msgid "Cancel"
@@ -1058,14 +1100,18 @@ msgstr "恭喜，您的投票已经被记录到本文中。"
 msgid "Connect this page to another language variant of it"
 msgstr "将此页面连接到其他语言的对应版本"
 
-#. [Index.Contact]
+#. [Footer.Contact]
 #. defaultMessage is:
 #. Contact
 #. [MobileHamburger.Contact]
 #. defaultMessage is:
 #. Contact
+#. [Index.Contact]
+#. defaultMessage is:
+#. Contact
 #: public/messages/src/app/components/Footer/index.json
 #: public/messages/src/app/components/Header/Mobile-Hamburger.json
+#: public/messages/src/app/components/welcome-modal/index.json
 msgid "Contact"
 msgstr "联系方式"
 
@@ -1133,7 +1179,7 @@ msgstr "国家"
 #. [SearchResults.CreateArticle]
 #. defaultMessage is:
 #. Create New Wiki
-#. [Header.CreateArticleTwo]
+#. [Featured.CreateArticleTwo]
 #. defaultMessage is:
 #. Create New Wiki
 #: public/messages/src/app/components/create-new-page/index.json
@@ -1166,6 +1212,13 @@ msgstr "创建"
 #. Creative Work / Art
 #: public/messages/src/editor/plugins/metadata/metadata-modal.json
 msgid "Creative Work / Art"
+msgstr "创意工作/艺术"
+
+#. [SearchResults.CreativeWorks]
+#. defaultMessage is:
+#. Creative Works
+#: public/messages/src/app/components/Search/SearchResults.json
+msgid "Creative Works"
 msgstr "创意工作/艺术"
 
 #. [NewPageTemplate.NPT_CreativeWork_Creator]
@@ -1242,6 +1295,30 @@ msgstr "去中心化"
 msgid "Delete Message"
 msgstr "删除消息"
 
+#. [CitationEditorNode.Delete]
+#. defaultMessage is:
+#. Delete?
+#. [InfoboxEditorNode.Delete]
+#. defaultMessage is:
+#. Delete?
+#. [MainPhotoEditorNode.Delete]
+#. defaultMessage is:
+#. Delete?
+#. [EditorMediaGallery.Delete]
+#. defaultMessage is:
+#. Delete?
+#. [SectionEditorNode.Delete]
+#. defaultMessage is:
+#. Delete?
+#: public/messages/src/editor/plugins/citation/citation.node.json
+#: public/messages/src/editor/plugins/infobox/infobox-li.json
+#: public/messages/src/editor/plugins/main-photo/main-photo.node.json
+#: public/messages/src/editor/plugins/media-gallery/media-gallery.node.json
+#: public/messages/src/editor/plugins/section-embed/section-embed.node.json
+
+msgid "Delete?"
+msgstr "删除该标签"
+
 #. [About.Democratic]
 #. defaultMessage is:
 #. Democratic
@@ -1298,7 +1375,7 @@ msgstr "显示名称必须超过3个字符"
 #. [Index.PrivacyCalifornia]
 #. defaultMessage is:
 #. Do Not Sell My Personal Information
-#: public/messages/src/app/components/Footer/index.json
+#: public/messages/src/app/components/welcome-modal/index.json
 msgid "Do Not Sell My Personal Information"
 msgstr "不要出售我的个人信息"
 
@@ -1322,6 +1399,18 @@ msgstr "编者"
 #: public/messages/src/app/components/ActivityCards/index.json
 msgid "EDITS"
 msgstr "编辑"
+
+#. [SectionEmbedModal.ImagesPane.EmbedSize]
+#. defaultMessage is:
+#. EMBED SIZE
+#. [SectionEmbedModal.VideosPane.EmbedSize]
+#. defaultMessage is:
+#. EMBED SIZE
+#: public/messages/src/editor/plugins/section-embed-modal/panes/images.json
+#: public/messages/src/editor/plugins/section-embed-modal/panes/videos.json
+
+msgid "EMBED SIZE"
+msgstr "嵌入尺寸"
 
 #. [SubmitBoostModal.ExistingBoost]
 #. defaultMessage is:
@@ -1378,7 +1467,7 @@ msgstr "通过贡献获得奖励"
 #. [MetadataModal.Edit]
 #. defaultMessage is:
 #. Edit
-#. [SectionMediaModal.AddEditURL.Edit]
+#. [SectionEmbedModal.AddEditURL.Edit]
 #. defaultMessage is:
 #. Edit
 #. [FileUploader.Edit]
@@ -1396,7 +1485,7 @@ msgstr "通过贡献获得奖励"
 #: public/messages/src/editor/plugins/citation-modal/panes/add-edit-url.json
 #: public/messages/src/editor/plugins/infobox/infobox-modal.json
 #: public/messages/src/editor/plugins/metadata/metadata-modal.json
-#: public/messages/src/editor/plugins/section-media-modal/panes/add-edit-url.json
+#: public/messages/src/editor/plugins/section-embed-modal/panes/add-edit-url.json
 #: public/messages/src/shared/inputs/image-uploader/file-uploader.component.json
 #: public/messages/src/shared/inputs/image-uploader/image-uploader.component.json
 msgid "Edit"
@@ -1491,9 +1580,13 @@ msgstr "编辑维基百科导入页面的功能目前已被禁用，但预计将
 msgid "Editor"
 msgstr "编者"
 
+#. [DashboardComponent.Edits]
+#. defaultMessage is:
+#. Edits
 #. [Leaderboard.Edits]
 #. defaultMessage is:
 #. Edits
+#: public/messages/src/app/containers/dashboard/dashboard_component.json
 #: public/messages/src/app/containers/homepageContainer/leaderboard.json
 msgid "Edits"
 msgstr "编辑"
@@ -1541,6 +1634,34 @@ msgstr "电子邮件功能即将推出"
 msgid "Email address"
 msgstr "电子邮件地址"
 
+#. [SectionEmbedModal.MediaTwo]
+#. defaultMessage is:
+#. Embed
+#: public/messages/src/editor/plugins/section-embed/section-embed.button.json
+msgid "Embed"
+msgstr "嵌入"
+
+#. [SectionEmbedModal.EmbedObject]
+#. defaultMessage is:
+#. Embed Object
+#: public/messages/src/editor/plugins/section-embed-modal/section-embed-modal.json
+
+msgid "Embed Object"
+msgstr "嵌入物件"
+
+#. [MediaGallery.EmbeddingObjectsMakes]
+#. defaultMessage is:
+#. Embedding objects makes an article more interactive and engaging.
+#. [SectionEmbedModal.EmbeddingObjectsMakes]
+#. defaultMessage is:
+#. Embedding objects makes an article more interactive and engaging.
+#: public/messages/src/editor/plugins/media-gallery/media-gallery-modal.json
+#: public/messages/src/editor/plugins/section-embed-modal/section-embed-modal.json
+
+#| msgid "Adding media makes an article more interactive and engaging."
+msgid "Embedding objects makes an article more interactive and engaging."
+msgstr "添加媒体使文章更具互动性和吸引力。"
+
 #. [NewPageTemplate.NPT_Event_EndDate]
 #. defaultMessage is:
 #. End Date
@@ -1558,22 +1679,22 @@ msgstr "已结束"
 #. [CitationModal.AddEditURL.EnterAURL]
 #. defaultMessage is:
 #. Enter a URL
-#. [SectionMediaModal.AddEditURL.EnterAURL]
+#. [SectionEmbedModal.AddEditURL.EnterAURL]
 #. defaultMessage is:
 #. Enter a URL
 #: public/messages/src/editor/plugins/citation-modal/panes/add-edit-url.json
-#: public/messages/src/editor/plugins/section-media-modal/panes/add-edit-url.json
+#: public/messages/src/editor/plugins/section-embed-modal/panes/add-edit-url.json
 msgid "Enter a URL"
 msgstr "输入URL"
 
 #. [CitationModal.AddEditURL.EnterADescription]
 #. defaultMessage is:
 #. Enter a description
-#. [SectionMediaModal.AddEditURL.EnterADescription]
+#. [SectionEmbedModal.AddEditURL.EnterADescription]
 #. defaultMessage is:
 #. Enter a description
 #: public/messages/src/editor/plugins/citation-modal/panes/add-edit-url.json
-#: public/messages/src/editor/plugins/section-media-modal/panes/add-edit-url.json
+#: public/messages/src/editor/plugins/section-embed-modal/panes/add-edit-url.json
 msgid "Enter a description"
 msgstr "输入一个描述"
 
@@ -1646,17 +1767,39 @@ msgstr "种族"
 msgid "Event"
 msgstr "事件"
 
+#. [SearchResults.Events]
+#. defaultMessage is:
+#. Events
+#: public/messages/src/app/components/Search/SearchResults.json
+msgid "Events"
+msgstr "大事记"
+
+#. [Footer.Everipedia]
+#. defaultMessage is:
+#. Everipedia
 #. [Index.Everipedia]
 #. defaultMessage is:
 #. Everipedia
 #: public/messages/src/app/components/Footer/index.json
+#: public/messages/src/app/components/welcome-modal/index.json
 msgid "Everipedia"
+msgstr "Everipedia"
+
+#. [Blog.EveripediaBlog]
+#. defaultMessage is:
+#. Everipedia Blog
+#: public/messages/src/app/containers/blog/blog.container.json
+msgid "Everipedia Blog"
 msgstr "Everipedia"
 
 #. [Directory.EveripediaChat]
 #. defaultMessage is:
 #. Everipedia Chat
+#. [Chat.EveripediaChat]
+#. defaultMessage is:
+#. Everipedia Chat
 #: public/messages/src/app/components/Chat/Directory.json
+#: public/messages/src/app/components/Chat/index.json
 msgid "Everipedia Chat"
 msgstr "Everipedia聊天"
 
@@ -1722,6 +1865,23 @@ msgstr ""
 "大的百科全书之一，但这个成就并没有让我们停下继续前行的脚步。今天就加入我们"
 "吧。"
 
+#. [SectionMediaModal.Existing]
+#. defaultMessage is:
+#. Existing
+#: public/messages/src/editor/plugins/section-media-modal/section-media-modal.json
+
+#| msgid "Insert Existing"
+msgid "Existing"
+msgstr "现有加速"
+
+#. [SectionEmbedModal.ExistingMedia]
+#. defaultMessage is:
+#. Existing Media
+#: public/messages/src/editor/plugins/section-embed-modal/section-embed-modal.json
+
+msgid "Existing Media"
+msgstr "现有媒体"
+
 #. [LastBlock.ExploreYourCuriosity]
 #. defaultMessage is:
 #. Explore your curiosity.
@@ -1740,14 +1900,18 @@ msgstr "探索您的好奇心。"
 msgid "Explore your curiosity..."
 msgstr "探索您的好奇心..."
 
-#. [Index.FAQ]
+#. [Footer.FAQ]
 #. defaultMessage is:
 #. FAQ
 #. [MobileHamburger.FAQ]
 #. defaultMessage is:
 #. FAQ
+#. [Index.FAQ]
+#. defaultMessage is:
+#. FAQ
 #: public/messages/src/app/components/Footer/index.json
 #: public/messages/src/app/components/Header/Mobile-Hamburger.json
+#: public/messages/src/app/components/welcome-modal/index.json
 msgid "FAQ"
 msgstr "常见问题解答"
 
@@ -1837,6 +2001,14 @@ msgstr "文件"
 msgid "Filter citations"
 msgstr "过滤引文"
 
+#. [ChatItem.FinalTally]
+#. defaultMessage is:
+#. Final Tally:
+#: public/messages/src/app/components/Chat/ChatItem.json
+
+msgid "Final Tally:"
+msgstr "最终提示："
+
 #. [About.FinancialIncentive]
 #. defaultMessage is:
 #. Financial Incentive
@@ -1847,10 +2019,14 @@ msgstr "财务激励"
 #. [ActivityCard.FirstEdit]
 #. defaultMessage is:
 #. First Edit
+#. [ChatItem.FirstEdit]
+#. defaultMessage is:
+#. First Edit
 #. [EditOverview.FirstEditTwo]
 #. defaultMessage is:
 #. First Edit
 #: public/messages/src/app/components/ActivityCards/ActivityCard.json
+#: public/messages/src/app/components/Chat/ChatItem.json
 #: public/messages/src/app/components/SubmitVote/EditOverview.json
 msgid "First Edit"
 msgstr "第一次编辑"
@@ -1939,6 +2115,9 @@ msgstr "生成的唯一URL"
 msgid "Genre"
 msgstr "类型"
 
+#. [Footer.GetIQ]
+#. defaultMessage is:
+#. Get IQ
 #. [Index.GetIQ]
 #. defaultMessage is:
 #. Get IQ
@@ -1949,6 +2128,7 @@ msgstr "类型"
 #. defaultMessage is:
 #. Get IQ
 #: public/messages/src/app/components/Footer/index.json
+#: public/messages/src/app/components/welcome-modal/index.json
 #: public/messages/src/app/containers/about/last-block.json
 #: public/messages/src/app/containers/iq-info/iq-info.container.json
 msgid "Get IQ"
@@ -2083,12 +2263,26 @@ msgstr ""
 msgid "IN THE NEWS"
 msgstr "新闻动态"
 
+#. [Leaderboard.IQ]
+#. defaultMessage is:
+#. IQ
+#: public/messages/src/app/containers/homepageContainer/leaderboard.json
+msgid "IQ"
+msgstr "IQ"
+
 #. [Stats.IQEarned]
 #. defaultMessage is:
 #. IQ EARNED
 #: public/messages/src/app/containers/admin/admin.container.json
 msgid "IQ EARNED"
 msgstr "IQ已赚取"
+
+#. [WhatIsIQ.IQFAQ]
+#. defaultMessage is:
+#. IQ FAQ
+#: public/messages/src/app/containers/dashboard/what_is_iq.json
+msgid "IQ FAQ"
+msgstr "IQ 常见问题解答"
 
 #. [Stats.IqHolders]
 #. defaultMessage is:
@@ -2101,10 +2295,14 @@ msgstr "IQ已赚取"
 msgid "IQ HOLDERS"
 msgstr "IQ 持有人"
 
+#. [Footer.IQToken]
+#. defaultMessage is:
+#. IQ Token
 #. [Index.IQToken]
 #. defaultMessage is:
 #. IQ Token
 #: public/messages/src/app/components/Footer/index.json
+#: public/messages/src/app/components/welcome-modal/index.json
 msgid "IQ Token"
 msgstr "IQ代币"
 
@@ -2119,6 +2317,23 @@ msgid ""
 msgstr ""
 "IQ代币使我们能够跟踪和奖励为Everipedia做出贡献的人们，随着平台价值的增长，参"
 "与构建平台的人们将共同分享它的成功。"
+
+#. [WhatIsIQ.Description]
+#. defaultMessage is:
+#. IQ tokens are used to incentivize users to create and maintain content within the Everipedia
+#. Network. Contributors are rewarded with IQ Tokens for creating or editing articles or voting on
+#. proposed content.
+#: public/messages/src/app/containers/dashboard/what_is_iq.json
+msgid ""
+"IQ tokens are used to incentivize users to create and maintain content "
+"within the Everipedia\n"
+"                    Network. Contributors are rewarded with IQ Tokens for "
+"creating or editing articles or voting on\n"
+"                    proposed content."
+msgstr ""
+"IQ 令牌用于激励用户创建和维护伊夫里皮迪亚内的内容\n"
+"                    网络。贡献者因创建或编辑文章或投票而获得 IQ 令牌奖励\n"
+"                    建议的内容。"
 
 #. [IQInfo.IQTokensPower]
 #. defaultMessage is:
@@ -2143,13 +2358,6 @@ msgstr ""
 "                                文章的编辑。贡献者将以IQ代币的形式获得奖励。"
 "此外，每个\n"
 "                                代币持有人还可以投票决定系统的升级和修改。"
-
-#. [CitationModal.ISBNBook]
-#. defaultMessage is:
-#. ISBN (Book)
-#: public/messages/src/editor/plugins/citation-modal/citation-modal.json
-msgid "ISBN (Book)"
-msgstr "国际标准书号（图书）"
 
 #. [MergeModalAgain.IfItIsRejected]
 #. defaultMessage is:
@@ -2226,6 +2434,19 @@ msgstr "信息框"
 msgid "Information"
 msgstr "信息"
 
+#. [SectionEmbedModal.ImagesPane.Insert]
+#. defaultMessage is:
+#. Insert
+#. [SectionEmbedModal.VideosPane.Insert]
+#. defaultMessage is:
+#. Insert
+#: public/messages/src/editor/plugins/section-embed-modal/panes/images.json
+#: public/messages/src/editor/plugins/section-embed-modal/panes/videos.json
+
+#| msgid "Insert New"
+msgid "Insert"
+msgstr "在上面插入"
+
 #. [TableMenu.InsertAbove]
 #. defaultMessage is:
 #. Insert Above
@@ -2247,9 +2468,13 @@ msgstr "在下面插入"
 msgid "Insert Existing"
 msgstr "插入现有内容中"
 
+#. [SectionEmbedModal.InsertFromMediaGallery]
+#. defaultMessage is:
+#. Insert From Media Gallery
 #. [SectionMediaModal.InsertFromMediaGallery]
 #. defaultMessage is:
 #. Insert From Media Gallery
+#: public/messages/src/editor/plugins/section-embed-modal/section-embed-modal.json
 #: public/messages/src/editor/plugins/section-media-modal/section-media-modal.json
 msgid "Insert From Media Gallery"
 msgstr "从媒体库插入"
@@ -2334,6 +2559,17 @@ msgstr "标签"
 msgid "Language"
 msgstr "语言"
 
+#. [SectionEmbedModal.ImagesPane.Large]
+#. defaultMessage is:
+#. Large
+#. [SectionEmbedModal.VideosPane.Large]
+#. defaultMessage is:
+#. Large
+#: public/messages/src/editor/plugins/section-embed-modal/panes/images.json
+#: public/messages/src/editor/plugins/section-embed-modal/panes/videos.json
+msgid "Large"
+msgstr "大"
+
 #. [TeamInfo.LarrySangerBio]
 #. defaultMessage is:
 #. Larry Sanger is a knowledge project developer; his claim to fame is that he is the co-founder of Wikipedia. He has a Ph.D. in Philosophy from Ohio State University. When he is not working on knowledge projects, he plays the Irish fiddle and homeschools his two boys.
@@ -2369,11 +2605,11 @@ msgstr "上次修改时间"
 msgid "Latest from our blog"
 msgstr "我们的最新博客"
 
-#. [Leaderboard.Leaderboard]
+#. [Leaderboard.LeaderboardOf]
 #. defaultMessage is:
-#. Leaderboard
+#. Leaderboard of
 #: public/messages/src/app/containers/homepageContainer/leaderboard.json
-msgid "Leaderboard"
+msgid "Leaderboard of"
 msgstr "排行榜"
 
 #. [ChatList.LearnMore]
@@ -2403,12 +2639,16 @@ msgstr "了解更多"
 #. [MediaGallery.LearnHow]
 #. defaultMessage is:
 #. Learn how
+#. [SectionEmbedModal.LearnHow]
+#. defaultMessage is:
+#. Learn how
 #. [SectionMediaModal.LearnHow]
 #. defaultMessage is:
 #. Learn how
 #: public/messages/src/app/components/Boost/SubmitBoostModal.json
 #: public/messages/src/app/components/SubmitVote/ConfirmationModal.json
 #: public/messages/src/editor/plugins/media-gallery/media-gallery-modal.json
+#: public/messages/src/editor/plugins/section-embed-modal/section-embed-modal.json
 #: public/messages/src/editor/plugins/section-media-modal/section-media-modal.json
 msgid "Learn how"
 msgstr "了解方法"
@@ -2475,6 +2715,13 @@ msgstr "列表"
 #: public/messages/src/editor/plugins/metadata/metadata-modal.json
 msgid "List / Ranking"
 msgstr "列表/排名"
+
+#. [SearchResults.Lists]
+#. defaultMessage is:
+#. Lists
+#: public/messages/src/app/components/Search/SearchResults.json
+msgid "Lists"
+msgstr "列表"
 
 #. [About.CensorshipResistantDetail]
 #. defaultMessage is:
@@ -2640,13 +2887,6 @@ msgstr "退出"
 msgid "Login"
 msgstr "登录"
 
-#. [Errors.LoginThree]
-#. defaultMessage is:
-#. Login / Create Account
-#: public/messages/src/app/utils/errors.json
-msgid "Login / Create Account"
-msgstr "登录/创建帐户"
-
 #. [Directory.LoginToChat]
 #. defaultMessage is:
 #. Login to Chat
@@ -2781,6 +3021,13 @@ msgstr "我的活动"
 msgid "MY EDITS"
 msgstr "我的编辑"
 
+#. [ActivityCards.MyVotes]
+#. defaultMessage is:
+#. MY VOTES
+#: public/messages/src/app/components/ActivityCards/index.json
+msgid "MY VOTES"
+msgstr "投票数"
+
 #. [SubmitVote.MakeAnEdit]
 #. defaultMessage is:
 #. Make an Edit
@@ -2809,15 +3056,7 @@ msgstr "最大文件大小：5mb，接受："
 #. [CommentUtils.Media]
 #. defaultMessage is:
 #. Media
-#. [SectionMediaModal.Media]
-#. defaultMessage is:
-#. Media
-#. [SectionMediaModal.MediaTwo]
-#. defaultMessage is:
-#. Media
 #: public/messages/src/app/utils/comment-utils.json
-#: public/messages/src/editor/plugins/section-media-modal/index.json
-#: public/messages/src/editor/plugins/section-media/section-media.button.json
 msgid "Media"
 msgstr "媒体"
 
@@ -2837,6 +3076,24 @@ msgstr "医学/生物学"
 #: public/messages/src/editor/utils/editing-utils/template-packs/medical-entity.json
 msgid "Medical Code"
 msgstr "医疗规范"
+
+#. [SearchResults.MedicalEntities]
+#. defaultMessage is:
+#. Medical Entities
+#: public/messages/src/app/components/Search/SearchResults.json
+msgid "Medical Entities"
+msgstr "医疗规范"
+
+#. [SectionEmbedModal.ImagesPane.Medium]
+#. defaultMessage is:
+#. Medium
+#. [SectionEmbedModal.VideosPane.Medium]
+#. defaultMessage is:
+#. Medium
+#: public/messages/src/editor/plugins/section-embed-modal/panes/images.json
+#: public/messages/src/editor/plugins/section-embed-modal/panes/videos.json
+msgid "Medium"
+msgstr "中"
 
 #. [ThirdBlock.MeetOurTeam]
 #. defaultMessage is:
@@ -2954,6 +3211,13 @@ msgstr "国籍"
 msgid "New Article"
 msgstr "新文章"
 
+#. [SectionEmbedModal.NewMedia]
+#. defaultMessage is:
+#. New Media
+#: public/messages/src/editor/plugins/section-embed-modal/section-embed-modal.json
+msgid "New Media"
+msgstr "新介质"
+
 #. [MetadataNode.No]
 #. defaultMessage is:
 #. No
@@ -3027,6 +3291,19 @@ msgstr "无可用的公开个人资料信息"
 #: public/messages/src/app/components/SubmitVote/index.json
 msgid "No result returned"
 msgstr "无返回结果"
+
+#. [MergeModalAgain.NoTransactionID]
+#. defaultMessage is:
+#. No transaction ID
+#. [SaveModalAgain.NoTransactionID]
+#. defaultMessage is:
+#. No transaction ID
+#: public/messages/src/editor/plugins/merge/merge-modal.json
+#: public/messages/src/editor/plugins/save/save-modal.json
+
+#| msgid "View Transaction"
+msgid "No transaction ID"
+msgstr "浏览交易记录"
 
 #. [Tooltips.NoVotes]
 #. defaultMessage is:
@@ -3148,6 +3425,13 @@ msgstr "组织"
 msgid "Organization / Company / Institution"
 msgstr "组织/公司/机构"
 
+#. [SearchResults.Organizations]
+#. defaultMessage is:
+#. Organizations
+#: public/messages/src/app/components/Search/SearchResults.json
+msgid "Organizations"
+msgstr "组织"
+
 #. [NewPageTemplate.NPT_Event_Organizers]
 #. defaultMessage is:
 #. Organizer(s)
@@ -3190,12 +3474,20 @@ msgstr "我们的全球办事处"
 #. embraces grand challenges. At Everipedia, we are fortunate to have people with deep experience
 #. and knowledge in both the education and blockchain industry.
 #: public/messages/src/app/containers/about/third-block.json
+
+#| msgid ""
+#| "Our mission to build the world’s greatest encyclopedia requires a skilled "
+#| "executive team that\n"
+#| "\t\t\t\t\t\tembraces grand challenges. At Everipedia, we are fortunate to "
+#| "have people with deep experience\n"
+#| "\t\t\t\t\t\tand knowledge in both the education and blockchain industry."
 msgid ""
 "Our mission to build the world’s greatest encyclopedia requires a skilled "
 "executive team that\n"
-"\t\t\t\t\t\tembraces grand challenges. At Everipedia, we are fortunate to "
-"have people with deep experience\n"
-"\t\t\t\t\t\tand knowledge in both the education and blockchain industry."
+"                        embraces grand challenges. At Everipedia, we are "
+"fortunate to have people with deep experience\n"
+"                        and knowledge in both the education and blockchain "
+"industry."
 msgstr ""
 "我们的使命是建立世界上最伟大的百科全书。在前行的道路上，我们需要一个成熟的执"
 "行团队\n"
@@ -3226,6 +3518,13 @@ msgstr "覆盖文字？"
 #: public/messages/src/app/containers/homepageContainer/recentPopularContent.json
 msgid "POPULAR"
 msgstr "热门"
+
+#. [SearchResults.Profiles]
+#. defaultMessage is:
+#. PROFILES
+#: public/messages/src/app/components/Search/SearchResults.json
+msgid "PROFILES"
+msgstr "个人资料"
 
 #. [MetadataModal.PageNote]
 #. defaultMessage is:
@@ -3269,12 +3568,26 @@ msgstr "页面已删除。"
 msgid "Page type"
 msgstr "页面类型"
 
+#. [ArticleComponent.Pageviews]
+#. defaultMessage is:
+#. Pageviews
+#: public/messages/src/app/components/ArticleComponent/index.json
+msgid "Pageviews"
+msgstr "浏览量"
+
 #. [Chat.Participants]
 #. defaultMessage is:
 #. Participants
 #: public/messages/src/app/components/Chat/messages.json
 msgid "Participants"
 msgstr "参与者"
+
+#. [SearchResults.People]
+#. defaultMessage is:
+#. People
+#: public/messages/src/app/components/Search/SearchResults.json
+msgid "People"
+msgstr "人"
 
 #. [NewPageTemplate.NPT_Event_Performers]
 #. defaultMessage is:
@@ -3342,6 +3655,13 @@ msgstr "地点/位置"
 msgid "Place of Birth"
 msgstr "出生地"
 
+#. [SearchResults.Places]
+#. defaultMessage is:
+#. Places
+#: public/messages/src/app/components/Search/SearchResults.json
+msgid "Places"
+msgstr "地方"
+
 #. [SaveModalAgain.PleaseAddAtLeastOne]
 #. defaultMessage is:
 #. Please add at least one citation
@@ -3363,11 +3683,11 @@ msgstr "请开始输入..."
 #. [CitationModal.AddEditURL.PleaseEnterAURL]
 #. defaultMessage is:
 #. Please enter a URL
-#. [SectionMediaModal.AddEditURL.PleaseEnterAURL]
+#. [SectionEmbedModal.AddEditURL.PleaseEnterAURL]
 #. defaultMessage is:
 #. Please enter a URL
 #: public/messages/src/editor/plugins/citation-modal/panes/add-edit-url.json
-#: public/messages/src/editor/plugins/section-media-modal/panes/add-edit-url.json
+#: public/messages/src/editor/plugins/section-embed-modal/panes/add-edit-url.json
 msgid "Please enter a URL"
 msgstr "请输入URL"
 
@@ -3485,10 +3805,14 @@ msgstr "请重试"
 msgid "Popular Chats"
 msgstr "热门聊天"
 
+#. [Footer.PoweredBy]
+#. defaultMessage is:
+#. Powered by
 #. [Index.PoweredBy]
 #. defaultMessage is:
 #. Powered by
 #: public/messages/src/app/components/Footer/index.json
+#: public/messages/src/app/components/welcome-modal/index.json
 msgid "Powered by"
 msgstr "承办方"
 
@@ -3548,6 +3872,20 @@ msgstr "产品/商品"
 #: public/messages/src/editor/utils/editing-utils/template-packs/product.json
 msgid "Production Date(s)"
 msgstr "制作日期"
+
+#. [SearchResults.Products]
+#. defaultMessage is:
+#. Products
+#: public/messages/src/app/components/Search/SearchResults.json
+msgid "Products"
+msgstr "产品"
+
+#. [SearchResults.Profile]
+#. defaultMessage is:
+#. Profile
+#: public/messages/src/app/components/Search/SearchResults.json
+msgid "Profile"
+msgstr "编辑用户配置文件"
 
 #. [EditProfile.ProfileImage]
 #. defaultMessage is:
@@ -3618,6 +3956,13 @@ msgstr "最近的"
 #: public/messages/src/app/components/ArticleComponent/TweetBox.json
 msgid "RECENT TWEETS"
 msgstr "最近的TWEETS"
+
+#. [RecentPopularContent.RECENTLYUPDATED]
+#. defaultMessage is:
+#. RECENTLY UPDATED
+#: public/messages/src/app/containers/homepageContainer/recentPopularContent.json
+msgid "RECENTLY UPDATED"
+msgstr "最近更新"
 
 #. [TopNav.Read]
 #. defaultMessage is:
@@ -3778,7 +4123,7 @@ msgstr "报告程序错误"
 #. [ContactUs.reportBug]
 #. defaultMessage is:
 #. Report a Bug
-#: public/messages/src/app/components/Footer/index.json
+#: public/messages/src/app/components/welcome-modal/index.json
 #: public/messages/src/app/containers/contact-us/messages.json
 msgid "Report a Bug"
 msgstr "报告程序错误"
@@ -3857,6 +4202,13 @@ msgstr "搜索以查找该主题是否已存在"
 #: public/messages/src/app/components/Search/index.json
 msgid "Search to find out if the topic already has an article"
 msgstr "搜索以查找该主题是否已有文章"
+
+#. [CategoriesModal.Searching]
+#. defaultMessage is:
+#. Searching
+#: public/messages/src/editor/plugins/categories/categories-modal.json
+msgid "Searching"
+msgstr "正在搜索..."
 
 #. [LearnMore.SeeActivity]
 #. defaultMessage is:
@@ -4004,9 +4356,13 @@ msgstr "显示所有引文"
 #. [LearnMore.SignUpTwo]
 #. defaultMessage is:
 #. Sign Up
+#. [Errors.SignUp]
+#. defaultMessage is:
+#. Sign Up
 #: public/messages/src/app/components/Header/account-name-header.json
 #: public/messages/src/app/components/learn-more/index.json
 #: public/messages/src/app/containers/about/last-block.json
+#: public/messages/src/app/utils/errors.json
 msgid "Sign Up"
 msgstr "注册"
 
@@ -4020,6 +4376,17 @@ msgstr "注册"
 #: public/messages/src/app/components/SubmitVote/ConfirmationModal.json
 msgid "Sign with Wallet"
 msgstr "用钱包签名"
+
+#. [SectionEmbedModal.ImagesPane.Small]
+#. defaultMessage is:
+#. Small
+#. [SectionEmbedModal.VideosPane.Small]
+#. defaultMessage is:
+#. Small
+#: public/messages/src/editor/plugins/section-embed-modal/panes/images.json
+#: public/messages/src/editor/plugins/section-embed-modal/panes/videos.json
+msgid "Small"
+msgstr "小"
 
 #. [SocialMediaBox.SocialMedia]
 #. defaultMessage is:
@@ -4239,10 +4606,14 @@ msgstr "将在线百科全书带入现代"
 msgid "Telephone"
 msgstr "电话"
 
+#. [Footer.Terms]
+#. defaultMessage is:
+#. Terms
 #. [Index.Terms]
 #. defaultMessage is:
 #. Terms
 #: public/messages/src/app/components/Footer/index.json
+#: public/messages/src/app/components/welcome-modal/index.json
 msgid "Terms"
 msgstr "条款"
 
@@ -4405,6 +4776,13 @@ msgstr ""
 msgid "Thing"
 msgstr "事情"
 
+#. [SearchResults.Things]
+#. defaultMessage is:
+#. Things
+#: public/messages/src/app/components/Search/SearchResults.json
+msgid "Things"
+msgstr "事情"
+
 #. [SubmitVote.NotMostRecent]
 #. defaultMessage is:
 #. This is not the most recent version of this article. See the latest version here:
@@ -4445,20 +4823,10 @@ msgstr "要立即编辑本文，请使用网站的桌面版本。"
 
 #. [Errors.ToMakeAnEdit]
 #. defaultMessage is:
-#. To make an edit or create an article, you need an Everipedia account. You can sign up for a
-#. trial account using a social account or use Scatter to unlock Everipedia’s full features,
-#. including voting on article edits and earning IQ rewards.
+#. To make an edit or create an article, you need an Everipedia account.
 #: public/messages/src/app/utils/errors.json
-msgid ""
-"To make an edit or create an article, you need an Everipedia account. You "
-"can sign up for a\n"
-"\t\t\t\t\t\ttrial account using a social account or use Scatter to unlock "
-"Everipedia’s full features,\n"
-"\t\t\t\t\t\tincluding voting on article edits and earning IQ rewards."
-msgstr ""
-"要进行编辑或创建文章，您需要一个Everipedia帐户。您可以注册一个\n"
-"\t\t\t\t\t\t使用社交帐户的试用帐户，或使用Scatter解锁Everipedia的全部功能，\n"
-"\t\t\t\t\t\t包括对文章编辑投票和获得IQ奖励。"
+msgid "To make an edit or create an article, you need an Everipedia account."
+msgstr "要进行编辑或创建文章，您需要一个 Everipedia 帐户。"
 
 #. [Dashboard.TotalBalance]
 #. defaultMessage is:
@@ -4629,6 +4997,13 @@ msgstr "上传中..."
 msgid "Uploading...."
 msgstr "上传中..."
 
+#. [SubmitVote.VersionVotes]
+#. defaultMessage is:
+#. VERSION VOTES
+#: public/messages/src/app/components/SubmitVote/index.json
+msgid "VERSION VOTES"
+msgstr "版本投票"
+
 #. [ContentTopNav.Views]
 #. defaultMessage is:
 #. VIEWS
@@ -4675,6 +5050,15 @@ msgstr "价值"
 #: public/messages/src/app/components/ContactUsForm/index.json
 msgid "Verify Account"
 msgstr "验证账户"
+
+#. [ImageUploader.VideoPreviewUnavailable]
+#. defaultMessage is:
+#. Video preview unavailable
+#: public/messages/src/shared/inputs/image-uploader/image-uploader.component.json
+
+#| msgid "No Preview Available"
+msgid "Video preview unavailable"
+msgstr "无可用预览"
 
 #. [SearchResults.View]
 #. defaultMessage is:
@@ -4857,17 +5241,6 @@ msgstr "WIKIS"
 msgid "Wait a moment while we load Lynx."
 msgstr "请稍等，正在加载Lynx。"
 
-#. [LoginModal.WaitAMomentWhileWeLoad]
-#. defaultMessage is:
-#. Wait a moment while we load Scatter – If you don’t see the Scatter window, check if it has loaded behind your current window.
-#: public/messages/src/app/components/Login/index.json
-msgid ""
-"Wait a moment while we load Scatter – If you don’t see the Scatter window, "
-"check if it has loaded behind your current window."
-msgstr ""
-"请稍等，正在加载Scatter - 如果您没有看到Scatter窗口，请检查它是否已加载到当前"
-"窗口的后面。"
-
 #. [SaveModalAgain.txLoadScatter]
 #. defaultMessage is:
 #. Wait a moment while we load Scatter.  If you do not see the Scatter window, check if it has loaded behind your current window.
@@ -4920,6 +5293,17 @@ msgid ""
 msgstr ""
 "请稍等，正在加载您的帐户。您将被重新导回到OreID，以确认您建议的编辑。您可能需"
 "要输入在设置帐户时创建的密码。"
+
+#. [LoginModal.WaitAMomentWhileWeLoad]
+#. defaultMessage is:
+#. Wait a moment while we load your wallet – If you don’t see the wallet window, check if it has loaded behind your current window.
+#: public/messages/src/app/components/Login/index.json
+msgid ""
+"Wait a moment while we load your wallet – If you don’t see the wallet "
+"window, check if it has loaded behind your current window."
+msgstr ""
+"请稍等，我们正在加载您的钱包。如果您没有看到钱夹窗口，请检查它是否已加载到当"
+"前窗口的后面。"
 
 #. [SubmitBoostModal.WaitAMomentWallet]
 #. defaultMessage is:
@@ -4995,6 +5379,13 @@ msgstr "欢迎"
 #: public/messages/src/editor/plugins/ep-link-modal/ep-link-modal.json
 msgid "What article do you want to link to?"
 msgstr "您想链接到什么文章？"
+
+#. [WhatIsIQ.WhatIsIQ]
+#. defaultMessage is:
+#. What is IQ?
+#: public/messages/src/app/containers/dashboard/what_is_iq.json
+msgid "What is IQ?"
+msgstr "什么是智商？"
 
 #. [AccountNameHeader.Worth]
 #. defaultMessage is:
@@ -5113,6 +5504,13 @@ msgstr "您需要进行编辑才能使用您的Ore ID帐户进行投票"
 msgid "Your Boost was Successful"
 msgstr "您的加速已经成功"
 
+#. [Footer.PrivacyCA]
+#. defaultMessage is:
+#. Your CA Privacy Rights
+#: public/messages/src/app/components/Footer/index.json
+msgid "Your CA Privacy Rights"
+msgstr "您的 CA 隐私权"
+
 #. [Directory.YourChats]
 #. defaultMessage is:
 #. Your Chats
@@ -5187,10 +5585,14 @@ msgstr "关于Everipedia的登录选项。"
 msgid "about using a wallet"
 msgstr "关于使用钱包"
 
+#. [Footer.And]
+#. defaultMessage is:
+#. and
 #. [Index.And]
 #. defaultMessage is:
 #. and
 #: public/messages/src/app/components/Footer/index.json
+#: public/messages/src/app/components/welcome-modal/index.json
 msgid "and"
 msgstr "和"
 
@@ -5215,19 +5617,19 @@ msgstr "出生日期"
 msgid "buy and sell IQ"
 msgstr "买卖IQ"
 
-#. [SaveModalAgain.Bytes]
-#. defaultMessage is:
-#. bytes
-#: public/messages/src/editor/plugins/save/save-modal-parts/comment-and-category.json
-msgid "bytes"
-msgstr "字节"
-
 #. [EditOverview.Changed]
 #. defaultMessage is:
 #. changed
 #: public/messages/src/app/components/SubmitVote/EditOverview.json
 msgid "changed"
 msgstr "已改变"
+
+#. [SaveModalAgain.Characters]
+#. defaultMessage is:
+#. characters
+#: public/messages/src/editor/plugins/save/save-modal-parts/comment-and-category.json
+msgid "characters"
+msgstr "字符"
 
 #. [SubmitVote.EditTwo]
 #. defaultMessage is:
@@ -5432,9 +5834,13 @@ msgstr "这些交易所。"
 msgid "to choose a quality image"
 msgstr "选择高质量的图像"
 
+#. [SectionEmbedModal.ToChooseAQualityImage]
+#. defaultMessage is:
+#. to choose a quality image.
 #. [SectionMediaModal.ToChooseAQualityImage]
 #. defaultMessage is:
 #. to choose a quality image.
+#: public/messages/src/editor/plugins/section-embed-modal/section-embed-modal.json
 #: public/messages/src/editor/plugins/section-media-modal/section-media-modal.json
 msgid "to choose a quality image."
 msgstr "选择高质量的图像。"
@@ -5540,3 +5946,34 @@ msgstr "始于"
 #: public/messages/src/app/components/SubmitVote/EditOverview.json
 msgid "words"
 msgstr "字数"
+
+#~ msgid "Add without Inserting"
+#~ msgstr "添加而不插入"
+
+#~ msgid "ISBN (Book)"
+#~ msgstr "国际标准书号（图书）"
+
+#~ msgid "Login / Create Account"
+#~ msgstr "登录/创建帐户"
+
+#~ msgid ""
+#~ "To make an edit or create an article, you need an Everipedia account. You "
+#~ "can sign up for a\n"
+#~ "\t\t\t\t\t\ttrial account using a social account or use Scatter to unlock "
+#~ "Everipedia’s full features,\n"
+#~ "\t\t\t\t\t\tincluding voting on article edits and earning IQ rewards."
+#~ msgstr ""
+#~ "要进行编辑或创建文章，您需要一个Everipedia帐户。您可以注册一个\n"
+#~ "\t\t\t\t\t\t使用社交帐户的试用帐户，或使用Scatter解锁Everipedia的全部功"
+#~ "能，\n"
+#~ "\t\t\t\t\t\t包括对文章编辑投票和获得IQ奖励。"
+
+#~ msgid ""
+#~ "Wait a moment while we load Scatter – If you don’t see the Scatter "
+#~ "window, check if it has loaded behind your current window."
+#~ msgstr ""
+#~ "请稍等，正在加载Scatter - 如果您没有看到Scatter窗口，请检查它是否已加载到"
+#~ "当前窗口的后面。"
+
+#~ msgid "bytes"
+#~ msgstr "字节"
