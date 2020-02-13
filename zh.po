@@ -24,14 +24,14 @@ msgstr "+创建一个帐户/登录"
 #. 0 Messages
 #: public/messages/src/app/components/Chat/messages.json
 msgid "0 Messages"
-msgstr "0信息"
+msgstr "0条信息"
 
 #. [Chat.NoParticipants]
 #. defaultMessage is:
 #. 0 Participants
 #: public/messages/src/app/components/Chat/messages.json
 msgid "0 Participants"
-msgstr "0参与者"
+msgstr "0位参与者"
 
 #. [DashboardComponent.OneMonth]
 #. defaultMessage is:
@@ -52,7 +52,7 @@ msgstr "1条信息"
 #. 1 Participant
 #: public/messages/src/app/components/Chat/messages.json
 msgid "1 Participant"
-msgstr "1名参与者"
+msgstr "1位参与者"
 
 #. [DashboardComponent.OneYear]
 #. defaultMessage is:
@@ -94,7 +94,7 @@ msgstr "一个知识的世界。"
 #. ALL TIME
 #: public/messages/src/app/containers/homepageContainer/leaderboard.json
 msgid "ALL TIME"
-msgstr "始终"
+msgstr "所有时间"
 
 #. [Footer.APIBy]
 #. defaultMessage is:
@@ -105,7 +105,7 @@ msgstr "始终"
 #: public/messages/src/app/components/Footer/index.json
 #: public/messages/src/app/components/welcome-modal/index.json
 msgid "API by"
-msgstr "API提供方"
+msgstr "API提供方："
 
 #. [SubmitVote.ArticleHistory]
 #. defaultMessage is:
@@ -141,7 +141,7 @@ msgstr "文章"
 #. AS SEEN IN
 #: public/messages/src/app/containers/about/as-seen.json
 msgid "AS SEEN IN"
-msgstr "如所见"
+msgstr "正如"
 
 #. [SubmitBoostModal.AvailableBalance]
 #. defaultMessage is:
@@ -204,7 +204,7 @@ msgstr "关于我"
 #. About Me must be longer than 3 characters
 #: public/messages/src/app/components/edit-profile/index.json
 msgid "About Me must be longer than 3 characters"
-msgstr "关于我的长度必须超过3个字符"
+msgstr "自我介绍必须不少于3个字符"
 
 #. [SubmitVoteConfirmation.Accept]
 #. defaultMessage is:
@@ -235,7 +235,7 @@ msgstr "帐户"
 #. Account Issues
 #: public/messages/src/app/containers/contact-us/messages.json
 msgid "Account Issues"
-msgstr "帐户问题"
+msgstr "帐户异常"
 
 #. [EditProfile.AccountName]
 #. defaultMessage is:
@@ -249,7 +249,7 @@ msgstr "帐户名称"
 #. Active Boosts
 #: public/messages/src/app/containers/dashboard/dashboard_component.json
 msgid "Active Boosts"
-msgstr "现行加速"
+msgstr "有效助推"
 
 #. [CategoryResultCard.ActiveVoting]
 #. defaultMessage is:
@@ -260,7 +260,7 @@ msgstr "现行加速"
 #: public/messages/src/app/containers/category-results/categoryResultCard.json
 #: public/messages/src/app/containers/searchResultsFull/searchCard.json
 msgid "Active Voting"
-msgstr "现行投票"
+msgstr "有效投票"
 
 #. [Chat.ActivityThree]
 #. defaultMessage is:
@@ -323,7 +323,7 @@ msgstr "添加引文"
 #. Add First Category
 #: public/messages/src/editor/plugins/categories/categories.node.json
 msgid "Add First Category"
-msgstr "添加第一类"
+msgstr "添加第一个分类"
 
 #. [MediaGallery.AddImage]
 #. defaultMessage is:
@@ -337,7 +337,7 @@ msgstr "将图像或视频添加到媒体库"
 #. Add Inline Object
 #: public/messages/src/editor/plugins/section-media-modal/section-media-modal.json
 msgid "Add Inline Object"
-msgstr "添加内联图像"
+msgstr "添加内联对象"
 
 #. [InfoboxModal.AddLabel]
 #. defaultMessage is:
@@ -385,14 +385,14 @@ msgstr "添加相关页面"
 #. Add and Add Another
 #: public/messages/src/editor/plugins/infobox/infobox-modal.json
 msgid "Add and Add Another"
-msgstr "添加并添加另一个"
+msgstr "添加并继续"
 
 #. [SectionEmbedModal.AddEditURL.AddAndInsert]
 #. defaultMessage is:
 #. Add and Insert
 #: public/messages/src/editor/plugins/section-embed-modal/panes/add-edit-url.json
 msgid "Add and Insert"
-msgstr "添加和插入"
+msgstr "添加并插入"
 
 #. [ImageUploader.AddCustomCaption]
 #. defaultMessage is:
@@ -431,21 +431,21 @@ msgid ""
 "Add your contribution to the world’s most universal knowledge base. You can "
 "create an article about anything."
 msgstr ""
-"为世界上最为广知的知识库贡献自己的力量。您可以写一篇关于任何事物的文章。"
+"为世界上最为广知的知识库贡献自己的力量。您可以创建关于任何事物的文章。"
 
 #. [SectionMediaModal.AddingMediaMakes]
 #. defaultMessage is:
 #. Adding media makes an article more interactive and engaging.
 #: public/messages/src/editor/plugins/section-media-modal/section-media-modal.json
 msgid "Adding media makes an article more interactive and engaging."
-msgstr "添加媒体使文章更具互动性和吸引力。"
+msgstr "添加多媒体使文章更具互动性和吸引力。"
 
 #. [SubmitBoostModal.AdditionalBoostAmount]
 #. defaultMessage is:
 #. Additional boost amount
 #: public/messages/src/app/components/Boost/SubmitBoostModal.json
 msgid "Additional boost amount"
-msgstr "额外加速量"
+msgstr "额外助推量"
 
 #. [NewPageTemplate.NPT_Organization_AddressLocation]
 #. defaultMessage is:
@@ -476,35 +476,36 @@ msgstr "涉及成人内容"
 msgid ""
 "All holders of IQ will be incentivized to create quality, neutral content "
 "and to work together in building the reputation of the network."
-msgstr "我们鼓励所有IQ持有人发表高质且中立的内容，并为网落的声誉共同努力。"
+msgstr "所有的 IQ 持有者将受到激励，以创造高质量和中立的内容，并且共同努力来打造"
+"网络声誉。"
 
 #. [MetadataModal.AllowNonGooglebot]
 #. defaultMessage is:
 #. Allow Non-Googlebot
 #: public/messages/src/editor/plugins/metadata/metadata-modal.json
 msgid "Allow Non-Googlebot"
-msgstr "允许非Googlebot"
+msgstr "支持非Googlebot"
 
 #. [CitationModal.AddEditFile.AllowedFormats]
 #. defaultMessage is:
 #. Allowed formats:
 #: public/messages/src/editor/plugins/citation-modal/panes/add-edit-file.json
 msgid "Allowed formats:"
-msgstr "允许的格式："
+msgstr "支持的格式："
 
 #. [Homepage.ModernAge]
 #. defaultMessage is:
 #. An encyclopedia for the modern age.
 #: public/messages/src/app/containers/homepageContainer/homepage.container.json
 msgid "An encyclopedia for the modern age."
-msgstr "现代百科全书。"
+msgstr "现代化的百科全书。"
 
 #. [ThirdBlock.OpenCommunity]
 #. defaultMessage is:
 #. An open community expanding the world’s knowledge
 #: public/messages/src/app/containers/about/third-block.json
 msgid "An open community expanding the world’s knowledge"
-msgstr "一个可以扩展世界知识的开放社区"
+msgstr "一个可以扩展全世界知识的开放社区"
 
 #. [ContactUs.AnonymousTip]
 #. defaultMessage is:
@@ -522,15 +523,15 @@ msgid ""
 "tokens to vote, users decide which new articles and edits are added to the "
 "knowledge base."
 msgstr ""
-"任何拥有IQ代币的人都是Everipedia网络的利益相关者。用户使用IQ代币进行投票，来"
-"决定将哪些新文章和编辑内容可以被添加到知识库中。"
+"任何拥有IQ代币的人都是Everipedia网络的利益相关者。用户使用IQ代币进行投票，以"
+"决定将哪些新文章和编辑的内容可以被添加到知识库中。"
 
 #. [Chat.AreYouSureYouWantToDeleteThis]
 #. defaultMessage is:
 #. Are you sure you want to delete this
 #: public/messages/src/app/components/Chat/messages.json
 msgid "Are you sure you want to delete this"
-msgstr "您确定要删除此操作吗"
+msgstr "您确定要删除此项吗"
 
 #. [About.DecentralizedDetail]
 #. defaultMessage is:
@@ -540,8 +541,8 @@ msgid ""
 "Articles are fetched using IPFS and EOS Storage. Majority of IQ being "
 "distributed during the airdrop."
 msgstr ""
-"文章是通过使用IPFS协议和EOS存储来进行读取的。大部分IQ已经在空投期间分发出去"
-"了。"
+"文章通过使用IPFS协议和EOS存储来进行读取的。大部分IQ代币已经在空投期间分发出"
+"去了。"
 
 #. [ThirdBlock.AsAnEditor]
 #. defaultMessage is:
@@ -552,8 +553,8 @@ msgid ""
 "sources and a neutral wording, you can write an article about anything you "
 "want. A dapp you like, yourself — anything."
 msgstr ""
-"作为编者，Everipedia的杀手级功能是，只要您使用资源和中立的措词，就可以撰写任"
-"何内容的文章。可以是您喜欢的dapp；也可以是您自己；亦可以是任何事物。"
+"作为编辑者，Everipedia的一个不可忽略的特性是，只要您引用来源并采用中立的措词，就可以撰写任何"
+"您想写的文章。例如一个您喜欢的dapp、您自己亦或是任何事物。"
 
 #. [NewPageTemplate.NPT_Product_Audience]
 #. defaultMessage is:
@@ -588,7 +589,7 @@ msgstr "余额明细"
 #. Become an Editor
 #: public/messages/src/app/containers/about/about.container.json
 msgid "Become an Editor"
-msgstr "成为编辑"
+msgstr "成为编辑者"
 
 #. [NewPageTemplate.NPT_Person_Birthday]
 #. defaultMessage is:
@@ -624,7 +625,7 @@ msgstr "博客"
 #. Book ISBN
 #: public/messages/src/editor/plugins/citation-modal/citation-modal.json
 msgid "Book ISBN"
-msgstr "预订ISBN"
+msgstr "书籍 ISBN"
 
 #. [BoostBox.Boost]
 #. defaultMessage is:
