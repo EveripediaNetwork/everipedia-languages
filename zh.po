@@ -431,7 +431,7 @@ msgid ""
 "Add your contribution to the world’s most universal knowledge base. You can "
 "create an article about anything."
 msgstr ""
-"为世界上丰富的知识库贡献自己的力量。您可以创建关于任何事物的文章。"
+"为世界上最丰富的知识库贡献自己的力量。您可以创建关于任何事物的文章。"
 
 #. [SectionMediaModal.AddingMediaMakes]
 #. defaultMessage is:
