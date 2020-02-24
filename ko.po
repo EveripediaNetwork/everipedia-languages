@@ -1,7 +1,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: \n"
-"POT-Creation-Date: 2020-02-11T03:31:07.466Z\n"
+"POT-Creation-Date: 2020-02-18T19:25:02.766Z\n"
 "PO-Revision-Date: \n"
 "Last-Translator: \n"
 "Language-Team: \n"
@@ -288,7 +288,7 @@ msgstr "최근 활동"
 #. defaultMessage is:
 #. Add
 #: public/messages/src/editor/plugins/infobox/infobox-modal.json
-#: public/messages/src/editor/plugins/section-media-modal/panes/add-edit-url.json
+#: public/messages/src/editor/plugins/section-embed-modal/panes/add-edit-url.json
 msgid "Add"
 msgstr "적용"
 
@@ -335,7 +335,7 @@ msgstr "이미지 / 영상을 미디어 갤러리에 추가"
 #. [SectionMediaModal.AddInlineObject]
 #. defaultMessage is:
 #. Add Inline Object
-#: public/messages/src/editor/plugins/section-media-modal/section-media-modal.json
+#: public/messages/src/editor/plugins/section-embed-modal/section-embed-modal.json
 msgid "Add Inline Object"
 msgstr "인라인 이미지 추가"
 
@@ -390,7 +390,7 @@ msgstr "적용 및 추가"
 #. [SectionMediaModal.AddEditURL.AddAndInsert]
 #. defaultMessage is:
 #. Add and Insert
-#: public/messages/src/editor/plugins/section-media-modal/panes/add-edit-url.json
+#: public/messages/src/editor/plugins/section-embed-modal/panes/add-edit-url.json
 msgid "Add and Insert"
 msgstr "추가 및 삽입"
 
@@ -408,7 +408,7 @@ msgstr "설명 추가(선택사항)"
 #. defaultMessage is:
 #. Add or edit a citation
 #: public/messages/src/editor/plugins/citation-modal/citation-modal.json
-#: public/messages/src/editor/plugins/section-media-modal/section-media-modal.json
+#: public/messages/src/editor/plugins/section-embed-modal/section-embed-modal.json
 msgid "Add or edit a citation"
 msgstr "인용 추가 또는 편집"
 
@@ -437,7 +437,7 @@ msgstr ""
 #. defaultMessage is:
 #. Adding media makes an article more interactive and engaging.
 #: public/messages/src/editor/plugins/media-gallery/media-gallery-modal.json
-#: public/messages/src/editor/plugins/section-media-modal/section-media-modal.json
+#: public/messages/src/editor/plugins/section-embed-modal/section-embed-modal.json
 msgid "Adding media makes an article more interactive and engaging."
 msgstr "이미지와 영상을 추가하면 글이 더 다채로워집니다"
 
@@ -627,8 +627,9 @@ msgstr "블로그"
 #. defaultMessage is:
 #. Book ISBN
 #: public/messages/src/editor/plugins/citation-modal/citation-modal.json
+#, fuzzy
 msgid "Book ISBN"
-msgstr ""
+msgstr "도서 ISBN"
 
 #. [BoostBox.Boost]
 #. defaultMessage is:
@@ -754,8 +755,8 @@ msgstr "인용"
 #: public/messages/src/editor/plugins/merge/merge-modal.json
 #: public/messages/src/editor/plugins/metadata/metadata-modal.json
 #: public/messages/src/editor/plugins/save/save-modal.json
-#: public/messages/src/editor/plugins/section-media-modal/panes/add-edit-url.json
-#: public/messages/src/editor/plugins/section-media-modal/panes/insert-existing.json
+#: public/messages/src/editor/plugins/section-embed-modal/panes/add-edit-url.json
+#: public/messages/src/editor/plugins/section-embed-modal/panes/insert-existing.json
 #: public/messages/src/shared/inputs/image-uploader/file-uploader.component.json
 #: public/messages/src/shared/inputs/image-uploader/image-uploader.component.json
 msgid "Cancel"
@@ -1306,8 +1307,7 @@ msgstr "메시지 삭제"
 #: public/messages/src/editor/plugins/infobox/infobox-li.json
 #: public/messages/src/editor/plugins/main-photo/main-photo.node.json
 #: public/messages/src/editor/plugins/media-gallery/media-gallery.node.json
-#: public/messages/src/editor/plugins/section-media/section-media.node.json
-#, fuzzy
+#: public/messages/src/editor/plugins/section-embed/section-embed.node.json
 msgid "Delete?"
 msgstr "삭ㅈ?"
 
@@ -1465,7 +1465,7 @@ msgstr "편집하고 IQ 토큰 받기"
 #: public/messages/src/editor/plugins/citation-modal/panes/add-edit-url.json
 #: public/messages/src/editor/plugins/infobox/infobox-modal.json
 #: public/messages/src/editor/plugins/metadata/metadata-modal.json
-#: public/messages/src/editor/plugins/section-media-modal/panes/add-edit-url.json
+#: public/messages/src/editor/plugins/section-embed-modal/panes/add-edit-url.json
 #: public/messages/src/shared/inputs/image-uploader/file-uploader.component.json
 #: public/messages/src/shared/inputs/image-uploader/image-uploader.component.json
 msgid "Edit"
@@ -1635,7 +1635,7 @@ msgstr "종료"
 #. defaultMessage is:
 #. Enter a URL
 #: public/messages/src/editor/plugins/citation-modal/panes/add-edit-url.json
-#: public/messages/src/editor/plugins/section-media-modal/panes/add-edit-url.json
+#: public/messages/src/editor/plugins/section-embed-modal/panes/add-edit-url.json
 msgid "Enter a URL"
 msgstr "웹 주소 입력"
 
@@ -1646,7 +1646,7 @@ msgstr "웹 주소 입력"
 #. defaultMessage is:
 #. Enter a description
 #: public/messages/src/editor/plugins/citation-modal/panes/add-edit-url.json
-#: public/messages/src/editor/plugins/section-media-modal/panes/add-edit-url.json
+#: public/messages/src/editor/plugins/section-embed-modal/panes/add-edit-url.json
 msgid "Enter a description"
 msgstr "설명 입력"
 
@@ -1821,9 +1821,7 @@ msgstr ""
 #. [SectionMediaModal.Existing]
 #. defaultMessage is:
 #. Existing
-#: public/messages/src/editor/plugins/section-media-modal/section-media-modal.json
-#, fuzzy
-#| msgid "Insert Existing"
+#: public/messages/src/editor/plugins/section-embed-modal/section-embed-modal.json
 msgid "Existing"
 msgstr "기존 파일"
 
@@ -2290,11 +2288,11 @@ msgid ""
 msgstr ""
 "IQ 토큰은 Everipedia Network에 전원을 공급합니다. 그들은 우리에게 콘텐츠를 기"
 "여하는 데 사용됩니다.\n"
-"                                끊임없이 성장하는 지식 기반과 새로운 기사에 "
+"                                끊임없이 성장하는 지식 기반과 새로운 기사에 "
 "대한 투표 및 기존 기사 편집\n"
-"                                조항. 기여자는 IQ 토큰 형태로 보상을받습니"
+"                                조항. 기여자는 IQ 토큰 형태로 보상을받습니"
 "다. 또한 각 토큰\n"
-"                                보유자는 시스템의 업그레이드 및 수정에 투표 "
+"                                보유자는 시스템의 업그레이드 및 수정에 투표 "
 "할 수 있습니다."
 
 #. [MergeModalAgain.IfItIsRejected]
@@ -2398,7 +2396,7 @@ msgstr "그대로 삽입"
 #. [SectionMediaModal.InsertFromMediaGallery]
 #. defaultMessage is:
 #. Insert From Media Gallery
-#: public/messages/src/editor/plugins/section-media-modal/section-media-modal.json
+#: public/messages/src/editor/plugins/section-embed-modal/section-embed-modal.json
 msgid "Insert From Media Gallery"
 msgstr "미디어 갤러리에서 삽입"
 
@@ -2557,7 +2555,7 @@ msgstr "자세히 알아보기"
 #: public/messages/src/app/components/Boost/SubmitBoostModal.json
 #: public/messages/src/app/components/SubmitVote/ConfirmationModal.json
 #: public/messages/src/editor/plugins/media-gallery/media-gallery-modal.json
-#: public/messages/src/editor/plugins/section-media-modal/section-media-modal.json
+#: public/messages/src/editor/plugins/section-embed-modal/section-embed-modal.json
 msgid "Learn how"
 msgstr "자세히 알아보기"
 
@@ -2973,8 +2971,8 @@ msgstr "최대 파일 크기 : 5MB"
 #. defaultMessage is:
 #. Media
 #: public/messages/src/app/utils/comment-utils.json
-#: public/messages/src/editor/plugins/section-media-modal/index.json
-#: public/messages/src/editor/plugins/section-media/section-media.button.json
+#: public/messages/src/editor/plugins/section-embed-modal/index.json
+#: public/messages/src/editor/plugins/section-embed/section-embed.button.json
 msgid "Media"
 msgstr "미디어"
 
@@ -3572,7 +3570,7 @@ msgstr "작성하세요"
 #. defaultMessage is:
 #. Please enter a URL
 #: public/messages/src/editor/plugins/citation-modal/panes/add-edit-url.json
-#: public/messages/src/editor/plugins/section-media-modal/panes/add-edit-url.json
+#: public/messages/src/editor/plugins/section-embed-modal/panes/add-edit-url.json
 msgid "Please enter a URL"
 msgstr "웹 주소를 입력하세요"
 
@@ -5706,7 +5704,7 @@ msgstr "고품질 이미지 선택"
 #. [SectionMediaModal.ToChooseAQualityImage]
 #. defaultMessage is:
 #. to choose a quality image.
-#: public/messages/src/editor/plugins/section-media-modal/section-media-modal.json
+#: public/messages/src/editor/plugins/section-embed-modal/section-embed-modal.json
 msgid "to choose a quality image."
 msgstr "고품질 이미지 선택"
 
