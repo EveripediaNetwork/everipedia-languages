@@ -2969,6 +2969,13 @@ msgstr "手机登录"
 msgid "Login with Scatter"
 msgstr "Scatter登录"
 
+#. [LoginModal.LoginWithTokenPocket]
+#. defaultMessage is:
+#. Login with TokenPocket
+#: public/messages/src/app/components/Login/index.json
+msgid "Login with Tokenpocket"
+msgstr "TokenPocket登录"
+
 #. [Login.LoginWithScatterBlockchain]
 #. defaultMessage is:
 #. Login with Scatter to use your existing EOS blockchain account.
