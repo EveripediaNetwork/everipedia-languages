@@ -1,7 +1,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: \n"
-"POT-Creation-Date: 2020-01-22T07:51:26.991Z\n"
+"POT-Creation-Date: 2020-01-15T10:41:15.638Z\n"
 "PO-Revision-Date: \n"
 "Last-Translator: \n"
 "Language-Team: \n"
@@ -284,7 +284,7 @@ msgstr "Actividad"
 #. [InfoboxModal.Add]
 #. defaultMessage is:
 #. Add
-#. [SectionEmbedModal.AddEditURL.Add]
+#. [SectionMediaModal.AddEditURL.Add]
 #. defaultMessage is:
 #. Add
 #: public/messages/src/editor/plugins/infobox/infobox-modal.json
@@ -302,19 +302,7 @@ msgstr "Añadir otro"
 #. [CitationModal.AddCitation]
 #. defaultMessage is:
 #. Add Citation
-#. [CitationModal.AddEditFile.AddCitation]
-#. defaultMessage is:
-#. Add Citation
-#. [CitationModal.AddEditISBN.AddCitation]
-#. defaultMessage is:
-#. Add Citation
-#. [CitationModal.AddEditURL.AddCitation]
-#. defaultMessage is:
-#. Add Citation
 #: public/messages/src/editor/plugins/citation-modal/citation-modal.json
-#: public/messages/src/editor/plugins/citation-modal/panes/add-edit-file.json
-#: public/messages/src/editor/plugins/citation-modal/panes/add-edit-isbn.json
-#: public/messages/src/editor/plugins/citation-modal/panes/add-edit-url.json
 msgid "Add Citation"
 msgstr "Añadir cita"
 
@@ -335,7 +323,9 @@ msgstr "Añadir imagen o vídeo a la galería multimedia"
 #. [SectionMediaModal.AddInlineObject]
 #. defaultMessage is:
 #. Add Inline Object
-#: public/messages/src/editor/plugins/section-media-modal/section-media-modal.json
+#: public/messages/src/editor/plugins/section-embed-modal/section-embed-modal.json
+
+#| msgid "Add Inline Image"
 msgid "Add Inline Object"
 msgstr "Añadir imagen en línea"
 
@@ -387,9 +377,21 @@ msgstr "Añadir una página relacionada"
 msgid "Add and Add Another"
 msgstr "Añadir y Añadir otro"
 
-#. [SectionEmbedModal.AddEditURL.AddAndInsert]
+#. [CitationModal.AddEditFile.AddAndInsert]
 #. defaultMessage is:
 #. Add and Insert
+#. [CitationModal.AddEditISBN.AddAndInsert]
+#. defaultMessage is:
+#. Add and Insert
+#. [CitationModal.AddEditURL.AddAndInsert]
+#. defaultMessage is:
+#. Add and Insert
+#. [SectionMediaModal.AddEditURL.AddAndInsert]
+#. defaultMessage is:
+#. Add and Insert
+#: public/messages/src/editor/plugins/citation-modal/panes/add-edit-file.json
+#: public/messages/src/editor/plugins/citation-modal/panes/add-edit-isbn.json
+#: public/messages/src/editor/plugins/citation-modal/panes/add-edit-url.json
 #: public/messages/src/editor/plugins/section-embed-modal/panes/add-edit-url.json
 msgid "Add and Insert"
 msgstr "Agregar y agregar otro"
@@ -404,15 +406,11 @@ msgstr "Agregar subtítulo personalizado (opcional)"
 #. [CitationModdal.Title]
 #. defaultMessage is:
 #. Add or edit a citation
-#. [SectionEmbedModal.Title]
-#. defaultMessage is:
-#. Add or edit a citation
 #. [SectionMediaModal.Title]
 #. defaultMessage is:
 #. Add or edit a citation
 #: public/messages/src/editor/plugins/citation-modal/citation-modal.json
 #: public/messages/src/editor/plugins/section-embed-modal/section-embed-modal.json
-#: public/messages/src/editor/plugins/section-media-modal/section-media-modal.json
 msgid "Add or edit a citation"
 msgstr "Agregar o editar una cita"
 
@@ -422,6 +420,21 @@ msgstr "Agregar o editar una cita"
 #: public/messages/src/editor/plugins/main-photo/main-photo-modal.json
 msgid "Add or edit the main image"
 msgstr "Agregar o editar una cita"
+
+#. [CitationModal.AddEditFile.AddWithoutInsert]
+#. defaultMessage is:
+#. Add without Inserting
+#. [CitationModal.AddEditISBN.AddWithoutInsert]
+#. defaultMessage is:
+#. Add without Inserting
+#. [CitationModal.AddEditURL.AddWithoutInsert]
+#. defaultMessage is:
+#. Add without Inserting
+#: public/messages/src/editor/plugins/citation-modal/panes/add-edit-file.json
+#: public/messages/src/editor/plugins/citation-modal/panes/add-edit-isbn.json
+#: public/messages/src/editor/plugins/citation-modal/panes/add-edit-url.json
+msgid "Add without Inserting"
+msgstr "Añadir sin insertar"
 
 #. [CreatePage.Description]
 #. defaultMessage is:
@@ -434,10 +447,14 @@ msgstr ""
 "Añada su contribución a la base de conocimientos más universal del mundo. "
 "Puedes crear un artículo sobre cualquier cosa."
 
+#. [MediaGallery.AddingMediaMakes]
+#. defaultMessage is:
+#. Adding media makes an article more interactive and engaging.
 #. [SectionMediaModal.AddingMediaMakes]
 #. defaultMessage is:
 #. Adding media makes an article more interactive and engaging.
-#: public/messages/src/editor/plugins/section-media-modal/section-media-modal.json
+#: public/messages/src/editor/plugins/media-gallery/media-gallery-modal.json
+#: public/messages/src/editor/plugins/section-embed-modal/section-embed-modal.json
 msgid "Adding media makes an article more interactive and engaging."
 msgstr ""
 "Agregar medios de comunicación hace que un artículo sea más interactivo y "
@@ -627,13 +644,6 @@ msgstr "Cumpleaños"
 msgid "Blog"
 msgstr "Blog"
 
-#. [CitationModal.BookISBN]
-#. defaultMessage is:
-#. Book ISBN
-#: public/messages/src/editor/plugins/citation-modal/citation-modal.json
-msgid "Book ISBN"
-msgstr "Código ISBN de la publicación."
-
 #. [BoostBox.Boost]
 #. defaultMessage is:
 #. Boost
@@ -734,19 +744,10 @@ msgstr "CITACIONES"
 #. [SaveModalAgain.Cancel]
 #. defaultMessage is:
 #. Cancel
-#. [SectionEmbedModal.AddEditURL.Cancel]
+#. [SectionMediaModal.AddEditURL.Cancel]
 #. defaultMessage is:
 #. Cancel
-#. [SectionEmbedModal.Audio.Cancel]
-#. defaultMessage is:
-#. Cancel
-#. [SectionEmbedModal.ExistingMedia.Cancel]
-#. defaultMessage is:
-#. Cancel
-#. [SectionEmbedModal.ImagesPane.Images.Cancel]
-#. defaultMessage is:
-#. Cancel
-#. [SectionEmbedModal.VideosPane.Images.Cancel]
+#. [SectionMediaModal.InsertExisting.Cancel]
 #. defaultMessage is:
 #. Cancel
 #. [FileUploader.Cancel]
@@ -768,10 +769,7 @@ msgstr "CITACIONES"
 #: public/messages/src/editor/plugins/metadata/metadata-modal.json
 #: public/messages/src/editor/plugins/save/save-modal.json
 #: public/messages/src/editor/plugins/section-embed-modal/panes/add-edit-url.json
-#: public/messages/src/editor/plugins/section-embed-modal/panes/audio.json
-#: public/messages/src/editor/plugins/section-embed-modal/panes/existing-media.json
-#: public/messages/src/editor/plugins/section-embed-modal/panes/images.json
-#: public/messages/src/editor/plugins/section-embed-modal/panes/videos.json
+#: public/messages/src/editor/plugins/section-embed-modal/panes/insert-existing.json
 #: public/messages/src/shared/inputs/image-uploader/file-uploader.component.json
 #: public/messages/src/shared/inputs/image-uploader/image-uploader.component.json
 msgid "Cancel"
@@ -1239,6 +1237,8 @@ msgstr "Trabajo creativo/Arte"
 #. defaultMessage is:
 #. Creative Works
 #: public/messages/src/app/components/Search/SearchResults.json
+
+#| msgid "Creative Work / Art"
 msgid "Creative Works"
 msgstr "Trabajo creativo/Arte"
 
@@ -1317,30 +1317,6 @@ msgstr "Descentralizado"
 #: public/messages/src/app/components/Chat/index.json
 msgid "Delete Message"
 msgstr "Borrar Mensaje"
-
-#. [CitationEditorNode.Delete]
-#. defaultMessage is:
-#. Delete?
-#. [InfoboxEditorNode.Delete]
-#. defaultMessage is:
-#. Delete?
-#. [MainPhotoEditorNode.Delete]
-#. defaultMessage is:
-#. Delete?
-#. [EditorMediaGallery.Delete]
-#. defaultMessage is:
-#. Delete?
-#. [SectionEditorNode.Delete]
-#. defaultMessage is:
-#. Delete?
-#: public/messages/src/editor/plugins/citation/citation.node.json
-#: public/messages/src/editor/plugins/infobox/infobox-li.json
-#: public/messages/src/editor/plugins/main-photo/main-photo.node.json
-#: public/messages/src/editor/plugins/media-gallery/media-gallery.node.json
-#: public/messages/src/editor/plugins/section-embed/section-embed.node.json
-
-msgid "Delete?"
-msgstr "Borrar esta etiqueta"
 
 #. [About.Democratic]
 #. defaultMessage is:
@@ -1423,18 +1399,6 @@ msgstr "Editores"
 msgid "EDITS"
 msgstr "Modificaciones"
 
-#. [SectionEmbedModal.ImagesPane.EmbedSize]
-#. defaultMessage is:
-#. EMBED SIZE
-#. [SectionEmbedModal.VideosPane.EmbedSize]
-#. defaultMessage is:
-#. EMBED SIZE
-#: public/messages/src/editor/plugins/section-embed-modal/panes/images.json
-#: public/messages/src/editor/plugins/section-embed-modal/panes/videos.json
-
-msgid "EMBED SIZE"
-msgstr "TAMAÑO DE LA EMBALA"
-
 #. [SubmitBoostModal.ExistingBoost]
 #. defaultMessage is:
 #. EXISTING BOOST
@@ -1490,7 +1454,7 @@ msgstr "Gane recompensas por contribuir"
 #. [MetadataModal.Edit]
 #. defaultMessage is:
 #. Edit
-#. [SectionEmbedModal.AddEditURL.Edit]
+#. [SectionMediaModal.AddEditURL.Edit]
 #. defaultMessage is:
 #. Edit
 #. [FileUploader.Edit]
@@ -1659,36 +1623,6 @@ msgstr "Próximamente por correo electrónico"
 msgid "Email address"
 msgstr "Dirección de correo electrónico"
 
-#. [SectionEmbedModal.MediaTwo]
-#. defaultMessage is:
-#. Embed
-#: public/messages/src/editor/plugins/section-embed/section-embed.button.json
-msgid "Embed"
-msgstr "Incrustar"
-
-#. [SectionEmbedModal.EmbedObject]
-#. defaultMessage is:
-#. Embed Object
-#: public/messages/src/editor/plugins/section-embed-modal/section-embed-modal.json
-
-msgid "Embed Object"
-msgstr "Incrustar objeto"
-
-#. [MediaGallery.EmbeddingObjectsMakes]
-#. defaultMessage is:
-#. Embedding objects makes an article more interactive and engaging.
-#. [SectionEmbedModal.EmbeddingObjectsMakes]
-#. defaultMessage is:
-#. Embedding objects makes an article more interactive and engaging.
-#: public/messages/src/editor/plugins/media-gallery/media-gallery-modal.json
-#: public/messages/src/editor/plugins/section-embed-modal/section-embed-modal.json
-
-#| msgid "Adding media makes an article more interactive and engaging."
-msgid "Embedding objects makes an article more interactive and engaging."
-msgstr ""
-"Agregar medios de comunicación hace que un artículo sea más interactivo y "
-"atractivo."
-
 #. [NewPageTemplate.NPT_Event_EndDate]
 #. defaultMessage is:
 #. End Date
@@ -1706,7 +1640,7 @@ msgstr "Finalizado"
 #. [CitationModal.AddEditURL.EnterAURL]
 #. defaultMessage is:
 #. Enter a URL
-#. [SectionEmbedModal.AddEditURL.EnterAURL]
+#. [SectionMediaModal.AddEditURL.EnterAURL]
 #. defaultMessage is:
 #. Enter a URL
 #: public/messages/src/editor/plugins/citation-modal/panes/add-edit-url.json
@@ -1717,7 +1651,7 @@ msgstr "Ingresar una URL"
 #. [CitationModal.AddEditURL.EnterADescription]
 #. defaultMessage is:
 #. Enter a description
-#. [SectionEmbedModal.AddEditURL.EnterADescription]
+#. [SectionMediaModal.AddEditURL.EnterADescription]
 #. defaultMessage is:
 #. Enter a description
 #: public/messages/src/editor/plugins/citation-modal/panes/add-edit-url.json
@@ -1820,6 +1754,8 @@ msgstr "Sobre Everipedia"
 #. defaultMessage is:
 #. Everipedia Blog
 #: public/messages/src/app/containers/blog/blog.container.json
+
+#| msgid "Everipedia"
 msgid "Everipedia Blog"
 msgstr "Sobre Everipedia"
 
@@ -1900,21 +1836,6 @@ msgstr ""
 "La vibrante comunidad de Everipedia es abierta y acogedora para todos. Ya "
 "somos una de las enciclopedias más grandes del mundo, pero estamos lejos de "
 "estar completos. Únase a nosotros hoy."
-
-#. [SectionMediaModal.Existing]
-#. defaultMessage is:
-#. Existing
-#: public/messages/src/editor/plugins/section-media-modal/section-media-modal.json
-msgid "Existing"
-msgstr "Existentes"
-
-#. [SectionEmbedModal.ExistingMedia]
-#. defaultMessage is:
-#. Existing Media
-#: public/messages/src/editor/plugins/section-embed-modal/section-embed-modal.json
-
-msgid "Existing Media"
-msgstr "Medios de comunicación existentes"
 
 #. [LastBlock.ExploreYourCuriosity]
 #. defaultMessage is:
@@ -2035,14 +1956,6 @@ msgstr "Archivo"
 msgid "Filter citations"
 msgstr "Citas de filtros"
 
-#. [ChatItem.FinalTally]
-#. defaultMessage is:
-#. Final Tally:
-#: public/messages/src/app/components/Chat/ChatItem.json
-
-msgid "Final Tally:"
-msgstr "Cuenta final:"
-
 #. [About.FinancialIncentive]
 #. defaultMessage is:
 #. Financial Incentive
@@ -2053,14 +1966,10 @@ msgstr "Incentivo financiero"
 #. [ActivityCard.FirstEdit]
 #. defaultMessage is:
 #. First Edit
-#. [ChatItem.FirstEdit]
-#. defaultMessage is:
-#. First Edit
 #. [EditOverview.FirstEditTwo]
 #. defaultMessage is:
 #. First Edit
 #: public/messages/src/app/components/ActivityCards/ActivityCard.json
-#: public/messages/src/app/components/Chat/ChatItem.json
 #: public/messages/src/app/components/SubmitVote/EditOverview.json
 msgid "First Edit"
 msgstr "Primera edición"
@@ -2316,6 +2225,7 @@ msgstr "IQ GANADO"
 #. defaultMessage is:
 #. IQ FAQ
 #: public/messages/src/app/containers/dashboard/what_is_iq.json
+
 msgid "IQ FAQ"
 msgstr "IQ FAQ"
 
@@ -2360,6 +2270,7 @@ msgstr ""
 #. Network. Contributors are rewarded with IQ Tokens for creating or editing articles or voting on
 #. proposed content.
 #: public/messages/src/app/containers/dashboard/what_is_iq.json
+
 msgid ""
 "IQ tokens are used to incentivize users to create and maintain content "
 "within the Everipedia\n"
@@ -2399,6 +2310,13 @@ msgstr ""
 "recompensados en forma de fichas de CI. Además, cada ficha\n"
 "                                el titular también puede votar sobre las "
 "actualizaciones y modificaciones del sistema."
+
+#. [CitationModal.ISBNBook]
+#. defaultMessage is:
+#. ISBN (Book)
+#: public/messages/src/editor/plugins/citation-modal/citation-modal.json
+msgid "ISBN (Book)"
+msgstr "ISBN (Libro)"
 
 #. [MergeModalAgain.IfItIsRejected]
 #. defaultMessage is:
@@ -2478,19 +2396,6 @@ msgstr "Caja de información"
 msgid "Information"
 msgstr "Información y herramientas de IQ"
 
-#. [SectionEmbedModal.ImagesPane.Insert]
-#. defaultMessage is:
-#. Insert
-#. [SectionEmbedModal.VideosPane.Insert]
-#. defaultMessage is:
-#. Insert
-#: public/messages/src/editor/plugins/section-embed-modal/panes/images.json
-#: public/messages/src/editor/plugins/section-embed-modal/panes/videos.json
-
-#| msgid "Insert New"
-msgid "Insert"
-msgstr "Insertar desde la galería de medios"
-
 #. [TableMenu.InsertAbove]
 #. defaultMessage is:
 #. Insert Above
@@ -2508,18 +2413,18 @@ msgstr "Insertar abajo"
 #. [CitationModal.InsertExisting]
 #. defaultMessage is:
 #. Insert Existing
+#. [SectionMediaModal.InsertExisting]
+#. defaultMessage is:
+#. Insert Existing
 #: public/messages/src/editor/plugins/citation-modal/citation-modal.json
+#: public/messages/src/editor/plugins/section-embed-modal/section-embed-modal.json
 msgid "Insert Existing"
 msgstr "Insertar Existente"
 
-#. [SectionEmbedModal.InsertFromMediaGallery]
-#. defaultMessage is:
-#. Insert From Media Gallery
 #. [SectionMediaModal.InsertFromMediaGallery]
 #. defaultMessage is:
 #. Insert From Media Gallery
 #: public/messages/src/editor/plugins/section-embed-modal/section-embed-modal.json
-#: public/messages/src/editor/plugins/section-media-modal/section-media-modal.json
 msgid "Insert From Media Gallery"
 msgstr "Insertar desde la galería de medios"
 
@@ -2605,17 +2510,6 @@ msgstr "Etiqueta"
 msgid "Language"
 msgstr "Idioma"
 
-#. [SectionEmbedModal.ImagesPane.Large]
-#. defaultMessage is:
-#. Large
-#. [SectionEmbedModal.VideosPane.Large]
-#. defaultMessage is:
-#. Large
-#: public/messages/src/editor/plugins/section-embed-modal/panes/images.json
-#: public/messages/src/editor/plugins/section-embed-modal/panes/videos.json
-msgid "Large"
-msgstr "Grande"
-
 #. [TeamInfo.LarrySangerBio]
 #. defaultMessage is:
 #. Larry Sanger is a knowledge project developer; his claim to fame is that he is the co-founder of Wikipedia. He has a Ph.D. in Philosophy from Ohio State University. When he is not working on knowledge projects, he plays the Irish fiddle and homeschools his two boys.
@@ -2686,9 +2580,6 @@ msgstr "Aprende más"
 #. [MediaGallery.LearnHow]
 #. defaultMessage is:
 #. Learn how
-#. [SectionEmbedModal.LearnHow]
-#. defaultMessage is:
-#. Learn how
 #. [SectionMediaModal.LearnHow]
 #. defaultMessage is:
 #. Learn how
@@ -2696,7 +2587,6 @@ msgstr "Aprende más"
 #: public/messages/src/app/components/SubmitVote/ConfirmationModal.json
 #: public/messages/src/editor/plugins/media-gallery/media-gallery-modal.json
 #: public/messages/src/editor/plugins/section-embed-modal/section-embed-modal.json
-#: public/messages/src/editor/plugins/section-media-modal/section-media-modal.json
 msgid "Learn how"
 msgstr "Más información"
 
@@ -3074,6 +2964,8 @@ msgstr "MIS EDITOS"
 #. defaultMessage is:
 #. MY VOTES
 #: public/messages/src/app/components/ActivityCards/index.json
+
+#| msgid "VOTES"
 msgid "MY VOTES"
 msgstr "votos"
 
@@ -3105,7 +2997,15 @@ msgstr "Tamaño máximo de archivo: 5mb, aceptado:"
 #. [CommentUtils.Media]
 #. defaultMessage is:
 #. Media
+#. [SectionMediaModal.Media]
+#. defaultMessage is:
+#. Media
+#. [SectionMediaModal.MediaTwo]
+#. defaultMessage is:
+#. Media
 #: public/messages/src/app/utils/comment-utils.json
+#: public/messages/src/editor/plugins/section-embed-modal/index.json
+#: public/messages/src/editor/plugins/section-embed/section-embed.button.json
 msgid "Media"
 msgstr "Media"
 
@@ -3130,19 +3030,10 @@ msgstr "Código Médico"
 #. defaultMessage is:
 #. Medical Entities
 #: public/messages/src/app/components/Search/SearchResults.json
+
+#| msgid "Medical Code"
 msgid "Medical Entities"
 msgstr "Código Médico"
-
-#. [SectionEmbedModal.ImagesPane.Medium]
-#. defaultMessage is:
-#. Medium
-#. [SectionEmbedModal.VideosPane.Medium]
-#. defaultMessage is:
-#. Medium
-#: public/messages/src/editor/plugins/section-embed-modal/panes/images.json
-#: public/messages/src/editor/plugins/section-embed-modal/panes/videos.json
-msgid "Medium"
-msgstr "Mediano"
 
 #. [ThirdBlock.MeetOurTeam]
 #. defaultMessage is:
@@ -3260,13 +3151,6 @@ msgstr "Nacionalidad"
 msgid "New Article"
 msgstr "Crear artículo nuevo"
 
-#. [SectionEmbedModal.NewMedia]
-#. defaultMessage is:
-#. New Media
-#: public/messages/src/editor/plugins/section-embed-modal/section-embed-modal.json
-msgid "New Media"
-msgstr "Nuevo Medio"
-
 #. [MetadataNode.No]
 #. defaultMessage is:
 #. No
@@ -3340,19 +3224,6 @@ msgstr "No hay información de perfil público disponible"
 #: public/messages/src/app/components/SubmitVote/index.json
 msgid "No result returned"
 msgstr "No se ha devuelto ningún resultado"
-
-#. [MergeModalAgain.NoTransactionID]
-#. defaultMessage is:
-#. No transaction ID
-#. [SaveModalAgain.NoTransactionID]
-#. defaultMessage is:
-#. No transaction ID
-#: public/messages/src/editor/plugins/merge/merge-modal.json
-#: public/messages/src/editor/plugins/save/save-modal.json
-
-#| msgid "View Transaction"
-msgid "No transaction ID"
-msgstr "Ver Transacción"
 
 #. [Tooltips.NoVotes]
 #. defaultMessage is:
@@ -3525,20 +3396,12 @@ msgstr "Nuestras oficinas globales"
 #. embraces grand challenges. At Everipedia, we are fortunate to have people with deep experience
 #. and knowledge in both the education and blockchain industry.
 #: public/messages/src/app/containers/about/third-block.json
-
-#| msgid ""
-#| "Our mission to build the world’s greatest encyclopedia requires a skilled "
-#| "executive team that\n"
-#| "\t\t\t\t\t\tembraces grand challenges. At Everipedia, we are fortunate to "
-#| "have people with deep experience\n"
-#| "\t\t\t\t\t\tand knowledge in both the education and blockchain industry."
 msgid ""
 "Our mission to build the world’s greatest encyclopedia requires a skilled "
 "executive team that\n"
-"                        embraces grand challenges. At Everipedia, we are "
-"fortunate to have people with deep experience\n"
-"                        and knowledge in both the education and blockchain "
-"industry."
+"\t\t\t\t\t\tembraces grand challenges. At Everipedia, we are fortunate to "
+"have people with deep experience\n"
+"\t\t\t\t\t\tand knowledge in both the education and blockchain industry."
 msgstr ""
 "Nuestra misión de construir la mayor enciclopedia del mundo requiere un "
 "equipo ejecutivo capacitado que\n"
@@ -3575,6 +3438,7 @@ msgstr "POPULAR"
 #. defaultMessage is:
 #. PROFILES
 #: public/messages/src/app/components/Search/SearchResults.json
+
 msgid "PROFILES"
 msgstr "Perfiles"
 
@@ -3737,7 +3601,7 @@ msgstr "Por favor, empieza a escribir...."
 #. [CitationModal.AddEditURL.PleaseEnterAURL]
 #. defaultMessage is:
 #. Please enter a URL
-#. [SectionEmbedModal.AddEditURL.PleaseEnterAURL]
+#. [SectionMediaModal.AddEditURL.PleaseEnterAURL]
 #. defaultMessage is:
 #. Please enter a URL
 #: public/messages/src/editor/plugins/citation-modal/panes/add-edit-url.json
@@ -3938,6 +3802,8 @@ msgstr "Productos"
 #. defaultMessage is:
 #. Profile
 #: public/messages/src/app/components/Search/SearchResults.json
+
+#| msgid "Profile image"
 msgid "Profile"
 msgstr "Perfil del editor"
 
@@ -4266,6 +4132,8 @@ msgstr "Buscar para averiguar si el tema ya tiene un artículo"
 #. defaultMessage is:
 #. Searching
 #: public/messages/src/editor/plugins/categories/categories-modal.json
+
+#| msgid "Fetching..."
 msgid "Searching"
 msgstr "Buscando..."
 
@@ -4435,17 +4303,6 @@ msgstr "Registrarse"
 #: public/messages/src/app/components/SubmitVote/ConfirmationModal.json
 msgid "Sign with Wallet"
 msgstr "Cartel con billetera"
-
-#. [SectionEmbedModal.ImagesPane.Small]
-#. defaultMessage is:
-#. Small
-#. [SectionEmbedModal.VideosPane.Small]
-#. defaultMessage is:
-#. Small
-#: public/messages/src/editor/plugins/section-embed-modal/panes/images.json
-#: public/messages/src/editor/plugins/section-embed-modal/panes/videos.json
-msgid "Small"
-msgstr "Pequeño"
 
 #. [SocialMediaBox.SocialMedia]
 #. defaultMessage is:
@@ -4900,6 +4757,7 @@ msgstr ""
 #. defaultMessage is:
 #. To make an edit or create an article, you need an Everipedia account.
 #: public/messages/src/app/utils/errors.json
+
 msgid "To make an edit or create an article, you need an Everipedia account."
 msgstr "Para editar o crear un artículo, necesitas una cuenta de Everipedia."
 
@@ -5077,6 +4935,7 @@ msgstr "Subiendo..."
 #. defaultMessage is:
 #. VERSION VOTES
 #: public/messages/src/app/components/SubmitVote/index.json
+
 msgid "VERSION VOTES"
 msgstr "VERSION VOTES"
 
@@ -5126,15 +4985,6 @@ msgstr "Valor(es)"
 #: public/messages/src/app/components/ContactUsForm/index.json
 msgid "Verify Account"
 msgstr "Verificar Cuenta"
-
-#. [ImageUploader.VideoPreviewUnavailable]
-#. defaultMessage is:
-#. Video preview unavailable
-#: public/messages/src/shared/inputs/image-uploader/image-uploader.component.json
-
-#| msgid "No Preview Available"
-msgid "Video preview unavailable"
-msgstr "Vista previa no disponible"
 
 #. [SearchResults.View]
 #. defaultMessage is:
@@ -5376,6 +5226,10 @@ msgstr ""
 #. defaultMessage is:
 #. Wait a moment while we load your wallet – If you don’t see the wallet window, check if it has loaded behind your current window.
 #: public/messages/src/app/components/Login/index.json
+
+#| msgid ""
+#| "Wait a moment while we load your wallet. If you don’t see the wallet "
+#| "window, check if it has loaded behind your current window."
 msgid ""
 "Wait a moment while we load your wallet – If you don’t see the wallet "
 "window, check if it has loaded behind your current window."
@@ -5466,6 +5320,7 @@ msgstr "¿A qué artículo quieres enlazar?"
 #. defaultMessage is:
 #. What is IQ?
 #: public/messages/src/app/containers/dashboard/what_is_iq.json
+
 msgid "What is IQ?"
 msgstr "¿Qué es el coeficiente intelectual?"
 
@@ -5596,6 +5451,7 @@ msgstr "Su impulso fue un éxito"
 #. defaultMessage is:
 #. Your CA Privacy Rights
 #: public/messages/src/app/components/Footer/index.json
+
 msgid "Your CA Privacy Rights"
 msgstr "Sus derechos de privacidad de CA"
 
@@ -5925,14 +5781,10 @@ msgstr "Intercambios compatibles"
 msgid "to choose a quality image"
 msgstr "elegir una imagen de calidad"
 
-#. [SectionEmbedModal.ToChooseAQualityImage]
-#. defaultMessage is:
-#. to choose a quality image.
 #. [SectionMediaModal.ToChooseAQualityImage]
 #. defaultMessage is:
 #. to choose a quality image.
 #: public/messages/src/editor/plugins/section-embed-modal/section-embed-modal.json
-#: public/messages/src/editor/plugins/section-media-modal/section-media-modal.json
 msgid "to choose a quality image."
 msgstr "para elegir una imagen de calidad."
 
@@ -6037,12 +5889,6 @@ msgstr "fue iniciada por"
 #: public/messages/src/app/components/SubmitVote/EditOverview.json
 msgid "words"
 msgstr "palabras"
-
-#~ msgid "Add without Inserting"
-#~ msgstr "Añadir sin insertar"
-
-#~ msgid "ISBN (Book)"
-#~ msgstr "ISBN (Libro)"
 
 #~ msgid "Login / Create Account"
 #~ msgstr "Iniciar sesión / Crear una cuenta"

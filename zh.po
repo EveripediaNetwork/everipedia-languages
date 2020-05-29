@@ -2581,7 +2581,7 @@ msgid ""
 "University. When he is not working on knowledge projects, he plays the Irish "
 "fiddle and homeschools his two boys."
 msgstr ""
-"Larry Sange 是一名知识类项目开发人员。他因联合创立了维基百科而广为人知他拥"
+"Larry Sanger 是一名知识类项目开发人员。他因联合创立了维基百科而广为人知他拥"
 "有俄亥俄州立大学哲学博士学位。在他的工作之余，他还是一位爱尔兰小提琴演奏家，"
 "并在家里教育他的两位小孩。"
 
@@ -2968,6 +2968,13 @@ msgstr "手机登录"
 #: public/messages/src/app/components/Login/index.json
 msgid "Login with Scatter"
 msgstr "Scatter登录"
+
+#. [LoginModal.LoginWithTokenPocket]
+#. defaultMessage is:
+#. Login with TokenPocket
+#: public/messages/src/app/components/Login/index.json
+msgid "Login with Tokenpocket"
+msgstr "TokenPocket登录"
 
 #. [Login.LoginWithScatterBlockchain]
 #. defaultMessage is:
