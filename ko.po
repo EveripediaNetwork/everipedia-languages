@@ -1,7 +1,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: \n"
-"POT-Creation-Date: 2020-02-18T19:25:02.766Z\n"
+"POT-Creation-Date: 2020-01-22T07:51:26.991Z\n"
 "PO-Revision-Date: \n"
 "Last-Translator: \n"
 "Language-Team: \n"
@@ -9,7 +9,7 @@ msgstr ""
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"X-Generator: Poedit 2.3\n"
+"X-Generator: Poedit 2.2.4\n"
 "Plural-Forms: nplurals=1; plural=0;\n"
 
 #. [MobileHamburger.SignUp]
@@ -284,7 +284,7 @@ msgstr "최근 활동"
 #. [InfoboxModal.Add]
 #. defaultMessage is:
 #. Add
-#. [SectionMediaModal.AddEditURL.Add]
+#. [SectionEmbedModal.AddEditURL.Add]
 #. defaultMessage is:
 #. Add
 #: public/messages/src/editor/plugins/infobox/infobox-modal.json
@@ -335,7 +335,7 @@ msgstr "이미지 / 영상을 미디어 갤러리에 추가"
 #. [SectionMediaModal.AddInlineObject]
 #. defaultMessage is:
 #. Add Inline Object
-#: public/messages/src/editor/plugins/section-embed-modal/section-embed-modal.json
+#: public/messages/src/editor/plugins/section-media-modal/section-media-modal.json
 msgid "Add Inline Object"
 msgstr "인라인 이미지 추가"
 
@@ -387,7 +387,7 @@ msgstr "관련글 추가"
 msgid "Add and Add Another"
 msgstr "적용 및 추가"
 
-#. [SectionMediaModal.AddEditURL.AddAndInsert]
+#. [SectionEmbedModal.AddEditURL.AddAndInsert]
 #. defaultMessage is:
 #. Add and Insert
 #: public/messages/src/editor/plugins/section-embed-modal/panes/add-edit-url.json
@@ -404,11 +404,15 @@ msgstr "설명 추가(선택사항)"
 #. [CitationModdal.Title]
 #. defaultMessage is:
 #. Add or edit a citation
+#. [SectionEmbedModal.Title]
+#. defaultMessage is:
+#. Add or edit a citation
 #. [SectionMediaModal.Title]
 #. defaultMessage is:
 #. Add or edit a citation
 #: public/messages/src/editor/plugins/citation-modal/citation-modal.json
 #: public/messages/src/editor/plugins/section-embed-modal/section-embed-modal.json
+#: public/messages/src/editor/plugins/section-media-modal/section-media-modal.json
 msgid "Add or edit a citation"
 msgstr "인용 추가 또는 편집"
 
@@ -430,14 +434,10 @@ msgstr ""
 "세계에서 가장 보편적인 지적자산에 참여하세요. 무엇에 대해서든, 위키를 만들 "
 "수 있습니다."
 
-#. [MediaGallery.AddingMediaMakes]
-#. defaultMessage is:
-#. Adding media makes an article more interactive and engaging.
 #. [SectionMediaModal.AddingMediaMakes]
 #. defaultMessage is:
 #. Adding media makes an article more interactive and engaging.
-#: public/messages/src/editor/plugins/media-gallery/media-gallery-modal.json
-#: public/messages/src/editor/plugins/section-embed-modal/section-embed-modal.json
+#: public/messages/src/editor/plugins/section-media-modal/section-media-modal.json
 msgid "Adding media makes an article more interactive and engaging."
 msgstr "이미지와 영상을 추가하면 글이 더 다채로워집니다"
 
@@ -627,7 +627,7 @@ msgstr "블로그"
 #. defaultMessage is:
 #. Book ISBN
 #: public/messages/src/editor/plugins/citation-modal/citation-modal.json
-#, fuzzy
+
 msgid "Book ISBN"
 msgstr "도서 ISBN"
 
@@ -731,10 +731,19 @@ msgstr "인용"
 #. [SaveModalAgain.Cancel]
 #. defaultMessage is:
 #. Cancel
-#. [SectionMediaModal.AddEditURL.Cancel]
+#. [SectionEmbedModal.AddEditURL.Cancel]
 #. defaultMessage is:
 #. Cancel
-#. [SectionMediaModal.InsertExisting.Cancel]
+#. [SectionEmbedModal.Audio.Cancel]
+#. defaultMessage is:
+#. Cancel
+#. [SectionEmbedModal.ExistingMedia.Cancel]
+#. defaultMessage is:
+#. Cancel
+#. [SectionEmbedModal.ImagesPane.Images.Cancel]
+#. defaultMessage is:
+#. Cancel
+#. [SectionEmbedModal.VideosPane.Images.Cancel]
 #. defaultMessage is:
 #. Cancel
 #. [FileUploader.Cancel]
@@ -756,7 +765,10 @@ msgstr "인용"
 #: public/messages/src/editor/plugins/metadata/metadata-modal.json
 #: public/messages/src/editor/plugins/save/save-modal.json
 #: public/messages/src/editor/plugins/section-embed-modal/panes/add-edit-url.json
-#: public/messages/src/editor/plugins/section-embed-modal/panes/insert-existing.json
+#: public/messages/src/editor/plugins/section-embed-modal/panes/audio.json
+#: public/messages/src/editor/plugins/section-embed-modal/panes/existing-media.json
+#: public/messages/src/editor/plugins/section-embed-modal/panes/images.json
+#: public/messages/src/editor/plugins/section-embed-modal/panes/videos.json
 #: public/messages/src/shared/inputs/image-uploader/file-uploader.component.json
 #: public/messages/src/shared/inputs/image-uploader/image-uploader.component.json
 msgid "Cancel"
@@ -1392,6 +1404,18 @@ msgstr "편집자"
 msgid "EDITS"
 msgstr "편집하기"
 
+#. [SectionEmbedModal.ImagesPane.EmbedSize]
+#. defaultMessage is:
+#. EMBED SIZE
+#. [SectionEmbedModal.VideosPane.EmbedSize]
+#. defaultMessage is:
+#. EMBED SIZE
+#: public/messages/src/editor/plugins/section-embed-modal/panes/images.json
+#: public/messages/src/editor/plugins/section-embed-modal/panes/videos.json
+
+msgid "EMBED SIZE"
+msgstr "내장 된 크기"
+
 #. [SubmitBoostModal.ExistingBoost]
 #. defaultMessage is:
 #. EXISTING BOOST
@@ -1447,7 +1471,7 @@ msgstr "편집하고 IQ 토큰 받기"
 #. [MetadataModal.Edit]
 #. defaultMessage is:
 #. Edit
-#. [SectionMediaModal.AddEditURL.Edit]
+#. [SectionEmbedModal.AddEditURL.Edit]
 #. defaultMessage is:
 #. Edit
 #. [FileUploader.Edit]
@@ -1614,6 +1638,34 @@ msgstr "곧 이메일 사용가능"
 msgid "Email address"
 msgstr "이메일 주소"
 
+#. [SectionEmbedModal.MediaTwo]
+#. defaultMessage is:
+#. Embed
+#: public/messages/src/editor/plugins/section-embed/section-embed.button.json
+msgid "Embed"
+msgstr "삽입"
+
+#. [SectionEmbedModal.EmbedObject]
+#. defaultMessage is:
+#. Embed Object
+#: public/messages/src/editor/plugins/section-embed-modal/section-embed-modal.json
+
+msgid "Embed Object"
+msgstr "개체 포함"
+
+#. [MediaGallery.EmbeddingObjectsMakes]
+#. defaultMessage is:
+#. Embedding objects makes an article more interactive and engaging.
+#. [SectionEmbedModal.EmbeddingObjectsMakes]
+#. defaultMessage is:
+#. Embedding objects makes an article more interactive and engaging.
+#: public/messages/src/editor/plugins/media-gallery/media-gallery-modal.json
+#: public/messages/src/editor/plugins/section-embed-modal/section-embed-modal.json
+
+#| msgid "Adding media makes an article more interactive and engaging."
+msgid "Embedding objects makes an article more interactive and engaging."
+msgstr "이미지와 영상을 추가하면 글이 더 다채로워집니다"
+
 #. [NewPageTemplate.NPT_Event_EndDate]
 #. defaultMessage is:
 #. End Date
@@ -1631,7 +1683,7 @@ msgstr "종료"
 #. [CitationModal.AddEditURL.EnterAURL]
 #. defaultMessage is:
 #. Enter a URL
-#. [SectionMediaModal.AddEditURL.EnterAURL]
+#. [SectionEmbedModal.AddEditURL.EnterAURL]
 #. defaultMessage is:
 #. Enter a URL
 #: public/messages/src/editor/plugins/citation-modal/panes/add-edit-url.json
@@ -1642,7 +1694,7 @@ msgstr "웹 주소 입력"
 #. [CitationModal.AddEditURL.EnterADescription]
 #. defaultMessage is:
 #. Enter a description
-#. [SectionMediaModal.AddEditURL.EnterADescription]
+#. [SectionEmbedModal.AddEditURL.EnterADescription]
 #. defaultMessage is:
 #. Enter a description
 #: public/messages/src/editor/plugins/citation-modal/panes/add-edit-url.json
@@ -1821,9 +1873,17 @@ msgstr ""
 #. [SectionMediaModal.Existing]
 #. defaultMessage is:
 #. Existing
-#: public/messages/src/editor/plugins/section-embed-modal/section-embed-modal.json
+#: public/messages/src/editor/plugins/section-media-modal/section-media-modal.json
 msgid "Existing"
 msgstr "기존 파일"
+
+#. [SectionEmbedModal.ExistingMedia]
+#. defaultMessage is:
+#. Existing Media
+#: public/messages/src/editor/plugins/section-embed-modal/section-embed-modal.json
+
+msgid "Existing Media"
+msgstr "기존 미디어"
 
 #. [LastBlock.ExploreYourCuriosity]
 #. defaultMessage is:
@@ -1944,6 +2004,14 @@ msgstr "파일"
 msgid "Filter citations"
 msgstr "인용 필터링"
 
+#. [ChatItem.FinalTally]
+#. defaultMessage is:
+#. Final Tally:
+#: public/messages/src/app/components/Chat/ChatItem.json
+
+msgid "Final Tally:"
+msgstr "최종 탈리 :"
+
 #. [About.FinancialIncentive]
 #. defaultMessage is:
 #. Financial Incentive
@@ -1954,10 +2022,14 @@ msgstr "재정적 인센티브"
 #. [ActivityCard.FirstEdit]
 #. defaultMessage is:
 #. First Edit
+#. [ChatItem.FirstEdit]
+#. defaultMessage is:
+#. First Edit
 #. [EditOverview.FirstEditTwo]
 #. defaultMessage is:
 #. First Edit
 #: public/messages/src/app/components/ActivityCards/ActivityCard.json
+#: public/messages/src/app/components/Chat/ChatItem.json
 #: public/messages/src/app/components/SubmitVote/EditOverview.json
 msgid "First Edit"
 msgstr "처음 편집"
@@ -2288,11 +2360,11 @@ msgid ""
 msgstr ""
 "IQ 토큰은 Everipedia Network에 전원을 공급합니다. 그들은 우리에게 콘텐츠를 기"
 "여하는 데 사용됩니다.\n"
-"                                끊임없이 성장하는 지식 기반과 새로운 기사에 "
+"                                끊임없이 성장하는 지식 기반과 새로운 기사에 "
 "대한 투표 및 기존 기사 편집\n"
-"                                조항. 기여자는 IQ 토큰 형태로 보상을받습니"
+"                                조항. 기여자는 IQ 토큰 형태로 보상을받습니"
 "다. 또한 각 토큰\n"
-"                                보유자는 시스템의 업그레이드 및 수정에 투표 "
+"                                보유자는 시스템의 업그레이드 및 수정에 투표 "
 "할 수 있습니다."
 
 #. [MergeModalAgain.IfItIsRejected]
@@ -2372,6 +2444,17 @@ msgstr "정보상자"
 msgid "Information"
 msgstr "정보"
 
+#. [SectionEmbedModal.ImagesPane.Insert]
+#. defaultMessage is:
+#. Insert
+#. [SectionEmbedModal.VideosPane.Insert]
+#. defaultMessage is:
+#. Insert
+#: public/messages/src/editor/plugins/section-embed-modal/panes/images.json
+#: public/messages/src/editor/plugins/section-embed-modal/panes/videos.json
+msgid "Insert"
+msgstr "삽입"
+
 #. [TableMenu.InsertAbove]
 #. defaultMessage is:
 #. Insert Above
@@ -2393,10 +2476,14 @@ msgstr "아래에 삽입"
 msgid "Insert Existing"
 msgstr "그대로 삽입"
 
+#. [SectionEmbedModal.InsertFromMediaGallery]
+#. defaultMessage is:
+#. Insert From Media Gallery
 #. [SectionMediaModal.InsertFromMediaGallery]
 #. defaultMessage is:
 #. Insert From Media Gallery
 #: public/messages/src/editor/plugins/section-embed-modal/section-embed-modal.json
+#: public/messages/src/editor/plugins/section-media-modal/section-media-modal.json
 msgid "Insert From Media Gallery"
 msgstr "미디어 갤러리에서 삽입"
 
@@ -2480,6 +2567,17 @@ msgstr "표"
 msgid "Language"
 msgstr "언어"
 
+#. [SectionEmbedModal.ImagesPane.Large]
+#. defaultMessage is:
+#. Large
+#. [SectionEmbedModal.VideosPane.Large]
+#. defaultMessage is:
+#. Large
+#: public/messages/src/editor/plugins/section-embed-modal/panes/images.json
+#: public/messages/src/editor/plugins/section-embed-modal/panes/videos.json
+msgid "Large"
+msgstr "크게"
+
 #. [TeamInfo.LarrySangerBio]
 #. defaultMessage is:
 #. Larry Sanger is a knowledge project developer; his claim to fame is that he is the co-founder of Wikipedia. He has a Ph.D. in Philosophy from Ohio State University. When he is not working on knowledge projects, he plays the Irish fiddle and homeschools his two boys.
@@ -2549,6 +2647,9 @@ msgstr "자세히 알아보기"
 #. [MediaGallery.LearnHow]
 #. defaultMessage is:
 #. Learn how
+#. [SectionEmbedModal.LearnHow]
+#. defaultMessage is:
+#. Learn how
 #. [SectionMediaModal.LearnHow]
 #. defaultMessage is:
 #. Learn how
@@ -2556,6 +2657,7 @@ msgstr "자세히 알아보기"
 #: public/messages/src/app/components/SubmitVote/ConfirmationModal.json
 #: public/messages/src/editor/plugins/media-gallery/media-gallery-modal.json
 #: public/messages/src/editor/plugins/section-embed-modal/section-embed-modal.json
+#: public/messages/src/editor/plugins/section-media-modal/section-media-modal.json
 msgid "Learn how"
 msgstr "자세히 알아보기"
 
@@ -2964,15 +3066,7 @@ msgstr "최대 파일 크기 : 5MB"
 #. [CommentUtils.Media]
 #. defaultMessage is:
 #. Media
-#. [SectionMediaModal.Media]
-#. defaultMessage is:
-#. Media
-#. [SectionMediaModal.MediaTwo]
-#. defaultMessage is:
-#. Media
 #: public/messages/src/app/utils/comment-utils.json
-#: public/messages/src/editor/plugins/section-embed-modal/index.json
-#: public/messages/src/editor/plugins/section-embed/section-embed.button.json
 msgid "Media"
 msgstr "미디어"
 
@@ -2999,6 +3093,17 @@ msgstr "의학 코드"
 #: public/messages/src/app/components/Search/SearchResults.json
 msgid "Medical Entities"
 msgstr "의학 코드"
+
+#. [SectionEmbedModal.ImagesPane.Medium]
+#. defaultMessage is:
+#. Medium
+#. [SectionEmbedModal.VideosPane.Medium]
+#. defaultMessage is:
+#. Medium
+#: public/messages/src/editor/plugins/section-embed-modal/panes/images.json
+#: public/messages/src/editor/plugins/section-embed-modal/panes/videos.json
+msgid "Medium"
+msgstr "중간"
 
 #. [ThirdBlock.MeetOurTeam]
 #. defaultMessage is:
@@ -3116,6 +3221,15 @@ msgstr "국적"
 msgid "New Article"
 msgstr "새 글"
 
+#. [SectionEmbedModal.NewMedia]
+#. defaultMessage is:
+#. New Media
+#: public/messages/src/editor/plugins/section-embed-modal/section-embed-modal.json
+
+#| msgid "Media"
+msgid "New Media"
+msgstr "미디어"
+
 #. [MetadataNode.No]
 #. defaultMessage is:
 #. No
@@ -3189,6 +3303,19 @@ msgstr "공개 프로필 정보가 없습니다"
 #: public/messages/src/app/components/SubmitVote/index.json
 msgid "No result returned"
 msgstr "결과가 없습니다"
+
+#. [MergeModalAgain.NoTransactionID]
+#. defaultMessage is:
+#. No transaction ID
+#. [SaveModalAgain.NoTransactionID]
+#. defaultMessage is:
+#. No transaction ID
+#: public/messages/src/editor/plugins/merge/merge-modal.json
+#: public/messages/src/editor/plugins/save/save-modal.json
+
+#| msgid "View Transaction"
+msgid "No transaction ID"
+msgstr "트랜잭션 보기"
 
 #. [Tooltips.NoVotes]
 #. defaultMessage is:
@@ -3359,7 +3486,7 @@ msgstr "글로벌 지사"
 #. embraces grand challenges. At Everipedia, we are fortunate to have people with deep experience
 #. and knowledge in both the education and blockchain industry.
 #: public/messages/src/app/containers/about/third-block.json
-#, fuzzy
+
 #| msgid ""
 #| "Our mission to build the world’s greatest encyclopedia requires a skilled "
 #| "executive team that\n"
@@ -3566,7 +3693,7 @@ msgstr "작성하세요"
 #. [CitationModal.AddEditURL.PleaseEnterAURL]
 #. defaultMessage is:
 #. Please enter a URL
-#. [SectionMediaModal.AddEditURL.PleaseEnterAURL]
+#. [SectionEmbedModal.AddEditURL.PleaseEnterAURL]
 #. defaultMessage is:
 #. Please enter a URL
 #: public/messages/src/editor/plugins/citation-modal/panes/add-edit-url.json
@@ -4262,6 +4389,17 @@ msgstr "가입하기"
 msgid "Sign with Wallet"
 msgstr "지갑으로 로그인"
 
+#. [SectionEmbedModal.ImagesPane.Small]
+#. defaultMessage is:
+#. Small
+#. [SectionEmbedModal.VideosPane.Small]
+#. defaultMessage is:
+#. Small
+#: public/messages/src/editor/plugins/section-embed-modal/panes/images.json
+#: public/messages/src/editor/plugins/section-embed-modal/panes/videos.json
+msgid "Small"
+msgstr "작게"
+
 #. [SocialMediaBox.SocialMedia]
 #. defaultMessage is:
 #. Social Media
@@ -4923,6 +5061,15 @@ msgstr "값"
 #: public/messages/src/app/components/ContactUsForm/index.json
 msgid "Verify Account"
 msgstr "계정 인증하기"
+
+#. [ImageUploader.VideoPreviewUnavailable]
+#. defaultMessage is:
+#. Video preview unavailable
+#: public/messages/src/shared/inputs/image-uploader/image-uploader.component.json
+
+#| msgid "No Preview Available"
+msgid "Video preview unavailable"
+msgstr "미리보기 사용불가"
 
 #. [SearchResults.View]
 #. defaultMessage is:
@@ -5701,10 +5848,14 @@ msgstr "지원 거래소"
 msgid "to choose a quality image"
 msgstr "고품질 이미지 선택"
 
+#. [SectionEmbedModal.ToChooseAQualityImage]
+#. defaultMessage is:
+#. to choose a quality image.
 #. [SectionMediaModal.ToChooseAQualityImage]
 #. defaultMessage is:
 #. to choose a quality image.
 #: public/messages/src/editor/plugins/section-embed-modal/section-embed-modal.json
+#: public/messages/src/editor/plugins/section-media-modal/section-media-modal.json
 msgid "to choose a quality image."
 msgstr "고품질 이미지 선택"
 
