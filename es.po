@@ -9,69 +9,63 @@ msgstr ""
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"X-Generator: Poedit 2.2.4\n"
+"X-Generator: Poedit 2.3.1\n"
 "Plural-Forms: nplurals=2; plural=(n != 1);\n"
 
 #. [ActivityCard.Changed]
 #. defaultMessage is:
-#.  Changed
+#. Changed
 #. [ChatItem.Changed]
 #. defaultMessage is:
-#.  Changed
+#. Changed
 #. [EditOverview.ChangedTwo]
 #. defaultMessage is:
-#.  Changed
+#. Changed
 #: translations/.messages/src/app/components/ActivityCards/ActivityCard.json
 #: translations/.messages/src/app/components/Chat/ChatItem.json
 #: translations/.messages/src/app/components/SubmitVote/EditOverview.json
-
 msgid " Changed"
 msgstr "Cambiado"
 
 #. [ChatList.LoginToParticipate]
 #. defaultMessage is:
-#.  Login to participate in article chat.
+#. Login to participate in article chat.
 #: translations/.messages/src/app/components/Chat/ChatList.json
-
 msgid " Login to participate in article chat."
 msgstr "Inicie sesión para participar en el chat del artículo."
 
 #. [ChatList.WriteYourMessageBelow]
 #. defaultMessage is:
-#.  Write your message below to start the conversation
+#. Write your message below to start the conversation
 #: translations/.messages/src/app/components/Chat/ChatList.json
-
 msgid " Write your message below to start the conversation"
 msgstr "Escriba su mensaje a continuación para iniciar la conversación"
 
 #. [Errors.IfYouThinkYouAre]
 #. defaultMessage is:
-#.  if you think you are receiving this message in error.
+#. if you think you are receiving this message in error.
 #: translations/.messages/src/app/utils/errors.json
-
 msgid " if you think you are receiving this message in error."
 msgstr "si cree que está recibiendo este mensaje por error."
 
 #. [EditOverview.MergedIntoThisArticle]
 #. defaultMessage is:
-#.  merged into this article.
+#. merged into this article.
 #: translations/.messages/src/app/components/SubmitVote/EditOverview.json
-
 msgid " merged into this article."
 msgstr "se fusionó con este artículo."
 
 #. [MediaGallery.ToChooseAQualityImage]
 #. defaultMessage is:
-#.  to choose a quality image. You can upload jpg, gif, and png files
+#. to choose a quality image. You can upload jpg, gif, and png files
 #: translations/.messages/src/editor/plugins/media-gallery/media-gallery-modal.json
 msgid " to choose a quality image. You can upload jpg, gif, and png files"
 msgstr ""
 
 #. [Tooltips.Vote]
 #. defaultMessage is:
-#.  vote
+#. vote
 #: translations/.messages/src/app/components/tooltips/index.json
-
 msgid " vote"
 msgstr "Votar"
 
@@ -84,7 +78,7 @@ msgstr "+ Crear una Cuenta / Entrar"
 
 #. [IQInfo.Or]
 #. defaultMessage is:
-#. , or 
+#. , or
 #: translations/.messages/src/app/containers/iq-info/iq-info.container.json
 msgid ", or "
 msgstr ""
@@ -414,7 +408,6 @@ msgstr ""
 #. defaultMessage is:
 #. Add a Link
 #: translations/.messages/src/editor/components/mentions/suggestions.json
-
 msgid "Add a Link"
 msgstr "Añadir cita"
 
@@ -526,9 +519,8 @@ msgstr "Permitir Googlebot"
 
 #. [CitationModal.AddEditFile.AllowedFormats]
 #. defaultMessage is:
-#. Allowed formats: 
+#. Allowed formats:
 #: translations/.messages/src/editor/plugins/citation-modal/panes/add-edit-file.json
-
 msgid "Allowed formats: "
 msgstr "Formatos permitidos:"
 
@@ -563,7 +555,6 @@ msgstr ""
 #. defaultMessage is:
 #. Approve
 #: translations/.messages/src/app/containers/article/AdultContentContainer.json
-
 msgid "Approve"
 msgstr "Aprobar"
 
@@ -906,7 +897,6 @@ msgstr "Director de Tecnología, Cofundador"
 #. defaultMessage is:
 #. Choose a new main image (8mb maximum)
 #: translations/.messages/src/editor/plugins/main-photo/main-photo-modal.json
-
 msgid "Choose a new main image (8mb maximum)"
 msgstr "Elegir una nueva imagen principal"
 
@@ -2166,8 +2156,8 @@ msgstr ""
 #. [WhatIsIQ.Description]
 #. defaultMessage is:
 #. IQ tokens are used to incentivize users to create and maintain content within the Everipedia
-#.                     Network. Contributors are rewarded with IQ Tokens for creating or editing articles or voting on
-#.                     proposed content.
+#. Network. Contributors are rewarded with IQ Tokens for creating or editing articles or voting on
+#. proposed content.
 #: translations/.messages/src/app/containers/dashboard/what_is_iq.json
 msgid ""
 "IQ tokens are used to incentivize users to create and maintain content "
@@ -2185,9 +2175,9 @@ msgstr ""
 #. [IQInfo.IQTokensPower]
 #. defaultMessage is:
 #. IQ tokens power the Everipedia Network. They are used to contribute content to our
-#.                                 ever-growing knowledge base and to vote for / against new articles and edits to existing
-#.                                 articles. Contributors are rewarded in the form of IQ tokens. In addition, each token
-#.                                 holder can also vote on upgrades and modifications to the system.
+#. ever-growing knowledge base and to vote for / against new articles and edits to existing
+#. articles. Contributors are rewarded in the form of IQ tokens. In addition, each token
+#. holder can also vote on upgrades and modifications to the system.
 #: translations/.messages/src/app/containers/iq-info/iq-info.container.json
 msgid ""
 "IQ tokens power the Everipedia Network. They are used to contribute content "
@@ -2501,9 +2491,8 @@ msgstr "Aprende más"
 
 #. [Login.LearnMoreThree]
 #. defaultMessage is:
-#. Learn more 
+#. Learn more
 #: translations/.messages/src/app/components/Login/login.modal.json
-
 msgid "Learn more "
 msgstr "Aprende más"
 
@@ -2743,9 +2732,8 @@ msgstr "Ingresa con Scatter para usar tu cuenta de EOS blockchain existente."
 #. defaultMessage is:
 #. Login with TokenPocket
 #: translations/.messages/src/app/components/Login/index.json
-
 msgid "Login with TokenPocket"
-msgstr "Iniciar sesión con el teléfono"
+msgstr "Iniciar sesión con TokenPocket"
 
 #. [LoginModal.LoginWithTwitter]
 #. defaultMessage is:
@@ -3221,8 +3209,8 @@ msgstr "Nuestras oficinas globales"
 #. [ThirdBlock.OurMissionToBuild]
 #. defaultMessage is:
 #. Our mission to build the world’s greatest encyclopedia requires a skilled executive team that
-#.                         embraces grand challenges. At Everipedia, we are fortunate to have people with deep experience
-#.                         and knowledge in both the education and blockchain industry.
+#. embraces grand challenges. At Everipedia, we are fortunate to have people with deep experience
+#. and knowledge in both the education and blockchain industry.
 #: translations/.messages/src/app/containers/about/third-block.json
 msgid ""
 "Our mission to build the world’s greatest encyclopedia requires a skilled "
@@ -3619,9 +3607,8 @@ msgstr "Indique el motivo de su voto (opcional)"
 
 #. [ContactUs.Questions]
 #. defaultMessage is:
-#. Questions? 
+#. Questions?
 #: translations/.messages/src/app/containers/contact-us/contact-form.json
-
 msgid "Questions? "
 msgstr "Preguntas frecuentes"
 
@@ -4300,10 +4287,9 @@ msgstr "Términos"
 #. [Errors.ThanksForTrialing]
 #. defaultMessage is:
 #. Thanks for trialing Everipedia. Looks like you’ve been making edits and have run out of the
-#.                         trial IQ Tokens. You can unlock the full potential of Everipedia and get more tokens with a
-#.                         Scatter login. 
+#. trial IQ Tokens. You can unlock the full potential of Everipedia and get more tokens with a
+#. Scatter login.
 #: translations/.messages/src/app/utils/errors.json
-
 msgid ""
 "Thanks for trialing Everipedia. Looks like you’ve been making edits and have "
 "run out of the\n"
@@ -4320,9 +4306,8 @@ msgstr ""
 #. [Errors.ThanksForUsingEveripedia]
 #. defaultMessage is:
 #. Thanks for using Everipedia. Looks like you have run out of IQ Tokens. You can get more tokens
-#.                         at one of 
+#. at one of
 #: translations/.messages/src/app/utils/errors.json
-
 msgid ""
 "Thanks for using Everipedia. Looks like you have run out of IQ Tokens. You "
 "can get more tokens\n"
@@ -4505,7 +4490,6 @@ msgstr "Esta página está bloqueada para nuevas ediciones."
 #. defaultMessage is:
 #. This page may contain adult content, would you like to continue?
 #: translations/.messages/src/app/containers/article/AdultContentContainer.json
-
 msgid "This page may contain adult content, would you like to continue?"
 msgstr ""
 "Parece que puedes tener ediciones no guardadas. ¿Te gustaría continuar?"
@@ -4672,7 +4656,6 @@ msgstr "Subir"
 #. defaultMessage is:
 #. Upload from computer (8mb max)
 #: translations/.messages/src/editor/plugins/media-gallery/media-gallery-modal.json
-
 msgid "Upload from computer (8mb max)"
 msgstr "Subir desde el ordenador"
 
@@ -5223,7 +5206,6 @@ msgstr ""
 #. defaultMessage is:
 #. about EOS and IQ
 #: translations/.messages/src/app/containers/iq-info/iq-info.container.json
-
 msgid "about EOS and IQ"
 msgstr "sobre EOS e IQ, o"
 
