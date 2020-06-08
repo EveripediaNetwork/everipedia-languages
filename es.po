@@ -1,7 +1,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: \n"
-"POT-Creation-Date: 2020-06-07T17:00:05.079Z\n"
+"POT-Creation-Date: 2020-06-07T18:12:48.155Z\n"
 "PO-Revision-Date: \n"
 "Last-Translator: \n"
 "Language-Team: \n"
@@ -14,13 +14,13 @@ msgstr ""
 
 #. [ActivityCard.Changed]
 #. defaultMessage is:
-#. Changed
+#.  Changed
 #. [ChatItem.Changed]
 #. defaultMessage is:
-#. Changed
+#.  Changed
 #. [EditOverview.ChangedTwo]
 #. defaultMessage is:
-#. Changed
+#.  Changed
 #: translations/.messages/src/app/components/ActivityCards/ActivityCard.json
 #: translations/.messages/src/app/components/Chat/ChatItem.json
 #: translations/.messages/src/app/components/SubmitVote/EditOverview.json
@@ -29,42 +29,42 @@ msgstr "Cambiado"
 
 #. [ChatList.LoginToParticipate]
 #. defaultMessage is:
-#. Login to participate in article chat.
+#.  Login to participate in article chat.
 #: translations/.messages/src/app/components/Chat/ChatList.json
 msgid " Login to participate in article chat."
 msgstr "Inicie sesión para participar en el chat del artículo."
 
 #. [ChatList.WriteYourMessageBelow]
 #. defaultMessage is:
-#. Write your message below to start the conversation
+#.  Write your message below to start the conversation
 #: translations/.messages/src/app/components/Chat/ChatList.json
 msgid " Write your message below to start the conversation"
 msgstr "Escriba su mensaje a continuación para iniciar la conversación"
 
 #. [Errors.IfYouThinkYouAre]
 #. defaultMessage is:
-#. if you think you are receiving this message in error.
+#.  if you think you are receiving this message in error.
 #: translations/.messages/src/app/utils/errors.json
 msgid " if you think you are receiving this message in error."
 msgstr "si cree que está recibiendo este mensaje por error."
 
 #. [EditOverview.MergedIntoThisArticle]
 #. defaultMessage is:
-#. merged into this article.
+#.  merged into this article.
 #: translations/.messages/src/app/components/SubmitVote/EditOverview.json
 msgid " merged into this article."
 msgstr "se fusionó con este artículo."
 
 #. [MediaGallery.ToChooseAQualityImage]
 #. defaultMessage is:
-#. to choose a quality image. You can upload jpg, gif, and png files
+#.  to choose a quality image. You can upload jpg, gif, and png files
 #: translations/.messages/src/editor/plugins/media-gallery/media-gallery-modal.json
 msgid " to choose a quality image. You can upload jpg, gif, and png files"
 msgstr ""
 
 #. [Tooltips.Vote]
 #. defaultMessage is:
-#. vote
+#.  vote
 #: translations/.messages/src/app/components/tooltips/index.json
 msgid " vote"
 msgstr "Votar"
@@ -78,7 +78,7 @@ msgstr "+ Crear una Cuenta / Entrar"
 
 #. [IQInfo.Or]
 #. defaultMessage is:
-#. , or
+#. , or 
 #: translations/.messages/src/app/containers/iq-info/iq-info.container.json
 msgid ", or "
 msgstr ""
@@ -519,7 +519,7 @@ msgstr "Permitir Googlebot"
 
 #. [CitationModal.AddEditFile.AllowedFormats]
 #. defaultMessage is:
-#. Allowed formats:
+#. Allowed formats: 
 #: translations/.messages/src/editor/plugins/citation-modal/panes/add-edit-file.json
 msgid "Allowed formats: "
 msgstr "Formatos permitidos:"
@@ -2156,8 +2156,8 @@ msgstr ""
 #. [WhatIsIQ.Description]
 #. defaultMessage is:
 #. IQ tokens are used to incentivize users to create and maintain content within the Everipedia
-#. Network. Contributors are rewarded with IQ Tokens for creating or editing articles or voting on
-#. proposed content.
+#.                     Network. Contributors are rewarded with IQ Tokens for creating or editing articles or voting on
+#.                     proposed content.
 #: translations/.messages/src/app/containers/dashboard/what_is_iq.json
 msgid ""
 "IQ tokens are used to incentivize users to create and maintain content "
@@ -2175,9 +2175,9 @@ msgstr ""
 #. [IQInfo.IQTokensPower]
 #. defaultMessage is:
 #. IQ tokens power the Everipedia Network. They are used to contribute content to our
-#. ever-growing knowledge base and to vote for / against new articles and edits to existing
-#. articles. Contributors are rewarded in the form of IQ tokens. In addition, each token
-#. holder can also vote on upgrades and modifications to the system.
+#.                                 ever-growing knowledge base and to vote for / against new articles and edits to existing
+#.                                 articles. Contributors are rewarded in the form of IQ tokens. In addition, each token
+#.                                 holder can also vote on upgrades and modifications to the system.
 #: translations/.messages/src/app/containers/iq-info/iq-info.container.json
 msgid ""
 "IQ tokens power the Everipedia Network. They are used to contribute content "
@@ -2491,7 +2491,7 @@ msgstr "Aprende más"
 
 #. [Login.LearnMoreThree]
 #. defaultMessage is:
-#. Learn more
+#. Learn more 
 #: translations/.messages/src/app/components/Login/login.modal.json
 msgid "Learn more "
 msgstr "Aprende más"
@@ -3209,8 +3209,8 @@ msgstr "Nuestras oficinas globales"
 #. [ThirdBlock.OurMissionToBuild]
 #. defaultMessage is:
 #. Our mission to build the world’s greatest encyclopedia requires a skilled executive team that
-#. embraces grand challenges. At Everipedia, we are fortunate to have people with deep experience
-#. and knowledge in both the education and blockchain industry.
+#.                         embraces grand challenges. At Everipedia, we are fortunate to have people with deep experience
+#.                         and knowledge in both the education and blockchain industry.
 #: translations/.messages/src/app/containers/about/third-block.json
 msgid ""
 "Our mission to build the world’s greatest encyclopedia requires a skilled "
@@ -3607,7 +3607,7 @@ msgstr "Indique el motivo de su voto (opcional)"
 
 #. [ContactUs.Questions]
 #. defaultMessage is:
-#. Questions?
+#. Questions? 
 #: translations/.messages/src/app/containers/contact-us/contact-form.json
 msgid "Questions? "
 msgstr "Preguntas frecuentes"
@@ -4287,8 +4287,8 @@ msgstr "Términos"
 #. [Errors.ThanksForTrialing]
 #. defaultMessage is:
 #. Thanks for trialing Everipedia. Looks like you’ve been making edits and have run out of the
-#. trial IQ Tokens. You can unlock the full potential of Everipedia and get more tokens with a
-#. Scatter login.
+#.                         trial IQ Tokens. You can unlock the full potential of Everipedia and get more tokens with a
+#.                         Scatter login. 
 #: translations/.messages/src/app/utils/errors.json
 msgid ""
 "Thanks for trialing Everipedia. Looks like you’ve been making edits and have "
@@ -4306,7 +4306,7 @@ msgstr ""
 #. [Errors.ThanksForUsingEveripedia]
 #. defaultMessage is:
 #. Thanks for using Everipedia. Looks like you have run out of IQ Tokens. You can get more tokens
-#. at one of
+#.                         at one of 
 #: translations/.messages/src/app/utils/errors.json
 msgid ""
 "Thanks for using Everipedia. Looks like you have run out of IQ Tokens. You "
