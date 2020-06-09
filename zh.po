@@ -375,7 +375,7 @@ msgstr "添加标签"
 #. Add Main Photo
 #: translations/.messages/src/editor/plugins/main-photo/main-photo-modal.json
 msgid "Add Main Photo"
-msgstr "添加主照片"
+msgstr "添加主图"
 
 #. [MediaGallery.AddNewItem]
 #. defaultMessage is:
@@ -395,7 +395,7 @@ msgstr "将新图像或视频添加到图库"
 #. Add New Item to Infobox
 #: translations/.messages/src/editor/plugins/infobox/infobox-modal.json
 msgid "Add New Item to Infobox"
-msgstr "将新项目添加到信息框"
+msgstr "将新栏目添加到信息框"
 
 #. [InfoboxModal.AddRow]
 #. defaultMessage is:
@@ -503,7 +503,7 @@ msgid ""
 "All holders of IQ will be incentivized to create quality, neutral content "
 "and to work together in building the reputation of the network."
 msgstr ""
-"所有的 IQ 持有者将受到激励，以创造高质量和中立的内容，并且共同努力来打造网络"
+"所有的 IQ 持有者将受到激励，以创造高质量和中立的内容，并且共同努力打造网络"
 "声誉。"
 
 #. [MetadataModal.AllowNonGooglebot]
@@ -544,7 +544,7 @@ msgid ""
 "knowledge base."
 msgstr ""
 "任何拥有IQ代币的人都是Everipedia网络的利益相关者。用户使用IQ代币进行投票，以"
-"决定将哪些新文章和编辑的内容可以被添加到知识库中。"
+"决定将哪些新文章和编辑可以被添加到知识库中。"
 
 #. [AdultContentContainer.Approve]
 #. defaultMessage is:
@@ -1108,7 +1108,7 @@ msgstr "复制URL"
 #. Copyright
 #: translations/.messages/src/app/containers/contact-us/messages.json
 msgid "Copyright"
-msgstr ""
+msgstr "版权"
 
 #. [EditProfile.Country]
 #. defaultMessage is:
@@ -1138,7 +1138,7 @@ msgstr "国家"
 #: translations/.messages/src/app/components/TopNav/Mobile-Hamburger.json
 #: translations/.messages/src/app/containers/homepageContainer/featured.json
 msgid "Create New Wiki"
-msgstr "创作新的Wiki"
+msgstr "创作新的维基"
 
 #. [SearchResults.CreateAnArticle]
 #. defaultMessage is:
@@ -1169,7 +1169,7 @@ msgstr "创意工作/艺术"
 #. Creative Works
 #: translations/.messages/src/app/components/Search/SearchResults.json
 msgid "Creative Works"
-msgstr "创意工作/艺术"
+msgstr "创意工作"
 
 #. [NewPageTemplate.NPT_CreativeWork_Creator]
 #. defaultMessage is:
@@ -1190,7 +1190,7 @@ msgstr "创作者（多名）"
 #. Current IQ Price
 #: translations/.messages/src/app/containers/dashboard/dashboard_component.json
 msgid "Current IQ Price"
-msgstr "当前IQ 价格"
+msgstr "当前IQ价格"
 
 #. [Dashboard.CurrentlyStaked]
 #. defaultMessage is:
@@ -2101,7 +2101,7 @@ msgstr "IQ 持有人"
 #. IQ Token
 #: translations/.messages/src/app/components/Footer/index.json
 msgid "IQ Token"
-msgstr "IQ代币"
+msgstr "IQ 代币"
 
 #. [About.EarnRewardsText]
 #. defaultMessage is:
