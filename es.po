@@ -1,7 +1,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: \n"
-"POT-Creation-Date: 2020-06-07T18:12:48.155Z\n"
+"POT-Creation-Date: 2020-06-10T14:42:08.565Z\n"
 "PO-Revision-Date: \n"
 "Last-Translator: \n"
 "Language-Team: \n"
@@ -2974,6 +2974,13 @@ msgstr "Crear artículo nuevo"
 #: translations/.messages/src/editor/plugins/section-embed-modal/section-embed-modal.json
 msgid "New Media"
 msgstr "Nuevo Medio"
+
+#. [Footer.Newsletter]
+#. defaultMessage is:
+#. Newsletter
+#: translations/.messages/src/app/components/Footer/index.json
+msgid "Newsletter"
+msgstr ""
 
 #. [MetadataNode.No]
 #. defaultMessage is:

@@ -1,6 +1,6 @@
 msgid ""
 msgstr ""
-"POT-Creation-Date: 2020-06-07T18:12:48.155Z\n"
+"POT-Creation-Date: 2020-06-10T15:23:15.545Z\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "MIME-Version: 1.0\n"
@@ -2813,6 +2813,13 @@ msgstr ""
 #. defaultMessage is:
 #. New Media
 msgid "New Media"
+msgstr ""
+
+#: translations/.messages/src/app/components/Footer/index.json
+#. [Footer.Newsletter]
+#. defaultMessage is:
+#. Newsletter
+msgid "Newsletter"
 msgstr ""
 
 #: translations/.messages/src/editor/plugins/metadata/metadata.node.json

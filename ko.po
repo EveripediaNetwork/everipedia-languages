@@ -1,7 +1,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: \n"
-"POT-Creation-Date: 2020-06-07T17:00:05.079Z\n"
+"POT-Creation-Date: 2020-06-10T14:42:08.565Z\n"
 "PO-Revision-Date: \n"
 "Last-Translator: \n"
 "Language-Team: \n"
@@ -24,7 +24,6 @@ msgstr ""
 #: translations/.messages/src/app/components/ActivityCards/ActivityCard.json
 #: translations/.messages/src/app/components/Chat/ChatItem.json
 #: translations/.messages/src/app/components/SubmitVote/EditOverview.json
-
 msgid " Changed"
 msgstr "변경됨"
 
@@ -32,7 +31,6 @@ msgstr "변경됨"
 #. defaultMessage is:
 #.  Login to participate in article chat.
 #: translations/.messages/src/app/components/Chat/ChatList.json
-
 msgid " Login to participate in article chat."
 msgstr "채팅에 참여하려면 로그인하세요"
 
@@ -40,7 +38,6 @@ msgstr "채팅에 참여하려면 로그인하세요"
 #. defaultMessage is:
 #.  Write your message below to start the conversation
 #: translations/.messages/src/app/components/Chat/ChatList.json
-
 msgid " Write your message below to start the conversation"
 msgstr "메시지로 대화하세요."
 
@@ -48,7 +45,6 @@ msgstr "메시지로 대화하세요."
 #. defaultMessage is:
 #.  if you think you are receiving this message in error.
 #: translations/.messages/src/app/utils/errors.json
-
 msgid " if you think you are receiving this message in error."
 msgstr "이 메시지가 잘못 전달된 경우"
 
@@ -56,7 +52,6 @@ msgstr "이 메시지가 잘못 전달된 경우"
 #. defaultMessage is:
 #.  merged into this article.
 #: translations/.messages/src/app/components/SubmitVote/EditOverview.json
-
 msgid " merged into this article."
 msgstr "이 글에 합치기"
 
@@ -71,7 +66,6 @@ msgstr ""
 #. defaultMessage is:
 #.  vote
 #: translations/.messages/src/app/components/tooltips/index.json
-
 msgid " vote"
 msgstr "투표"
 
@@ -414,7 +408,6 @@ msgstr ""
 #. defaultMessage is:
 #. Add a Link
 #: translations/.messages/src/editor/components/mentions/suggestions.json
-
 msgid "Add a Link"
 msgstr "인용 추가"
 
@@ -526,7 +519,6 @@ msgstr "Googlebot 허용하지 않음"
 #. defaultMessage is:
 #. Allowed formats: 
 #: translations/.messages/src/editor/plugins/citation-modal/panes/add-edit-file.json
-
 msgid "Allowed formats: "
 msgstr "허용되는 형식 :"
 
@@ -560,7 +552,6 @@ msgstr ""
 #. defaultMessage is:
 #. Approve
 #: translations/.messages/src/app/containers/article/AdultContentContainer.json
-
 msgid "Approve"
 msgstr "승인"
 
@@ -896,7 +887,6 @@ msgstr "기술 담당 최고 책임자 겸 공동 설립자"
 #. defaultMessage is:
 #. Choose a new main image (8mb maximum)
 #: translations/.messages/src/editor/plugins/main-photo/main-photo-modal.json
-
 msgid "Choose a new main image (8mb maximum)"
 msgstr "새 대표이미지 선택"
 
@@ -2466,7 +2456,6 @@ msgstr "자세히 알아보기"
 #. defaultMessage is:
 #. Learn more 
 #: translations/.messages/src/app/components/Login/login.modal.json
-
 msgid "Learn more "
 msgstr "자세히 알아보기"
 
@@ -2706,7 +2695,6 @@ msgstr "스캐터로 로그인하여 기존 EOS 계정을 사용하세요"
 #. defaultMessage is:
 #. Login with TokenPocket
 #: translations/.messages/src/app/components/Login/index.json
-
 msgid "Login with TokenPocket"
 msgstr "휴대전화 로그인"
 
@@ -2949,6 +2937,13 @@ msgstr "새 글"
 #: translations/.messages/src/editor/plugins/section-embed-modal/section-embed-modal.json
 msgid "New Media"
 msgstr "미디어"
+
+#. [Footer.Newsletter]
+#. defaultMessage is:
+#. Newsletter
+#: translations/.messages/src/app/components/Footer/index.json
+msgid "Newsletter"
+msgstr ""
 
 #. [MetadataNode.No]
 #. defaultMessage is:
@@ -3578,7 +3573,6 @@ msgstr "투표에 대한 설명(선택사항)"
 #. defaultMessage is:
 #. Questions? 
 #: translations/.messages/src/app/containers/contact-us/contact-form.json
-
 msgid "Questions? "
 msgstr "자주묻는 질문"
 
@@ -4257,7 +4251,6 @@ msgstr "이용약관"
 #.                         trial IQ Tokens. You can unlock the full potential of Everipedia and get more tokens with a
 #.                         Scatter login. 
 #: translations/.messages/src/app/utils/errors.json
-
 msgid ""
 "Thanks for trialing Everipedia. Looks like you’ve been making edits and have "
 "run out of the\n"
@@ -4273,7 +4266,6 @@ msgstr ""
 #. Thanks for using Everipedia. Looks like you have run out of IQ Tokens. You can get more tokens
 #.                         at one of 
 #: translations/.messages/src/app/utils/errors.json
-
 msgid ""
 "Thanks for using Everipedia. Looks like you have run out of IQ Tokens. You "
 "can get more tokens\n"
@@ -4415,7 +4407,6 @@ msgstr "사물"
 #. defaultMessage is:
 #. This Month
 #: translations/.messages/src/app/containers/leaderboard/leaderboard.container.json
-
 msgid "This Month"
 msgstr "월"
 
@@ -4423,7 +4414,6 @@ msgstr "월"
 #. defaultMessage is:
 #. This Week
 #: translations/.messages/src/app/containers/leaderboard/leaderboard.container.json
-
 msgid "This Week"
 msgstr "주"
 
@@ -4447,7 +4437,6 @@ msgstr "이 글은 편집이 불가합니다"
 #. defaultMessage is:
 #. This page may contain adult content, would you like to continue?
 #: translations/.messages/src/app/containers/article/AdultContentContainer.json
-
 msgid "This page may contain adult content, would you like to continue?"
 msgstr "저장하지 않은 편집이 있는것 같습니다. 계속 하시겠습니까?"
 
@@ -4610,7 +4599,6 @@ msgstr "업로드"
 #. defaultMessage is:
 #. Upload from computer (8mb max)
 #: translations/.messages/src/editor/plugins/media-gallery/media-gallery-modal.json
-
 msgid "Upload from computer (8mb max)"
 msgstr "컴퓨터에서 업로드"
 
@@ -5149,7 +5137,6 @@ msgstr ""
 #. defaultMessage is:
 #. about EOS and IQ
 #: translations/.messages/src/app/containers/iq-info/iq-info.container.json
-
 msgid "about EOS and IQ"
 msgstr "EOS와 IQ"
 
