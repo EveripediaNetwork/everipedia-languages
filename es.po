@@ -1,7 +1,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: \n"
-"POT-Creation-Date: 2020-06-10T14:42:08.565Z\n"
+"POT-Creation-Date: 2020-06-11T18:22:15.533Z\n"
 "PO-Revision-Date: \n"
 "Last-Translator: \n"
 "Language-Team: \n"
@@ -974,9 +974,10 @@ msgstr "Haga clic para votar sobre esta edición"
 
 #. [ThirdBlock.CoFounderWikipedia]
 #. defaultMessage is:
-#. Co-Founder Wikipedia, CIO Everipedia
+#. Co-Founder Wikipedia
 #: translations/.messages/src/app/containers/about/third-block.json
-msgid "Co-Founder Wikipedia, CIO Everipedia"
+
+msgid "Co-Founder Wikipedia"
 msgstr "Cofundador de Wikipedia, CIO Everipedia"
 
 #. [TableMenu.Column]

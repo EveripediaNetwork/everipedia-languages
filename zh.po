@@ -1,7 +1,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: \n"
-"POT-Creation-Date: 2020-06-10T14:42:08.565Z\n"
+"POT-Creation-Date: 2020-06-11T18:22:15.533Z\n"
 "PO-Revision-Date: \n"
 "Last-Translator: \n"
 "Language-Team: \n"
@@ -503,8 +503,8 @@ msgid ""
 "All holders of IQ will be incentivized to create quality, neutral content "
 "and to work together in building the reputation of the network."
 msgstr ""
-"所有的 IQ 持有者将受到激励，以创造高质量和中立的内容，并且共同努力打造网络"
-"声誉。"
+"所有的 IQ 持有者将受到激励，以创造高质量和中立的内容，并且共同努力打造网络声"
+"誉。"
 
 #. [MetadataModal.AllowNonGooglebot]
 #. defaultMessage is:
@@ -958,9 +958,10 @@ msgstr "单击以对此编辑进行投票"
 
 #. [ThirdBlock.CoFounderWikipedia]
 #. defaultMessage is:
-#. Co-Founder Wikipedia, CIO Everipedia
+#. Co-Founder Wikipedia
 #: translations/.messages/src/app/containers/about/third-block.json
-msgid "Co-Founder Wikipedia, CIO Everipedia"
+
+msgid "Co-Founder Wikipedia"
 msgstr "前维基百科联合创始人，Everipedia首席信息官"
 
 #. [TableMenu.Column]
