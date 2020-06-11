@@ -1,7 +1,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: \n"
-"POT-Creation-Date: 2020-06-10T14:42:08.565Z\n"
+"POT-Creation-Date: 2020-06-11T12:55:05.905Z\n"
 "PO-Revision-Date: \n"
 "Last-Translator: \n"
 "Language-Team: \n"
@@ -32,14 +32,14 @@ msgstr "변경됨"
 #.  Login to participate in article chat.
 #: translations/.messages/src/app/components/Chat/ChatList.json
 msgid " Login to participate in article chat."
-msgstr "채팅에 참여하려면 로그인하세요"
+msgstr "로그인해서 채팅에 참여하세요"
 
 #. [ChatList.WriteYourMessageBelow]
 #. defaultMessage is:
 #.  Write your message below to start the conversation
 #: translations/.messages/src/app/components/Chat/ChatList.json
 msgid " Write your message below to start the conversation"
-msgstr "메시지로 대화하세요."
+msgstr "메시지 쓰기"
 
 #. [Errors.IfYouThinkYouAre]
 #. defaultMessage is:
@@ -60,7 +60,7 @@ msgstr "이 글에 합치기"
 #.  to choose a quality image. You can upload jpg, gif, and png files
 #: translations/.messages/src/editor/plugins/media-gallery/media-gallery-modal.json
 msgid " to choose a quality image. You can upload jpg, gif, and png files"
-msgstr ""
+msgstr "jpg, gif, png 파일을 올릴 수 있습니다"
 
 #. [Tooltips.Vote]
 #. defaultMessage is:
@@ -81,7 +81,7 @@ msgstr "+ 계정 만들기 / 로그인"
 #. , or 
 #: translations/.messages/src/app/containers/iq-info/iq-info.container.json
 msgid ", or "
-msgstr ""
+msgstr " 또는 "
 
 #. [Chat.NoMessages]
 #. defaultMessage is:
@@ -123,7 +123,7 @@ msgstr "참여자 1명"
 #. 1 YEAR
 #: translations/.messages/src/app/containers/dashboard/dashboard_component.json
 msgid "1 YEAR"
-msgstr "일년"
+msgstr "1년"
 
 #. [DashboardComponent.ThreeMonths]
 #. defaultMessage is:
@@ -137,7 +137,7 @@ msgstr "3개월"
 #. 6 MONTHS
 #: translations/.messages/src/app/containers/dashboard/dashboard_component.json
 msgid "6 MONTHS"
-msgstr "6 개월"
+msgstr "6개월"
 
 #. [DashboardComponent.SevenDays]
 #. defaultMessage is:
@@ -238,7 +238,7 @@ msgstr "회사 소개"
 #. About Everipedia
 #: translations/.messages/src/app/components/learn-more/index.json
 msgid "About Everipedia"
-msgstr " 에브리피디아 소개"
+msgstr "에브리피디아 소개"
 
 #. [EditProfile.AboutMe]
 #. defaultMessage is:
@@ -328,7 +328,7 @@ msgstr "최근 활동"
 #: translations/.messages/src/editor/plugins/infobox/infobox-modal.json
 #: translations/.messages/src/editor/plugins/section-embed-modal/panes/add-edit-url.json
 msgid "Add"
-msgstr "적용"
+msgstr "추가"
 
 #. [CitationModal.AddCitation]
 #. defaultMessage is:
@@ -361,7 +361,7 @@ msgstr "분류 추가"
 #. Add Image or Video to Media Gallery
 #: translations/.messages/src/editor/plugins/media-gallery/media-gallery-modal.json
 msgid "Add Image or Video to Media Gallery"
-msgstr "이미지 / 영상을 미디어 갤러리에 추가"
+msgstr "이미지, 영상을 갤러리에 추가"
 
 #. [InfoboxModal.AddLabel]
 #. defaultMessage is:
@@ -382,7 +382,7 @@ msgstr "사진 추가"
 #. Add New Image or Video to Gallery
 #: translations/.messages/src/editor/plugins/media-gallery/media-gallery.node.json
 msgid "Add New Image or Video to Gallery"
-msgstr "이미지 / 영상을 갤러리에 추가"
+msgstr "이미지, 영상을 갤러리에 추가"
 
 #. [InfoboxModal.AddNewItem]
 #. defaultMessage is:
@@ -395,28 +395,28 @@ msgstr "이미지 / 영상을 갤러리에 추가"
 #. Add New Item to Infobox
 #: translations/.messages/src/editor/plugins/infobox/infobox-modal.json
 msgid "Add New Item to Infobox"
-msgstr "새로운 항목 추가"
+msgstr "새 항목 추가"
 
 #. [InfoboxModal.AddRow]
 #. defaultMessage is:
 #. Add Row
 #: translations/.messages/src/editor/plugins/infobox/infobox-modal.json
 msgid "Add Row"
-msgstr ""
+msgstr "행 추가"
 
 #. [Suggestions.AddLink]
 #. defaultMessage is:
 #. Add a Link
 #: translations/.messages/src/editor/components/mentions/suggestions.json
 msgid "Add a Link"
-msgstr "인용 추가"
+msgstr "링크 추가"
 
 #. [AddRelatedModal.Title]
 #. defaultMessage is:
 #. Add a related page
 #: translations/.messages/src/editor/plugins/add-related/add-related-modal.json
 msgid "Add a related page"
-msgstr "관련글 추가"
+msgstr "관련 글 추가"
 
 #. [SectionEmbedModal.AddEditURL.AddAndInsert]
 #. defaultMessage is:
@@ -430,7 +430,7 @@ msgstr "추가 및 삽입"
 #. Add custom caption (optional)
 #: translations/.messages/src/shared/inputs/image-uploader/image-uploader.component.json
 msgid "Add custom caption (optional)"
-msgstr "설명 추가(선택사항)"
+msgstr "설명 추가(선택)"
 
 #. [CitationModdal.Title]
 #. defaultMessage is:
@@ -458,15 +458,15 @@ msgid ""
 "Add your contribution to the world’s most universal knowledge base. You can "
 "create an article about anything."
 msgstr ""
-"세계에서 가장 보편적인 지적자산에 참여하세요. 무엇에 대해서든, 위키를 만들 "
-"수 있습니다."
+"세계에서 가장 보편적인 지식 네트워크에 참여하세요. 무엇에 대해서든 위키를 만"
+"들 수 있습니다."
 
 #. [MediaGallery.AddingMediaMakes]
 #. defaultMessage is:
 #. Adding media makes an article more interactive and engaging.
 #: translations/.messages/src/editor/plugins/media-gallery/media-gallery-modal.json
 msgid "Adding media makes an article more interactive and engaging."
-msgstr "이미지와 영상을 추가하면 글이 더 다채로워집니다"
+msgstr "이미지와 영상을 추가해 보세요"
 
 #. [NewPageTemplate.NPT_Organization_AddressLocation]
 #. defaultMessage is:
@@ -481,7 +481,7 @@ msgstr "이미지와 영상을 추가하면 글이 더 다채로워집니다"
 #: translations/.messages/src/editor/utils/editing-utils/template-packs/person.json
 #: translations/.messages/src/editor/utils/editing-utils/template-packs/place.json
 msgid "Address / Location"
-msgstr "주소 / 위치"
+msgstr "주소, 위치"
 
 #. [MetadataModal.AdultContent]
 #. defaultMessage is:
@@ -505,8 +505,8 @@ msgid ""
 "All holders of IQ will be incentivized to create quality, neutral content "
 "and to work together in building the reputation of the network."
 msgstr ""
-"IQ 토큰 사용자는 인센티브를 통해 중립적이며 수준높은 콘텐츠를 만들고, 이 네트"
-"워크에서 인지도를 쌓아가며 공동작업합니다."
+"IQ 토큰 사용자는 인센티브 시스템을 통해 수준있는 콘텐츠를 만들고, 이 네트워크"
+"에서 인지도를 쌓아가며 공동작업합니다."
 
 #. [MetadataModal.AllowNonGooglebot]
 #. defaultMessage is:
@@ -520,7 +520,7 @@ msgstr "Googlebot 허용하지 않음"
 #. Allowed formats: 
 #: translations/.messages/src/editor/plugins/citation-modal/panes/add-edit-file.json
 msgid "Allowed formats: "
-msgstr "허용되는 형식 :"
+msgstr "허용되는 형식: "
 
 #. [Homepage.ModernAge]
 #. defaultMessage is:
@@ -545,8 +545,8 @@ msgid ""
 "tokens to vote, users decide which new articles and edits are added to the "
 "knowledge base."
 msgstr ""
-"IQ 토큰을 가지고 있는 이는 에브리피디아 네트워크의 이해 관계자입니다. IQ 토큰"
-"을 이용해 투표함으로써, 이 네트워크 전반에 대해 목소리를 낼 수 있습니다."
+"IQ 토큰 보유자는 에브리피디아 네트워크의 이해 관계자입니다. IQ 토큰으로 투표"
+"함으로써 네트워크 전반에 대한 의견을 주장할 수 있습니다."
 
 #. [AdultContentContainer.Approve]
 #. defaultMessage is:
@@ -571,7 +571,7 @@ msgid ""
 "distributed during the airdrop."
 msgstr ""
 "IPFS 및 EOS 메인넷을 사용하여 글을 가져옵니다. 대부분의 IQ 토큰은 에어드롭을 "
-"통해 배분되었습니다."
+"통해 분배되었습니다."
 
 #. [ThirdBlock.AsAnEditor]
 #. defaultMessage is:
@@ -582,9 +582,9 @@ msgid ""
 "sources and a neutral wording, you can write an article about anything you "
 "want. A dapp you like, yourself — anything."
 msgstr ""
-"출처와 함께 중립적인 언어를 사용한다면, 어떤 주제에 대해서든 쓰고 싶은 글을 "
+"인용와 함께 중립적인 언어를 사용한다면, 어떤 주제에 대해서든 쓰고 싶은 글을 "
 "쓸 수 있다는 것이 에브리피디아의 핵심적인 특징입니다. 내가 좋아하는 디앱 서비"
-"스, 나 자신에 대해서, 그 무엇에 대해서든."
+"스, 나 자신에 대해서, 그 무엇에 대해서든지 말입니다."
 
 #. [NewPageTemplate.NPT_Product_Audience]
 #. defaultMessage is:
@@ -626,7 +626,7 @@ msgstr "편집에 참여하기"
 #. Birthday
 #: translations/.messages/src/editor/utils/editing-utils/template-packs/person.json
 msgid "Birthday"
-msgstr "생일"
+msgstr "출생"
 
 #. [Footer.Blog]
 #. defaultMessage is:
@@ -809,7 +809,7 @@ msgstr "검열 방지"
 #. Centralized
 #: translations/.messages/src/app/containers/iq-info/iq-info.container.json
 msgid "Centralized"
-msgstr "중앙화된"
+msgstr "중앙화"
 
 #. [Chat.ChangedTwo]
 #. defaultMessage is:
@@ -853,42 +853,42 @@ msgstr "이 글에 대해 이야기를 나누세요"
 #. Chief Executive Officer
 #: translations/.messages/src/app/containers/about/third-block.json
 msgid "Chief Executive Officer"
-msgstr "최고 경영자 겸 공동 설립자"
+msgstr "최고경영자 겸 공동설립자"
 
 #. [TeamInfo.LarrySangerTitle]
 #. defaultMessage is:
 #. Chief Information Officer
 #: translations/.messages/src/app/containers/about/third-block.json
 msgid "Chief Information Officer"
-msgstr "최고 정보 책임자"
+msgstr "최고정보책임자"
 
 #. [TeamInfo.SuchetDhindsaTitle]
 #. defaultMessage is:
 #. Chief Operating Officer
 #: translations/.messages/src/app/containers/about/third-block.json
 msgid "Chief Operating Officer"
-msgstr "최고 운영 책임자"
+msgstr "최고운영책임자"
 
 #. [TeamInfo.DanielLiebeskindTitle]
 #. defaultMessage is:
 #. Chief Product Officer
 #: translations/.messages/src/app/containers/about/third-block.json
 msgid "Chief Product Officer"
-msgstr "최고 제품 책임자"
+msgstr "최고제품책임자"
 
 #. [TeamInfo.TravisMooreTitle]
 #. defaultMessage is:
 #. Chief Technology Officer
 #: translations/.messages/src/app/containers/about/third-block.json
 msgid "Chief Technology Officer"
-msgstr "기술 담당 최고 책임자 겸 공동 설립자"
+msgstr "최고기술책임자 겸 공동설립자"
 
 #. [MainPhoto.ButtonText]
 #. defaultMessage is:
 #. Choose a new main image (8mb maximum)
 #: translations/.messages/src/editor/plugins/main-photo/main-photo-modal.json
 msgid "Choose a new main image (8mb maximum)"
-msgstr "새 대표이미지 선택"
+msgstr "새 대표이미지 선택(8mb이하)"
 
 #. [Login.AnotherLoginMethod]
 #. defaultMessage is:
@@ -943,14 +943,14 @@ msgstr "여기를 클릭하세요"
 msgid ""
 "Click or drag a non-media file to this area to upload, such as a PDF, Word "
 "document, or Excel file."
-msgstr "PDF, Word, Excel 등을 업로드하려면 이곳으로 파일을 끌어다 놓으세요"
+msgstr "PDF, Word, Excel 등을 업로드하려면 이곳에 파일을 끌어다 놓으세요"
 
 #. [SaveModalAgain.ClickToSelectTheType]
 #. defaultMessage is:
 #. Click to select the type of edit you made (required)
 #: translations/.messages/src/editor/plugins/save/save-modal-parts/comment-and-category.json
 msgid "Click to select the type of edit you made (required)"
-msgstr "어떤 편집인지 선택하세요(필수)"
+msgstr "편집 유형을 선택하세요(필수)"
 
 #. [SubmitVote.ClickToVoteOnThisEdit]
 #. defaultMessage is:
@@ -964,7 +964,7 @@ msgstr "투표하기"
 #. Co-Founder Wikipedia, CIO Everipedia
 #: translations/.messages/src/app/containers/about/third-block.json
 msgid "Co-Founder Wikipedia, CIO Everipedia"
-msgstr "Wikipedia 공동 설립자, 전 CIO Everipedia"
+msgstr "위키백과 공동설립자, 전) 에브리피디아 최고정보책임자"
 
 #. [TableMenu.Column]
 #. defaultMessage is:
@@ -1007,7 +1007,7 @@ msgstr "투표 확인"
 #: translations/.messages/src/editor/plugins/merge/merge-modal.json
 #: translations/.messages/src/editor/plugins/save/save-modal.json
 msgid "Confirm that you are using the latest version of your wallet."
-msgstr "최신 버전의 지갑을 사용하고 있는지 확인하세요"
+msgstr "최신 버전 지갑을 사용하고 있는지 확인하세요"
 
 #. [MergeModalAgain.ConfirmYouHaveEnoughInWallet]
 #. defaultMessage is:
@@ -1020,7 +1020,7 @@ msgstr "최신 버전의 지갑을 사용하고 있는지 확인하세요"
 msgid ""
 "Confirm that you have enough IQ in your wallet (50IQ required to submit at "
 "edit)"
-msgstr "스캐터 지갑에 IQ가 충분한지 확인하세요(편집 제안에 50 IQ 필요)"
+msgstr "지갑에 IQ가 충분한지 확인하세요 (편집 제안에 50 IQ 필요)"
 
 #. [MergeModalAgain.ConfirmThatYouHaveSufficientEOS]
 #. defaultMessage is:
@@ -1051,7 +1051,7 @@ msgstr "지갑을 열고 로그인했는지 확인하세요"
 #. Congratulations, your vote was recorded for this article.
 #: translations/.messages/src/app/components/SubmitVote/ConfirmationModal.json
 msgid "Congratulations, your vote was recorded for this article."
-msgstr "당신의 투표가 이 글의 투표 목록에 기록되었습니다"
+msgstr "당신의 투표가 기록되었습니다"
 
 #. [ConnectLanguagesModal.Title]
 #. defaultMessage is:
@@ -1111,7 +1111,7 @@ msgstr "웹 주소 복사"
 #. Copyright
 #: translations/.messages/src/app/containers/contact-us/messages.json
 msgid "Copyright"
-msgstr ""
+msgstr "저작권"
 
 #. [EditProfile.Country]
 #. defaultMessage is:
@@ -1165,28 +1165,28 @@ msgstr "생성"
 #. Creative Work / Art
 #: translations/.messages/src/editor/plugins/metadata/metadata-modal.json
 msgid "Creative Work / Art"
-msgstr "창작 / 예술"
+msgstr "창작, 예술"
 
 #. [SearchResults.CreativeWorks]
 #. defaultMessage is:
 #. Creative Works
 #: translations/.messages/src/app/components/Search/SearchResults.json
 msgid "Creative Works"
-msgstr "창작 / 예술"
+msgstr "창작, 예술"
 
 #. [NewPageTemplate.NPT_CreativeWork_Creator]
 #. defaultMessage is:
 #. Creator
 #: translations/.messages/src/editor/utils/editing-utils/template-packs/creative-work.json
 msgid "Creator"
-msgstr "작성자"
+msgstr "창작자"
 
 #. [NewPageTemplate.NPT_Product_Creator]
 #. defaultMessage is:
 #. Creator(s)
 #: translations/.messages/src/editor/utils/editing-utils/template-packs/product.json
 msgid "Creator(s)"
-msgstr "작성자"
+msgstr "창작자"
 
 #. [Dashboard.CurrentIqPrice]
 #. defaultMessage is:
@@ -1220,7 +1220,7 @@ msgid ""
 "founder and has been building distributed apps since 2017."
 msgstr ""
 "다니엘 리비스킨드는 사용자 경험을 돋보이는데 중점을 두는 소프트웨어 개발자이"
-"다. 벤처캐피털 투자, 소프트웨어 개발, 제품 매니저, 스타트업 설립등을 하였으"
+"다. 벤처캐피털 투자, 소프트웨어 개발, 제품 매니저, 스타트업 설립 등을 하였으"
 "며, 2017년 이후로 분산앱 개발에 활동하고 있다. "
 
 #. [NewPageTemplate.NPT_CreativeWork_Date_Created]
@@ -1265,7 +1265,7 @@ msgstr "메시지 삭제"
 #: translations/.messages/src/editor/plugins/media-gallery/media-gallery.node.json
 #: translations/.messages/src/editor/plugins/section-embed/section-embed.node.json
 msgid "Delete?"
-msgstr "삭ㅈ?"
+msgstr "삭제하시겠습니까?"
 
 #. [About.Democratic]
 #. defaultMessage is:
@@ -1339,7 +1339,7 @@ msgstr "편집자"
 #. EDITS
 #: translations/.messages/src/app/components/ActivityCards/index.json
 msgid "EDITS"
-msgstr "편집하기"
+msgstr "편집"
 
 #. [SectionEmbedModal.AudioPane.EmbedSize]
 #. defaultMessage is:
@@ -1358,7 +1358,7 @@ msgstr "편집하기"
 #: translations/.messages/src/editor/plugins/section-embed-modal/panes/tweets.json
 #: translations/.messages/src/editor/plugins/section-embed-modal/panes/videos.json
 msgid "EMBED SIZE"
-msgstr "내장 된 크기"
+msgstr "끼워넣기 크기"
 
 #. [ActivityCards.ExpiringSoon]
 #. defaultMessage is:
@@ -1496,7 +1496,7 @@ msgstr "편집 제안"
 #. Electronics / Software
 #: translations/.messages/src/editor/plugins/metadata/metadata-modal.json
 msgid "Electronics / Software"
-msgstr "전자제품 / 소프트웨어"
+msgstr "전자제품, 소프트웨어"
 
 #. [NewPageTemplate.NPT_Organization_Email]
 #. defaultMessage is:
@@ -1528,21 +1528,21 @@ msgstr "이메일 주소"
 #. Embed
 #: translations/.messages/src/editor/plugins/section-embed/section-embed.button.json
 msgid "Embed"
-msgstr "삽입"
+msgstr "끼워넣기"
 
 #. [SectionEmbedModal.EmbedObject]
 #. defaultMessage is:
 #. Embed Object
 #: translations/.messages/src/editor/plugins/section-embed-modal/section-embed-modal.json
 msgid "Embed Object"
-msgstr "개체 포함"
+msgstr "끼워넣은것"
 
 #. [SectionEmbedModal.EmbeddingObjectsMakes]
 #. defaultMessage is:
 #. Embedding objects makes an article more interactive and engaging.
 #: translations/.messages/src/editor/plugins/section-embed-modal/section-embed-modal.json
 msgid "Embedding objects makes an article more interactive and engaging."
-msgstr "이미지와 영상을 추가하면 글이 더 다채로워집니다"
+msgstr "이미지와 영상을 추가해 보세요"
 
 #. [NewPageTemplate.NPT_Event_EndDate]
 #. defaultMessage is:
@@ -1666,7 +1666,7 @@ msgstr "에브리피디아"
 #. Everipedia Blog
 #: translations/.messages/src/app/containers/blog/blog.container.json
 msgid "Everipedia Blog"
-msgstr "에브리피디아"
+msgstr "에브리피디아 블로그"
 
 #. [Directory.EveripediaChat]
 #. defaultMessage is:
@@ -1704,8 +1704,7 @@ msgid ""
 "interesting, connect with people who share your interests, and contribute "
 "your own perspective."
 msgstr ""
-"개인들이 흥미있는 주제를 탐구하고, 그것을 다른 이들과 공유하며 함께 가꾸는 공"
-"간입니다. "
+"개개인이 흥미있는 주제를 탐구하고 다른 이들과 공유하는 네트워크 입니다. "
 
 #. [About.Blockchain]
 #. defaultMessage is:
@@ -1717,8 +1716,8 @@ msgid ""
 "everyone, everywhere can participate in sharing what they know and providing "
 "value to others."
 msgstr ""
-"세계 어디서든 누구나가 접근할 수 있고, 가치 있는 것을 다른이와 공유할 수 있도"
-"록 하겠다는 에브리피디아의 비전. 블록체인 기술을 바탕으로 이를 이루어 갑니다."
+"세계 어디서든 접근할 수 있고, 의미있는 모든 것을 누구나 공유할 수 있도록 하겠"
+"다는 에브리피디아의 비전. 블록체인 기술로 이를 이루어 갑니다."
 
 #. [About.ModernDesignText]
 #. defaultMessage is:
@@ -1736,9 +1735,8 @@ msgid ""
 "already one of the world’s largest encyclopedias, but we’re far from "
 "complete. Join us today."
 msgstr ""
-"에브리피디아의 역동적인 공동체는 항상 열려있으며, 누구나가 참여할 수 있습니"
-"다. 에브리피디아는 세계에서 가장 큰 백과사전이며, 이루어나갈 수많은 것들이 있"
-"습니다."
+"에브리피디아 네트워크는 항상 열려있으며, 누구나 참여할 수 있습니다. 에브리피"
+"디아는 세계에서 가장 큰 백과사전이며, 장차 이루어나갈 수많은 것들이 있습니다."
 
 #. [SectionEmbedModal.ExistingMedia]
 #. defaultMessage is:
@@ -1752,7 +1750,7 @@ msgstr "기존 미디어"
 #. Explore your curiosity.
 #: translations/.messages/src/app/containers/about/last-block.json
 msgid "Explore your curiosity."
-msgstr "호기심을 탐구하세요"
+msgstr "검색어 입력"
 
 #. [Search.ExploreYourCuriosity...]
 #. defaultMessage is:
@@ -1763,7 +1761,7 @@ msgstr "호기심을 탐구하세요"
 #: translations/.messages/src/app/components/Search/index.json
 #: translations/.messages/src/editor/components/search/article-search.json
 msgid "Explore your curiosity..."
-msgstr "호기심을 탐구하세요"
+msgstr "검색어 입력"
 
 #. [Footer.FAQ]
 #. defaultMessage is:
@@ -1863,7 +1861,7 @@ msgstr "인용 필터링"
 #. Financial Incentive
 #: translations/.messages/src/app/containers/about/about.container.json
 msgid "Financial Incentive"
-msgstr "재정적 인센티브"
+msgstr "인센티브 시스템"
 
 #. [ActivityCard.FirstEdit]
 #. defaultMessage is:
@@ -1923,7 +1921,7 @@ msgstr "위키백과에서 가져옴"
 #. Full name
 #: translations/.messages/src/app/containers/contact-us/messages.json
 msgid "Full name"
-msgstr "성명(성과 이름)"
+msgstr "이름"
 
 #. [NewPageTemplate.NPT_Person_Gender]
 #. defaultMessage is:
@@ -1987,7 +1985,7 @@ msgstr "연락하기"
 #. Get more IQ here
 #: translations/.messages/src/app/components/SubmitVote/index.json
 msgid "Get more IQ here"
-msgstr "IQ를 더 받으세요"
+msgstr "IQ를 받으세요"
 
 #. [CommentUtils.Grammar]
 #. defaultMessage is:
@@ -2001,14 +1999,14 @@ msgstr "문법"
 #. He/She likes to
 #: translations/.messages/src/editor/utils/editing-utils/template-packs/person.json
 msgid "He/She likes to"
-msgstr "좋아하는 것은"
+msgstr "(좋아하는 것)"
 
 #. [NewPageTemplate.NPT_Person_HeSheWasBornIn]
 #. defaultMessage is:
 #. He/she was born in
 #: translations/.messages/src/editor/utils/editing-utils/template-packs/person.json
 msgid "He/she was born in"
-msgstr "태어난 곳은"
+msgstr "(출생지)"
 
 #. [NewPageTemplate.NPT_CreativeWork_History]
 #. defaultMessage is:
@@ -2075,7 +2073,7 @@ msgstr "뉴스 소개"
 #. IQ
 #: translations/.messages/src/app/containers/homepageContainer/leaderboard.json
 msgid "IQ"
-msgstr " IQ"
+msgstr "IQ"
 
 #. [Stats.IQEarned]
 #. defaultMessage is:
@@ -2089,7 +2087,7 @@ msgstr "받은 IQ"
 #. IQ FAQ
 #: translations/.messages/src/app/containers/dashboard/what_is_iq.json
 msgid "IQ FAQ"
-msgstr "IQ 자주 묻는 질문"
+msgstr "IQ 더 알아보기"
 
 #. [Stats.IqHolders]
 #. defaultMessage is:
@@ -2134,11 +2132,8 @@ msgid ""
 "creating or editing articles or voting on\n"
 "                    proposed content."
 msgstr ""
-"IQ 토큰은 사용자가 에베피디아 내에서 콘텐츠를 만들고 유지하도록 장려하는 데 "
-"사용됩니다.\n"
-"                    네트워크. 기고자는 기사를 작성또는 편집하거나 투표를 할 "
-"수 있는 IQ 토큰으로 보상을 받습니다.\n"
-"                    제안된 콘텐츠."
+"IQ 토큰은 에브리피디아 네트워크에서 글의 생성과 편집, 그리고 그에 대해서 투표"
+"하는 활동에 인센티브로 사용됩니다."
 
 #. [IQInfo.IQTokensPower]
 #. defaultMessage is:
@@ -2157,14 +2152,8 @@ msgid ""
 "                                holder can also vote on upgrades and "
 "modifications to the system."
 msgstr ""
-"IQ 토큰은 Everipedia Network에 전원을 공급합니다. 그들은 우리에게 콘텐츠를 기"
-"여하는 데 사용됩니다.\n"
-"                                끊임없이 성장하는 지식 기반과 새로운 기사에 "
-"대한 투표 및 기존 기사 편집\n"
-"                                조항. 기여자는 IQ 토큰 형태로 보상을받습니"
-"다. 또한 각 토큰\n"
-"                                보유자는 시스템의 업그레이드 및 수정에 투표 "
-"할 수 있습니다."
+"IQ 토큰으로 에브리피디아 네트워크가 운영됩니다. 새로운 글과 기존 글 편집 제안"
+"에 대한 투표를 통해 지적 자산을 확장합니다."
 
 #. [MergeModalAgain.IfItIsRejected]
 #. defaultMessage is:
@@ -2176,8 +2165,8 @@ msgid ""
 "difference between the total number of votes in the majority and the "
 "minority."
 msgstr ""
-"편집자의 제안이 투표결과에서 거부된 경우, 편집자의 IQ 토큰은 다수와 소수의 투"
-"표수 차이에 따라 더 오래 잠겨있게 됩니다."
+"편집자의 제안이 투표결과에서 거부된 경우, 편집자가 편집시 제출한 IQ 토큰은 투"
+"표수 차이에 따라 더 오래 예치되게 됩니다."
 
 #. [SubmitVoteConfirmation.IfYourVoteIsInTheMajority]
 #. defaultMessage is:
@@ -2270,14 +2259,14 @@ msgstr "아래에 삽입"
 #. Insert Existing
 #: translations/.messages/src/editor/plugins/citation-modal/citation-modal.json
 msgid "Insert Existing"
-msgstr "그대로 삽입"
+msgstr "삽입"
 
 #. [SectionEmbedModal.InsertFromMediaGallery]
 #. defaultMessage is:
 #. Insert From Media Gallery
 #: translations/.messages/src/editor/plugins/section-embed-modal/section-embed-modal.json
 msgid "Insert From Media Gallery"
-msgstr "미디어 갤러리에서 삽입"
+msgstr "갤러리에서 삽입"
 
 #. [TableMenu.InsertLeft]
 #. defaultMessage is:
@@ -2323,7 +2312,7 @@ msgstr "항목"
 #. Just getting started?
 #: translations/.messages/src/app/components/Login/login.modal.json
 msgid "Just getting started?"
-msgstr "처음 사용하셨나요?"
+msgstr "처음이신가요?"
 
 #. [TeamInfo.KedarIyerBio]
 #. defaultMessage is:
@@ -2335,8 +2324,8 @@ msgid ""
 "Solidity developers on how to build decentralized applications on Ethereum."
 msgstr ""
 "케이다 아이얼은 캘리포니아 산타클라라 출신의 소프트웨어 엔지니어이다. 솔리디"
-"티 개발자를 대상으로한 이더리움기반 탈중앙화 앱 관련 저서를 포함해, 블록체인"
-"기술관련 책을 두권 집필하였다."
+"티 개발자 대상의 이더리움기반 디탭 관련 저서를 포함해, 블록체인 기술관련 도서"
+"들을 집필하였다."
 
 #. [InfoboxModal.Label]
 #. defaultMessage is:
@@ -2411,7 +2400,7 @@ msgstr "블로그 소식"
 #. Leaderboard of
 #: translations/.messages/src/app/containers/homepageContainer/leaderboard.json
 msgid "Leaderboard of"
-msgstr "리더보드"
+msgstr "참여자 활동순위"
 
 #. [ChatList.LearnMore]
 #. defaultMessage is:
@@ -2506,7 +2495,7 @@ msgstr "목록"
 #. List / Ranking
 #: translations/.messages/src/editor/plugins/metadata/metadata-modal.json
 msgid "List / Ranking"
-msgstr "목록 / 랭킹"
+msgstr "목록, 랭킹"
 
 #. [SearchResults.Lists]
 #. defaultMessage is:
@@ -2640,7 +2629,7 @@ msgstr "로그인해서 편집하기"
 #. Login to participate in article chat
 #: translations/.messages/src/app/components/Chat/index.json
 msgid "Login to participate in article chat"
-msgstr "채팅에 참여하려면 로그인하세요"
+msgstr "로그인해서 채팅 참여하기"
 
 #. [LoginModal.LoginWithFacebook]
 #. defaultMessage is:
@@ -2675,7 +2664,7 @@ msgstr "라인 로그인"
 #. Login with Phone
 #: translations/.messages/src/app/components/Login/index.json
 msgid "Login with Phone"
-msgstr "휴대전화 로그인"
+msgstr "모바일 로그인"
 
 #. [LoginModal.LoginWithScatter]
 #. defaultMessage is:
@@ -2696,7 +2685,7 @@ msgstr "스캐터로 로그인하여 기존 EOS 계정을 사용하세요"
 #. Login with TokenPocket
 #: translations/.messages/src/app/components/Login/index.json
 msgid "Login with TokenPocket"
-msgstr "휴대전화 로그인"
+msgstr "토큰포켓 로그인"
 
 #. [LoginModal.LoginWithTwitter]
 #. defaultMessage is:
@@ -2774,7 +2763,7 @@ msgstr "marketcap.one"
 #: translations/.messages/src/shared/inputs/file-uploader/file-uploader.component.json
 #: translations/.messages/src/shared/inputs/image-uploader/image-uploader.component.json
 msgid "Max file size: 5mb, accepted:"
-msgstr "최대 파일 크기 : 5MB"
+msgstr "최대 파일 크기: 5mb"
 
 #. [CommentUtils.Media]
 #. defaultMessage is:
@@ -2791,7 +2780,7 @@ msgstr "미디어"
 #. Medical / Biology
 #: translations/.messages/src/editor/plugins/metadata/metadata-modal.json
 msgid "Medical / Biology"
-msgstr "의학 / 생물학"
+msgstr "의학, 생물학"
 
 #. [NewPageTemplate.NPT_MedicalEntity_MedicalCode]
 #. defaultMessage is:
@@ -2805,7 +2794,7 @@ msgstr "의학 코드"
 #. Medical Entities
 #: translations/.messages/src/app/components/Search/SearchResults.json
 msgid "Medical Entities"
-msgstr "의학 코드"
+msgstr "의학 엔티티"
 
 #. [SectionEmbedModal.AudioPane.Medium]
 #. defaultMessage is:
@@ -2827,7 +2816,7 @@ msgstr "중간"
 #. Meet our team
 #: translations/.messages/src/app/containers/about/third-block.json
 msgid "Meet our team"
-msgstr "운영진 소개"
+msgstr "운영진"
 
 #. [CommentUtils.Merge]
 #. defaultMessage is:
@@ -2911,7 +2900,7 @@ msgstr "블록체인에 제출하려면 수정하세요"
 #. Must log in to chat
 #: translations/.messages/src/app/components/Chat/messages.json
 msgid "Must log in to chat"
-msgstr "채팅에 참여하려면 로그인하세요"
+msgstr "로그인해서 채팅에 참여하세요"
 
 #. [NewPageTemplate.NPT_Person_Nationality]
 #. defaultMessage is:
@@ -2957,7 +2946,7 @@ msgstr "아니오"
 #. No Changes
 #: translations/.messages/src/app/components/SubmitVote/EditOverview.json
 msgid "No Changes"
-msgstr "편집내용 없음"
+msgstr "변경 없음"
 
 #. [Directory.NoChatsInDirectory]
 #. defaultMessage is:
@@ -3081,7 +3070,7 @@ msgstr "확인"
 #: translations/.messages/src/app/containers/admin/admin.container.json
 #: translations/.messages/src/app/containers/homepageContainer/stats.json
 msgid "ORIGINAL PAGES"
-msgstr "원본 페이지"
+msgstr "원본"
 
 #. [NewPageTemplate.NPT_Person_Occupation]
 #. defaultMessage is:
@@ -3099,8 +3088,8 @@ msgid ""
 "be open for voting. If approved by the community, your edits will be "
 "accepted into the article."
 msgstr ""
-"편집해 제출하면 글에서 바로 볼 수 있으며, 그에 대해 커뮤니티의 투표가 이루어"
-"지고, 승인이 되면 반영됩니다"
+"편집해 제출하면 글에 바로 반영되며, 이에 대해 커뮤니티의 투표가 이루어집니"
+"다. 승인이 되면 그대로 유지됩니다."
 
 #. [SaveModalAgain.Description]
 #. defaultMessage is:
@@ -3133,7 +3122,7 @@ msgstr "조직"
 #. Organization / Company / Institution
 #: translations/.messages/src/editor/plugins/metadata/metadata-modal.json
 msgid "Organization / Company / Institution"
-msgstr "업체 / 회사 / 기관"
+msgstr "업체, 회사, 기관"
 
 #. [SearchResults.Organizations]
 #. defaultMessage is:
@@ -3147,7 +3136,7 @@ msgstr "조직"
 #. Organizer(s)
 #: translations/.messages/src/editor/utils/editing-utils/template-packs/event.json
 msgid "Organizer(s)"
-msgstr "주최자"
+msgstr "주최"
 
 #. [ContactUs.other]
 #. defaultMessage is:
@@ -3207,14 +3196,14 @@ msgstr "IQ 부족"
 #. POPULAR
 #: translations/.messages/src/app/containers/homepageContainer/recentPopularContent.json
 msgid "POPULAR"
-msgstr "인기"
+msgstr "추천"
 
 #. [ProductBox.Products]
 #. defaultMessage is:
 #. PRODUCTS
 #: translations/.messages/src/app/components/ArticleComponent/ProductBox.json
 msgid "PRODUCTS"
-msgstr ""
+msgstr "제품"
 
 #. [SearchResults.Profiles]
 #. defaultMessage is:
@@ -3270,7 +3259,7 @@ msgstr "글 유형"
 #. Pageviews
 #: translations/.messages/src/app/components/ArticleComponent/index.json
 msgid "Pageviews"
-msgstr "페이지 뷰"
+msgstr "조회수"
 
 #. [Chat.Participants]
 #. defaultMessage is:
@@ -3291,7 +3280,7 @@ msgstr "인원"
 #. Performer(s)
 #: translations/.messages/src/editor/utils/editing-utils/template-packs/event.json
 msgid "Performer(s)"
-msgstr "출연자"
+msgstr "출연"
 
 #. [SubmitVote.Permalink]
 #. defaultMessage is:
@@ -3319,7 +3308,7 @@ msgstr "개인"
 #. Phone
 #: translations/.messages/src/editor/utils/editing-utils/template-packs/person.json
 msgid "Phone"
-msgstr "휴대전화"
+msgstr "모바일"
 
 #. [MetadataModal.PlaceLocation]
 #. defaultMessage is:
@@ -3329,7 +3318,7 @@ msgstr "휴대전화"
 #. Place / Location
 #: translations/.messages/src/editor/plugins/metadata/metadata-modal.json
 msgid "Place / Location"
-msgstr "장소 / 위치"
+msgstr "장소, 위치"
 
 #. [NewPageTemplate.NPT_Person_PlaceOfBirth]
 #. defaultMessage is:
@@ -3386,7 +3375,7 @@ msgstr "설명을 입력하세요"
 #. Please enter a comment for this edit
 #: translations/.messages/src/editor/plugins/save/save-modal.json
 msgid "Please enter a comment for this edit"
-msgstr "이 편집에 의견을 남겨주세요"
+msgstr "의견을 남겨주세요"
 
 #. [ContactUs.PleaseEnterAMessageTwo]
 #. defaultMessage is:
@@ -3414,7 +3403,7 @@ msgstr "해당 도서의 ISBN을 입력하세요"
 #. Please enter your full name
 #: translations/.messages/src/app/containers/contact-us/messages.json
 msgid "Please enter your full name"
-msgstr "성명을 입력하세요"
+msgstr "이름을 입력하세요"
 
 #. [EPLinkModal.PleaseMakeSureYouAre]
 #. defaultMessage is:
@@ -3506,28 +3495,28 @@ msgstr "제품"
 #. Product / Merchandise
 #: translations/.messages/src/editor/plugins/metadata/metadata-modal.json
 msgid "Product / Merchandise"
-msgstr "제품 / 상품"
+msgstr "제품, 상품"
 
 #. [NewPageTemplate.NPT_Product_ProductionDate]
 #. defaultMessage is:
 #. Production Date(s)
 #: translations/.messages/src/editor/utils/editing-utils/template-packs/product.json
 msgid "Production Date(s)"
-msgstr "생산일"
+msgstr "출시일"
 
 #. [SearchResults.Products]
 #. defaultMessage is:
 #. Products
 #: translations/.messages/src/app/components/Search/SearchResults.json
 msgid "Products"
-msgstr "상품"
+msgstr "제품"
 
 #. [SearchResults.Profile]
 #. defaultMessage is:
 #. Profile
 #: translations/.messages/src/app/components/Search/SearchResults.json
 msgid "Profile"
-msgstr "공개 프로필 편집"
+msgstr "프로필"
 
 #. [EditProfile.ProfileImage]
 #. defaultMessage is:
@@ -3545,8 +3534,8 @@ msgid ""
 "network as it grows. Also will facilitate batch imports of new content with "
 "no fees."
 msgstr ""
-"지분증명(PoS)모델을 통해, 에브리피디아 네트워크를 변경하고 업그레이드하는것"
-"을 투표로 결정할 수 있습니다"
+"지분증명(PoS) 기반으로 에브리피디아 네트워크를 변경하고 업그레이드 하는것을 "
+"투표로 결정할 수 있습니다"
 
 #. [DashboardComponent.Proposals]
 #. defaultMessage is:
@@ -3560,14 +3549,14 @@ msgstr "제안"
 #. Provide a description of your edit (optional)
 #: translations/.messages/src/editor/plugins/save/save-modal-parts/comment-and-category.json
 msgid "Provide a description of your edit (optional)"
-msgstr "편집에 대한 설명(선택사항)"
+msgstr "편집에 대한 설명(선택)"
 
 #. [SubmitVoteConfirmation.ProvideReason]
 #. defaultMessage is:
 #. Provide the reason for your vote (optional)
 #: translations/.messages/src/app/components/SubmitVote/ConfirmationModal.json
 msgid "Provide the reason for your vote (optional)"
-msgstr "투표에 대한 설명(선택사항)"
+msgstr "투표에 대한 설명(선택)"
 
 #. [ContactUs.Questions]
 #. defaultMessage is:
@@ -3584,7 +3573,7 @@ msgid ""
 "Quickly login or create a new account to make edits, create articles, vote, "
 "and more!"
 msgstr ""
-"새 계정을 만들어 로그인하면, 작성과 투표를 포함한 모든것을 할 수 있습니다."
+"새 계정을 만들어 로그인하면 편집과 투표를 포함한 모든 것을 할 수 있습니다"
 
 #. [RecentPopularContent.RECENT]
 #. defaultMessage is:
@@ -3733,7 +3722,7 @@ msgstr "삭제됨"
 #. Reply
 #: translations/.messages/src/app/components/Chat/index.json
 msgid "Reply"
-msgstr "답글"
+msgstr "댓글"
 
 #. [ContactUs.reportBug]
 #. defaultMessage is:
@@ -3827,21 +3816,21 @@ msgstr "저장"
 #. Science / Academia / Humanities
 #: translations/.messages/src/editor/plugins/metadata/metadata-modal.json
 msgid "Science / Academia / Humanities"
-msgstr "과학 / 학문 / 인문"
+msgstr "과학, 학문, 인문"
 
 #. [Search.SearchPlaceholder]
 #. defaultMessage is:
 #. Search Everipedia...
 #: translations/.messages/src/app/components/Search/index.json
 msgid "Search Everipedia..."
-msgstr "에브리피디아 검색"
+msgstr "검색어 입력"
 
 #. [Search.CreateNewSearchMobile]
 #. defaultMessage is:
 #. Search to find out if the topic already exists
 #: translations/.messages/src/app/components/Search/index.json
 msgid "Search to find out if the topic already exists"
-msgstr "해당 주제가 이미 있는지 검색하세요"
+msgstr "해당 주제에 글이 이미 있는지 검색하세요"
 
 #. [Search.CreateNewSearch]
 #. defaultMessage is:
@@ -3855,7 +3844,7 @@ msgstr "해당 주제에 글이 이미 있는지 검색하세요"
 #. Searching
 #: translations/.messages/src/editor/plugins/categories/categories-modal.json
 msgid "Searching"
-msgstr "검색 중..."
+msgstr "검색 중"
 
 #. [LearnMore.SeeActivity]
 #. defaultMessage is:
@@ -3912,7 +3901,7 @@ msgstr "분류 선택"
 #. Select Other Social Login Option
 #: translations/.messages/src/app/components/Login/index.json
 msgid "Select Other Social Login Option"
-msgstr "다른 SNS 로그인을 선택하세요"
+msgstr "다른 SNS 로그인 선택"
 
 #. [EditProfile.SelectPlatform]
 #. defaultMessage is:
@@ -3933,7 +3922,7 @@ msgstr "이유 선택"
 #. Select different reason
 #: translations/.messages/src/app/containers/contact-us/messages.json
 msgid "Select different reason"
-msgstr "다른이유 선택"
+msgstr "다른 이유 선택"
 
 #. [Chat.Send]
 #. defaultMessage is:
@@ -3985,14 +3974,14 @@ msgstr "서비스"
 #. Share via:
 #: translations/.messages/src/app/components/ArticleComponent/ShareModal.json
 msgid "Share via:"
-msgstr "공유하기"
+msgstr "공유: "
 
 #. [ArticleComponent.ShowAllCitations]
 #. defaultMessage is:
 #. Show All Citations
 #: translations/.messages/src/app/components/ArticleComponent/References.json
 msgid "Show All Citations"
-msgstr "모든 인용 표시"
+msgstr "모든 인용 보기"
 
 #. [LearnMore.SignUp]
 #. defaultMessage is:
@@ -4061,28 +4050,28 @@ msgstr "새 위키 만들기"
 #. Start Contributing on Everipedia
 #: translations/.messages/src/app/components/error-modal/index.json
 msgid "Start Contributing on Everipedia"
-msgstr "에브리피디아 작성하기"
+msgstr "편집 시작하기"
 
 #. [NewPageTemplate.NPT_Event_StartDate]
 #. defaultMessage is:
 #. Start Date
 #: translations/.messages/src/editor/utils/editing-utils/template-packs/event.json
 msgid "Start Date"
-msgstr "시작일"
+msgstr "출시일"
 
 #. [About.StartExploring]
 #. defaultMessage is:
 #. Start Exploring
 #: translations/.messages/src/app/containers/about/about.container.json
 msgid "Start Exploring"
-msgstr "검색 시작"
+msgstr "검색하기"
 
 #. [EditorContainer.BodyPlaceholder]
 #. defaultMessage is:
 #. Start creating content for this article here...
 #: translations/.messages/src/editor/editor.container.json
 msgid "Start creating content for this article here..."
-msgstr "여기에서부터 글을 작성하세요"
+msgstr "글 작성하기"
 
 #. [EditProfile.State]
 #. defaultMessage is:
@@ -4096,7 +4085,7 @@ msgstr "주"
 #. Sub Page Type
 #: translations/.messages/src/editor/plugins/metadata/metadata-modal.json
 msgid "Sub Page Type"
-msgstr "하위 페이지 유형"
+msgstr "하위 글 유형"
 
 #. [EditProfile.Submit]
 #. defaultMessage is:
@@ -4208,28 +4197,28 @@ msgstr "제출 완료"
 #. TRENDING
 #: translations/.messages/src/app/containers/homepageContainer/recentPopularContent.json
 msgid "TRENDING"
-msgstr "트렌드"
+msgstr "인기"
 
 #. [TableMenu.Table]
 #. defaultMessage is:
 #. Table
 #: translations/.messages/src/editor/plugins/table/table-button.json
 msgid "Table"
-msgstr "테이블"
+msgstr "표"
 
 #. [AdultContentContainer.TakeMeHome]
 #. defaultMessage is:
 #. Take Me Home
 #: translations/.messages/src/app/containers/article/AdultContentContainer.json
 msgid "Take Me Home"
-msgstr ""
+msgstr "홈페이지"
 
 #. [About.ModernAge]
 #. defaultMessage is:
 #. Taking the Online Encyclopedia into the Modern Age
 #: translations/.messages/src/app/containers/about/about.container.json
 msgid "Taking the Online Encyclopedia into the Modern Age"
-msgstr "온라인 백과사전을 현대적으로"
+msgstr "온라인 백과사전을 보다 현대적으로"
 
 #. [NewPageTemplate.NPT_Organization_Telephone]
 #. defaultMessage is:
@@ -4315,8 +4304,8 @@ msgid ""
 "economy to disrupt the old centralized internet knowledge encyclopedia model "
 "similar to Wikipedia"
 msgstr ""
-"에브리피디아 네트워크는 기존의 중앙화된 인터넷 기반 백과사전의 한계를 극복하"
-"는 새로운 패러다임을 제시합니다"
+"에브리피디아 네트워크는 기존의 중앙화된 백과사전의 한계를 극복하는 새로운 패"
+"러다임을 제시합니다"
 
 #. [Homepage.TheEncylopediaOfEverything]
 #. defaultMessage is:
@@ -4333,7 +4322,7 @@ msgstr "모든 것, 모든 사람, 모든 곳을 위한 에브리피디아"
 #. The infobox is designed for concise, easy-to-access information.
 #: translations/.messages/src/editor/plugins/infobox/infobox-modal.json
 msgid "The infobox is designed for concise, easy-to-access information."
-msgstr "정보상자를 통해 간편하고 쉽게 정보에 접근할 수 있습니다"
+msgstr "정보상자를 이용해 간편하고 쉽게 정보에 접근할 수 있습니다"
 
 #. [TeamInfo.TheodorForseliusBio]
 #. defaultMessage is:
@@ -4355,21 +4344,21 @@ msgstr ""
 msgid ""
 "There have been no recent edits to this article. Be the first person to "
 "update it."
-msgstr "최근 편집이 없습니다"
+msgstr "최근 편집 없음"
 
 #. [ChatList.ThereIsNoActivity]
 #. defaultMessage is:
 #. There is no activity on this article.
 #: translations/.messages/src/app/components/Chat/ChatList.json
 msgid "There is no activity on this article."
-msgstr "최근 활동이 없습니다. "
+msgstr "최근 활동 없음"
 
 #. [SaveModalAgain.ThereWasAnIssueRecording]
 #. defaultMessage is:
 #. There was an issue recording your edit.
 #: translations/.messages/src/editor/plugins/save/save-modal.json
 msgid "There was an issue recording your edit."
-msgstr "편집저장에 문제가 발생했습니다"
+msgstr "편집 저장에 문제가 있습니다"
 
 #. [IQInfo.DecentralizedBlurb]
 #. defaultMessage is:
@@ -4467,14 +4456,14 @@ msgstr "이 글을 편집하려면 PC버전을 이용하세요"
 #. To make an edit or create an article, you need an Everipedia account.
 #: translations/.messages/src/app/utils/errors.json
 msgid "To make an edit or create an article, you need an Everipedia account."
-msgstr "편집하거나 기사를 만들려면 Everipedia 계정이 필요합니다."
+msgstr "에브리피디아 계정으로 편집에 참여하세요"
 
 #. [Leaderboard.Today]
 #. defaultMessage is:
 #. Today
 #: translations/.messages/src/app/containers/leaderboard/leaderboard.container.json
 msgid "Today"
-msgstr ""
+msgstr "오늘"
 
 #. [Dashboard.TotalBalance]
 #. defaultMessage is:
@@ -4557,7 +4546,7 @@ msgstr "유형"
 #. Type to search...
 #: translations/.messages/src/editor/components/search/article-search.json
 msgid "Type to search..."
-msgstr "검색하기"
+msgstr "검색어 입력"
 
 #. [MetadataModal.URLSlug]
 #. defaultMessage is:
@@ -4600,7 +4589,7 @@ msgstr "업로드"
 #. Upload from computer (8mb max)
 #: translations/.messages/src/editor/plugins/media-gallery/media-gallery-modal.json
 msgid "Upload from computer (8mb max)"
-msgstr "컴퓨터에서 업로드"
+msgstr "컴퓨터에서 업로드(최대 8mb)"
 
 #. [ImageUploader.Uploading]
 #. defaultMessage is:
@@ -4621,7 +4610,7 @@ msgstr "업로드 중"
 #. VERSION VOTES
 #: translations/.messages/src/app/components/SubmitVote/index.json
 msgid "VERSION VOTES"
-msgstr "편집 기록"
+msgstr "투표 기록"
 
 #. [ContentTopNav.Views]
 #. defaultMessage is:
@@ -4827,14 +4816,14 @@ msgstr "주"
 #. WIKIS
 #: translations/.messages/src/app/containers/homepageContainer/stats.json
 msgid "WIKIS"
-msgstr "문서수"
+msgstr "글"
 
 #. [SaveModalAgain.WaitAMomentOneLynx]
 #. defaultMessage is:
 #. Wait a moment while we load Lynx.
 #: translations/.messages/src/editor/plugins/save/save-modal.json
 msgid "Wait a moment while we load Lynx."
-msgstr "Lynx 실행중입니다"
+msgstr "Lynx 실행 중입니다"
 
 #. [SaveModalAgain.txLoadScatter]
 #. defaultMessage is:
@@ -4844,8 +4833,8 @@ msgid ""
 "Wait a moment while we load Scatter.  If you do not see the Scatter window, "
 "check if it has loaded behind your current window."
 msgstr ""
-"스캐터 실행중입니다. 스캐터 창이 보이지 않으면, 현재 창 뒤에 있는지 확인하세"
-"요"
+"스캐터를 실행 중입니다. 스캐터 창이 보이지 않으면 현재 창 뒤에 있는지 확인하"
+"세요."
 
 #. [SaveModalAgain.WaitAMomentOne]
 #. defaultMessage is:
@@ -4855,15 +4844,15 @@ msgid ""
 "Wait a moment while we load Scatter. If you don’t see the Scatter window, "
 "check if it has loaded behind your current window."
 msgstr ""
-"스캐터 실행중입니다. 스캐터 창이 보이지 않으면, 현재 창 뒤에 있는지 확인하세"
-"요"
+"스캐터를 실행 중입니다. 스캐터 창이 보이지 않으면 현재 창 뒤에 있는지 확인하"
+"세요."
 
 #. [SaveModalAgain.txLoadLynx]
 #. defaultMessage is:
 #. Wait a moment while we load the Lynx transaction window.
 #: translations/.messages/src/editor/plugins/save/save-modal.json
 msgid "Wait a moment while we load the Lynx transaction window."
-msgstr "Lynx 트랜잭션 실행중입니다"
+msgstr "Lynx 트랜잭션 실행 중입니다"
 
 #. [SaveModalAgain.txLoadOreId]
 #. defaultMessage is:
@@ -4897,8 +4886,7 @@ msgid ""
 "Wait a moment while we load your wallet – If you don’t see the wallet "
 "window, check if it has loaded behind your current window."
 msgstr ""
-"Scatter를로드하는 동안 잠시 기다려주십시오. Scatter 창이 보이지 않으면 현재 "
-"창 뒤에서로드되었는지 확인하십시오."
+"지갑을 실행 중입니다. 인증 창이 보이지 않으면 현재 창 뒤에 있는지 확인하세요."
 
 #. [SubmitVoteConfirmation.WaitAMomentWallet]
 #. defaultMessage is:
@@ -4908,7 +4896,7 @@ msgid ""
 "Wait a moment while we load your wallet. If you don’t see the wallet window, "
 "check if it has loaded behind your current window."
 msgstr ""
-"지갑을 실행중입니다. 창이 보이지 않으면, 현재 창 뒤에 있는지 확인하세요"
+"지갑을 실행 중입니다. 인증 창이 보이지 않으면 현재 창 뒤에 있는지 확인하세요."
 
 #. [SubmitVoteConfirmation.WaitAMomentOREID]
 #. defaultMessage is:
@@ -4936,7 +4924,7 @@ msgstr "주의"
 #: translations/.messages/src/app/components/edit-profile/index.json
 msgid ""
 "Warning: Your public profile will be visible to everyone and stored on-chain"
-msgstr "주의 : 공개 프로필은 모든 사람에게 공개되며 블록체인에 저장됩니다"
+msgstr "주의: 공개 프로필은 모든 사람에게 공개되며 블록체인에 저장됩니다"
 
 #. [MergeModalAgain.WeReceivedTheFollowingError]
 #. defaultMessage is:
@@ -4947,7 +4935,7 @@ msgstr "주의 : 공개 프로필은 모든 사람에게 공개되며 블록체�
 #: translations/.messages/src/editor/plugins/merge/merge-modal.json
 #: translations/.messages/src/editor/plugins/save/save-modal.json
 msgid "We received the following error"
-msgstr "다음과 같은 오류가 발생했습니다"
+msgstr "다음 오류가 발생했습니다"
 
 #. [ContactUs.WedLoveToHearFromYou]
 #. defaultMessage is:
@@ -4975,7 +4963,7 @@ msgstr "링크할 글을 입력하세요"
 #. What is IQ?
 #: translations/.messages/src/app/containers/dashboard/what_is_iq.json
 msgid "What is IQ?"
-msgstr "IQ란 무엇입니까?"
+msgstr "IQ 토큰이란?"
 
 #. [AccountNameHeader.Worth]
 #. defaultMessage is:
@@ -5027,8 +5015,8 @@ msgid ""
 "You can vote with any amount of IQ.  If you vote with the majority, you will "
 "receive a reward that is proportional to the amount you vote!"
 msgstr ""
-"IQ 토큰으로 투표할 수 있습니다. 투표결과 다수에 투표했다면, 투표한 수에 따라 "
-"보상을 받습니다"
+"IQ 토큰으로 투표할 수 있습니다. 투표결과 다수에 투표했다면, 투표한 수량에 따"
+"라 보상을 받습니다"
 
 #. [Notifications.NoNotifications]
 #. defaultMessage is:
@@ -5071,28 +5059,28 @@ msgstr "로그인하여 투표하세요"
 #. You need to make an edit before you can vote with your Ore ID account
 #: translations/.messages/src/app/components/SubmitVote/index.json
 msgid "You need to make an edit before you can vote with your Ore ID account"
-msgstr "ORE ID로 투표하려면, 먼저 편집을 해야합니다"
+msgstr "ORE ID로 투표하려면 편집을 먼저 해야합니다"
 
 #. [Footer.PrivacyCA]
 #. defaultMessage is:
 #. Your CA Privacy Rights
 #: translations/.messages/src/app/components/Footer/index.json
 msgid "Your CA Privacy Rights"
-msgstr "귀하의 CA 개인 정보 보호 권리"
+msgstr "귀하의 CA 개인정보보호 권리"
 
 #. [Directory.YourChats]
 #. defaultMessage is:
 #. Your Chats
 #: translations/.messages/src/app/components/Chat/Directory.json
 msgid "Your Chats"
-msgstr "나의 채팅"
+msgstr "내 채팅"
 
 #. [SaveModalAgain.YourEditWasSuccessfully]
 #. defaultMessage is:
 #. Your Edit Was Successfully Submitted for Voting
 #: translations/.messages/src/editor/plugins/save/save-modal.json
 msgid "Your Edit Was Successfully Submitted for Voting"
-msgstr "편집 제안이 투표중입니다"
+msgstr "편집 제안이 투표 중입니다"
 
 #. [SaveModalAgain.YourEditWasNotSubmitted]
 #. defaultMessage is:
@@ -5115,7 +5103,7 @@ msgstr "투표 완료"
 msgid ""
 "Your active chats will be displayed here when you start conversations in "
 "articles."
-msgstr "개별 글에서 대화를 시작하면 진행중인 채팅이 나타납니다"
+msgstr "대화를 시작하면 진행 중인 채팅이 나타납니다"
 
 #. [MergeModalAgain.YourEditWillNowBeVotedOn]
 #. defaultMessage is:
@@ -5130,8 +5118,8 @@ msgid ""
 "receive an IQ reward for your contribution.  The IQ Tokens that you used to "
 "propose your edit will be locked up (staked) for 21 days."
 msgstr ""
-"편집 제안이 투표중입니다. 투표결과 승인되면, 편집에 따른 보상으로 IQ 토큰을 "
-"받습니다. 편집 제안을 하는데 사용한 IQ 토큰은 21일동안 잠깁니다"
+"편집 제안이 투표 중입니다. 투표결과 승인되면, 편집에 따른 보상으로 IQ 토큰을 "
+"받습니다. 편집 제안을 하는데 사용한 IQ 토큰은 21일 동안 예치됩니다."
 
 #. [IQInfo.AboutEOSandIQ]
 #. defaultMessage is:
@@ -5173,7 +5161,7 @@ msgstr "승인"
 #. born
 #: translations/.messages/src/editor/utils/editing-utils/template-packs/person.json
 msgid "born"
-msgstr "타고난"
+msgstr ""
 
 #. [IQInfo.BuyAndSellIQ]
 #. defaultMessage is:
@@ -5227,7 +5215,7 @@ msgstr "편집함"
 #: translations/.messages/src/shared/inputs/file-uploader/file-uploader.component.json
 #: translations/.messages/src/shared/inputs/image-uploader/image-uploader.component.json
 msgid "file size is too big"
-msgstr "파일크기가 너무 큽니다"
+msgstr "파일크기 초과"
 
 #. [SubmitVote.For]
 #. defaultMessage is:
@@ -5259,28 +5247,28 @@ msgstr "포함"
 #: translations/.messages/src/editor/utils/editing-utils/template-packs/organization.json
 #: translations/.messages/src/editor/utils/editing-utils/template-packs/person.json
 msgid "is a"
-msgstr "이다"
+msgstr ""
 
 #. [NewPageTemplate.NPT_Place_IsAPlace]
 #. defaultMessage is:
 #. is a place
 #: translations/.messages/src/editor/utils/editing-utils/template-packs/place.json
 msgid "is a place"
-msgstr "투표하기"
+msgstr "장소"
 
 #. [NewPageTemplate.NPT_Event_IsAnEvent]
 #. defaultMessage is:
 #. is an event that was first started on
 #: translations/.messages/src/editor/utils/editing-utils/template-packs/event.json
 msgid "is an event that was first started on"
-msgstr "처음 시작한 곳은"
+msgstr "시작일"
 
 #. [NewPageTemplate.NPT_Place_IsKnownFor]
 #. defaultMessage is:
 #. is known for
 #: translations/.messages/src/editor/utils/editing-utils/template-packs/place.json
 msgid "is known for"
-msgstr "다음과 같이 알려져 있습니다"
+msgstr ""
 
 #. [FileUploader.IsNotASupportedFileExtension]
 #. defaultMessage is:
@@ -5298,14 +5286,14 @@ msgstr "지원되는 파일 확장명이 아닙니다"
 #. is product created on
 #: translations/.messages/src/editor/utils/editing-utils/template-packs/product.json
 msgid "is product created on"
-msgstr "에 만들어진 제품입니다"
+msgstr "제품"
 
 #. [NewPageTemplate.NPT_CreativeWork_IsWorkThatWasCreated]
 #. defaultMessage is:
 #. is work that was created on
 #: translations/.messages/src/editor/utils/editing-utils/template-packs/creative-work.json
 msgid "is work that was created on"
-msgstr "만든 작품입니다"
+msgstr "개발자"
 
 #. [ActivityCard.Merged2]
 #. defaultMessage is:
@@ -5362,7 +5350,7 @@ msgstr "삭제됨"
 #. started his/her career at
 #: translations/.messages/src/editor/utils/editing-utils/template-packs/person.json
 msgid "started his/her career at"
-msgstr "경력을 시작했다"
+msgstr "활동"
 
 #. [IQInfo.TalkToSomeone]
 #. defaultMessage is:
@@ -5383,7 +5371,7 @@ msgstr "지원 거래소"
 #. to choose a quality image. You can upload jpg, gif, and png files.
 #: translations/.messages/src/editor/plugins/section-embed-modal/section-embed-modal.json
 msgid "to choose a quality image. You can upload jpg, gif, and png files."
-msgstr ""
+msgstr "jpg, gif, png 파일을 올릴 수 있습니다"
 
 #. [Directory.ToParticipate]
 #. defaultMessage is:
@@ -5394,7 +5382,7 @@ msgstr ""
 #: translations/.messages/src/app/components/Chat/Directory.json
 #: translations/.messages/src/app/components/Chat/Notifications.json
 msgid "to participate in community conversations"
-msgstr "커뮤니티 대화에 참여하기"
+msgstr "커뮤니티 참여하기"
 
 #. [ContactUs.toViewFAQ]
 #. defaultMessage is:
@@ -5452,21 +5440,21 @@ msgstr "투표"
 #: translations/.messages/src/editor/utils/editing-utils/template-packs/creative-work.json
 #: translations/.messages/src/editor/utils/editing-utils/template-packs/product.json
 msgid "was created by"
-msgstr "작성자"
+msgstr "개발자"
 
 #. [NewPageTemplate.NPT_Event_WasFormedBy]
 #. defaultMessage is:
 #. was formed by
 #: translations/.messages/src/editor/utils/editing-utils/template-packs/event.json
 msgid "was formed by"
-msgstr "다음으로 작동"
+msgstr "구성"
 
 #. [NewPageTemplate.NPT_Organization_WasStartedBy]
 #. defaultMessage is:
 #. was started by
 #: translations/.messages/src/editor/utils/editing-utils/template-packs/organization.json
 msgid "was started by"
-msgstr "시작되었습니다"
+msgstr "시작"
 
 #. [ActivityCard.Words]
 #. defaultMessage is:
@@ -5481,13 +5469,13 @@ msgstr "시작되었습니다"
 #: translations/.messages/src/app/components/Chat/ChatItem.json
 #: translations/.messages/src/app/components/SubmitVote/EditOverview.json
 msgid "words"
-msgstr "단어 편집"
+msgstr "단어"
 
 #~ msgid "Account"
 #~ msgstr "계정"
 
 #~ msgid "Active Boosts"
-#~ msgstr "부스트 진행중"
+#~ msgstr "부스트 중"
 
 #~ msgid "Add Another"
 #~ msgstr "더 추가"
@@ -5508,7 +5496,7 @@ msgstr "단어 편집"
 #~ msgstr "부스트"
 
 #~ msgid "Boost amount"
-#~ msgstr "부스트 양"
+#~ msgstr "부스트 수량"
 
 #~ msgid "Boost your voting power"
 #~ msgstr "부스트하기"
@@ -5529,34 +5517,34 @@ msgstr "단어 편집"
 #~ msgstr "연락 방식"
 
 #~ msgid "Do Not Sell My Personal Information"
-#~ msgstr "개인정보 보호신청"
+#~ msgstr "개인정보보호 신청"
 
 #~ msgid "EXISTING BOOST"
 #~ msgstr "부스트 목록"
 
 #~ msgid "Existing"
-#~ msgstr "기존 파일"
+#~ msgstr "기존"
 
 #~ msgid "Final Tally:"
-#~ msgstr "최종 탈리 :"
+#~ msgstr "투표 결과:"
 
 #~ msgid "Full Name"
-#~ msgstr "성명(성과 이름)"
+#~ msgstr "이름"
 
 #~ msgid "Generated unique URL"
 #~ msgstr "생성된 고유 웹 주소"
 
 #~ msgid "How can we help?"
-#~ msgstr "어떻게 도와드릴까요?"
+#~ msgstr "무엇을 도와드릴까요?"
 
 #~ msgid "How it works"
 #~ msgstr "운영 방법"
 
 #~ msgid "How much IQ should I boost?"
-#~ msgstr "부스트하는데 IQ 토큰이 얼마나 필요하나요?"
+#~ msgstr "부스트에 IQ 토큰이 얼마나 필요하나요?"
 
 #~ msgid "Increase your voting power by boosting!"
-#~ msgstr "부스트하여 투표력을 높이세요"
+#~ msgstr "부스트해서 투표력을 높이세요"
 
 #~ msgid "Investment Inquiry"
 #~ msgstr "투자 문의"
@@ -5593,14 +5581,14 @@ msgstr "단어 편집"
 
 #~| msgid "View Transaction"
 #~ msgid "No transaction ID"
-#~ msgstr "트랜잭션 보기"
+#~ msgstr "트랜잭션 없음"
 
 #~ msgid "Override text?"
-#~ msgstr "텍스트를 덮어쓰기 하시겠습니까?"
+#~ msgstr "덮어쓰기 하시겠습니까?"
 
 #~ msgid ""
 #~ "Permanently increase your voting power for this article by burning IQ."
-#~ msgstr "IQ를 소각하면 이 글에 대한 투표력을 영구적으로 증가시킬 수 있습니다"
+#~ msgstr "IQ를 소각해서 이 글에 대한 투표력을 영구적으로 증가시킬 수 있습니다"
 
 #~ msgid "Permission"
 #~ msgstr "권한"
@@ -5653,22 +5641,22 @@ msgstr "단어 편집"
 #~ "the more you boost!"
 #~ msgstr ""
 #~ "IQ 토큰으로 부스트할 수 있습니다. 부스트를 하면 투표한 수량에 일정 가중치"
-#~ "를 받습니다"
+#~ "가 추가됩니다."
 
 #~ msgid "Your Boost was Successful"
 #~ msgstr "부스트 완료"
 
 #~ msgid "to choose a quality image"
-#~ msgstr "고품질 이미지 선택"
+#~ msgstr "이미지 선택"
 
 #~ msgid "to choose a quality image."
-#~ msgstr "고품질 이미지 선택"
+#~ msgstr "이미지 선택"
 
 #~ msgid "Add without Inserting"
 #~ msgstr "삽입하지 않고 추가"
 
 #~ msgid "ISBN (Book)"
-#~ msgstr "ISBN(도서)"
+#~ msgstr "ISBN (도서)"
 
 #~ msgid "Login / Create Account"
 #~ msgstr "로그인 / 계정 만들기"
@@ -5680,15 +5668,15 @@ msgstr "단어 편집"
 #~ "Everipedia’s full features,\n"
 #~ "\t\t\t\t\t\tincluding voting on article edits and earning IQ rewards."
 #~ msgstr ""
-#~ "글을 작성하려면 에브리피디아 계정이 필요합니다. SNS계정이나 스캐터를 이용"
-#~ "해 에브리피디아의 모든 기능을 이용할 수 있습니다."
+#~ "글을 작성하려면 에브리피디아 계정이 필요합니다. SNS계정이나 지갑을 이용해 "
+#~ "에브리피디아의 모든 기능을 이용할 수 있습니다."
 
 #~ msgid ""
 #~ "Wait a moment while we load Scatter – If you don’t see the Scatter "
 #~ "window, check if it has loaded behind your current window."
 #~ msgstr ""
-#~ "스캐터 실행중입니다. 스캐터 창이 보이지 않으면, 현재 창 뒤에 있는지 확인하"
-#~ "세요"
+#~ "스캐터를 실행 중입니다. 스캐터 창이 보이지 않으면 현재 창 뒤에 있는지 확인"
+#~ "하세요."
 
 #~ msgid "bytes"
 #~ msgstr "바이트"
@@ -5697,7 +5685,7 @@ msgstr "단어 편집"
 #~ msgstr "계정 활동"
 
 #~ msgid "Learn more."
-#~ msgstr "자세히 알아보기"
+#~ msgstr "더 알아보기"
 
 #~ msgid ""
 #~ "Login with Scatter to unlock Everipedia’s full features. Earn IQ rewards "
@@ -5705,7 +5693,7 @@ msgstr "단어 편집"
 #~ "\t\t\t\t\t\tvoting on proposed article edits."
 #~ msgstr ""
 #~ "스캐터로 로그인하여 에브리피디아의 모든 기능을 활용하세요. 편집 제안에 참"
-#~ "여하여 IQ 토큰을 보상으로 받으세요"
+#~ "여하여 IQ 토큰을 보상으로 받으세요."
 
 #~ msgid "Please enter a description for the article"
 #~ msgstr "설명을 입력하세요"
@@ -5716,7 +5704,7 @@ msgstr "단어 편집"
 #~ "\t\t\t\t\t\t4 edits and will not earn rewards or participate in voting."
 #~ msgstr ""
 #~ "SNS 로그인으로 편집에 참여할 수 있습니다. SNS 로그인은 4번 편집 제안을 할 "
-#~ "수 있으며, 투표에는 참여할 수 없습니다"
+#~ "수 있으며, 투표에는 참여할 수 없습니다."
 
 #~ msgid "View Comment"
 #~ msgstr "의견 보기"
@@ -5726,8 +5714,8 @@ msgstr "단어 편집"
 #~ "                                        \tparticipate in voting and to "
 #~ "receive IQ rewards, login with Scatter."
 #~ msgstr ""
-#~ "현재 ORE ID를 이용한 계정을 사용하고 있습니다. 투표에 참여하려면 스캐터를 "
-#~ "이용해 로그인하세요"
+#~ "현재 ORE ID를 이용한 계정을 사용하고 있습니다. 투표에 참여하려면 지갑을 이"
+#~ "용해 로그인하세요."
 
 #~ msgid "A new paradigm for internet knowledge."
 #~ msgstr "인터넷 지식의 새로운 패러다임"
@@ -5774,14 +5762,14 @@ msgstr "단어 편집"
 #~ "\t\t\t\t\t\tpolicies are based on common sense rather than strict "
 #~ "bureaucracy."
 #~ msgstr ""
-#~ "에브리피디아의 역동적인 공동체는 항상 열려있으며, 누구나가 참여할 수 있습"
-#~ "니다. 엄격한 관료적 절차보다는 상식을 우선시합니다"
+#~ "에브리피디아 네트워크의 공동체는 항상 열려있으며, 누구나가 참여할 수 있습"
+#~ "니다. 관료적 절차보다는 상식을 우선시합니다."
 
 #~ msgid "Register"
 #~ msgstr "가입하기"
 
 #~ msgid "Save / Submit the current page"
-#~ msgstr "현재 글 저장 / 제출"
+#~ msgstr "현재 글 저장, 제출"
 
 #~ msgid "See FAQs"
 #~ msgstr "FAQ 보기"
@@ -5800,8 +5788,8 @@ msgstr "단어 편집"
 #~ "knowledge base will be able to improve upon\n"
 #~ "                                \tall fundamental features of Wikipedia."
 #~ msgstr ""
-#~ "새로이 만들어진 에브리피디아는 새로운 인센티브 구조와 블록체인 기반의 탈중"
-#~ "앙된 백엔드를 바탕으로, 위키백과의 모든 기능들을 포괄하고 개선합니다."
+#~ "에브리피디아는 새로운 인센티브 시스템과 블록체인 기반의 탈중앙된 백엔드를 "
+#~ "바탕으로, 위키백과의 모든 기능들을 포괄하고 개선합니다."
 
 #~ msgid "Tools"
 #~ msgstr "도구"
@@ -5828,7 +5816,7 @@ msgstr "단어 편집"
 #~ msgstr "참여자 없음"
 
 #~ msgid "Citation / Link"
-#~ msgstr "인용 / 링크"
+#~ msgstr "인용, 링크"
 
 #~ msgid "Would you like to save the page?"
 #~ msgstr "저장하시겠습니까?"
@@ -5846,4 +5834,4 @@ msgstr "단어 편집"
 #~ msgstr "Header.Activity"
 
 #~ msgid "Header.Login"
-#~ msgstr "헤더. 로그인"
+#~ msgstr "Header.Login"
