@@ -1,7 +1,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: \n"
-"POT-Creation-Date: 2020-06-11T18:22:15.533Z\n"
+"POT-Creation-Date: 2020-06-12T16:55:20.745Z\n"
 "PO-Revision-Date: \n"
 "Last-Translator: \n"
 "Language-Team: \n"
@@ -963,7 +963,6 @@ msgstr "투표하기"
 #. defaultMessage is:
 #. Co-Founder Wikipedia
 #: translations/.messages/src/app/containers/about/third-block.json
-
 msgid "Co-Founder Wikipedia"
 msgstr "위키백과 공동설립자, 전) 에브리피디아 최고정보책임자"
 
@@ -4318,6 +4317,18 @@ msgstr ""
 msgid "The Wiki Encyclopedia for Everything, Everyone, Everywhere."
 msgstr "모든 것, 모든 사람, 모든 곳을 위한 에브리피디아"
 
+#. [DynamicAppHead.DefaultDescription]
+#. defaultMessage is:
+#. The Wiki Encyclopedia for Everything, Everyone, Everywhere. Everipedia offers a space for you to dive into anything you find interesting, connect with people who share your interests, and contribute your own perspective.
+#: translations/.messages/src/shared/components/DynamicAppHead/index.json
+msgid ""
+"The Wiki Encyclopedia for Everything, Everyone, Everywhere. Everipedia "
+"offers a space for you to dive into anything you find interesting, connect "
+"with people who share your interests, and contribute your own perspective."
+msgstr ""
+"모든 것을 다루는 백과사전으로서, 누구나가 참여하여 글을 생성하고 편집할 수 있"
+"다."
+
 #. [InfoboxModal.TheInfoboxIsDesignedForConcise]
 #. defaultMessage is:
 #. The infobox is designed for concise, easy-to-access information.
@@ -4945,13 +4956,6 @@ msgstr "다음 오류가 발생했습니다"
 msgid "We'd love to hear from you"
 msgstr "의견을 보내주세요"
 
-#. [WelcomeBanner.Welcome]
-#. defaultMessage is:
-#. Welcome
-#: translations/.messages/src/app/components/WelcomeBanner/index.json
-msgid "Welcome"
-msgstr "환영합니다"
-
 #. [EPLinkModal.WhatArticleDoYouWantTo]
 #. defaultMessage is:
 #. What article do you want to link to?
@@ -4965,6 +4969,13 @@ msgstr "링크할 글을 입력하세요"
 #: translations/.messages/src/app/containers/dashboard/what_is_iq.json
 msgid "What is IQ?"
 msgstr "IQ 토큰이란?"
+
+#. [DynamicAppHead.DefaultTitle]
+#. defaultMessage is:
+#. Wiki Encyclopedia of Everything - Everipedia
+#: translations/.messages/src/shared/components/DynamicAppHead/index.json
+msgid "Wiki Encyclopedia of Everything - Everipedia"
+msgstr "모두의 온라인 위키 백과사전 - 에브리피디아"
 
 #. [AccountNameHeader.Worth]
 #. defaultMessage is:
@@ -5471,6 +5482,9 @@ msgstr "시작"
 #: translations/.messages/src/app/components/SubmitVote/EditOverview.json
 msgid "words"
 msgstr "단어"
+
+#~ msgid "Welcome"
+#~ msgstr "환영합니다"
 
 #~ msgid "Account"
 #~ msgstr "계정"

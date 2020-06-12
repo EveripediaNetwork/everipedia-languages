@@ -1,7 +1,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: \n"
-"POT-Creation-Date: 2020-06-11T18:22:15.533Z\n"
+"POT-Creation-Date: 2020-06-12T16:55:20.745Z\n"
 "PO-Revision-Date: \n"
 "Last-Translator: \n"
 "Language-Team: \n"
@@ -976,7 +976,6 @@ msgstr "Haga clic para votar sobre esta edición"
 #. defaultMessage is:
 #. Co-Founder Wikipedia
 #: translations/.messages/src/app/containers/about/third-block.json
-
 msgid "Co-Founder Wikipedia"
 msgstr "Cofundador de Wikipedia, CIO Everipedia"
 
@@ -4381,6 +4380,20 @@ msgstr ""
 msgid "The Wiki Encyclopedia for Everything, Everyone, Everywhere."
 msgstr "La Enciclopedia Wiki para Todo, Todos, En Todas Partes."
 
+#. [DynamicAppHead.DefaultDescription]
+#. defaultMessage is:
+#. The Wiki Encyclopedia for Everything, Everyone, Everywhere. Everipedia offers a space for you to dive into anything you find interesting, connect with people who share your interests, and contribute your own perspective.
+#: translations/.messages/src/shared/components/DynamicAppHead/index.json
+msgid ""
+"The Wiki Encyclopedia for Everything, Everyone, Everywhere. Everipedia "
+"offers a space for you to dive into anything you find interesting, connect "
+"with people who share your interests, and contribute your own perspective."
+msgstr ""
+"La Enciclopedia Wiki para todo, todos, en todas partes. Everipedia ofrece un "
+"espacio para que te sumerjas en todo lo que encuentres interesante, te "
+"conectes con personas que comparten tus intereses y aportes tu propia "
+"perspectiva."
+
 #. [InfoboxModal.TheInfoboxIsDesignedForConcise]
 #. defaultMessage is:
 #. The infobox is designed for concise, easy-to-access information.
@@ -5028,13 +5041,6 @@ msgstr "Recibimos el siguiente error"
 msgid "We'd love to hear from you"
 msgstr "¡Nos encantaría saber de usted!"
 
-#. [WelcomeBanner.Welcome]
-#. defaultMessage is:
-#. Welcome
-#: translations/.messages/src/app/components/WelcomeBanner/index.json
-msgid "Welcome"
-msgstr "Bienvenido"
-
 #. [EPLinkModal.WhatArticleDoYouWantTo]
 #. defaultMessage is:
 #. What article do you want to link to?
@@ -5048,6 +5054,13 @@ msgstr "¿A qué artículo quieres enlazar?"
 #: translations/.messages/src/app/containers/dashboard/what_is_iq.json
 msgid "What is IQ?"
 msgstr "¿Qué es el coeficiente intelectual?"
+
+#. [DynamicAppHead.DefaultTitle]
+#. defaultMessage is:
+#. Wiki Encyclopedia of Everything - Everipedia
+#: translations/.messages/src/shared/components/DynamicAppHead/index.json
+msgid "Wiki Encyclopedia of Everything - Everipedia"
+msgstr "Wiki Enciclopedia de todo - Everipedia"
 
 #. [AccountNameHeader.Worth]
 #. defaultMessage is:
@@ -5559,6 +5572,9 @@ msgstr "fue iniciada por"
 #: translations/.messages/src/app/components/SubmitVote/EditOverview.json
 msgid "words"
 msgstr "palabras"
+
+#~ msgid "Welcome"
+#~ msgstr "Bienvenido"
 
 #~ msgid "Account"
 #~ msgstr "Cuenta"

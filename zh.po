@@ -1,7 +1,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: \n"
-"POT-Creation-Date: 2020-06-11T18:22:15.533Z\n"
+"POT-Creation-Date: 2020-06-12T17:32:50.252Z\n"
 "PO-Revision-Date: \n"
 "Last-Translator: \n"
 "Language-Team: \n"
@@ -960,7 +960,6 @@ msgstr "单击以对此编辑进行投票"
 #. defaultMessage is:
 #. Co-Founder Wikipedia
 #: translations/.messages/src/app/containers/about/third-block.json
-
 msgid "Co-Founder Wikipedia"
 msgstr "前维基百科联合创始人，Everipedia首席信息官"
 
@@ -4316,6 +4315,18 @@ msgstr ""
 msgid "The Wiki Encyclopedia for Everything, Everyone, Everywhere."
 msgstr "包罗万象、无处不在的Everipedia百科全书。"
 
+#. [DynamicAppHead.DefaultDescription]
+#. defaultMessage is:
+#. The Wiki Encyclopedia for Everything, Everyone, Everywhere. Everipedia offers a space for you to dive into anything you find interesting, connect with people who share your interests, and contribute your own perspective.
+#: translations/.messages/src/shared/components/DynamicAppHead/index.json
+msgid ""
+"The Wiki Encyclopedia for Everything, Everyone, Everywhere. Everipedia "
+"offers a space for you to dive into anything you find interesting, connect "
+"with people who share your interests, and contribute your own perspective."
+msgstr ""
+"Everipedia包罗万象，无处不在. Everipedia为您带来了一个可以深入探索任何事物，"
+"与您志趣相投的人们联络，分享您个人感受的空间."
+
 #. [InfoboxModal.TheInfoboxIsDesignedForConcise]
 #. defaultMessage is:
 #. The infobox is designed for concise, easy-to-access information.
@@ -4944,13 +4955,6 @@ msgstr "我们收到以下错误"
 msgid "We'd love to hear from you"
 msgstr "我们很乐意听取您的意见"
 
-#. [WelcomeBanner.Welcome]
-#. defaultMessage is:
-#. Welcome
-#: translations/.messages/src/app/components/WelcomeBanner/index.json
-msgid "Welcome"
-msgstr "欢迎"
-
 #. [EPLinkModal.WhatArticleDoYouWantTo]
 #. defaultMessage is:
 #. What article do you want to link to?
@@ -4964,6 +4968,13 @@ msgstr "您想链接到哪篇文章？"
 #: translations/.messages/src/app/containers/dashboard/what_is_iq.json
 msgid "What is IQ?"
 msgstr "什么是IQ？"
+
+#. [DynamicAppHead.DefaultTitle]
+#. defaultMessage is:
+#. Wiki Encyclopedia of Everything - Everipedia
+#: translations/.messages/src/shared/components/DynamicAppHead/index.json
+msgid "Wiki Encyclopedia of Everything - Everipedia"
+msgstr "包罗万象的百科全书-Everipedia"
 
 #. [AccountNameHeader.Worth]
 #. defaultMessage is:
@@ -5468,6 +5479,9 @@ msgstr "始于"
 #: translations/.messages/src/app/components/SubmitVote/EditOverview.json
 msgid "words"
 msgstr "字数"
+
+#~ msgid "Welcome"
+#~ msgstr "欢迎"
 
 #~ msgid "Account"
 #~ msgstr "帐户"
