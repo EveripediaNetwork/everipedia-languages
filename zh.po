@@ -60,7 +60,7 @@ msgstr "合并到本文中。"
 #.  to choose a quality image. You can upload jpg, gif, and png files
 #: translations/.messages/src/editor/plugins/media-gallery/media-gallery-modal.json
 msgid " to choose a quality image. You can upload jpg, gif, and png files"
-msgstr ""
+msgstr "选择一个高质量的图像。你可以上传jpg, gif和png格式文件"
 
 #. [Tooltips.Vote]
 #. defaultMessage is:
@@ -81,7 +81,7 @@ msgstr "+创建一个帐户/登录"
 #. , or 
 #: translations/.messages/src/app/containers/iq-info/iq-info.container.json
 msgid ", or "
-msgstr ""
+msgstr "，或"
 
 #. [Chat.NoMessages]
 #. defaultMessage is:
@@ -402,14 +402,14 @@ msgstr "将新栏目添加到信息框"
 #. Add Row
 #: translations/.messages/src/editor/plugins/infobox/infobox-modal.json
 msgid "Add Row"
-msgstr ""
+msgstr "添加行"
 
 #. [Suggestions.AddLink]
 #. defaultMessage is:
 #. Add a Link
 #: translations/.messages/src/editor/components/mentions/suggestions.json
 msgid "Add a Link"
-msgstr "添加引文"
+msgstr "添加链接"
 
 #. [AddRelatedModal.Title]
 #. defaultMessage is:
@@ -493,7 +493,7 @@ msgstr "涉及成人内容"
 #. All Time
 #: translations/.messages/src/app/containers/leaderboard/leaderboard.container.json
 msgid "All Time"
-msgstr ""
+msgstr "所有时间"
 
 #. [About.FinancialIncentiveDetail]
 #. defaultMessage is:
@@ -1661,7 +1661,7 @@ msgstr "Everipedia"
 #. Everipedia Blog
 #: translations/.messages/src/app/containers/blog/blog.container.json
 msgid "Everipedia Blog"
-msgstr "Everipedia"
+msgstr "Everipedia 博客"
 
 #. [Directory.EveripediaChat]
 #. defaultMessage is:
@@ -3194,7 +3194,7 @@ msgstr "热门"
 #. PRODUCTS
 #: translations/.messages/src/app/components/ArticleComponent/ProductBox.json
 msgid "PRODUCTS"
-msgstr ""
+msgstr "产品"
 
 #. [SearchResults.Profiles]
 #. defaultMessage is:
@@ -4200,7 +4200,7 @@ msgstr "列表"
 #. Take Me Home
 #: translations/.messages/src/app/containers/article/AdultContentContainer.json
 msgid "Take Me Home"
-msgstr ""
+msgstr "回到主页"
 
 #. [About.ModernAge]
 #. defaultMessage is:
@@ -4387,14 +4387,14 @@ msgstr "事件"
 #. This Month
 #: translations/.messages/src/app/containers/leaderboard/leaderboard.container.json
 msgid "This Month"
-msgstr ""
+msgstr "本月"
 
 #. [Leaderboard.ThisWeek]
 #. defaultMessage is:
 #. This Week
 #: translations/.messages/src/app/containers/leaderboard/leaderboard.container.json
 msgid "This Week"
-msgstr ""
+msgstr "本周"
 
 #. [SubmitVote.NotMostRecent]
 #. defaultMessage is:
@@ -4453,7 +4453,7 @@ msgstr "要进行编辑或创建文章，您需要一个 Everipedia 帐户。"
 #. Today
 #: translations/.messages/src/app/containers/leaderboard/leaderboard.container.json
 msgid "Today"
-msgstr ""
+msgstr "今日"
 
 #. [Dashboard.TotalBalance]
 #. defaultMessage is:
@@ -4543,7 +4543,7 @@ msgstr "输入搜索…"
 #. URL Slug
 #: translations/.messages/src/editor/plugins/metadata/metadata-modal.json
 msgid "URL Slug"
-msgstr "URL Slug"
+msgstr "URL 后缀"
 
 #. [MetadataModal.URLSlugAlt]
 #. defaultMessage is:
@@ -5361,7 +5361,7 @@ msgstr "这些交易所。"
 #. to choose a quality image. You can upload jpg, gif, and png files.
 #: translations/.messages/src/editor/plugins/section-embed-modal/section-embed-modal.json
 msgid "to choose a quality image. You can upload jpg, gif, and png files."
-msgstr ""
+msgstr "选择一个高质量的图像。你可以上传jpg, gif和png格式文件"
 
 #. [Directory.ToParticipate]
 #. defaultMessage is:
