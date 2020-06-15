@@ -1,7 +1,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: \n"
-"POT-Creation-Date: 2020-06-12T17:32:50.252Z\n"
+"POT-Creation-Date: 2020-06-15T19:02:43.443Z\n"
 "PO-Revision-Date: \n"
 "Last-Translator: \n"
 "Language-Team: \n"
@@ -2997,9 +2997,13 @@ msgstr "无可用的个人资料信息"
 msgid "No public profile information available"
 msgstr "无可用的公开个人资料信息"
 
+#. [ActivityCards.NoResultReturned]
+#. defaultMessage is:
+#. No result returned
 #. [SubmitVote.NoResultReturned]
 #. defaultMessage is:
 #. No result returned
+#: translations/.messages/src/app/components/ActivityCards/index.json
 #: translations/.messages/src/app/components/SubmitVote/index.json
 msgid "No result returned"
 msgstr "无返回结果"
