@@ -1,7 +1,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: \n"
-"POT-Creation-Date: 2020-06-17T19:53:02.617Z\n"
+"POT-Creation-Date: 2020-06-17T20:43:00.933Z\n"
 "PO-Revision-Date: \n"
 "Last-Translator: \n"
 "Language-Team: \n"
@@ -1899,7 +1899,6 @@ msgstr "全名"
 #. defaultMessage is:
 #. Full-Stack Software Engineer
 #: translations/.messages/src/app/containers/about/third-block.json
-
 msgid "Full-Stack Software Engineer"
 msgstr "软件工程总监"
 
@@ -3804,7 +3803,11 @@ msgstr "科技/学术/人文"
 #. [Search.SearchPlaceholder]
 #. defaultMessage is:
 #. Search Everipedia...
+#. [DynamicAppHead.SearchPlaceholder]
+#. defaultMessage is:
+#. Search Everipedia...
 #: translations/.messages/src/app/components/Search/index.json
+#: translations/.messages/src/shared/components/DynamicAppHead/index.json
 msgid "Search Everipedia..."
 msgstr "在Everipedia中搜索…"
 
