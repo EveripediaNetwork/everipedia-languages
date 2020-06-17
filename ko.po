@@ -1,7 +1,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: \n"
-"POT-Creation-Date: 2020-06-15T19:02:43.443Z\n"
+"POT-Creation-Date: 2020-06-17T19:53:02.617Z\n"
 "PO-Revision-Date: \n"
 "Last-Translator: \n"
 "Language-Team: \n"
@@ -869,13 +869,6 @@ msgstr "최고정보책임자"
 msgid "Chief Operating Officer"
 msgstr "최고운영책임자"
 
-#. [TeamInfo.DanielLiebeskindTitle]
-#. defaultMessage is:
-#. Chief Product Officer
-#: translations/.messages/src/app/containers/about/third-block.json
-msgid "Chief Product Officer"
-msgstr "최고제품책임자"
-
 #. [TeamInfo.TravisMooreTitle]
 #. defaultMessage is:
 #. Chief Technology Officer
@@ -1063,11 +1056,7 @@ msgstr "이 글을 다른 언어판의 글에 연결"
 #. [Footer.Contact]
 #. defaultMessage is:
 #. Contact
-#. [MobileHamburger.Contact]
-#. defaultMessage is:
-#. Contact
 #: translations/.messages/src/app/components/Footer/index.json
-#: translations/.messages/src/app/components/TopNav/Mobile-Hamburger.json
 msgid "Contact"
 msgstr "연락하기"
 
@@ -1120,6 +1109,13 @@ msgstr "저작권"
 msgid "Country"
 msgstr "국가"
 
+#. [MobileHamburger.CreateArticle]
+#. defaultMessage is:
+#. Create Article
+#: translations/.messages/src/app/components/TopNav/Mobile-Hamburger.json
+msgid "Create Article"
+msgstr "새 위키 만들기"
+
 #. [CreatePage.CreateNewArticle]
 #. defaultMessage is:
 #. Create New Wiki
@@ -1129,16 +1125,12 @@ msgstr "국가"
 #. [Header.CreateArticle]
 #. defaultMessage is:
 #. Create New Wiki
-#. [MobileHamburger.CreateArticle]
-#. defaultMessage is:
-#. Create New Wiki
 #. [Featured.CreateArticleTwo]
 #. defaultMessage is:
 #. Create New Wiki
 #: translations/.messages/src/app/components/create-new-page/index.json
 #: translations/.messages/src/app/components/Search/SearchResults.json
 #: translations/.messages/src/app/components/TopNav/index.json
-#: translations/.messages/src/app/components/TopNav/Mobile-Hamburger.json
 #: translations/.messages/src/app/containers/homepageContainer/featured.json
 msgid "Create New Wiki"
 msgstr "새 위키 만들기"
@@ -1209,20 +1201,6 @@ msgstr "예치중인 IQ"
 msgid "DAY"
 msgstr "일"
 
-#. [TeamInfo.DanielLiebeskindBio]
-#. defaultMessage is:
-#. Daniel Liebeskind is a product-oriented software developer focused on creating great user experiences.  Daniel has worn many hats including venture capital investor, software developer, product manager and startup founder and has been building distributed apps since 2017.
-#: translations/.messages/src/app/containers/about/third-block.json
-msgid ""
-"Daniel Liebeskind is a product-oriented software developer focused on "
-"creating great user experiences.  Daniel has worn many hats including "
-"venture capital investor, software developer, product manager and startup "
-"founder and has been building distributed apps since 2017."
-msgstr ""
-"다니엘 리비스킨드는 사용자 경험을 돋보이는데 중점을 두는 소프트웨어 개발자이"
-"다. 벤처캐피털 투자, 소프트웨어 개발, 제품 매니저, 스타트업 설립 등을 하였으"
-"며, 2017년 이후로 분산앱 개발에 활동하고 있다. "
-
 #. [NewPageTemplate.NPT_CreativeWork_Date_Created]
 #. defaultMessage is:
 #. Date Created
@@ -1288,13 +1266,6 @@ msgstr "민주적 운영"
 msgid "Desktop view of Everipedia article"
 msgstr "PC화면 보기"
 
-#. [TeamInfo.KedarIyerTitle]
-#. defaultMessage is:
-#. Director of Software Engineering
-#: translations/.messages/src/app/containers/about/third-block.json
-msgid "Director of Software Engineering"
-msgstr "소프트웨어 엔지니어 이사"
-
 #. [EditorDraftContinuationGuard.Discard]
 #. defaultMessage is:
 #. Discard
@@ -1337,7 +1308,11 @@ msgstr "편집자"
 #. [ActivityCards.edits]
 #. defaultMessage is:
 #. EDITS
+#. [Leaderboard.EditsUppercase]
+#. defaultMessage is:
+#. EDITS
 #: translations/.messages/src/app/components/ActivityCards/index.json
+#: translations/.messages/src/app/containers/leaderboard/leaderboard.container.json
 msgid "EDITS"
 msgstr "편집"
 
@@ -1923,6 +1898,14 @@ msgstr "위키백과에서 가져옴"
 msgid "Full name"
 msgstr "이름"
 
+#. [TeamInfo.KedarIyerTitle]
+#. defaultMessage is:
+#. Full-Stack Software Engineer
+#: translations/.messages/src/app/containers/about/third-block.json
+
+msgid "Full-Stack Software Engineer"
+msgstr "소프트웨어 엔지니어 이사"
+
 #. [NewPageTemplate.NPT_Person_Gender]
 #. defaultMessage is:
 #. Gender
@@ -2199,13 +2182,6 @@ msgstr "언론에서의 에브리피디아"
 #: translations/.messages/src/editor/plugins/metadata/metadata-modal.json
 msgid "Indexed"
 msgstr "색인 생성함"
-
-#. [MobileHamburger.Info]
-#. defaultMessage is:
-#. Info
-#: translations/.messages/src/app/components/TopNav/Mobile-Hamburger.json
-msgid "Info"
-msgstr "정보"
 
 #. [CommentUtils.Infobox]
 #. defaultMessage is:
@@ -3600,6 +3576,13 @@ msgstr "최근 트위터"
 msgid "RECENTLY UPDATED"
 msgstr "최근 업데이트"
 
+#. [Leaderboard.RewardsUppercase]
+#. defaultMessage is:
+#. REWARDS
+#: translations/.messages/src/app/containers/leaderboard/leaderboard.container.json
+msgid "REWARDS"
+msgstr ""
+
 #. [TopNav.Read]
 #. defaultMessage is:
 #. Read
@@ -4642,7 +4625,11 @@ msgstr "조회수"
 #. [ActivityCards.Votes]
 #. defaultMessage is:
 #. VOTES
+#. [Leaderboard.VotesUppercase]
+#. defaultMessage is:
+#. VOTES
 #: translations/.messages/src/app/components/ActivityCards/index.json
+#: translations/.messages/src/app/containers/leaderboard/leaderboard.container.json
 msgid "VOTES"
 msgstr "투표"
 
@@ -4681,6 +4668,13 @@ msgstr "보기"
 #: translations/.messages/src/editor/plugins/save/save-modal.json
 msgid "View Edit"
 msgstr "편집 보기"
+
+#. [Leaderboard.ViewFullList]
+#. defaultMessage is:
+#. View Full List
+#: translations/.messages/src/app/containers/homepageContainer/leaderboard.json
+msgid "View Full List"
+msgstr "기록 보기"
 
 #. [TopNav.ViewHistory]
 #. defaultMessage is:
@@ -5486,6 +5480,22 @@ msgstr "시작"
 #: translations/.messages/src/app/components/SubmitVote/EditOverview.json
 msgid "words"
 msgstr "단어"
+
+#~ msgid "Chief Product Officer"
+#~ msgstr "최고제품책임자"
+
+#~ msgid ""
+#~ "Daniel Liebeskind is a product-oriented software developer focused on "
+#~ "creating great user experiences.  Daniel has worn many hats including "
+#~ "venture capital investor, software developer, product manager and startup "
+#~ "founder and has been building distributed apps since 2017."
+#~ msgstr ""
+#~ "다니엘 리비스킨드는 사용자 경험을 돋보이는데 중점을 두는 소프트웨어 개발자"
+#~ "이다. 벤처캐피털 투자, 소프트웨어 개발, 제품 매니저, 스타트업 설립 등을 하"
+#~ "였으며, 2017년 이후로 분산앱 개발에 활동하고 있다. "
+
+#~ msgid "Info"
+#~ msgstr "정보"
 
 #~ msgid "Welcome"
 #~ msgstr "환영합니다"

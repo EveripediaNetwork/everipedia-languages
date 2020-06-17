@@ -1,7 +1,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: \n"
-"POT-Creation-Date: 2020-06-15T19:02:43.443Z\n"
+"POT-Creation-Date: 2020-06-17T19:53:02.617Z\n"
 "PO-Revision-Date: \n"
 "Last-Translator: \n"
 "Language-Team: \n"
@@ -879,13 +879,6 @@ msgstr "Director de Información"
 msgid "Chief Operating Officer"
 msgstr "Director de operaciones"
 
-#. [TeamInfo.DanielLiebeskindTitle]
-#. defaultMessage is:
-#. Chief Product Officer
-#: translations/.messages/src/app/containers/about/third-block.json
-msgid "Chief Product Officer"
-msgstr "Jefe de Producto"
-
 #. [TeamInfo.TravisMooreTitle]
 #. defaultMessage is:
 #. Chief Technology Officer
@@ -1080,11 +1073,7 @@ msgstr "Conectar esta página a otra variante de idioma"
 #. [Footer.Contact]
 #. defaultMessage is:
 #. Contact
-#. [MobileHamburger.Contact]
-#. defaultMessage is:
-#. Contact
 #: translations/.messages/src/app/components/Footer/index.json
-#: translations/.messages/src/app/components/TopNav/Mobile-Hamburger.json
 msgid "Contact"
 msgstr "Contacto"
 
@@ -1137,6 +1126,13 @@ msgstr ""
 msgid "Country"
 msgstr "País"
 
+#. [MobileHamburger.CreateArticle]
+#. defaultMessage is:
+#. Create Article
+#: translations/.messages/src/app/components/TopNav/Mobile-Hamburger.json
+msgid "Create Article"
+msgstr "Crear artículo nuevo"
+
 #. [CreatePage.CreateNewArticle]
 #. defaultMessage is:
 #. Create New Wiki
@@ -1146,16 +1142,12 @@ msgstr "País"
 #. [Header.CreateArticle]
 #. defaultMessage is:
 #. Create New Wiki
-#. [MobileHamburger.CreateArticle]
-#. defaultMessage is:
-#. Create New Wiki
 #. [Featured.CreateArticleTwo]
 #. defaultMessage is:
 #. Create New Wiki
 #: translations/.messages/src/app/components/create-new-page/index.json
 #: translations/.messages/src/app/components/Search/SearchResults.json
 #: translations/.messages/src/app/components/TopNav/index.json
-#: translations/.messages/src/app/components/TopNav/Mobile-Hamburger.json
 #: translations/.messages/src/app/containers/homepageContainer/featured.json
 msgid "Create New Wiki"
 msgstr "Crear una nueva wiki"
@@ -1226,22 +1218,6 @@ msgstr "Actualmente en juego"
 msgid "DAY"
 msgstr "DÍA"
 
-#. [TeamInfo.DanielLiebeskindBio]
-#. defaultMessage is:
-#. Daniel Liebeskind is a product-oriented software developer focused on creating great user experiences.  Daniel has worn many hats including venture capital investor, software developer, product manager and startup founder and has been building distributed apps since 2017.
-#: translations/.messages/src/app/containers/about/third-block.json
-msgid ""
-"Daniel Liebeskind is a product-oriented software developer focused on "
-"creating great user experiences.  Daniel has worn many hats including "
-"venture capital investor, software developer, product manager and startup "
-"founder and has been building distributed apps since 2017."
-msgstr ""
-"Daniel Liebeskind es un desarrollador de software orientado a productos que "
-"se centra en la creación de grandes experiencias de usuario.  Daniel ha "
-"llevado muchos sombreros incluyendo inversor de capital de riesgo, "
-"desarrollador de software, gerente de producto y fundador de startups y ha "
-"estado construyendo aplicaciones distribuidas desde 2017."
-
 #. [NewPageTemplate.NPT_CreativeWork_Date_Created]
 #. defaultMessage is:
 #. Date Created
@@ -1307,13 +1283,6 @@ msgstr "Gestión democrática"
 msgid "Desktop view of Everipedia article"
 msgstr "Vista de escritorio del artículo de Everipedia"
 
-#. [TeamInfo.KedarIyerTitle]
-#. defaultMessage is:
-#. Director of Software Engineering
-#: translations/.messages/src/app/containers/about/third-block.json
-msgid "Director of Software Engineering"
-msgstr "Director de Ingeniería de Software"
-
 #. [EditorDraftContinuationGuard.Discard]
 #. defaultMessage is:
 #. Discard
@@ -1356,7 +1325,11 @@ msgstr "Editores"
 #. [ActivityCards.edits]
 #. defaultMessage is:
 #. EDITS
+#. [Leaderboard.EditsUppercase]
+#. defaultMessage is:
+#. EDITS
 #: translations/.messages/src/app/components/ActivityCards/index.json
+#: translations/.messages/src/app/containers/leaderboard/leaderboard.container.json
 msgid "EDITS"
 msgstr "Modificaciones"
 
@@ -1956,6 +1929,14 @@ msgstr "De Wikipedia"
 msgid "Full name"
 msgstr "Nombre completo"
 
+#. [TeamInfo.KedarIyerTitle]
+#. defaultMessage is:
+#. Full-Stack Software Engineer
+#: translations/.messages/src/app/containers/about/third-block.json
+
+msgid "Full-Stack Software Engineer"
+msgstr "Director de Ingeniería de Software"
+
 #. [NewPageTemplate.NPT_Person_Gender]
 #. defaultMessage is:
 #. Gender
@@ -2244,13 +2225,6 @@ msgstr "En la prensa"
 #: translations/.messages/src/editor/plugins/metadata/metadata-modal.json
 msgid "Indexed"
 msgstr "Indexado"
-
-#. [MobileHamburger.Info]
-#. defaultMessage is:
-#. Info
-#: translations/.messages/src/app/components/TopNav/Mobile-Hamburger.json
-msgid "Info"
-msgstr "Información"
 
 #. [CommentUtils.Infobox]
 #. defaultMessage is:
@@ -3655,6 +3629,13 @@ msgstr "DOS PUNTOS RECIENTES"
 msgid "RECENTLY UPDATED"
 msgstr "RECIENTEMENTE ACTUALIZADO"
 
+#. [Leaderboard.RewardsUppercase]
+#. defaultMessage is:
+#. REWARDS
+#: translations/.messages/src/app/containers/leaderboard/leaderboard.container.json
+msgid "REWARDS"
+msgstr ""
+
 #. [TopNav.Read]
 #. defaultMessage is:
 #. Read
@@ -4719,7 +4700,11 @@ msgstr "Vistas"
 #. [ActivityCards.Votes]
 #. defaultMessage is:
 #. VOTES
+#. [Leaderboard.VotesUppercase]
+#. defaultMessage is:
+#. VOTES
 #: translations/.messages/src/app/components/ActivityCards/index.json
+#: translations/.messages/src/app/containers/leaderboard/leaderboard.container.json
 msgid "VOTES"
 msgstr "votos"
 
@@ -4758,6 +4743,13 @@ msgstr "Vistas"
 #: translations/.messages/src/editor/plugins/save/save-modal.json
 msgid "View Edit"
 msgstr "Ver Editar"
+
+#. [Leaderboard.ViewFullList]
+#. defaultMessage is:
+#. View Full List
+#: translations/.messages/src/app/containers/homepageContainer/leaderboard.json
+msgid "View Full List"
+msgstr "Ver historial"
 
 #. [TopNav.ViewHistory]
 #. defaultMessage is:
@@ -5576,6 +5568,24 @@ msgstr "fue iniciada por"
 #: translations/.messages/src/app/components/SubmitVote/EditOverview.json
 msgid "words"
 msgstr "palabras"
+
+#~ msgid "Chief Product Officer"
+#~ msgstr "Jefe de Producto"
+
+#~ msgid ""
+#~ "Daniel Liebeskind is a product-oriented software developer focused on "
+#~ "creating great user experiences.  Daniel has worn many hats including "
+#~ "venture capital investor, software developer, product manager and startup "
+#~ "founder and has been building distributed apps since 2017."
+#~ msgstr ""
+#~ "Daniel Liebeskind es un desarrollador de software orientado a productos "
+#~ "que se centra en la creación de grandes experiencias de usuario.  Daniel "
+#~ "ha llevado muchos sombreros incluyendo inversor de capital de riesgo, "
+#~ "desarrollador de software, gerente de producto y fundador de startups y "
+#~ "ha estado construyendo aplicaciones distribuidas desde 2017."
+
+#~ msgid "Info"
+#~ msgstr "Información"
 
 #~ msgid "Welcome"
 #~ msgstr "Bienvenido"
