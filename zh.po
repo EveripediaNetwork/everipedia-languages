@@ -1,7 +1,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: \n"
-"POT-Creation-Date: 2020-06-17T20:43:00.933Z\n"
+"POT-Creation-Date: 2020-06-18T02:42:10.768Z\n"
 "PO-Revision-Date: \n"
 "Last-Translator: \n"
 "Language-Team: \n"
@@ -432,7 +432,7 @@ msgstr "添加并插入"
 msgid "Add custom caption (optional)"
 msgstr "添加自定义标题（可选）"
 
-#. [CitationModdal.Title]
+#. [CitationModal.Title]
 #. defaultMessage is:
 #. Add or edit a citation
 #. [SectionEmbedModal.Title]
@@ -672,6 +672,9 @@ msgstr "引文"
 #. [SubmitVoteConfirmation.Cancel]
 #. defaultMessage is:
 #. Cancel
+#. [OreidCallbackContainer.Cancel]
+#. defaultMessage is:
+#. Cancel
 #. [CategoriesModal.Cancel]
 #. defaultMessage is:
 #. Cancel
@@ -730,6 +733,7 @@ msgstr "引文"
 #. defaultMessage is:
 #. Cancel
 #: translations/.messages/src/app/components/SubmitVote/ConfirmationModal.json
+#: translations/.messages/src/app/containers/oreid-callback/oreid-callback.container.json
 #: translations/.messages/src/editor/plugins/categories/categories-modal.json
 #: translations/.messages/src/editor/plugins/citation-modal/panes/add-edit-file.json
 #: translations/.messages/src/editor/plugins/citation-modal/panes/add-edit-isbn.json
@@ -1402,10 +1406,10 @@ msgstr "编辑元数据项"
 
 #. [CategoriesModal.Title]
 #. defaultMessage is:
-#. Edit the list of categories for the page
+#. Edit the page's categories
 #: translations/.messages/src/editor/plugins/categories/categories-modal.json
-msgid "Edit the list of categories for the page"
-msgstr "编辑页面的类别列表"
+msgid "Edit the page's categories"
+msgstr "编辑分类"
 
 #. [ActivityCard.Edited1]
 #. defaultMessage is:
@@ -1691,6 +1695,15 @@ msgstr ""
 "的愿景，在这样的愿景中，无论在哪，无论是谁都可以参与分享他们的知识并为他人提"
 "供价值。"
 
+#. [CustomCookieBanner.EveripediaCookies]
+#. defaultMessage is:
+#. Everipedia uses cookies to provide you with a great user experience. Everipedia will never sell any personal information.
+#: translations/.messages/src/app/components/custom-cookie-banner/index.json
+msgid ""
+"Everipedia uses cookies to provide you with a great user experience. "
+"Everipedia will never sell any personal information."
+msgstr ""
+
 #. [About.ModernDesignText]
 #. defaultMessage is:
 #. Everipedia’s design and features have been built for the modern age.
@@ -1709,6 +1722,13 @@ msgid ""
 msgstr ""
 "Everipedia社区充满活力，向所有人开放并欢迎您。我们已经是世界上最大的百科全书"
 "之一，但是这还远远不够。现在就加入我们吧！"
+
+#. [CitationModal.Existing]
+#. defaultMessage is:
+#. Existing
+#: translations/.messages/src/editor/plugins/citation-modal/citation-modal.json
+msgid "Existing"
+msgstr "现有"
 
 #. [SectionEmbedModal.ExistingMedia]
 #. defaultMessage is:
@@ -2279,6 +2299,15 @@ msgstr "您并未保存修改，是否继续？"
 #: translations/.messages/src/editor/plugins/infobox/infobox-modal.json
 msgid "Item(s)"
 msgstr "项目"
+
+#. [BlogSlugContainer.JoinInReceiving]
+#. defaultMessage is:
+#. Join thousands of others in receiving the most interesting wikis on Everipedia every week
+#: translations/.messages/src/app/containers/blog/blog.slug.container.json
+msgid ""
+"Join thousands of others in receiving the most interesting wikis on "
+"Everipedia every week"
+msgstr ""
 
 #. [Login.JustGettingStarted]
 #. defaultMessage is:
@@ -2958,6 +2987,13 @@ msgstr "无搜索结果"
 msgid "No Votes"
 msgstr "无投票"
 
+#. [SectionEmbedModal.AudioPane.Images.NoneAvailable]
+#. defaultMessage is:
+#. No audio embeds available. Add to the media gallery first
+#: translations/.messages/src/editor/plugins/section-embed-modal/panes/audio.json
+msgid "No audio embeds available. Add to the media gallery first"
+msgstr ""
+
 #. [Dashboard.NoInfoAvailableTwo]
 #. defaultMessage is:
 #. No profile information available
@@ -2982,6 +3018,20 @@ msgstr "无可用的公开个人资料信息"
 #: translations/.messages/src/app/components/SubmitVote/index.json
 msgid "No result returned"
 msgstr "无返回结果"
+
+#. [SectionEmbedModal.TweetsPane.NoneAvailable]
+#. defaultMessage is:
+#. No tweets available. Add to citations first
+#: translations/.messages/src/editor/plugins/section-embed-modal/panes/tweets.json
+msgid "No tweets available. Add to citations first"
+msgstr ""
+
+#. [SectionEmbedModal.VideosPane.Images.NoneAvailable]
+#. defaultMessage is:
+#. No videos available. Add to media gallery first
+#: translations/.messages/src/editor/plugins/section-embed-modal/panes/videos.json
+msgid "No videos available. Add to media gallery first"
+msgstr ""
 
 #. [Tooltips.NoVotes]
 #. defaultMessage is:
@@ -3032,7 +3082,11 @@ msgstr "在职员工人数"
 #. [SubmitVoteConfirmation.OK]
 #. defaultMessage is:
 #. OK
+#. [OreidCallbackContainer.OK]
+#. defaultMessage is:
+#. OK
 #: translations/.messages/src/app/components/SubmitVote/ConfirmationModal.json
+#: translations/.messages/src/app/containers/oreid-callback/oreid-callback.container.json
 msgid "OK"
 msgstr "好的"
 
@@ -3460,6 +3514,13 @@ msgstr "预览不可用"
 msgid "Privacy"
 msgstr "隐私"
 
+#. [CustomCookieBanner.PrivacyPolicy]
+#. defaultMessage is:
+#. Privacy Policy
+#: translations/.messages/src/app/components/custom-cookie-banner/index.json
+msgid "Privacy Policy"
+msgstr "隐私"
+
 #. [MetadataModal.Product]
 #. defaultMessage is:
 #. Product
@@ -3875,13 +3936,6 @@ msgstr "在区块浏览器中查看您的编辑"
 msgid "Select"
 msgstr "选择"
 
-#. [CategoriesModal.SelectCategories]
-#. defaultMessage is:
-#. Select Categories
-#: translations/.messages/src/editor/plugins/categories/categories-modal.json
-msgid "Select Categories"
-msgstr "选择类别"
-
 #. [LoginModal.SelectOtherSocial]
 #. defaultMessage is:
 #. Select Other Social Login Option
@@ -3986,6 +4040,13 @@ msgstr "显示所有引文"
 #: translations/.messages/src/app/containers/about/last-block.json
 #: translations/.messages/src/app/utils/errors.json
 msgid "Sign Up"
+msgstr "注册"
+
+#. [BlogSlugContainer.SignMeUp]
+#. defaultMessage is:
+#. Sign me up
+#: translations/.messages/src/app/containers/blog/blog.slug.container.json
+msgid "Sign me up"
 msgstr "注册"
 
 #. [SubmitVoteConfirmation.SignWithWallet]
@@ -4539,6 +4600,13 @@ msgstr "重试"
 #: translations/.messages/src/editor/plugins/metadata/metadata-modal.json
 msgid "Type"
 msgstr "输入"
+
+#. [CategoriesModal.SelectCategories]
+#. defaultMessage is:
+#. Type to search categories
+#: translations/.messages/src/editor/plugins/categories/categories-modal.json
+msgid "Type to search categories"
+msgstr "输入搜索…"
 
 #. [EditorArticleSearch.TypeToSearch]
 #. defaultMessage is:
@@ -5481,6 +5549,12 @@ msgstr "始于"
 msgid "words"
 msgstr "字数"
 
+#~ msgid "Edit the list of categories for the page"
+#~ msgstr "编辑页面的类别列表"
+
+#~ msgid "Select Categories"
+#~ msgstr "选择类别"
+
 #~ msgid "Chief Product Officer"
 #~ msgstr "首席产品官"
 
@@ -5550,10 +5624,6 @@ msgstr "字数"
 
 #~ msgid "EXISTING BOOST"
 #~ msgstr "现有助推"
-
-#~| msgid "Insert Existing"
-#~ msgid "Existing"
-#~ msgstr "现有"
 
 #~ msgid "Final Tally:"
 #~ msgstr "最终统计："

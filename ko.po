@@ -1,7 +1,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: \n"
-"POT-Creation-Date: 2020-06-17T20:43:00.933Z\n"
+"POT-Creation-Date: 2020-06-18T02:42:10.768Z\n"
 "PO-Revision-Date: \n"
 "Last-Translator: \n"
 "Language-Team: \n"
@@ -432,7 +432,7 @@ msgstr "추가 및 삽입"
 msgid "Add custom caption (optional)"
 msgstr "설명 추가(선택)"
 
-#. [CitationModdal.Title]
+#. [CitationModal.Title]
 #. defaultMessage is:
 #. Add or edit a citation
 #. [SectionEmbedModal.Title]
@@ -675,6 +675,9 @@ msgstr "인용"
 #. [SubmitVoteConfirmation.Cancel]
 #. defaultMessage is:
 #. Cancel
+#. [OreidCallbackContainer.Cancel]
+#. defaultMessage is:
+#. Cancel
 #. [CategoriesModal.Cancel]
 #. defaultMessage is:
 #. Cancel
@@ -733,6 +736,7 @@ msgstr "인용"
 #. defaultMessage is:
 #. Cancel
 #: translations/.messages/src/app/components/SubmitVote/ConfirmationModal.json
+#: translations/.messages/src/app/containers/oreid-callback/oreid-callback.container.json
 #: translations/.messages/src/editor/plugins/categories/categories-modal.json
 #: translations/.messages/src/editor/plugins/citation-modal/panes/add-edit-file.json
 #: translations/.messages/src/editor/plugins/citation-modal/panes/add-edit-isbn.json
@@ -1405,10 +1409,10 @@ msgstr "메타데이터 항목 편집"
 
 #. [CategoriesModal.Title]
 #. defaultMessage is:
-#. Edit the list of categories for the page
+#. Edit the page's categories
 #: translations/.messages/src/editor/plugins/categories/categories-modal.json
-msgid "Edit the list of categories for the page"
-msgstr "분류 목록 편집하기"
+msgid "Edit the page's categories"
+msgstr "분류 편집하기"
 
 #. [ActivityCard.Edited1]
 #. defaultMessage is:
@@ -1694,6 +1698,15 @@ msgstr ""
 "세계 어디서든 접근할 수 있고, 의미있는 모든 것을 누구나 공유할 수 있도록 하겠"
 "다는 에브리피디아의 비전. 블록체인 기술로 이를 이루어 갑니다."
 
+#. [CustomCookieBanner.EveripediaCookies]
+#. defaultMessage is:
+#. Everipedia uses cookies to provide you with a great user experience. Everipedia will never sell any personal information.
+#: translations/.messages/src/app/components/custom-cookie-banner/index.json
+msgid ""
+"Everipedia uses cookies to provide you with a great user experience. "
+"Everipedia will never sell any personal information."
+msgstr ""
+
 #. [About.ModernDesignText]
 #. defaultMessage is:
 #. Everipedia’s design and features have been built for the modern age.
@@ -1712,6 +1725,13 @@ msgid ""
 msgstr ""
 "에브리피디아 네트워크는 항상 열려있으며, 누구나 참여할 수 있습니다. 에브리피"
 "디아는 세계에서 가장 큰 백과사전이며, 장차 이루어나갈 수많은 것들이 있습니다."
+
+#. [CitationModal.Existing]
+#. defaultMessage is:
+#. Existing
+#: translations/.messages/src/editor/plugins/citation-modal/citation-modal.json
+msgid "Existing"
+msgstr "기존"
 
 #. [SectionEmbedModal.ExistingMedia]
 #. defaultMessage is:
@@ -2281,6 +2301,15 @@ msgstr "저장하지 않은 편집이 있는것 같습니다. 계속 하시겠�
 #: translations/.messages/src/editor/plugins/infobox/infobox-modal.json
 msgid "Item(s)"
 msgstr "항목"
+
+#. [BlogSlugContainer.JoinInReceiving]
+#. defaultMessage is:
+#. Join thousands of others in receiving the most interesting wikis on Everipedia every week
+#: translations/.messages/src/app/containers/blog/blog.slug.container.json
+msgid ""
+"Join thousands of others in receiving the most interesting wikis on "
+"Everipedia every week"
+msgstr ""
 
 #. [Login.JustGettingStarted]
 #. defaultMessage is:
@@ -2962,6 +2991,13 @@ msgstr "검색결과 없음"
 msgid "No Votes"
 msgstr "투표 없음"
 
+#. [SectionEmbedModal.AudioPane.Images.NoneAvailable]
+#. defaultMessage is:
+#. No audio embeds available. Add to the media gallery first
+#: translations/.messages/src/editor/plugins/section-embed-modal/panes/audio.json
+msgid "No audio embeds available. Add to the media gallery first"
+msgstr ""
+
 #. [Dashboard.NoInfoAvailableTwo]
 #. defaultMessage is:
 #. No profile information available
@@ -2986,6 +3022,20 @@ msgstr "공개 프로필 정보가 없습니다"
 #: translations/.messages/src/app/components/SubmitVote/index.json
 msgid "No result returned"
 msgstr "결과가 없습니다"
+
+#. [SectionEmbedModal.TweetsPane.NoneAvailable]
+#. defaultMessage is:
+#. No tweets available. Add to citations first
+#: translations/.messages/src/editor/plugins/section-embed-modal/panes/tweets.json
+msgid "No tweets available. Add to citations first"
+msgstr ""
+
+#. [SectionEmbedModal.VideosPane.Images.NoneAvailable]
+#. defaultMessage is:
+#. No videos available. Add to media gallery first
+#: translations/.messages/src/editor/plugins/section-embed-modal/panes/videos.json
+msgid "No videos available. Add to media gallery first"
+msgstr ""
 
 #. [Tooltips.NoVotes]
 #. defaultMessage is:
@@ -3036,7 +3086,11 @@ msgstr "직원 수"
 #. [SubmitVoteConfirmation.OK]
 #. defaultMessage is:
 #. OK
+#. [OreidCallbackContainer.OK]
+#. defaultMessage is:
+#. OK
 #: translations/.messages/src/app/components/SubmitVote/ConfirmationModal.json
+#: translations/.messages/src/app/containers/oreid-callback/oreid-callback.container.json
 msgid "OK"
 msgstr "확인"
 
@@ -3462,6 +3516,13 @@ msgstr "미리보기 사용불가"
 msgid "Privacy"
 msgstr "프라이버시"
 
+#. [CustomCookieBanner.PrivacyPolicy]
+#. defaultMessage is:
+#. Privacy Policy
+#: translations/.messages/src/app/components/custom-cookie-banner/index.json
+msgid "Privacy Policy"
+msgstr "프라이버시"
+
 #. [MetadataModal.Product]
 #. defaultMessage is:
 #. Product
@@ -3879,13 +3940,6 @@ msgstr "block explorer에서 편집 보기"
 msgid "Select"
 msgstr "선택"
 
-#. [CategoriesModal.SelectCategories]
-#. defaultMessage is:
-#. Select Categories
-#: translations/.messages/src/editor/plugins/categories/categories-modal.json
-msgid "Select Categories"
-msgstr "분류 선택"
-
 #. [LoginModal.SelectOtherSocial]
 #. defaultMessage is:
 #. Select Other Social Login Option
@@ -3990,6 +4044,13 @@ msgstr "모든 인용 보기"
 #: translations/.messages/src/app/containers/about/last-block.json
 #: translations/.messages/src/app/utils/errors.json
 msgid "Sign Up"
+msgstr "가입하기"
+
+#. [BlogSlugContainer.SignMeUp]
+#. defaultMessage is:
+#. Sign me up
+#: translations/.messages/src/app/containers/blog/blog.slug.container.json
+msgid "Sign me up"
 msgstr "가입하기"
 
 #. [SubmitVoteConfirmation.SignWithWallet]
@@ -4542,6 +4603,13 @@ msgstr "다시 시도하세요"
 #: translations/.messages/src/editor/plugins/metadata/metadata-modal.json
 msgid "Type"
 msgstr "유형"
+
+#. [CategoriesModal.SelectCategories]
+#. defaultMessage is:
+#. Type to search categories
+#: translations/.messages/src/editor/plugins/categories/categories-modal.json
+msgid "Type to search categories"
+msgstr "검색어 입력"
 
 #. [EditorArticleSearch.TypeToSearch]
 #. defaultMessage is:
@@ -5484,6 +5552,12 @@ msgstr "시작"
 msgid "words"
 msgstr "단어"
 
+#~ msgid "Edit the list of categories for the page"
+#~ msgstr "분류 목록 편집하기"
+
+#~ msgid "Select Categories"
+#~ msgstr "분류 선택"
+
 #~ msgid "Chief Product Officer"
 #~ msgstr "최고제품책임자"
 
@@ -5553,9 +5627,6 @@ msgstr "단어"
 
 #~ msgid "EXISTING BOOST"
 #~ msgstr "부스트 목록"
-
-#~ msgid "Existing"
-#~ msgstr "기존"
 
 #~ msgid "Final Tally:"
 #~ msgstr "투표 결과:"

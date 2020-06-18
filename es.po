@@ -1,7 +1,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: \n"
-"POT-Creation-Date: 2020-06-17T20:43:00.933Z\n"
+"POT-Creation-Date: 2020-06-18T02:42:10.768Z\n"
 "PO-Revision-Date: \n"
 "Last-Translator: \n"
 "Language-Team: \n"
@@ -432,7 +432,7 @@ msgstr "Agregar y agregar otro"
 msgid "Add custom caption (optional)"
 msgstr "Agregar subtítulo personalizado (opcional)"
 
-#. [CitationModdal.Title]
+#. [CitationModal.Title]
 #. defaultMessage is:
 #. Add or edit a citation
 #. [SectionEmbedModal.Title]
@@ -679,6 +679,9 @@ msgstr "CITACIONES"
 #. [SubmitVoteConfirmation.Cancel]
 #. defaultMessage is:
 #. Cancel
+#. [OreidCallbackContainer.Cancel]
+#. defaultMessage is:
+#. Cancel
 #. [CategoriesModal.Cancel]
 #. defaultMessage is:
 #. Cancel
@@ -737,6 +740,7 @@ msgstr "CITACIONES"
 #. defaultMessage is:
 #. Cancel
 #: translations/.messages/src/app/components/SubmitVote/ConfirmationModal.json
+#: translations/.messages/src/app/containers/oreid-callback/oreid-callback.container.json
 #: translations/.messages/src/editor/plugins/categories/categories-modal.json
 #: translations/.messages/src/editor/plugins/citation-modal/panes/add-edit-file.json
 #: translations/.messages/src/editor/plugins/citation-modal/panes/add-edit-isbn.json
@@ -1422,10 +1426,10 @@ msgstr "Editar un elemento de metadatos"
 
 #. [CategoriesModal.Title]
 #. defaultMessage is:
-#. Edit the list of categories for the page
+#. Edit the page's categories
 #: translations/.messages/src/editor/plugins/categories/categories-modal.json
-msgid "Edit the list of categories for the page"
-msgstr "Editar la lista de categorías de la página"
+msgid "Edit the page's categories"
+msgstr "Editar las categorías"
 
 #. [ActivityCard.Edited1]
 #. defaultMessage is:
@@ -1722,6 +1726,15 @@ msgstr ""
 "las personas - un mundo en el que todos, en todas partes, puedan participar "
 "en compartir lo que saben y proporcionar valor a los demás."
 
+#. [CustomCookieBanner.EveripediaCookies]
+#. defaultMessage is:
+#. Everipedia uses cookies to provide you with a great user experience. Everipedia will never sell any personal information.
+#: translations/.messages/src/app/components/custom-cookie-banner/index.json
+msgid ""
+"Everipedia uses cookies to provide you with a great user experience. "
+"Everipedia will never sell any personal information."
+msgstr ""
+
 #. [About.ModernDesignText]
 #. defaultMessage is:
 #. Everipedia’s design and features have been built for the modern age.
@@ -1743,6 +1756,13 @@ msgstr ""
 "La vibrante comunidad de Everipedia es abierta y acogedora para todos. Ya "
 "somos una de las enciclopedias más grandes del mundo, pero estamos lejos de "
 "estar completos. Únase a nosotros hoy."
+
+#. [CitationModal.Existing]
+#. defaultMessage is:
+#. Existing
+#: translations/.messages/src/editor/plugins/citation-modal/citation-modal.json
+msgid "Existing"
+msgstr "Existentes"
 
 #. [SectionEmbedModal.ExistingMedia]
 #. defaultMessage is:
@@ -2325,6 +2345,15 @@ msgstr ""
 #: translations/.messages/src/editor/plugins/infobox/infobox-modal.json
 msgid "Item(s)"
 msgstr "Artículos"
+
+#. [BlogSlugContainer.JoinInReceiving]
+#. defaultMessage is:
+#. Join thousands of others in receiving the most interesting wikis on Everipedia every week
+#: translations/.messages/src/app/containers/blog/blog.slug.container.json
+msgid ""
+"Join thousands of others in receiving the most interesting wikis on "
+"Everipedia every week"
+msgstr ""
 
 #. [Login.JustGettingStarted]
 #. defaultMessage is:
@@ -3008,6 +3037,13 @@ msgstr "No hay resultados"
 msgid "No Votes"
 msgstr "Poner Votos"
 
+#. [SectionEmbedModal.AudioPane.Images.NoneAvailable]
+#. defaultMessage is:
+#. No audio embeds available. Add to the media gallery first
+#: translations/.messages/src/editor/plugins/section-embed-modal/panes/audio.json
+msgid "No audio embeds available. Add to the media gallery first"
+msgstr ""
+
 #. [Dashboard.NoInfoAvailableTwo]
 #. defaultMessage is:
 #. No profile information available
@@ -3032,6 +3068,20 @@ msgstr "No hay información de perfil público disponible"
 #: translations/.messages/src/app/components/SubmitVote/index.json
 msgid "No result returned"
 msgstr "No se ha devuelto ningún resultado"
+
+#. [SectionEmbedModal.TweetsPane.NoneAvailable]
+#. defaultMessage is:
+#. No tweets available. Add to citations first
+#: translations/.messages/src/editor/plugins/section-embed-modal/panes/tweets.json
+msgid "No tweets available. Add to citations first"
+msgstr ""
+
+#. [SectionEmbedModal.VideosPane.Images.NoneAvailable]
+#. defaultMessage is:
+#. No videos available. Add to media gallery first
+#: translations/.messages/src/editor/plugins/section-embed-modal/panes/videos.json
+msgid "No videos available. Add to media gallery first"
+msgstr ""
 
 #. [Tooltips.NoVotes]
 #. defaultMessage is:
@@ -3082,7 +3132,11 @@ msgstr "Número de empleados"
 #. [SubmitVoteConfirmation.OK]
 #. defaultMessage is:
 #. OK
+#. [OreidCallbackContainer.OK]
+#. defaultMessage is:
+#. OK
 #: translations/.messages/src/app/components/SubmitVote/ConfirmationModal.json
+#: translations/.messages/src/app/containers/oreid-callback/oreid-callback.container.json
 msgid "OK"
 msgstr "OK"
 
@@ -3513,6 +3567,13 @@ msgstr "Vista previa no disponible"
 msgid "Privacy"
 msgstr "Privacidad"
 
+#. [CustomCookieBanner.PrivacyPolicy]
+#. defaultMessage is:
+#. Privacy Policy
+#: translations/.messages/src/app/components/custom-cookie-banner/index.json
+msgid "Privacy Policy"
+msgstr "Privacidad"
+
 #. [MetadataModal.Product]
 #. defaultMessage is:
 #. Product
@@ -3933,13 +3994,6 @@ msgstr "Ver tu edición en un explorador de bloques"
 msgid "Select"
 msgstr "Por favor, seleccione una categoría de comentarios"
 
-#. [CategoriesModal.SelectCategories]
-#. defaultMessage is:
-#. Select Categories
-#: translations/.messages/src/editor/plugins/categories/categories-modal.json
-msgid "Select Categories"
-msgstr "Seleccionar Categorías"
-
 #. [LoginModal.SelectOtherSocial]
 #. defaultMessage is:
 #. Select Other Social Login Option
@@ -4044,6 +4098,13 @@ msgstr "Mostrar todas las citas"
 #: translations/.messages/src/app/containers/about/last-block.json
 #: translations/.messages/src/app/utils/errors.json
 msgid "Sign Up"
+msgstr "Registrarse"
+
+#. [BlogSlugContainer.SignMeUp]
+#. defaultMessage is:
+#. Sign me up
+#: translations/.messages/src/app/containers/blog/blog.slug.container.json
+msgid "Sign me up"
 msgstr "Registrarse"
 
 #. [SubmitVoteConfirmation.SignWithWallet]
@@ -4617,6 +4678,13 @@ msgstr "Inténtalo de nuevo"
 #: translations/.messages/src/editor/plugins/metadata/metadata-modal.json
 msgid "Type"
 msgstr "Tipo"
+
+#. [CategoriesModal.SelectCategories]
+#. defaultMessage is:
+#. Type to search categories
+#: translations/.messages/src/editor/plugins/categories/categories-modal.json
+msgid "Type to search categories"
+msgstr "Escribe para buscar..."
 
 #. [EditorArticleSearch.TypeToSearch]
 #. defaultMessage is:
@@ -5572,6 +5640,12 @@ msgstr "fue iniciada por"
 msgid "words"
 msgstr "palabras"
 
+#~ msgid "Edit the list of categories for the page"
+#~ msgstr "Editar la lista de categorías de la página"
+
+#~ msgid "Select Categories"
+#~ msgstr "Seleccionar Categorías"
+
 #~ msgid "Chief Product Officer"
 #~ msgstr "Jefe de Producto"
 
@@ -5643,9 +5717,6 @@ msgstr "palabras"
 
 #~ msgid "EXISTING BOOST"
 #~ msgstr "IMPULSO EXISTENTE"
-
-#~ msgid "Existing"
-#~ msgstr "Existentes"
 
 #~ msgid "Final Tally:"
 #~ msgstr "Cuenta final:"
