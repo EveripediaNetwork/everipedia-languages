@@ -1,7 +1,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: \n"
-"POT-Creation-Date: 2020-06-18T02:42:10.768Z\n"
+"POT-Creation-Date: 2020-06-18T17:08:43.974Z\n"
 "PO-Revision-Date: \n"
 "Last-Translator: \n"
 "Language-Team: \n"
@@ -2188,13 +2188,6 @@ msgstr ""
 msgid "Image URL"
 msgstr "이미지 웹 주소"
 
-#. [LastBlock.InThePress]
-#. defaultMessage is:
-#. In the press
-#: translations/.messages/src/app/containers/about/last-block.json
-msgid "In the press"
-msgstr "언론에서의 에브리피디아"
-
 #. [MetadataModal.Indexed]
 #. defaultMessage is:
 #. Indexed
@@ -2409,9 +2402,6 @@ msgstr "참여자 활동순위"
 #. [ChatList.LearnMore]
 #. defaultMessage is:
 #. Learn More
-#. [LearnMore.LearnMore]
-#. defaultMessage is:
-#. Learn More
 #. [Login.LearnMoreTwo]
 #. defaultMessage is:
 #. Learn More
@@ -2419,7 +2409,6 @@ msgstr "참여자 활동순위"
 #. defaultMessage is:
 #. Learn More
 #: translations/.messages/src/app/components/Chat/ChatList.json
-#: translations/.messages/src/app/components/learn-more/index.json
 #: translations/.messages/src/app/components/Login/index.json
 msgid "Learn More"
 msgstr "자세히 알아보기"
@@ -5551,6 +5540,9 @@ msgstr "시작"
 #: translations/.messages/src/app/components/SubmitVote/EditOverview.json
 msgid "words"
 msgstr "단어"
+
+#~ msgid "In the press"
+#~ msgstr "언론에서의 에브리피디아"
 
 #~ msgid "Edit the list of categories for the page"
 #~ msgstr "분류 목록 편집하기"

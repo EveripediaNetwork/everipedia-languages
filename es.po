@@ -1,7 +1,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: \n"
-"POT-Creation-Date: 2020-06-18T02:42:10.768Z\n"
+"POT-Creation-Date: 2020-06-18T17:08:43.974Z\n"
 "PO-Revision-Date: \n"
 "Last-Translator: \n"
 "Language-Team: \n"
@@ -2231,13 +2231,6 @@ msgstr ""
 msgid "Image URL"
 msgstr "URL de la imagen"
 
-#. [LastBlock.InThePress]
-#. defaultMessage is:
-#. In the press
-#: translations/.messages/src/app/containers/about/last-block.json
-msgid "In the press"
-msgstr "En la prensa"
-
 #. [MetadataModal.Indexed]
 #. defaultMessage is:
 #. Indexed
@@ -2455,9 +2448,6 @@ msgstr "Tabla de clasificación"
 #. [ChatList.LearnMore]
 #. defaultMessage is:
 #. Learn More
-#. [LearnMore.LearnMore]
-#. defaultMessage is:
-#. Learn More
 #. [Login.LearnMoreTwo]
 #. defaultMessage is:
 #. Learn More
@@ -2465,7 +2455,6 @@ msgstr "Tabla de clasificación"
 #. defaultMessage is:
 #. Learn More
 #: translations/.messages/src/app/components/Chat/ChatList.json
-#: translations/.messages/src/app/components/learn-more/index.json
 #: translations/.messages/src/app/components/Login/index.json
 msgid "Learn More"
 msgstr "Aprende más"
@@ -5639,6 +5628,9 @@ msgstr "fue iniciada por"
 #: translations/.messages/src/app/components/SubmitVote/EditOverview.json
 msgid "words"
 msgstr "palabras"
+
+#~ msgid "In the press"
+#~ msgstr "En la prensa"
 
 #~ msgid "Edit the list of categories for the page"
 #~ msgstr "Editar la lista de categorías de la página"

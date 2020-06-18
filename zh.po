@@ -1,7 +1,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: \n"
-"POT-Creation-Date: 2020-06-18T02:42:10.768Z\n"
+"POT-Creation-Date: 2020-06-18T17:08:43.974Z\n"
 "PO-Revision-Date: \n"
 "Last-Translator: \n"
 "Language-Team: \n"
@@ -2186,13 +2186,6 @@ msgstr "如果您的投票占多数，您将获得与您投票的IQ成比例的I
 msgid "Image URL"
 msgstr "图像URL"
 
-#. [LastBlock.InThePress]
-#. defaultMessage is:
-#. In the press
-#: translations/.messages/src/app/containers/about/last-block.json
-msgid "In the press"
-msgstr "新闻热点"
-
 #. [MetadataModal.Indexed]
 #. defaultMessage is:
 #. Indexed
@@ -2407,9 +2400,6 @@ msgstr "排行榜"
 #. [ChatList.LearnMore]
 #. defaultMessage is:
 #. Learn More
-#. [LearnMore.LearnMore]
-#. defaultMessage is:
-#. Learn More
 #. [Login.LearnMoreTwo]
 #. defaultMessage is:
 #. Learn More
@@ -2417,7 +2407,6 @@ msgstr "排行榜"
 #. defaultMessage is:
 #. Learn More
 #: translations/.messages/src/app/components/Chat/ChatList.json
-#: translations/.messages/src/app/components/learn-more/index.json
 #: translations/.messages/src/app/components/Login/index.json
 msgid "Learn More"
 msgstr "了解更多"
@@ -5548,6 +5537,9 @@ msgstr "始于"
 #: translations/.messages/src/app/components/SubmitVote/EditOverview.json
 msgid "words"
 msgstr "字数"
+
+#~ msgid "In the press"
+#~ msgstr "新闻热点"
 
 #~ msgid "Edit the list of categories for the page"
 #~ msgstr "编辑页面的类别列表"
