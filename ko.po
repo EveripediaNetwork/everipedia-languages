@@ -1,7 +1,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: \n"
-"POT-Creation-Date: 2020-06-18T17:08:43.974Z\n"
+"POT-Creation-Date: 2020-06-19T12:54:28.849Z\n"
 "PO-Revision-Date: \n"
 "Last-Translator: \n"
 "Language-Team: \n"
@@ -2569,10 +2569,10 @@ msgstr "이메일 로그인"
 msgid "Log out"
 msgstr "로그아웃"
 
-#. [Directory.Login]
+#. [Chat.LoginTwo]
 #. defaultMessage is:
 #. Login
-#. [Chat.LoginTwo]
+#. [Directory.Login]
 #. defaultMessage is:
 #. Login
 #. [Notifications.Login]
@@ -2584,8 +2584,8 @@ msgstr "로그아웃"
 #. [Errors.LoginTwo]
 #. defaultMessage is:
 #. Login
+#: translations/.messages/src/app/components/Chat/ChatInput.json
 #: translations/.messages/src/app/components/Chat/Directory.json
-#: translations/.messages/src/app/components/Chat/index.json
 #: translations/.messages/src/app/components/Chat/Notifications.json
 #: translations/.messages/src/app/components/TopNav/account-name-header.json
 #: translations/.messages/src/app/utils/errors.json
@@ -2620,7 +2620,7 @@ msgstr "로그인해서 편집하기"
 #. [Chat.LoginToParticipate]
 #. defaultMessage is:
 #. Login to participate in article chat
-#: translations/.messages/src/app/components/Chat/index.json
+#: translations/.messages/src/app/components/Chat/ChatInput.json
 msgid "Login to participate in article chat"
 msgstr "로그인해서 채팅 참여하기"
 
@@ -3960,7 +3960,7 @@ msgstr "다른 이유 선택"
 #. [Chat.Send]
 #. defaultMessage is:
 #. Send
-#: translations/.messages/src/app/components/Chat/index.json
+#: translations/.messages/src/app/components/Chat/ChatInput.json
 msgid "Send"
 msgstr "보내기"
 
@@ -5233,13 +5233,6 @@ msgstr "승인"
 msgid "born"
 msgstr ""
 
-#. [IQInfo.BuyAndSellIQ]
-#. defaultMessage is:
-#. buy and sell IQ
-#: translations/.messages/src/app/containers/iq-info/iq-info.container.json
-msgid "buy and sell IQ"
-msgstr "IQ 거래"
-
 #. [EditOverview.Changed]
 #. defaultMessage is:
 #. changed
@@ -5300,6 +5293,13 @@ msgstr "위해"
 #: translations/.messages/src/editor/utils/editing-utils/template-packs/organization.json
 msgid "founded"
 msgstr "설립자"
+
+#. [IQInfo.getIQ]
+#. defaultMessage is:
+#. get IQ
+#: translations/.messages/src/app/containers/iq-info/iq-info.container.json
+msgid "get IQ"
+msgstr "IQ 토큰 교환"
 
 #. [NewPageTemplate.NPT_Product_Include]
 #. defaultMessage is:
@@ -5540,6 +5540,9 @@ msgstr "시작"
 #: translations/.messages/src/app/components/SubmitVote/EditOverview.json
 msgid "words"
 msgstr "단어"
+
+#~ msgid "buy and sell IQ"
+#~ msgstr "IQ 거래"
 
 #~ msgid "In the press"
 #~ msgstr "언론에서의 에브리피디아"

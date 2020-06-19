@@ -1,7 +1,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: \n"
-"POT-Creation-Date: 2020-06-18T17:08:43.974Z\n"
+"POT-Creation-Date: 2020-06-19T12:54:28.849Z\n"
 "PO-Revision-Date: \n"
 "Last-Translator: \n"
 "Language-Team: \n"
@@ -2565,10 +2565,10 @@ msgstr "用电子邮件登录"
 msgid "Log out"
 msgstr "退出"
 
-#. [Directory.Login]
+#. [Chat.LoginTwo]
 #. defaultMessage is:
 #. Login
-#. [Chat.LoginTwo]
+#. [Directory.Login]
 #. defaultMessage is:
 #. Login
 #. [Notifications.Login]
@@ -2580,8 +2580,8 @@ msgstr "退出"
 #. [Errors.LoginTwo]
 #. defaultMessage is:
 #. Login
+#: translations/.messages/src/app/components/Chat/ChatInput.json
 #: translations/.messages/src/app/components/Chat/Directory.json
-#: translations/.messages/src/app/components/Chat/index.json
 #: translations/.messages/src/app/components/Chat/Notifications.json
 #: translations/.messages/src/app/components/TopNav/account-name-header.json
 #: translations/.messages/src/app/utils/errors.json
@@ -2616,7 +2616,7 @@ msgstr "登录以开始贡献"
 #. [Chat.LoginToParticipate]
 #. defaultMessage is:
 #. Login to participate in article chat
-#: translations/.messages/src/app/components/Chat/index.json
+#: translations/.messages/src/app/components/Chat/ChatInput.json
 msgid "Login to participate in article chat"
 msgstr "登录以参与文章聊天"
 
@@ -3956,7 +3956,7 @@ msgstr "选择不同的原因"
 #. [Chat.Send]
 #. defaultMessage is:
 #. Send
-#: translations/.messages/src/app/components/Chat/index.json
+#: translations/.messages/src/app/components/Chat/ChatInput.json
 msgid "Send"
 msgstr "发送"
 
@@ -5230,13 +5230,6 @@ msgstr "批准"
 msgid "born"
 msgstr "出生日期"
 
-#. [IQInfo.BuyAndSellIQ]
-#. defaultMessage is:
-#. buy and sell IQ
-#: translations/.messages/src/app/containers/iq-info/iq-info.container.json
-msgid "buy and sell IQ"
-msgstr "买卖IQ"
-
 #. [EditOverview.Changed]
 #. defaultMessage is:
 #. changed
@@ -5297,6 +5290,13 @@ msgstr "对于"
 #: translations/.messages/src/editor/utils/editing-utils/template-packs/organization.json
 msgid "founded"
 msgstr "成立于"
+
+#. [IQInfo.getIQ]
+#. defaultMessage is:
+#. get IQ
+#: translations/.messages/src/app/containers/iq-info/iq-info.container.json
+msgid "get IQ"
+msgstr "获得IQ"
 
 #. [NewPageTemplate.NPT_Product_Include]
 #. defaultMessage is:
@@ -5537,6 +5537,9 @@ msgstr "始于"
 #: translations/.messages/src/app/components/SubmitVote/EditOverview.json
 msgid "words"
 msgstr "字数"
+
+#~ msgid "buy and sell IQ"
+#~ msgstr "买卖IQ"
 
 #~ msgid "In the press"
 #~ msgstr "新闻热点"

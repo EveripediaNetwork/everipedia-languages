@@ -1,7 +1,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: \n"
-"POT-Creation-Date: 2020-06-18T17:08:43.974Z\n"
+"POT-Creation-Date: 2020-06-19T12:54:28.849Z\n"
 "PO-Revision-Date: \n"
 "Last-Translator: \n"
 "Language-Team: \n"
@@ -817,13 +817,7 @@ msgstr "Resistente a la censura"
 #. Centralized
 #: translations/.messages/src/app/containers/iq-info/iq-info.container.json
 msgid "Centralized"
-msgstr ""
-"El blockchain de Everipedia IQ proporciona un nuevo cambio de paradigma y la "
-"economía del conocimiento para interrumpir el viejo modelo de enciclopedia "
-"centralizada del conocimiento de Internet similar al de Wikipedia. Creando "
-"una nueva estructura de incentivos y un backend distribuido alojado dentro "
-"de un blockchain, la nueva base de conocimiento de Everipedia será capaz de "
-"mejorar todas las características fundamentales de Wikipedia."
+msgstr "Centralizado"
 
 #. [Chat.ChangedTwo]
 #. defaultMessage is:
@@ -2615,10 +2609,10 @@ msgstr "Iniciar sesión con correo electrónico"
 msgid "Log out"
 msgstr "Cerrar sesión"
 
-#. [Directory.Login]
+#. [Chat.LoginTwo]
 #. defaultMessage is:
 #. Login
-#. [Chat.LoginTwo]
+#. [Directory.Login]
 #. defaultMessage is:
 #. Login
 #. [Notifications.Login]
@@ -2630,8 +2624,8 @@ msgstr "Cerrar sesión"
 #. [Errors.LoginTwo]
 #. defaultMessage is:
 #. Login
+#: translations/.messages/src/app/components/Chat/ChatInput.json
 #: translations/.messages/src/app/components/Chat/Directory.json
-#: translations/.messages/src/app/components/Chat/index.json
 #: translations/.messages/src/app/components/Chat/Notifications.json
 #: translations/.messages/src/app/components/TopNav/account-name-header.json
 #: translations/.messages/src/app/utils/errors.json
@@ -2666,7 +2660,7 @@ msgstr "Inicie sesión para comenzar a contribuir"
 #. [Chat.LoginToParticipate]
 #. defaultMessage is:
 #. Login to participate in article chat
-#: translations/.messages/src/app/components/Chat/index.json
+#: translations/.messages/src/app/components/Chat/ChatInput.json
 msgid "Login to participate in article chat"
 msgstr "Iniciar sesión para participar en el chat del artículo"
 
@@ -4014,7 +4008,7 @@ msgstr "Seleccione un motivo diferente"
 #. [Chat.Send]
 #. defaultMessage is:
 #. Send
-#: translations/.messages/src/app/components/Chat/index.json
+#: translations/.messages/src/app/components/Chat/ChatInput.json
 msgid "Send"
 msgstr "Enviar"
 
@@ -5321,13 +5315,6 @@ msgstr "Aprobar"
 msgid "born"
 msgstr "nacido"
 
-#. [IQInfo.BuyAndSellIQ]
-#. defaultMessage is:
-#. buy and sell IQ
-#: translations/.messages/src/app/containers/iq-info/iq-info.container.json
-msgid "buy and sell IQ"
-msgstr "comprar y vender IQ"
-
 #. [EditOverview.Changed]
 #. defaultMessage is:
 #. changed
@@ -5388,6 +5375,13 @@ msgstr "para"
 #: translations/.messages/src/editor/utils/editing-utils/template-packs/organization.json
 msgid "founded"
 msgstr "fundado"
+
+#. [IQInfo.getIQ]
+#. defaultMessage is:
+#. get IQ
+#: translations/.messages/src/app/containers/iq-info/iq-info.container.json
+msgid "get IQ"
+msgstr "Obtener IQ"
 
 #. [NewPageTemplate.NPT_Product_Include]
 #. defaultMessage is:
@@ -5628,6 +5622,9 @@ msgstr "fue iniciada por"
 #: translations/.messages/src/app/components/SubmitVote/EditOverview.json
 msgid "words"
 msgstr "palabras"
+
+#~ msgid "buy and sell IQ"
+#~ msgstr "comprar y vender IQ"
 
 #~ msgid "In the press"
 #~ msgstr "En la prensa"
