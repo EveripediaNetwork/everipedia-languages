@@ -1,7 +1,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: \n"
-"POT-Creation-Date: 2020-06-19T12:54:28.849Z\n"
+"POT-Creation-Date: 2020-06-20T13:06:07.422Z\n"
 "PO-Revision-Date: \n"
 "Last-Translator: \n"
 "Language-Team: \n"
@@ -5033,7 +5033,7 @@ msgstr "IQ 토큰이란?"
 #. Wiki Encyclopedia of Everything - Everipedia
 #: translations/.messages/src/shared/components/DynamicAppHead/index.json
 msgid "Wiki Encyclopedia of Everything - Everipedia"
-msgstr "모두의 온라인 위키 백과사전 - 에브리피디아"
+msgstr "에브리피디아 - 모두의 온라인 위키 백과사전"
 
 #. [AccountNameHeader.Worth]
 #. defaultMessage is:
