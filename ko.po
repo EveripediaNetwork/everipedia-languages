@@ -1,7 +1,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: \n"
-"POT-Creation-Date: 2020-06-20T13:06:07.422Z\n"
+"POT-Creation-Date: 2020-06-22T14:22:13.492Z\n"
 "PO-Revision-Date: \n"
 "Last-Translator: \n"
 "Language-Team: \n"
@@ -1462,13 +1462,6 @@ msgstr "편집자"
 #: translations/.messages/src/app/containers/homepageContainer/leaderboard.json
 msgid "Edits"
 msgstr "편집"
-
-#. [DashboardComponent.EditsProposed]
-#. defaultMessage is:
-#. Edits Proposed
-#: translations/.messages/src/app/containers/dashboard/dashboard_component.json
-msgid "Edits Proposed"
-msgstr "편집 제안"
 
 #. [MetadataModal.ElectronicsSoftware]
 #. defaultMessage is:
@@ -4664,6 +4657,14 @@ msgstr "업로드 중"
 msgid "Uploading...."
 msgstr "업로드 중"
 
+#. [EditProfile.Username]
+#. defaultMessage is:
+#. Username
+#: translations/.messages/src/app/components/edit-profile/index.json
+
+msgid "Username"
+msgstr "사용자 이름"
+
 #. [SubmitVote.VersionVotes]
 #. defaultMessage is:
 #. VERSION VOTES
@@ -4770,13 +4771,6 @@ msgstr "편집 보기"
 #: translations/.messages/src/app/components/Search/SearchResults.json
 msgid "Views"
 msgstr "조회수"
-
-#. [EditProfile.Username]
-#. defaultMessage is:
-#. VotUsernameed
-#: translations/.messages/src/app/components/edit-profile/index.json
-msgid "VotUsernameed"
-msgstr "사용자 이름"
 
 #. [ActivityCard.Vote]
 #. defaultMessage is:
@@ -5540,6 +5534,9 @@ msgstr "시작"
 #: translations/.messages/src/app/components/SubmitVote/EditOverview.json
 msgid "words"
 msgstr "단어"
+
+#~ msgid "Edits Proposed"
+#~ msgstr "편집 제안"
 
 #~ msgid "buy and sell IQ"
 #~ msgstr "IQ 거래"

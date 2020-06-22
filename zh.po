@@ -1,7 +1,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: \n"
-"POT-Creation-Date: 2020-06-19T12:54:28.849Z\n"
+"POT-Creation-Date: 2020-06-22T14:22:13.492Z\n"
 "PO-Revision-Date: \n"
 "Last-Translator: \n"
 "Language-Team: \n"
@@ -1459,13 +1459,6 @@ msgstr "编者"
 #: translations/.messages/src/app/containers/homepageContainer/leaderboard.json
 msgid "Edits"
 msgstr "编辑"
-
-#. [DashboardComponent.EditsProposed]
-#. defaultMessage is:
-#. Edits Proposed
-#: translations/.messages/src/app/containers/dashboard/dashboard_component.json
-msgid "Edits Proposed"
-msgstr "编辑提议"
 
 #. [MetadataModal.ElectronicsSoftware]
 #. defaultMessage is:
@@ -4661,6 +4654,14 @@ msgstr "上传中..."
 msgid "Uploading...."
 msgstr "上传中..."
 
+#. [EditProfile.Username]
+#. defaultMessage is:
+#. Username
+#: translations/.messages/src/app/components/edit-profile/index.json
+
+msgid "Username"
+msgstr "已投票"
+
 #. [SubmitVote.VersionVotes]
 #. defaultMessage is:
 #. VERSION VOTES
@@ -4767,13 +4768,6 @@ msgstr "浏览编辑"
 #: translations/.messages/src/app/components/Search/SearchResults.json
 msgid "Views"
 msgstr "浏览数"
-
-#. [EditProfile.Username]
-#. defaultMessage is:
-#. VotUsernameed
-#: translations/.messages/src/app/components/edit-profile/index.json
-msgid "VotUsernameed"
-msgstr "已投票"
 
 #. [ActivityCard.Vote]
 #. defaultMessage is:
@@ -5537,6 +5531,9 @@ msgstr "始于"
 #: translations/.messages/src/app/components/SubmitVote/EditOverview.json
 msgid "words"
 msgstr "字数"
+
+#~ msgid "Edits Proposed"
+#~ msgstr "编辑提议"
 
 #~ msgid "buy and sell IQ"
 #~ msgstr "买卖IQ"
