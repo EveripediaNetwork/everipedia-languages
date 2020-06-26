@@ -1,7 +1,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: \n"
-"POT-Creation-Date: 2020-06-22T14:22:13.492Z\n"
+"POT-Creation-Date: 2020-06-25T13:15:15.101Z\n"
 "PO-Revision-Date: \n"
 "Last-Translator: \n"
 "Language-Team: \n"
@@ -637,12 +637,16 @@ msgstr "출생"
 #. [MobileHamburger.Blog]
 #. defaultMessage is:
 #. Blog
+#. [BlogFullPage.Blog]
+#. defaultMessage is:
+#. Blog
 #. [Featured.Blog]
 #. defaultMessage is:
 #. Blog
 #: translations/.messages/src/app/components/Footer/index.json
 #: translations/.messages/src/app/components/TopNav/index.json
 #: translations/.messages/src/app/components/TopNav/Mobile-Hamburger.json
+#: translations/.messages/src/app/containers/blog/blog-full-page.json
 #: translations/.messages/src/app/containers/homepageContainer/featured.json
 msgid "Blog"
 msgstr "블로그"
@@ -1633,10 +1637,17 @@ msgstr "이벤트"
 msgid "Everipedia"
 msgstr "에브리피디아"
 
+#. [BlogContainer.EveripediaBlog]
+#. defaultMessage is:
+#. Everipedia Blog
 #. [Blog.EveripediaBlog]
 #. defaultMessage is:
 #. Everipedia Blog
+#. [BlogSlugContainer.EveripediaBlog]
+#. defaultMessage is:
+#. Everipedia Blog
 #: translations/.messages/src/app/containers/blog/blog.container.json
+#: translations/.messages/src/app/containers/blog/blog.slug.container.json
 msgid "Everipedia Blog"
 msgstr "에브리피디아 블로그"
 
@@ -2270,6 +2281,15 @@ msgstr "새로 삽입"
 msgid "Insert Right"
 msgstr "오른쪽 삽입"
 
+#. [LoginModal.OpenTokenPocket]
+#. defaultMessage is:
+#. It appears you are using a browser other than TokenPocket. Please open your TokenPocket app and try again.
+#: translations/.messages/src/app/components/Login/index.json
+msgid ""
+"It appears you are using a browser other than TokenPocket. Please open your "
+"TokenPocket app and try again."
+msgstr ""
+
 #. [EditorDraftContinuationGuard.Unsaved]
 #. defaultMessage is:
 #. It looks like you may have unsaved edits. Would you like to continue?
@@ -2417,9 +2437,13 @@ msgstr "자세히 알아보기"
 msgid "Learn how"
 msgstr "자세히 알아보기"
 
-#. [IQInfo.IntroLearnMore]
+#. [IQInfo.LearnHowToSetupEOS]
 #. defaultMessage is:
-#. Learn more
+#. Learn how to set up an EOS account
+#: translations/.messages/src/app/containers/iq-info/iq-info.container.json
+msgid "Learn how to set up an EOS account"
+msgstr ""
+
 #. [IQInfo.LearnMore]
 #. defaultMessage is:
 #. Learn more
@@ -4362,6 +4386,17 @@ msgstr ""
 "모든 것을 다루는 백과사전으로서, 누구나가 참여하여 글을 생성하고 편집할 수 있"
 "다."
 
+#. [BlogContainer.WikiEncyclopediaOrEverything]
+#. defaultMessage is:
+#. The Wiki Encyclopedia of Everything
+#. [BlogSlugContainer.WikiEncyclopediaOrEverything]
+#. defaultMessage is:
+#. The Wiki Encyclopedia of Everything
+#: translations/.messages/src/app/containers/blog/blog.container.json
+#: translations/.messages/src/app/containers/blog/blog.slug.container.json
+msgid "The Wiki Encyclopedia of Everything"
+msgstr "모든 것의 백과사전"
+
 #. [InfoboxModal.TheInfoboxIsDesignedForConcise]
 #. defaultMessage is:
 #. The infobox is designed for concise, easy-to-access information.
@@ -4661,7 +4696,6 @@ msgstr "업로드 중"
 #. defaultMessage is:
 #. Username
 #: translations/.messages/src/app/components/edit-profile/index.json
-
 msgid "Username"
 msgstr "사용자 이름"
 
@@ -5185,13 +5219,6 @@ msgstr ""
 "편집 제안이 투표 중입니다. 투표결과 승인되면, 편집에 따른 보상으로 IQ 토큰을 "
 "받습니다. 편집 제안을 하는데 사용한 IQ 토큰은 21일 동안 예치됩니다."
 
-#. [IQInfo.AboutEOSandIQ]
-#. defaultMessage is:
-#. about EOS and IQ
-#: translations/.messages/src/app/containers/iq-info/iq-info.container.json
-msgid "about EOS and IQ"
-msgstr "EOS와 IQ"
-
 #. [Login.aboutLoginOptions]
 #. defaultMessage is:
 #. about Everipedia’s login options.
@@ -5534,6 +5561,9 @@ msgstr "시작"
 #: translations/.messages/src/app/components/SubmitVote/EditOverview.json
 msgid "words"
 msgstr "단어"
+
+#~ msgid "about EOS and IQ"
+#~ msgstr "EOS와 IQ"
 
 #~ msgid "Edits Proposed"
 #~ msgstr "편집 제안"

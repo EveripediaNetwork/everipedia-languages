@@ -1,7 +1,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: \n"
-"POT-Creation-Date: 2020-06-22T15:16:21.947Z\n"
+"POT-Creation-Date: 2020-06-25T13:15:15.101Z\n"
 "PO-Revision-Date: \n"
 "Last-Translator: \n"
 "Language-Team: \n"
@@ -641,12 +641,16 @@ msgstr "Cumpleaños"
 #. [MobileHamburger.Blog]
 #. defaultMessage is:
 #. Blog
+#. [BlogFullPage.Blog]
+#. defaultMessage is:
+#. Blog
 #. [Featured.Blog]
 #. defaultMessage is:
 #. Blog
 #: translations/.messages/src/app/components/Footer/index.json
 #: translations/.messages/src/app/components/TopNav/index.json
 #: translations/.messages/src/app/components/TopNav/Mobile-Hamburger.json
+#: translations/.messages/src/app/containers/blog/blog-full-page.json
 #: translations/.messages/src/app/containers/homepageContainer/featured.json
 msgid "Blog"
 msgstr "Blog"
@@ -1650,10 +1654,17 @@ msgstr "Eventos"
 msgid "Everipedia"
 msgstr "Sobre Everipedia"
 
+#. [BlogContainer.EveripediaBlog]
+#. defaultMessage is:
+#. Everipedia Blog
 #. [Blog.EveripediaBlog]
 #. defaultMessage is:
 #. Everipedia Blog
+#. [BlogSlugContainer.EveripediaBlog]
+#. defaultMessage is:
+#. Everipedia Blog
 #: translations/.messages/src/app/containers/blog/blog.container.json
+#: translations/.messages/src/app/containers/blog/blog.slug.container.json
 msgid "Everipedia Blog"
 msgstr "Sobre Everipedia"
 
@@ -2307,6 +2318,15 @@ msgstr "Insertar Nuevo"
 msgid "Insert Right"
 msgstr "Insertar a la derecha"
 
+#. [LoginModal.OpenTokenPocket]
+#. defaultMessage is:
+#. It appears you are using a browser other than TokenPocket. Please open your TokenPocket app and try again.
+#: translations/.messages/src/app/components/Login/index.json
+msgid ""
+"It appears you are using a browser other than TokenPocket. Please open your "
+"TokenPocket app and try again."
+msgstr ""
+
 #. [EditorDraftContinuationGuard.Unsaved]
 #. defaultMessage is:
 #. It looks like you may have unsaved edits. Would you like to continue?
@@ -2457,9 +2477,13 @@ msgstr "Aprende más"
 msgid "Learn how"
 msgstr "Más información"
 
-#. [IQInfo.IntroLearnMore]
+#. [IQInfo.LearnHowToSetupEOS]
 #. defaultMessage is:
-#. Learn more
+#. Learn how to set up an EOS account
+#: translations/.messages/src/app/containers/iq-info/iq-info.container.json
+msgid "Learn how to set up an EOS account"
+msgstr ""
+
 #. [IQInfo.LearnMore]
 #. defaultMessage is:
 #. Learn more
@@ -4419,6 +4443,17 @@ msgstr ""
 "conectes con personas que comparten tus intereses y aportes tu propia "
 "perspectiva."
 
+#. [BlogContainer.WikiEncyclopediaOrEverything]
+#. defaultMessage is:
+#. The Wiki Encyclopedia of Everything
+#. [BlogSlugContainer.WikiEncyclopediaOrEverything]
+#. defaultMessage is:
+#. The Wiki Encyclopedia of Everything
+#: translations/.messages/src/app/containers/blog/blog.container.json
+#: translations/.messages/src/app/containers/blog/blog.slug.container.json
+msgid "The Wiki Encyclopedia of Everything"
+msgstr "Everipedia, la enciclopedia de todo"
+
 #. [InfoboxModal.TheInfoboxIsDesignedForConcise]
 #. defaultMessage is:
 #. The infobox is designed for concise, easy-to-access information.
@@ -5266,13 +5301,6 @@ msgstr ""
 "recompensa de IQ por tu contribución.  Los IQ Tokens que usó para proponer "
 "su edición serán bloqueados (estacados) durante 21 días."
 
-#. [IQInfo.AboutEOSandIQ]
-#. defaultMessage is:
-#. about EOS and IQ
-#: translations/.messages/src/app/containers/iq-info/iq-info.container.json
-msgid "about EOS and IQ"
-msgstr "sobre EOS e IQ, o"
-
 #. [Login.aboutLoginOptions]
 #. defaultMessage is:
 #. about Everipedia’s login options.
@@ -5615,6 +5643,9 @@ msgstr "fue iniciada por"
 #: translations/.messages/src/app/components/SubmitVote/EditOverview.json
 msgid "words"
 msgstr "palabras"
+
+#~ msgid "about EOS and IQ"
+#~ msgstr "sobre EOS e IQ, o"
 
 #~ msgid "Edits Proposed"
 #~ msgstr "Ediciones propuestas"
