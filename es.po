@@ -1,7 +1,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: \n"
-"POT-Creation-Date: 2020-06-25T13:15:15.101Z\n"
+"POT-Creation-Date: 2020-07-10T21:11:14.437Z\n"
 "PO-Revision-Date: \n"
 "Last-Translator: \n"
 "Language-Team: \n"
@@ -40,6 +40,13 @@ msgstr "Inicie sesión para participar en el chat del artículo."
 #: translations/.messages/src/app/components/Chat/ChatList.json
 msgid " Write your message below to start the conversation"
 msgstr "Escriba su mensaje a continuación para iniciar la conversación"
+
+#. [EpIdRegister.SpaceAndSpace]
+#. defaultMessage is:
+#.  and 
+#: translations/.messages/src/app/components/Login/epid-register.modal.json
+msgid " and "
+msgstr ""
 
 #. [Errors.IfYouThinkYouAre]
 #. defaultMessage is:
@@ -145,6 +152,15 @@ msgstr "6 MESES"
 #: translations/.messages/src/app/containers/dashboard/dashboard_component.json
 msgid "7 DAYS"
 msgstr "7 DIAS"
+
+#. [EpIdLogin.ALinkToResetHasBeenSent]
+#. defaultMessage is:
+#. A link to reset your password has been sent to your email. You can now use your new password to log into your account.
+#: translations/.messages/src/app/components/Login/epid-login.modal.json
+msgid ""
+"A link to reset your password has been sent to your email. You can now use "
+"your new password to log into your account."
+msgstr ""
 
 #. [Homepage.UniverseOfKnowledge]
 #. defaultMessage is:
@@ -287,6 +303,13 @@ msgstr "Cuenta"
 #. Account Name
 #: translations/.messages/src/app/components/edit-profile/index.json
 msgid "Account Name"
+msgstr "Nombre de la cuenta"
+
+#. [EpIdLogin.AccountUpdate]
+#. defaultMessage is:
+#. Account Update
+#: translations/.messages/src/app/components/Login/EPIDExplanationModal.json
+msgid "Account Update"
 msgstr "Nombre de la cuenta"
 
 #. [CategoryResultCard.ActiveVoting]
@@ -492,6 +515,15 @@ msgstr "Dirección / Ubicación"
 msgid "Adult Content"
 msgstr "Contenido para adultos"
 
+#. [EpIdLogin.AfterCreating]
+#. defaultMessage is:
+#. After creating a new account, we will prompt you to merge accounts you can always merge your account from your account dashboard.
+#: translations/.messages/src/app/components/Login/EPIDExplanationModal.json
+msgid ""
+"After creating a new account, we will prompt you to merge accounts you can "
+"always merge your account from your account dashboard."
+msgstr ""
+
 #. [Leaderboard.AllTime]
 #. defaultMessage is:
 #. All Time
@@ -610,6 +642,24 @@ msgstr "Disponible"
 #: translations/.messages/src/app/containers/dashboard/dashboard_component.json
 msgid "Available Balance"
 msgstr "Saldo disponible"
+
+#. [EpIdLogin.Back]
+#. defaultMessage is:
+#. Back
+#. [EpIdLogin.Back]
+#. defaultMessage is:
+#. Back
+#: translations/.messages/src/app/components/Login/epid-login.modal.json
+#: translations/.messages/src/app/components/Login/epid-register.modal.json
+msgid "Back"
+msgstr ""
+
+#. [Dashboard.IQTab.BalanceActivity]
+#. defaultMessage is:
+#. Balance Activity
+#: translations/.messages/src/app/containers/dashboard/MyUserDashboard/IQTab.json
+msgid "Balance Activity"
+msgstr "Ver Actividad"
 
 #. [Dashboard.BalanceDetail]
 #. defaultMessage is:
@@ -898,7 +948,7 @@ msgstr "Elegir una nueva imagen principal"
 #. [Login.AnotherLoginMethod]
 #. defaultMessage is:
 #. Choose another login method
-#: translations/.messages/src/app/components/Login/index.json
+#: translations/.messages/src/app/components/Login/Login.json
 msgid "Choose another login method"
 msgstr "Elija otro método de acceso"
 
@@ -967,6 +1017,17 @@ msgstr ""
 msgid "Click to vote on this edit"
 msgstr "Haga clic para votar sobre esta edición"
 
+#. [EpIdLogin.Close]
+#. defaultMessage is:
+#. Close
+#. [EpIdLogin.Close]
+#. defaultMessage is:
+#. Close
+#: translations/.messages/src/app/components/Login/epid-login.modal.json
+#: translations/.messages/src/app/components/Login/epid-register.modal.json
+msgid "Close"
+msgstr ""
+
 #. [ThirdBlock.CoFounderWikipedia]
 #. defaultMessage is:
 #. Co-Founder Wikipedia
@@ -998,6 +1059,13 @@ msgstr "Comentario"
 #: translations/.messages/src/app/containers/contact-us/contact-us.container.json
 msgid "Common Questions"
 msgstr "Preguntas más frecuentes"
+
+#. [EpIdLogin.Confirm Password]
+#. defaultMessage is:
+#. Confirm Password
+#: translations/.messages/src/app/components/Login/epid-register.modal.json
+msgid "Confirm Password"
+msgstr "Confirme su voto"
 
 #. [SubmitVoteConfirmation.ConfirmYourVote]
 #. defaultMessage is:
@@ -1128,6 +1196,13 @@ msgstr ""
 msgid "Country"
 msgstr "País"
 
+#. [EpIdLogin.CreateAccount]
+#. defaultMessage is:
+#. Create Account
+#: translations/.messages/src/app/components/Login/epid-register.modal.json
+msgid "Create Account"
+msgstr "Iniciar sesión / Crear una cuenta"
+
 #. [MobileHamburger.CreateArticle]
 #. defaultMessage is:
 #. Create Article
@@ -1220,6 +1295,13 @@ msgstr "Actualmente en juego"
 msgid "DAY"
 msgstr "DÍA"
 
+#. [Dashboard.Dashboard]
+#. defaultMessage is:
+#. Dashboard
+#: translations/.messages/src/app/containers/dashboard/MyUserDashboard/TopNav.json
+msgid "Dashboard"
+msgstr ""
+
 #. [NewPageTemplate.NPT_CreativeWork_Date_Created]
 #. defaultMessage is:
 #. Date Created
@@ -1310,6 +1392,13 @@ msgstr "Nombre para mostrar"
 msgid "Display Name must be longer than 3 characters"
 msgstr "El nombre para mostrar debe tener más de 3 caracteres"
 
+#. [EpIdLogin.DontHaveAccountQuestion]
+#. defaultMessage is:
+#. Don't have an account?
+#: translations/.messages/src/app/components/Login/epid-login.modal.json
+msgid "Don't have an account?"
+msgstr "Obtener una cuenta"
+
 #. [Tooltips.EditorComment]
 #. defaultMessage is:
 #. EDITOR COMMENT
@@ -1353,6 +1442,13 @@ msgstr "Modificaciones"
 #: translations/.messages/src/editor/plugins/section-embed-modal/panes/videos.json
 msgid "EMBED SIZE"
 msgstr "TAMAÑO DE LA EMBALA"
+
+#. [Dashboard.IQTab.EOSMemo]
+#. defaultMessage is:
+#. EOS Memo:
+#: translations/.messages/src/app/containers/dashboard/MyUserDashboard/IQTab.json
+msgid "EOS Memo:"
+msgstr ""
 
 #. [ActivityCards.ExpiringSoon]
 #. defaultMessage is:
@@ -1487,21 +1583,36 @@ msgstr "Modificaciones"
 msgid "Electronics / Software"
 msgstr "Electrónica/Software"
 
+#. [EpIdLogin.Email]
+#. defaultMessage is:
+#. Email
+#. [EpIdLogin.Email]
+#. defaultMessage is:
+#. Email
 #. [NewPageTemplate.NPT_Organization_Email]
 #. defaultMessage is:
 #. Email
 #. [NewPageTemplate.NPT_Person_Email]
 #. defaultMessage is:
 #. Email
+#: translations/.messages/src/app/components/Login/epid-login.modal.json
+#: translations/.messages/src/app/components/Login/epid-register.modal.json
 #: translations/.messages/src/editor/utils/editing-utils/template-packs/organization.json
 #: translations/.messages/src/editor/utils/editing-utils/template-packs/person.json
 msgid "Email"
 msgstr "Email"
 
+#. [EpIdLogin.EmailAddress]
+#. defaultMessage is:
+#. Email Address
+#: translations/.messages/src/app/components/Login/epid-login.modal.json
+msgid "Email Address"
+msgstr "Dirección de correo electrónico"
+
 #. [LoginModal.EmailComingSoon]
 #. defaultMessage is:
 #. Email Coming Soon
-#: translations/.messages/src/app/components/Login/index.json
+#: translations/.messages/src/app/components/Login/Login.json
 msgid "Email Coming Soon"
 msgstr "Próximamente por correo electrónico"
 
@@ -1585,26 +1696,6 @@ msgstr "Introduzca un término de búsqueda"
 msgid "Enter a type"
 msgstr "Introduzca un tipo"
 
-#. [Login.EnterCode]
-#. defaultMessage is:
-#. Enter the code that was sent to your email address. If you haven't received a code, go back and try again.
-#: translations/.messages/src/app/components/Login/email_login.json
-msgid ""
-"Enter the code that was sent to your email address. If you haven't received "
-"a code, go back and try again."
-msgstr ""
-"Introduzca el código que se le envió a su dirección de correo electrónico. "
-"Si no has recibido un código, vuelve e inténtalo de nuevo."
-
-#. [Login.EnterEmail]
-#. defaultMessage is:
-#. Enter your email and we'll send a code to that email address.
-#: translations/.messages/src/app/components/Login/email_login.json
-msgid "Enter your email and we'll send a code to that email address."
-msgstr ""
-"Ingrese su correo electrónico y le enviaremos un código a esa dirección de "
-"correo electrónico."
-
 #. [ContactUs.EnterYourMessage]
 #. defaultMessage is:
 #. Enter your message...
@@ -1625,6 +1716,17 @@ msgstr "Error"
 #: translations/.messages/src/app/components/SubmitVote/ConfirmationModal.json
 msgid "Error code"
 msgstr "Código de error"
+
+#. [EpIdLogin.ErrorWithPunctuationAndSpace]
+#. defaultMessage is:
+#. Error: 
+#. [EpIdLogin.ErrorWithPunctuationAndSpace]
+#. defaultMessage is:
+#. Error: 
+#: translations/.messages/src/app/components/Login/epid-login.modal.json
+#: translations/.messages/src/app/components/Login/epid-register.modal.json
+msgid "Error: "
+msgstr "Error"
 
 #. [NewPageTemplate.NPT_Person_Ethnicity]
 #. defaultMessage is:
@@ -1898,6 +2000,20 @@ msgstr "Incentivo financiero"
 msgid "First Edit"
 msgstr "Primera edición"
 
+#. [EpIdLogin.ForgotPassword]
+#. defaultMessage is:
+#. Forgot Password
+#: translations/.messages/src/app/components/Login/epid-login.modal.json
+msgid "Forgot Password"
+msgstr ""
+
+#. [EpIdLogin.ForgotPasswordQuestion]
+#. defaultMessage is:
+#. Forgot Password?
+#: translations/.messages/src/app/components/Login/epid-login.modal.json
+msgid "Forgot Password?"
+msgstr ""
+
 #. [CommentUtils.Formatting]
 #. defaultMessage is:
 #. Formatting
@@ -2018,6 +2134,13 @@ msgstr "Contacta con nosotros"
 msgid "Get more IQ here"
 msgstr "Obtenga más IQ aquí"
 
+#. [EpIdLogin.GotIt]
+#. defaultMessage is:
+#. Got it!
+#: translations/.messages/src/app/components/Login/EPIDExplanationModal.json
+msgid "Got it!"
+msgstr ""
+
 #. [CommentUtils.Grammar]
 #. defaultMessage is:
 #. Grammar
@@ -2080,6 +2203,20 @@ msgstr "Inicio"
 msgid "How much IQ should I vote?"
 msgstr "¿Cuánto coeficiente intelectual debo votar?"
 
+#. [EpIdLogin.HowToMerge]
+#. defaultMessage is:
+#. How to merge your accounts?
+#: translations/.messages/src/app/components/Login/EPIDExplanationModal.json
+msgid "How to merge your accounts?"
+msgstr ""
+
+#. [EpIdRegister.IAcceptThe]
+#. defaultMessage is:
+#. I accept the 
+#: translations/.messages/src/app/components/Login/epid-register.modal.json
+msgid "I accept the "
+msgstr "Voto aceptado"
+
 #. [ThirdBlock.ILoveEveripediaBecause]
 #. defaultMessage is:
 #. I love Everipedia because everyone benefits, particularly the contributors. As an IQ token holder, I have an incentive to participate in the network.
@@ -2092,6 +2229,13 @@ msgstr ""
 "contribuyentes. Como poseedor de un token IQ, tengo un incentivo para "
 "participar en la red."
 
+#. [EpIdRegister.WouldLikeToRecieveEmails]
+#. defaultMessage is:
+#. I would like to recieve emails from Everipedia
+#: translations/.messages/src/app/components/Login/epid-register.modal.json
+msgid "I would like to recieve emails from Everipedia"
+msgstr ""
+
 #. [InTheNews.InTheNews]
 #. defaultMessage is:
 #. IN THE NEWS
@@ -2099,9 +2243,13 @@ msgstr ""
 msgid "IN THE NEWS"
 msgstr "Noticias"
 
+#. [Dashboard.IQ]
+#. defaultMessage is:
+#. IQ
 #. [Leaderboard.IQ]
 #. defaultMessage is:
 #. IQ
+#: translations/.messages/src/app/containers/dashboard/MyUserDashboard/TopNav.json
 #: translations/.messages/src/app/containers/homepageContainer/leaderboard.json
 msgid "IQ"
 msgstr "IQ (Calificación Interna)"
@@ -2229,6 +2377,13 @@ msgstr ""
 msgid "Image URL"
 msgstr "URL de la imagen"
 
+#. [EpIdLogin.ErrorIncorrectUsernameOrPassword]
+#. defaultMessage is:
+#. Incorrect username or password. Please try again.
+#: translations/.messages/src/app/components/Login/epid-login.modal.json
+msgid "Incorrect username or password. Please try again."
+msgstr ""
+
 #. [MetadataModal.Indexed]
 #. defaultMessage is:
 #. Indexed
@@ -2321,7 +2476,7 @@ msgstr "Insertar a la derecha"
 #. [LoginModal.OpenTokenPocket]
 #. defaultMessage is:
 #. It appears you are using a browser other than TokenPocket. Please open your TokenPocket app and try again.
-#: translations/.messages/src/app/components/Login/index.json
+#: translations/.messages/src/app/components/Login/Login.json
 msgid ""
 "It appears you are using a browser other than TokenPocket. Please open your "
 "TokenPocket app and try again."
@@ -2462,7 +2617,7 @@ msgstr "Tabla de clasificación"
 #. defaultMessage is:
 #. Learn More
 #: translations/.messages/src/app/components/Chat/ChatList.json
-#: translations/.messages/src/app/components/Login/index.json
+#: translations/.messages/src/app/components/Login/Login.json
 msgid "Learn More"
 msgstr "Aprende más"
 
@@ -2580,6 +2735,13 @@ msgstr ""
 msgid "Loading"
 msgstr "Cargando.."
 
+#. [LoginContainer.EPIDCallback]
+#. defaultMessage is:
+#. Loading...
+#: translations/.messages/src/app/containers/login/login.container.json
+msgid "Loading..."
+msgstr "Cargando.."
+
 #. [ImageUploader.LocalFile]
 #. defaultMessage is:
 #. Local File
@@ -2612,17 +2774,10 @@ msgstr "Bloqueado"
 msgid "Log in to chat"
 msgstr "Log in para chatear"
 
-#. [LoginModal.LoginWithEmail]
-#. defaultMessage is:
-#. Log in with Email
-#: translations/.messages/src/app/components/Login/index.json
-msgid "Log in with Email"
-msgstr "Iniciar sesión con correo electrónico"
-
 #. [Dashboard.LogOut]
 #. defaultMessage is:
 #. Log out
-#: translations/.messages/src/app/containers/dashboard/dashboard_component.json
+#: translations/.messages/src/app/containers/dashboard/MyUserDashboard/TopNav.json
 msgid "Log out"
 msgstr "Cerrar sesión"
 
@@ -2635,6 +2790,9 @@ msgstr "Cerrar sesión"
 #. [Notifications.Login]
 #. defaultMessage is:
 #. Login
+#. [EpIdLogin.Login]
+#. defaultMessage is:
+#. Login
 #. [AccountNameHeader.Login]
 #. defaultMessage is:
 #. Login
@@ -2644,10 +2802,18 @@ msgstr "Cerrar sesión"
 #: translations/.messages/src/app/components/Chat/ChatInput.json
 #: translations/.messages/src/app/components/Chat/Directory.json
 #: translations/.messages/src/app/components/Chat/Notifications.json
+#: translations/.messages/src/app/components/Login/epid-login.modal.json
 #: translations/.messages/src/app/components/TopNav/account-name-header.json
 #: translations/.messages/src/app/utils/errors.json
 msgid "Login"
 msgstr "Iniciar sesión"
+
+#. [EpIdLogin.LoginSuccessfulWithPunctuation]
+#. defaultMessage is:
+#. Login Successful!
+#: translations/.messages/src/app/components/Login/epid-login.modal.json
+msgid "Login Successful!"
+msgstr "La transacción se ha realizado con éxito"
 
 #. [Directory.LoginToChat]
 #. defaultMessage is:
@@ -2681,66 +2847,77 @@ msgstr "Inicie sesión para comenzar a contribuir"
 msgid "Login to participate in article chat"
 msgstr "Iniciar sesión para participar en el chat del artículo"
 
+#. [EpIdLogin.LoginWithEmail]
+#. defaultMessage is:
+#. Login with Email
+#. [LoginModal.LoginWithEmail]
+#. defaultMessage is:
+#. Login with Email
+#: translations/.messages/src/app/components/Login/epid-login.modal.json
+#: translations/.messages/src/app/components/Login/Login.json
+msgid "Login with Email"
+msgstr "Iniciar sesión con correo electrónico"
+
 #. [LoginModal.LoginWithFacebook]
 #. defaultMessage is:
 #. Login with Facebook
-#: translations/.messages/src/app/components/Login/index.json
+#: translations/.messages/src/app/components/Login/Login.json
 msgid "Login with Facebook"
 msgstr "Iniciar sesión con Facebook"
 
 #. [LoginModal.LoginWithGoogle]
 #. defaultMessage is:
 #. Login with Google
-#: translations/.messages/src/app/components/Login/index.json
+#: translations/.messages/src/app/components/Login/Login.json
 msgid "Login with Google"
 msgstr "Iniciar sesión con Google"
 
 #. [LoginModal.LoginWithKakao]
 #. defaultMessage is:
 #. Login with Kakao
-#: translations/.messages/src/app/components/Login/index.json
+#: translations/.messages/src/app/components/Login/Login.json
 msgid "Login with Kakao"
 msgstr "Iniciar sesión con Kakao"
 
 #. [LoginModal.LoginWithLine]
 #. defaultMessage is:
 #. Login with Line
-#: translations/.messages/src/app/components/Login/index.json
+#: translations/.messages/src/app/components/Login/Login.json
 msgid "Login with Line"
 msgstr "Iniciar sesión con Line"
 
 #. [LoginModal.LoginWithPhone]
 #. defaultMessage is:
 #. Login with Phone
-#: translations/.messages/src/app/components/Login/index.json
+#: translations/.messages/src/app/components/Login/Login.json
 msgid "Login with Phone"
 msgstr "Iniciar sesión con el teléfono"
 
 #. [LoginModal.LoginWithScatter]
 #. defaultMessage is:
 #. Login with Scatter
-#: translations/.messages/src/app/components/Login/index.json
+#: translations/.messages/src/app/components/Login/Login.json
 msgid "Login with Scatter"
 msgstr "Iniciar sesión con Scatter"
 
 #. [Login.LoginWithScatterBlockchain]
 #. defaultMessage is:
 #. Login with Scatter to use your existing EOS blockchain account.
-#: translations/.messages/src/app/components/Login/index.json
+#: translations/.messages/src/app/components/Login/Login.json
 msgid "Login with Scatter to use your existing EOS blockchain account."
 msgstr "Ingresa con Scatter para usar tu cuenta de EOS blockchain existente."
 
 #. [LoginModal.LoginWithTokenPocket]
 #. defaultMessage is:
 #. Login with TokenPocket
-#: translations/.messages/src/app/components/Login/index.json
+#: translations/.messages/src/app/components/Login/Login.json
 msgid "Login with TokenPocket"
 msgstr "Iniciar sesión con TokenPocket"
 
 #. [LoginModal.LoginWithTwitter]
 #. defaultMessage is:
 #. Login with Twitter
-#: translations/.messages/src/app/components/Login/index.json
+#: translations/.messages/src/app/components/Login/Login.json
 msgid "Login with Twitter"
 msgstr "Iniciar sesión con Twitter"
 
@@ -2902,6 +3079,27 @@ msgstr "Combinado"
 #: translations/.messages/src/app/components/Chat/messages.json
 msgid "Messages"
 msgstr "Mensajes"
+
+#. [DashboardComponent.MigrateFromOreID]
+#. defaultMessage is:
+#. Migrate Now
+#: translations/.messages/src/app/containers/dashboard/dashboard_component.json
+msgid "Migrate Now"
+msgstr "Editar ahora"
+
+#. [LoginModal.MigrateFromOreID]
+#. defaultMessage is:
+#. Migrate from OreID
+#: translations/.messages/src/app/containers/dashboard/dashboard_component.json
+msgid "Migrate from OreID"
+msgstr ""
+
+#. [EpIdLogin.MinimumPasswordLength]
+#. defaultMessage is:
+#. Minimum password length is 8
+#: translations/.messages/src/app/components/Login/epid-login.modal.json
+msgid "Minimum password length is 8"
+msgstr ""
 
 #. [Errors.MobileEditingComing]
 #. defaultMessage is:
@@ -3233,7 +3431,7 @@ msgstr "Otro"
 #. [LoginModal.OtherLoginOptions]
 #. defaultMessage is:
 #. Other Login Options
-#: translations/.messages/src/app/components/Login/index.json
+#: translations/.messages/src/app/components/Login/Login.json
 msgid "Other Login Options"
 msgstr "Otras opciones de Iniciar Sesion"
 
@@ -3351,6 +3549,17 @@ msgstr "Vistas de página"
 #: translations/.messages/src/app/components/Chat/messages.json
 msgid "Participants"
 msgstr "Participantes"
+
+#. [EpIdLogin.Password]
+#. defaultMessage is:
+#. Password
+#. [EpIdLogin.Password]
+#. defaultMessage is:
+#. Password
+#: translations/.messages/src/app/components/Login/epid-login.modal.json
+#: translations/.messages/src/app/components/Login/epid-register.modal.json
+msgid "Password"
+msgstr "palabras"
 
 #. [SearchResults.People]
 #. defaultMessage is:
@@ -3570,7 +3779,11 @@ msgstr "Privacidad"
 #. [CustomCookieBanner.PrivacyPolicy]
 #. defaultMessage is:
 #. Privacy Policy
+#. [EpIdRegister.PrivacyPolicy]
+#. defaultMessage is:
+#. Privacy Policy
 #: translations/.messages/src/app/components/custom-cookie-banner/index.json
+#: translations/.messages/src/app/components/Login/epid-register.modal.json
 msgid "Privacy Policy"
 msgstr "Privacidad"
 
@@ -3660,7 +3873,7 @@ msgstr "Preguntas frecuentes"
 #. [Login.QuicklyLoginSocialAccount]
 #. defaultMessage is:
 #. Quickly login or create a new account to make edits, create articles, vote, and more!
-#: translations/.messages/src/app/components/Login/index.json
+#: translations/.messages/src/app/components/Login/Login.json
 msgid ""
 "Quickly login or create a new account to make edits, create articles, vote, "
 "and more!"
@@ -3702,6 +3915,13 @@ msgstr ""
 #: translations/.messages/src/app/components/content-top-nav/index.json
 msgid "Read"
 msgstr "Leído"
+
+#. [Dashboard.IQTab.Receive]
+#. defaultMessage is:
+#. Receive
+#: translations/.messages/src/app/containers/dashboard/MyUserDashboard/IQTab.json
+msgid "Receive"
+msgstr ""
 
 #. [RecentActivity.ContainerTitle]
 #. defaultMessage is:
@@ -3746,6 +3966,20 @@ msgstr "Redireccionamiento a la página de autenticación de ORE ID"
 #: translations/.messages/src/editor/editor.container.json
 msgid "References"
 msgstr "Referencias"
+
+#. [LoginModal.RegisterWithEmail]
+#. defaultMessage is:
+#. Register with Email
+#: translations/.messages/src/app/components/Login/Login.json
+msgid "Register with Email"
+msgstr "Iniciar sesión con correo electrónico"
+
+#. [EpIdLogin.RegistrationSuccessfulWithPunctuation]
+#. defaultMessage is:
+#. Registration Successful!
+#: translations/.messages/src/app/components/Login/epid-register.modal.json
+msgid "Registration Successful!"
+msgstr "La transacción se ha realizado con éxito"
 
 #. [SubmitVoteConfirmation.Reject]
 #. defaultMessage is:
@@ -3830,6 +4064,13 @@ msgstr "Responder"
 #: translations/.messages/src/app/containers/contact-us/messages.json
 msgid "Report a Bug"
 msgstr "Informar de un error"
+
+#. [EpIdLogin.ResetPassword]
+#. defaultMessage is:
+#. Reset Password
+#: translations/.messages/src/app/components/Login/epid-login.modal.json
+msgid "Reset Password"
+msgstr ""
 
 #. [Stats.RestrictedArea]
 #. defaultMessage is:
@@ -3997,7 +4238,7 @@ msgstr "Por favor, seleccione una categoría de comentarios"
 #. [LoginModal.SelectOtherSocial]
 #. defaultMessage is:
 #. Select Other Social Login Option
-#: translations/.messages/src/app/components/Login/index.json
+#: translations/.messages/src/app/components/Login/Login.json
 msgid "Select Other Social Login Option"
 msgstr "Seleccione otra opción de inicio de sesión social"
 
@@ -4025,7 +4266,11 @@ msgstr "Seleccione un motivo diferente"
 #. [Chat.Send]
 #. defaultMessage is:
 #. Send
+#. [Dashboard.IQTab.Send]
+#. defaultMessage is:
+#. Send
 #: translations/.messages/src/app/components/Chat/ChatInput.json
+#: translations/.messages/src/app/containers/dashboard/MyUserDashboard/IQTab.json
 msgid "Send"
 msgstr "Enviar"
 
@@ -4046,12 +4291,26 @@ msgstr "Agregar otro"
 msgid "Send a message to other editors"
 msgstr "Enviar un mensaje a otros editores"
 
+#. [Dashboard.IQTab.SendTo]
+#. defaultMessage is:
+#. Send to
+#: translations/.messages/src/app/containers/dashboard/MyUserDashboard/IQTab.json
+msgid "Send to"
+msgstr "Enviar"
+
 #. [ContactUs.sendUsMessage]
 #. defaultMessage is:
 #. Send us a message
 #: translations/.messages/src/app/containers/contact-us/messages.json
 msgid "Send us a message"
 msgstr "Envíenos un mensaje"
+
+#. [Dashboard.IQTab.Sending]
+#. defaultMessage is:
+#. Sending
+#: translations/.messages/src/app/containers/dashboard/MyUserDashboard/IQTab.json
+msgid "Sending"
+msgstr "Enviar"
 
 #. [NewPageTemplate.NPT_Organization_Services]
 #. defaultMessage is:
@@ -4084,6 +4343,9 @@ msgstr "Mostrar todas las citas"
 #. [LearnMore.SignUp]
 #. defaultMessage is:
 #. Sign Up
+#. [EpIdLogin.Signup]
+#. defaultMessage is:
+#. Sign Up
 #. [AccountNameHeader.SignUp]
 #. defaultMessage is:
 #. Sign Up
@@ -4094,6 +4356,7 @@ msgstr "Mostrar todas las citas"
 #. defaultMessage is:
 #. Sign Up
 #: translations/.messages/src/app/components/learn-more/index.json
+#: translations/.messages/src/app/components/Login/epid-login.modal.json
 #: translations/.messages/src/app/components/TopNav/account-name-header.json
 #: translations/.messages/src/app/containers/about/last-block.json
 #: translations/.messages/src/app/utils/errors.json
@@ -4229,6 +4492,13 @@ msgstr "Enviar ediciones de artículos"
 msgid "Submitting Your Article Edit"
 msgstr "Envío de su artículo Editar"
 
+#. [EpIdLogin.SuccessExclamation]
+#. defaultMessage is:
+#. Success!
+#: translations/.messages/src/app/components/Login/epid-login.modal.json
+msgid "Success!"
+msgstr ""
+
 #. [SubmitVoteConfirmation.Success]
 #. defaultMessage is:
 #. Successfully Voted!
@@ -4336,7 +4606,11 @@ msgstr "Teléfono"
 #. [Footer.Terms]
 #. defaultMessage is:
 #. Terms
+#. [EpIdRegister.Terms]
+#. defaultMessage is:
+#. Terms
 #: translations/.messages/src/app/components/Footer/index.json
+#: translations/.messages/src/app/components/Login/epid-register.modal.json
 msgid "Terms"
 msgstr "Términos"
 
@@ -4613,6 +4887,13 @@ msgstr "Para editar o crear un artículo, necesitas una cuenta de Everipedia."
 msgid "Today"
 msgstr ""
 
+#. [EpIdLogin.ErrorTooManyAttempts]
+#. defaultMessage is:
+#. Too many login attempts. Please try again later.
+#: translations/.messages/src/app/components/Login/epid-login.modal.json
+msgid "Too many login attempts. Please try again later."
+msgstr ""
+
 #. [Dashboard.TotalBalance]
 #. defaultMessage is:
 #. Total Balance
@@ -4674,7 +4955,7 @@ msgstr "Volver a intentarlo"
 #. [Login.TryAgain]
 #. defaultMessage is:
 #. Try again
-#: translations/.messages/src/app/components/Login/index.json
+#: translations/.messages/src/app/components/Login/Login.json
 #: translations/.messages/src/app/containers/wallet-login/wallet-login.container.json
 msgid "Try again"
 msgstr "Inténtalo de nuevo"
@@ -4717,6 +4998,13 @@ msgstr "Slug de la URL"
 #: translations/.messages/src/editor/plugins/metadata/metadata-modal.json
 msgid "URL Slug Alt"
 msgstr "URL Slug Alt"
+
+#. [EpIdLogin.ErrorUndefined]
+#. defaultMessage is:
+#. Undefined error: please try again.
+#: translations/.messages/src/app/components/Login/epid-login.modal.json
+msgid "Undefined error: please try again."
+msgstr "Por favor inténtelo de nuevo"
 
 #. [MainItem.Updated]
 #. defaultMessage is:
@@ -4764,7 +5052,15 @@ msgstr "Subiendo..."
 #. [EditProfile.Username]
 #. defaultMessage is:
 #. Username
+#. [EpIdLogin.Username]
+#. defaultMessage is:
+#. Username
+#. [EpIdLogin.Username]
+#. defaultMessage is:
+#. Username
 #: translations/.messages/src/app/components/edit-profile/index.json
+#: translations/.messages/src/app/components/Login/epid-login.modal.json
+#: translations/.messages/src/app/components/Login/epid-register.modal.json
 msgid "Username"
 msgstr ""
 
@@ -4867,6 +5163,14 @@ msgstr "Ver transacción de cadena de bloques"
 #: translations/.messages/src/app/components/Chat/ChatItem.json
 msgid "View edit"
 msgstr "Ver edición"
+
+#. [SaveModalAgain.ViewTransaction]
+#. defaultMessage is:
+#. View transaction
+#: translations/.messages/src/app/containers/dashboard/MyUserDashboard/IQTab.json
+
+msgid "View transaction"
+msgstr "Ver Transacción"
 
 #. [SearchResults.Views]
 #. defaultMessage is:
@@ -5050,7 +5354,7 @@ msgstr ""
 #. [LoginModal.WaitAMomentWhileWeLoad]
 #. defaultMessage is:
 #. Wait a moment while we load your wallet – If you don’t see the wallet window, check if it has loaded behind your current window.
-#: translations/.messages/src/app/components/Login/index.json
+#: translations/.messages/src/app/components/Login/Login.json
 msgid ""
 "Wait a moment while we load your wallet – If you don’t see the wallet "
 "window, check if it has loaded behind your current window."
@@ -5091,6 +5395,15 @@ msgstr ""
 msgid "Warning"
 msgstr "Advertencia"
 
+#. [EditProfile.WarningEpId]
+#. defaultMessage is:
+#. Warning: Your public profile will be visible to everyone
+#: translations/.messages/src/app/components/edit-profile/index.json
+msgid "Warning: Your public profile will be visible to everyone"
+msgstr ""
+"Advertencia: Su perfil público será visible para todos y se almacenará en la "
+"cadena"
+
 #. [EditProfile.Warning]
 #. defaultMessage is:
 #. Warning: Your public profile will be visible to everyone and stored on-chain
@@ -5100,6 +5413,17 @@ msgid ""
 msgstr ""
 "Advertencia: Su perfil público será visible para todos y se almacenará en la "
 "cadena"
+
+#. [EpIdLogin.WeNowUse]
+#. defaultMessage is:
+#. We now use EPID for all users who wish to login with a social account or email. As part of this process, you will be prompted to create a new account. If you have an existing account, you will be asked to merge it with youur new account in order to retain your edit history and IQ balance.
+#: translations/.messages/src/app/components/Login/EPIDExplanationModal.json
+msgid ""
+"We now use EPID for all users who wish to login with a social account or "
+"email. As part of this process, you will be prompted to create a new "
+"account. If you have an existing account, you will be asked to merge it with "
+"youur new account in order to retain your edit history and IQ balance."
+msgstr ""
 
 #. [MergeModalAgain.WeReceivedTheFollowingError]
 #. defaultMessage is:
@@ -5111,6 +5435,13 @@ msgstr ""
 #: translations/.messages/src/editor/plugins/save/save-modal.json
 msgid "We received the following error"
 msgstr "Recibimos el siguiente error"
+
+#. [EpIdLogin.WellEmailInstructions]
+#. defaultMessage is:
+#. We will email you instructions on how to reset your password.
+#: translations/.messages/src/app/components/Login/epid-login.modal.json
+msgid "We will email you instructions on how to reset your password."
+msgstr ""
 
 #. [ContactUs.WedLoveToHearFromYou]
 #. defaultMessage is:
@@ -5139,6 +5470,13 @@ msgstr "¿Qué es el coeficiente intelectual?"
 #: translations/.messages/src/shared/components/DynamicAppHead/index.json
 msgid "Wiki Encyclopedia of Everything - Everipedia"
 msgstr "Wiki Enciclopedia de todo - Everipedia"
+
+#. [Dashboard.IQTab.SendSuccessful]
+#. defaultMessage is:
+#. Withdrawal Successful:
+#: translations/.messages/src/app/containers/dashboard/MyUserDashboard/IQTab.json
+msgid "Withdrawal Successful:"
+msgstr "Su voto fue un éxito"
 
 #. [AccountNameHeader.Worth]
 #. defaultMessage is:
@@ -5500,7 +5838,7 @@ msgstr "Intercambios compatibles"
 #. [Login.Or]
 #. defaultMessage is:
 #. or
-#: translations/.messages/src/app/components/Login/index.json
+#: translations/.messages/src/app/components/Login/Login.json
 msgid "or"
 msgstr "o"
 
@@ -5643,6 +5981,18 @@ msgstr "fue iniciada por"
 #: translations/.messages/src/app/components/SubmitVote/EditOverview.json
 msgid "words"
 msgstr "palabras"
+
+#~ msgid ""
+#~ "Enter the code that was sent to your email address. If you haven't "
+#~ "received a code, go back and try again."
+#~ msgstr ""
+#~ "Introduzca el código que se le envió a su dirección de correo "
+#~ "electrónico. Si no has recibido un código, vuelve e inténtalo de nuevo."
+
+#~ msgid "Enter your email and we'll send a code to that email address."
+#~ msgstr ""
+#~ "Ingrese su correo electrónico y le enviaremos un código a esa dirección "
+#~ "de correo electrónico."
 
 #~ msgid "about EOS and IQ"
 #~ msgstr "sobre EOS e IQ, o"
@@ -5834,9 +6184,6 @@ msgstr "palabras"
 #~ msgid "Transaction failed!"
 #~ msgstr "TRANSACCIÓN FALLIDA!"
 
-#~ msgid "Transaction successful!"
-#~ msgstr "La transacción se ha realizado con éxito"
-
 #~ msgid "Undo Changes"
 #~ msgstr "Anular Cambios"
 
@@ -5868,9 +6215,6 @@ msgstr "palabras"
 
 #~ msgid "ISBN (Book)"
 #~ msgstr "ISBN (Libro)"
-
-#~ msgid "Login / Create Account"
-#~ msgstr "Iniciar sesión / Crear una cuenta"
 
 #~ msgid ""
 #~ "To make an edit or create an article, you need an Everipedia account. You "
