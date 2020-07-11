@@ -1671,8 +1671,7 @@ msgid ""
 "have a citation. This allows for a much broader scope of content in the "
 "knowledge base."
 msgstr ""
-"하나의 인용만 있어도 그것에 대한 글을 작성할 수 있습니다. 이를 통해 지적 자산"
-"의 폭을 넓혀갑니다."
+"하나의 인용만 있어도 그것에 대한 글을 작성할 수 있으며, 이를 통해 지적 자산의 폭을 넓혀갑니다."
 
 #. [About.LearnMore]
 #. defaultMessage is:
@@ -2288,7 +2287,7 @@ msgstr "오른쪽 삽입"
 msgid ""
 "It appears you are using a browser other than TokenPocket. Please open your "
 "TokenPocket app and try again."
-msgstr ""
+msgstr "토큰포켓 지갑에 로그인하여 다시 시도해주세요"
 
 #. [EditorDraftContinuationGuard.Unsaved]
 #. defaultMessage is:
@@ -2442,7 +2441,7 @@ msgstr "자세히 알아보기"
 #. Learn how to set up an EOS account
 #: translations/.messages/src/app/containers/iq-info/iq-info.container.json
 msgid "Learn how to set up an EOS account"
-msgstr ""
+msgstr "이오스 계정 만들기"
 
 #. [IQInfo.LearnMore]
 #. defaultMessage is:
