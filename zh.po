@@ -46,7 +46,7 @@ msgstr "在下面留言以开始对话"
 #.  and 
 #: translations/.messages/src/app/components/Login/epid-register.modal.json
 msgid " and "
-msgstr ""
+msgstr "和"
 
 #. [Errors.IfYouThinkYouAre]
 #. defaultMessage is:
@@ -160,7 +160,7 @@ msgstr "7天"
 msgid ""
 "A link to reset your password has been sent to your email. You can now use "
 "your new password to log into your account."
-msgstr ""
+msgstr "一个重置密码的链接已经发送到您的电子邮件。您现在可以用您的新密码登录您的账户了。"
 
 #. [Homepage.UniverseOfKnowledge]
 #. defaultMessage is:
@@ -518,7 +518,8 @@ msgstr "涉及成人内容"
 msgid ""
 "After creating a new account, we will prompt you to merge accounts you can "
 "always merge your account from your account dashboard."
-msgstr ""
+msgstr "在创建一个新帐户后，我们将提示您合并帐户。您总是可以从您的帐户仪表板合并您
+"的帐户。"
 
 #. [Leaderboard.AllTime]
 #. defaultMessage is:
@@ -645,7 +646,7 @@ msgstr "可用余额"
 #: translations/.messages/src/app/components/Login/epid-login.modal.json
 #: translations/.messages/src/app/components/Login/epid-register.modal.json
 msgid "Back"
-msgstr ""
+msgstr "返回"
 
 #. [Dashboard.IQTab.BalanceActivity]
 #. defaultMessage is:
@@ -1016,7 +1017,7 @@ msgstr "单击以对此编辑进行投票"
 #: translations/.messages/src/app/components/Login/epid-login.modal.json
 #: translations/.messages/src/app/components/Login/epid-register.modal.json
 msgid "Close"
-msgstr ""
+msgstr "关闭"
 
 #. [ThirdBlock.CoFounderWikipedia]
 #. defaultMessage is:
@@ -1286,7 +1287,7 @@ msgstr "天"
 #. Dashboard
 #: translations/.messages/src/app/containers/dashboard/MyUserDashboard/TopNav.json
 msgid "Dashboard"
-msgstr ""
+msgstr "仪表板"
 
 #. [NewPageTemplate.NPT_CreativeWork_Date_Created]
 #. defaultMessage is:
@@ -1434,7 +1435,7 @@ msgstr "嵌入尺寸"
 #. EOS Memo:
 #: translations/.messages/src/app/containers/dashboard/MyUserDashboard/IQTab.json
 msgid "EOS Memo:"
-msgstr ""
+msgstr "EOS 备注："
 
 #. [ActivityCards.ExpiringSoon]
 #. defaultMessage is:
@@ -1812,7 +1813,8 @@ msgstr ""
 msgid ""
 "Everipedia uses cookies to provide you with a great user experience. "
 "Everipedia will never sell any personal information."
-msgstr ""
+msgstr "Everipedia使用cookie为您提供良好的用户体验。"
+"Everipedia永远不会出售任何个人信息。”"
 
 #. [About.ModernDesignText]
 #. defaultMessage is:
@@ -1981,14 +1983,14 @@ msgstr "第一次编辑"
 #. Forgot Password
 #: translations/.messages/src/app/components/Login/epid-login.modal.json
 msgid "Forgot Password"
-msgstr ""
+msgstr "忘记密码"
 
 #. [EpIdLogin.ForgotPasswordQuestion]
 #. defaultMessage is:
 #. Forgot Password?
 #: translations/.messages/src/app/components/Login/epid-login.modal.json
 msgid "Forgot Password?"
-msgstr ""
+msgstr "忘记密码？"
 
 #. [CommentUtils.Formatting]
 #. defaultMessage is:
@@ -2184,7 +2186,7 @@ msgstr "我应该使用多少IQ来进行投票？"
 #. How to merge your accounts?
 #: translations/.messages/src/app/components/Login/EPIDExplanationModal.json
 msgid "How to merge your accounts?"
-msgstr ""
+msgstr "如何合并您的帐户?"
 
 #. [EpIdRegister.IAcceptThe]
 #. defaultMessage is:
@@ -2209,7 +2211,7 @@ msgstr ""
 #. I would like to recieve emails from Everipedia
 #: translations/.messages/src/app/components/Login/epid-register.modal.json
 msgid "I would like to recieve emails from Everipedia"
-msgstr ""
+msgstr "我愿意接收Everipedia的电子邮件"
 
 #. [InTheNews.InTheNews]
 #. defaultMessage is:
@@ -2445,7 +2447,7 @@ msgstr "在右边插入"
 msgid ""
 "It appears you are using a browser other than TokenPocket. Please open your "
 "TokenPocket app and try again."
-msgstr ""
+msgstr "似乎您使用的不是TokenPocket浏览器。请打开您的TokenPocket应用程序，然后再试一次。"
 
 #. [EditorDraftContinuationGuard.Unsaved]
 #. defaultMessage is:
@@ -2472,7 +2474,8 @@ msgstr "项目"
 msgid ""
 "Join thousands of others in receiving the most interesting wikis on "
 "Everipedia every week"
-msgstr ""
+msgstr "和成千上万的人一起接受每周最有趣"
+"的维基内容"
 
 #. [Login.JustGettingStarted]
 #. defaultMessage is:
@@ -2599,7 +2602,7 @@ msgstr "了解方法"
 #. Learn how to set up an EOS account
 #: translations/.messages/src/app/containers/iq-info/iq-info.container.json
 msgid "Learn how to set up an EOS account"
-msgstr ""
+msgstr "学习如何创建一个EOS账户"
 
 #. [IQInfo.LearnMore]
 #. defaultMessage is:
@@ -3861,7 +3864,7 @@ msgstr "最近更新"
 #. REWARDS
 #: translations/.messages/src/app/containers/leaderboard/leaderboard.container.json
 msgid "REWARDS"
-msgstr ""
+msgstr "奖励"
 
 #. [TopNav.Read]
 #. defaultMessage is:
@@ -3875,7 +3878,7 @@ msgstr "已读"
 #. Receive
 #: translations/.messages/src/app/containers/dashboard/MyUserDashboard/IQTab.json
 msgid "Receive"
-msgstr ""
+msgstr "接收"
 
 #. [RecentActivity.ContainerTitle]
 #. defaultMessage is:
@@ -4024,7 +4027,7 @@ msgstr "报告程序错误"
 #. Reset Password
 #: translations/.messages/src/app/components/Login/epid-login.modal.json
 msgid "Reset Password"
-msgstr ""
+msgstr "重置密码"
 
 #. [Stats.RestrictedArea]
 #. defaultMessage is:
@@ -4449,7 +4452,7 @@ msgstr "正在提交您的文章编辑"
 #. Success!
 #: translations/.messages/src/app/components/Login/epid-login.modal.json
 msgid "Success!"
-msgstr ""
+msgstr "成功！"
 
 #. [SubmitVoteConfirmation.Success]
 #. defaultMessage is:
@@ -5348,6 +5351,9 @@ msgid ""
 "account. If you have an existing account, you will be asked to merge it with "
 "youur new account in order to retain your edit history and IQ balance."
 msgstr ""
+"我们正在为那些希望通过社交媒体或者电子邮件登录的用户提供EPID.在此过程中，"
+"系统将提示您创建一个新帐户.如果您已经有一个账户，您将会被要求将其与您的"
+"旧账户合并，这样就可以保持您的编辑历史和IQ余额"
 
 #. [MergeModalAgain.WeReceivedTheFollowingError]
 #. defaultMessage is:
@@ -5365,7 +5371,7 @@ msgstr "我们收到以下错误"
 #. We will email you instructions on how to reset your password.
 #: translations/.messages/src/app/components/Login/epid-login.modal.json
 msgid "We will email you instructions on how to reset your password."
-msgstr ""
+msgstr "我们将通过电子邮件告知您如何重置密码"
 
 #. [ContactUs.WedLoveToHearFromYou]
 #. defaultMessage is:
