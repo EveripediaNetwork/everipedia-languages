@@ -1,7 +1,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: \n"
-"POT-Creation-Date: 2020-07-10T21:11:14.437Z\n"
+"POT-Creation-Date: 2020-07-13T14:21:11.375Z\n"
 "PO-Revision-Date: \n"
 "Last-Translator: \n"
 "Language-Team: \n"
@@ -203,11 +203,15 @@ msgstr "글 보기"
 #. [Stats.Articles]
 #. defaultMessage is:
 #. ARTICLES
+#. [SearchResults.ARTICLES]
+#. defaultMessage is:
+#. ARTICLES
 #. [Suggestions.Articles]
 #. defaultMessage is:
 #. ARTICLES
 #: translations/.messages/src/app/components/Search/SearchResults.json
 #: translations/.messages/src/app/containers/admin/admin.container.json
+#: translations/.messages/src/app/containers/searchResultsFull/searchResultsFull.container.json
 #: translations/.messages/src/editor/components/mentions/suggestions.json
 msgid "ARTICLES"
 msgstr "글"
@@ -309,6 +313,7 @@ msgstr "계정명"
 #. defaultMessage is:
 #. Account Update
 #: translations/.messages/src/app/components/Login/EPIDExplanationModal.json
+
 msgid "Account Update"
 msgstr "계정명"
 
@@ -318,8 +323,16 @@ msgstr "계정명"
 #. [SearchCard.ActiveVoting]
 #. defaultMessage is:
 #. Active Voting
+#. [SearchCategoryCard.ActiveVoting]
+#. defaultMessage is:
+#. Active Voting
+#. [SearchProfileCard.ActiveVoting]
+#. defaultMessage is:
+#. Active Voting
 #: translations/.messages/src/app/containers/category-results/categoryResultCard.json
 #: translations/.messages/src/app/containers/searchResultsFull/searchCard.json
+#: translations/.messages/src/app/containers/searchResultsFull/searchCategoryCard.json
+#: translations/.messages/src/app/containers/searchResultsFull/searchProfileCard.json
 msgid "Active Voting"
 msgstr "투표 진행중"
 
@@ -654,6 +667,7 @@ msgstr ""
 #. defaultMessage is:
 #. Balance Activity
 #: translations/.messages/src/app/containers/dashboard/MyUserDashboard/IQTab.json
+
 msgid "Balance Activity"
 msgstr "최근 활동"
 
@@ -714,8 +728,12 @@ msgstr "도서 ISBN"
 #. [SearchResults.Categories]
 #. defaultMessage is:
 #. CATEGORIES
+#. [SearchResults.CATEGORIES]
+#. defaultMessage is:
+#. CATEGORIES
 #: translations/.messages/src/app/components/ArticleComponent/CategoryBox.json
 #: translations/.messages/src/app/components/Search/SearchResults.json
+#: translations/.messages/src/app/containers/searchResultsFull/searchResultsFull.container.json
 msgid "CATEGORIES"
 msgstr "카테고리"
 
@@ -846,13 +864,6 @@ msgstr "직업"
 #: translations/.messages/src/app/components/Sidenav/index.json
 #: translations/.messages/src/app/utils/comment-utils.json
 msgid "Categories"
-msgstr "카테고리"
-
-#. [SaveModalAgain.CategoryLabel]
-#. defaultMessage is:
-#. Category
-#: translations/.messages/src/editor/plugins/save/save-modal-parts/comment-and-category.json
-msgid "Category"
 msgstr "카테고리"
 
 #. [About.CensorshipResistant]
@@ -1057,6 +1068,7 @@ msgstr "자주하는 질문"
 #. defaultMessage is:
 #. Confirm Password
 #: translations/.messages/src/app/components/Login/epid-register.modal.json
+
 msgid "Confirm Password"
 msgstr "투표 확인"
 
@@ -1189,6 +1201,7 @@ msgstr "국가"
 #. defaultMessage is:
 #. Create Account
 #: translations/.messages/src/app/components/Login/epid-register.modal.json
+
 msgid "Create Account"
 msgstr "로그인 / 계정 만들기"
 
@@ -1385,6 +1398,7 @@ msgstr "공개 이름은 세글자보다 길어야 합니다"
 #. defaultMessage is:
 #. Don't have an account?
 #: translations/.messages/src/app/components/Login/epid-login.modal.json
+
 msgid "Don't have an account?"
 msgstr "계정 만들기"
 
@@ -1593,6 +1607,7 @@ msgstr "이메일"
 #. defaultMessage is:
 #. Email Address
 #: translations/.messages/src/app/components/Login/epid-login.modal.json
+
 msgid "Email Address"
 msgstr "이메일 주소"
 
@@ -1710,6 +1725,7 @@ msgstr "오류"
 #. Error: 
 #: translations/.messages/src/app/components/Login/epid-login.modal.json
 #: translations/.messages/src/app/components/Login/epid-register.modal.json
+
 msgid "Error: "
 msgstr "오류"
 
@@ -1883,6 +1899,13 @@ msgstr "자주묻는 질문"
 #: translations/.messages/src/app/components/SubmitVote/ConfirmationModal.json
 msgid "Failed to Vote"
 msgstr "투표 실패"
+
+#. [ImageUploader.Failure to fetch]
+#. defaultMessage is:
+#. Failure to fetch. Please check the URL
+#: translations/.messages/src/shared/inputs/image-uploader/image-uploader.component.json
+msgid "Failure to fetch. Please check the URL"
+msgstr ""
 
 #. [NewPageTemplate.NPT_CreativeWork_Features]
 #. defaultMessage is:
@@ -2139,6 +2162,9 @@ msgstr "(좋아하는 것)"
 msgid "He/she was born in"
 msgstr "(출생지)"
 
+#. [TopNav.ViewHistory]
+#. defaultMessage is:
+#. History
 #. [NewPageTemplate.NPT_CreativeWork_History]
 #. defaultMessage is:
 #. History
@@ -2154,6 +2180,7 @@ msgstr "(출생지)"
 #. [NewPageTemplate.NPT_Product_History]
 #. defaultMessage is:
 #. History
+#: translations/.messages/src/app/components/content-top-nav/index.json
 #: translations/.messages/src/editor/utils/editing-utils/template-packs/creative-work.json
 #: translations/.messages/src/editor/utils/editing-utils/template-packs/event.json
 #: translations/.messages/src/editor/utils/editing-utils/template-packs/organization.json
@@ -2191,6 +2218,7 @@ msgstr ""
 #. defaultMessage is:
 #. I accept the 
 #: translations/.messages/src/app/components/Login/epid-register.modal.json
+
 msgid "I accept the "
 msgstr "투표 완료"
 
@@ -2544,7 +2572,15 @@ msgstr ""
 #. [SearchCard.LastEdited]
 #. defaultMessage is:
 #. Last Edited
+#. [SearchCategoryCard.LastEdited]
+#. defaultMessage is:
+#. Last Edited
+#. [SearchProfileCard.LastEdited]
+#. defaultMessage is:
+#. Last Edited
 #: translations/.messages/src/app/containers/searchResultsFull/searchCard.json
+#: translations/.messages/src/app/containers/searchResultsFull/searchCategoryCard.json
+#: translations/.messages/src/app/containers/searchResultsFull/searchProfileCard.json
 msgid "Last Edited"
 msgstr "최근 편집"
 
@@ -2701,6 +2737,7 @@ msgstr "로딩 중"
 #. defaultMessage is:
 #. Loading...
 #: translations/.messages/src/app/containers/login/login.container.json
+
 msgid "Loading..."
 msgstr "로딩 중"
 
@@ -2774,6 +2811,7 @@ msgstr "로그인"
 #. defaultMessage is:
 #. Login Successful!
 #: translations/.messages/src/app/components/Login/epid-login.modal.json
+
 msgid "Login Successful!"
 msgstr "제출 완료"
 
@@ -2817,6 +2855,7 @@ msgstr "로그인해서 채팅 참여하기"
 #. Login with Email
 #: translations/.messages/src/app/components/Login/epid-login.modal.json
 #: translations/.messages/src/app/components/Login/Login.json
+
 msgid "Login with Email"
 msgstr "이메일 로그인"
 
@@ -3046,6 +3085,7 @@ msgstr "메시지"
 #. defaultMessage is:
 #. Migrate Now
 #: translations/.messages/src/app/containers/dashboard/dashboard_component.json
+
 msgid "Migrate Now"
 msgstr "편집하기"
 
@@ -3447,7 +3487,11 @@ msgstr "제품"
 #. [SearchResults.Profiles]
 #. defaultMessage is:
 #. PROFILES
+#. [SearchResults.PROFILES]
+#. defaultMessage is:
+#. PROFILES
 #: translations/.messages/src/app/components/Search/SearchResults.json
+#: translations/.messages/src/app/containers/searchResultsFull/searchResultsFull.container.json
 msgid "PROFILES"
 msgstr "프로필"
 
@@ -3515,6 +3559,7 @@ msgstr "참여자"
 #. Password
 #: translations/.messages/src/app/components/Login/epid-login.modal.json
 #: translations/.messages/src/app/components/Login/epid-register.modal.json
+
 msgid "Password"
 msgstr "단어"
 
@@ -3720,9 +3765,17 @@ msgstr "사장"
 #. [SearchCard.PreviewNotAvailable]
 #. defaultMessage is:
 #. Preview Not Available
+#. [SearchCategoryCard.PreviewNotAvailable]
+#. defaultMessage is:
+#. Preview Not Available
+#. [SearchProfileCard.PreviewNotAvailable]
+#. defaultMessage is:
+#. Preview Not Available
 #: translations/.messages/src/app/components/ActivityCards/ActivityCard.json
 #: translations/.messages/src/app/containers/category-results/categoryResultCard.json
 #: translations/.messages/src/app/containers/searchResultsFull/searchCard.json
+#: translations/.messages/src/app/containers/searchResultsFull/searchCategoryCard.json
+#: translations/.messages/src/app/containers/searchResultsFull/searchProfileCard.json
 msgid "Preview Not Available"
 msgstr "미리보기 사용불가"
 
@@ -3926,6 +3979,7 @@ msgstr "인용"
 #. defaultMessage is:
 #. Register with Email
 #: translations/.messages/src/app/components/Login/Login.json
+
 msgid "Register with Email"
 msgstr "이메일 로그인"
 
@@ -3933,6 +3987,7 @@ msgstr "이메일 로그인"
 #. defaultMessage is:
 #. Registration Successful!
 #: translations/.messages/src/app/components/Login/epid-register.modal.json
+
 msgid "Registration Successful!"
 msgstr "제출 완료"
 
@@ -4249,6 +4304,7 @@ msgstr "다른 편집자에게 메시지 보내기"
 #. defaultMessage is:
 #. Send to
 #: translations/.messages/src/app/containers/dashboard/MyUserDashboard/IQTab.json
+
 msgid "Send to"
 msgstr "보내기"
 
@@ -4263,6 +4319,7 @@ msgstr "메시지를 보내주세요"
 #. defaultMessage is:
 #. Sending
 #: translations/.messages/src/app/containers/dashboard/MyUserDashboard/IQTab.json
+
 msgid "Sending"
 msgstr "보내기"
 
@@ -4794,9 +4851,17 @@ msgstr "저장하지 않은 편집이 있는것 같습니다. 계속 하시겠�
 #. [SearchCard.TitleNotAvailable]
 #. defaultMessage is:
 #. Title Not Available
+#. [SearchCategoryCard.TitleNotAvailable]
+#. defaultMessage is:
+#. Title Not Available
+#. [SearchProfileCard.TitleNotAvailable]
+#. defaultMessage is:
+#. Title Not Available
 #: translations/.messages/src/app/components/ActivityCards/ActivityCard.json
 #: translations/.messages/src/app/containers/category-results/categoryResultCard.json
 #: translations/.messages/src/app/containers/searchResultsFull/searchCard.json
+#: translations/.messages/src/app/containers/searchResultsFull/searchCategoryCard.json
+#: translations/.messages/src/app/containers/searchResultsFull/searchProfileCard.json
 msgid "Title Not Available"
 msgstr "제목 없음"
 
@@ -4904,6 +4969,14 @@ msgstr "다시 시도하세요"
 msgid "Type"
 msgstr "유형"
 
+#. [SaveModalAgain.TypeOfEditLabel]
+#. defaultMessage is:
+#. Type of Edit
+#: translations/.messages/src/editor/plugins/save/save-modal-parts/comment-and-category.json
+
+msgid "Type of Edit"
+msgstr "편집 없음"
+
 #. [CategoriesModal.SelectCategories]
 #. defaultMessage is:
 #. Type to search categories
@@ -4936,6 +5009,7 @@ msgstr "웹 주소 슬러그 Alt"
 #. defaultMessage is:
 #. Undefined error: please try again.
 #: translations/.messages/src/app/components/Login/epid-login.modal.json
+
 msgid "Undefined error: please try again."
 msgstr "다시 시도하세요"
 
@@ -5067,13 +5141,6 @@ msgstr "편집 보기"
 #. View Full List
 #: translations/.messages/src/app/containers/homepageContainer/leaderboard.json
 msgid "View Full List"
-msgstr "기록 보기"
-
-#. [TopNav.ViewHistory]
-#. defaultMessage is:
-#. View History
-#: translations/.messages/src/app/components/content-top-nav/index.json
-msgid "View History"
 msgstr "기록 보기"
 
 #. [SubmitVoteConfirmation.ViewTransaction]
@@ -5222,13 +5289,6 @@ msgstr "주"
 msgid "WIKIS"
 msgstr "글"
 
-#. [SaveModalAgain.WaitAMomentOneLynx]
-#. defaultMessage is:
-#. Wait a moment while we load Lynx.
-#: translations/.messages/src/editor/plugins/save/save-modal.json
-msgid "Wait a moment while we load Lynx."
-msgstr "Lynx 실행 중입니다"
-
 #. [SaveModalAgain.txLoadScatter]
 #. defaultMessage is:
 #. Wait a moment while we load Scatter.  If you do not see the Scatter window, check if it has loaded behind your current window.
@@ -5240,7 +5300,7 @@ msgstr ""
 "스캐터를 실행 중입니다. 스캐터 창이 보이지 않으면 현재 창 뒤에 있는지 확인하"
 "세요."
 
-#. [SaveModalAgain.WaitAMomentOne]
+#. [SaveModalAgain.WaitAMomentScatter]
 #. defaultMessage is:
 #. Wait a moment while we load Scatter. If you don’t see the Scatter window, check if it has loaded behind your current window.
 #: translations/.messages/src/editor/plugins/save/save-modal.json
@@ -5258,6 +5318,14 @@ msgstr ""
 msgid "Wait a moment while we load the Lynx transaction window."
 msgstr "Lynx 트랜잭션 실행 중입니다"
 
+#. [SaveModalAgain.WaitAMomentTwo]
+#. defaultMessage is:
+#. Wait a moment while we load your account.
+#: translations/.messages/src/editor/plugins/save/save-modal.json
+
+msgid "Wait a moment while we load your account."
+msgstr "Lynx 실행 중입니다"
+
 #. [SaveModalAgain.txLoadOreId]
 #. defaultMessage is:
 #. Wait a moment while we load your account.  You will be redirected to OreID to confirm your proposed edit.  You may be required to enter the pin that you created when you set up your account.
@@ -5266,18 +5334,6 @@ msgid ""
 "Wait a moment while we load your account.  You will be redirected to OreID "
 "to confirm your proposed edit.  You may be required to enter the pin that "
 "you created when you set up your account."
-msgstr ""
-"계정을 실행하고 있습니다. 편집 제안을 ORE ID에서 확인합니다. 계정을 생성할때 "
-"입력한 핀 번호를 입력하세요"
-
-#. [SaveModalAgain.WaitAMomentTwo]
-#. defaultMessage is:
-#. Wait a moment while we load your account. You will be redirected to OreID to confirm your proposed edit. You may be required to enter the pin that you created when you set up your account.
-#: translations/.messages/src/editor/plugins/save/save-modal.json
-msgid ""
-"Wait a moment while we load your account. You will be redirected to OreID to "
-"confirm your proposed edit. You may be required to enter the pin that you "
-"created when you set up your account."
 msgstr ""
 "계정을 실행하고 있습니다. 편집 제안을 ORE ID에서 확인합니다. 계정을 생성할때 "
 "입력한 핀 번호를 입력하세요"
@@ -5326,6 +5382,7 @@ msgstr "주의"
 #. defaultMessage is:
 #. Warning: Your public profile will be visible to everyone
 #: translations/.messages/src/app/components/edit-profile/index.json
+
 msgid "Warning: Your public profile will be visible to everyone"
 msgstr "주의: 공개 프로필은 모든 사람에게 공개되며 블록체인에 저장됩니다"
 
@@ -5398,6 +5455,7 @@ msgstr "에브리피디아 - 모두의 온라인 위키 백과사전"
 #. defaultMessage is:
 #. Withdrawal Successful:
 #: translations/.messages/src/app/containers/dashboard/MyUserDashboard/IQTab.json
+
 msgid "Withdrawal Successful:"
 msgstr "투표 완료"
 
@@ -5832,10 +5890,18 @@ msgstr "FAQ 보기"
 #. [SearchCard.Views]
 #. defaultMessage is:
 #. views
+#. [SearchCategoryCard.Views]
+#. defaultMessage is:
+#. views
+#. [SearchProfileCard.Views]
+#. defaultMessage is:
+#. views
 #: translations/.messages/src/app/containers/category-results/categoryResultCard.json
 #: translations/.messages/src/app/containers/homepageContainer/mainItem.json
 #: translations/.messages/src/app/containers/homepageContainer/rightList.json
 #: translations/.messages/src/app/containers/searchResultsFull/searchCard.json
+#: translations/.messages/src/app/containers/searchResultsFull/searchCategoryCard.json
+#: translations/.messages/src/app/containers/searchResultsFull/searchProfileCard.json
 msgid "views"
 msgstr "조회수"
 
@@ -5900,6 +5966,9 @@ msgstr "시작"
 msgid "words"
 msgstr "단어"
 
+#~ msgid "Category"
+#~ msgstr "카테고리"
+
 #~ msgid ""
 #~ "Enter the code that was sent to your email address. If you haven't "
 #~ "received a code, go back and try again."
@@ -5909,6 +5978,17 @@ msgstr "단어"
 
 #~ msgid "Enter your email and we'll send a code to that email address."
 #~ msgstr "이메일을 입력하면 해당 이메일 주소로 코드가 전송됩니다."
+
+#~ msgid "View History"
+#~ msgstr "기록 보기"
+
+#~ msgid ""
+#~ "Wait a moment while we load your account. You will be redirected to OreID "
+#~ "to confirm your proposed edit. You may be required to enter the pin that "
+#~ "you created when you set up your account."
+#~ msgstr ""
+#~ "계정을 실행하고 있습니다. 편집 제안을 ORE ID에서 확인합니다. 계정을 생성할"
+#~ "때 입력한 핀 번호를 입력하세요"
 
 #~ msgid "about EOS and IQ"
 #~ msgstr "EOS와 IQ"

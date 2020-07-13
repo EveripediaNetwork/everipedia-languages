@@ -1,7 +1,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: \n"
-"POT-Creation-Date: 2020-07-10T21:11:14.437Z\n"
+"POT-Creation-Date: 2020-07-13T14:21:11.375Z\n"
 "PO-Revision-Date: \n"
 "Last-Translator: \n"
 "Language-Team: \n"
@@ -203,11 +203,15 @@ msgstr "VISTAS DEL ARTÍCULO"
 #. [Stats.Articles]
 #. defaultMessage is:
 #. ARTICLES
+#. [SearchResults.ARTICLES]
+#. defaultMessage is:
+#. ARTICLES
 #. [Suggestions.Articles]
 #. defaultMessage is:
 #. ARTICLES
 #: translations/.messages/src/app/components/Search/SearchResults.json
 #: translations/.messages/src/app/containers/admin/admin.container.json
+#: translations/.messages/src/app/containers/searchResultsFull/searchResultsFull.container.json
 #: translations/.messages/src/editor/components/mentions/suggestions.json
 msgid "ARTICLES"
 msgstr "ARTÍCULOS"
@@ -309,6 +313,7 @@ msgstr "Nombre de la cuenta"
 #. defaultMessage is:
 #. Account Update
 #: translations/.messages/src/app/components/Login/EPIDExplanationModal.json
+
 msgid "Account Update"
 msgstr "Nombre de la cuenta"
 
@@ -318,8 +323,16 @@ msgstr "Nombre de la cuenta"
 #. [SearchCard.ActiveVoting]
 #. defaultMessage is:
 #. Active Voting
+#. [SearchCategoryCard.ActiveVoting]
+#. defaultMessage is:
+#. Active Voting
+#. [SearchProfileCard.ActiveVoting]
+#. defaultMessage is:
+#. Active Voting
 #: translations/.messages/src/app/containers/category-results/categoryResultCard.json
 #: translations/.messages/src/app/containers/searchResultsFull/searchCard.json
+#: translations/.messages/src/app/containers/searchResultsFull/searchCategoryCard.json
+#: translations/.messages/src/app/containers/searchResultsFull/searchProfileCard.json
 msgid "Active Voting"
 msgstr "Voto Activo"
 
@@ -658,6 +671,7 @@ msgstr ""
 #. defaultMessage is:
 #. Balance Activity
 #: translations/.messages/src/app/containers/dashboard/MyUserDashboard/IQTab.json
+
 msgid "Balance Activity"
 msgstr "Ver Actividad"
 
@@ -718,8 +732,12 @@ msgstr "Código ISBN de la publicación."
 #. [SearchResults.Categories]
 #. defaultMessage is:
 #. CATEGORIES
+#. [SearchResults.CATEGORIES]
+#. defaultMessage is:
+#. CATEGORIES
 #: translations/.messages/src/app/components/ArticleComponent/CategoryBox.json
 #: translations/.messages/src/app/components/Search/SearchResults.json
+#: translations/.messages/src/app/containers/searchResultsFull/searchResultsFull.container.json
 msgid "CATEGORIES"
 msgstr "CATEGORÍAS"
 
@@ -851,13 +869,6 @@ msgstr "Carrera"
 #: translations/.messages/src/app/utils/comment-utils.json
 msgid "Categories"
 msgstr "Categorías"
-
-#. [SaveModalAgain.CategoryLabel]
-#. defaultMessage is:
-#. Category
-#: translations/.messages/src/editor/plugins/save/save-modal-parts/comment-and-category.json
-msgid "Category"
-msgstr "Categoría"
 
 #. [About.CensorshipResistant]
 #. defaultMessage is:
@@ -1064,6 +1075,7 @@ msgstr "Preguntas más frecuentes"
 #. defaultMessage is:
 #. Confirm Password
 #: translations/.messages/src/app/components/Login/epid-register.modal.json
+
 msgid "Confirm Password"
 msgstr "Confirme su voto"
 
@@ -1200,6 +1212,7 @@ msgstr "País"
 #. defaultMessage is:
 #. Create Account
 #: translations/.messages/src/app/components/Login/epid-register.modal.json
+
 msgid "Create Account"
 msgstr "Iniciar sesión / Crear una cuenta"
 
@@ -1396,6 +1409,7 @@ msgstr "El nombre para mostrar debe tener más de 3 caracteres"
 #. defaultMessage is:
 #. Don't have an account?
 #: translations/.messages/src/app/components/Login/epid-login.modal.json
+
 msgid "Don't have an account?"
 msgstr "Obtener una cuenta"
 
@@ -1606,6 +1620,7 @@ msgstr "Email"
 #. defaultMessage is:
 #. Email Address
 #: translations/.messages/src/app/components/Login/epid-login.modal.json
+
 msgid "Email Address"
 msgstr "Dirección de correo electrónico"
 
@@ -1725,6 +1740,7 @@ msgstr "Código de error"
 #. Error: 
 #: translations/.messages/src/app/components/Login/epid-login.modal.json
 #: translations/.messages/src/app/components/Login/epid-register.modal.json
+
 msgid "Error: "
 msgstr "Error"
 
@@ -1906,6 +1922,13 @@ msgstr "Preguntas Frecuentes"
 #: translations/.messages/src/app/components/SubmitVote/ConfirmationModal.json
 msgid "Failed to Vote"
 msgstr "No votó"
+
+#. [ImageUploader.Failure to fetch]
+#. defaultMessage is:
+#. Failure to fetch. Please check the URL
+#: translations/.messages/src/shared/inputs/image-uploader/image-uploader.component.json
+msgid "Failure to fetch. Please check the URL"
+msgstr ""
 
 #. [NewPageTemplate.NPT_CreativeWork_Features]
 #. defaultMessage is:
@@ -2162,6 +2185,9 @@ msgstr "A él/ella le gusta"
 msgid "He/she was born in"
 msgstr "Nació en"
 
+#. [TopNav.ViewHistory]
+#. defaultMessage is:
+#. History
 #. [NewPageTemplate.NPT_CreativeWork_History]
 #. defaultMessage is:
 #. History
@@ -2177,6 +2203,7 @@ msgstr "Nació en"
 #. [NewPageTemplate.NPT_Product_History]
 #. defaultMessage is:
 #. History
+#: translations/.messages/src/app/components/content-top-nav/index.json
 #: translations/.messages/src/editor/utils/editing-utils/template-packs/creative-work.json
 #: translations/.messages/src/editor/utils/editing-utils/template-packs/event.json
 #: translations/.messages/src/editor/utils/editing-utils/template-packs/organization.json
@@ -2214,6 +2241,7 @@ msgstr ""
 #. defaultMessage is:
 #. I accept the 
 #: translations/.messages/src/app/components/Login/epid-register.modal.json
+
 msgid "I accept the "
 msgstr "Voto aceptado"
 
@@ -2582,7 +2610,15 @@ msgstr ""
 #. [SearchCard.LastEdited]
 #. defaultMessage is:
 #. Last Edited
+#. [SearchCategoryCard.LastEdited]
+#. defaultMessage is:
+#. Last Edited
+#. [SearchProfileCard.LastEdited]
+#. defaultMessage is:
+#. Last Edited
 #: translations/.messages/src/app/containers/searchResultsFull/searchCard.json
+#: translations/.messages/src/app/containers/searchResultsFull/searchCategoryCard.json
+#: translations/.messages/src/app/containers/searchResultsFull/searchProfileCard.json
 msgid "Last Edited"
 msgstr "Última edición"
 
@@ -2739,6 +2775,7 @@ msgstr "Cargando.."
 #. defaultMessage is:
 #. Loading...
 #: translations/.messages/src/app/containers/login/login.container.json
+
 msgid "Loading..."
 msgstr "Cargando.."
 
@@ -2812,6 +2849,7 @@ msgstr "Iniciar sesión"
 #. defaultMessage is:
 #. Login Successful!
 #: translations/.messages/src/app/components/Login/epid-login.modal.json
+
 msgid "Login Successful!"
 msgstr "La transacción se ha realizado con éxito"
 
@@ -2855,6 +2893,7 @@ msgstr "Iniciar sesión para participar en el chat del artículo"
 #. Login with Email
 #: translations/.messages/src/app/components/Login/epid-login.modal.json
 #: translations/.messages/src/app/components/Login/Login.json
+
 msgid "Login with Email"
 msgstr "Iniciar sesión con correo electrónico"
 
@@ -3084,6 +3123,7 @@ msgstr "Mensajes"
 #. defaultMessage is:
 #. Migrate Now
 #: translations/.messages/src/app/containers/dashboard/dashboard_component.json
+
 msgid "Migrate Now"
 msgstr "Editar ahora"
 
@@ -3490,7 +3530,11 @@ msgstr ""
 #. [SearchResults.Profiles]
 #. defaultMessage is:
 #. PROFILES
+#. [SearchResults.PROFILES]
+#. defaultMessage is:
+#. PROFILES
 #: translations/.messages/src/app/components/Search/SearchResults.json
+#: translations/.messages/src/app/containers/searchResultsFull/searchResultsFull.container.json
 msgid "PROFILES"
 msgstr "Perfiles"
 
@@ -3558,6 +3602,7 @@ msgstr "Participantes"
 #. Password
 #: translations/.messages/src/app/components/Login/epid-login.modal.json
 #: translations/.messages/src/app/components/Login/epid-register.modal.json
+
 msgid "Password"
 msgstr "palabras"
 
@@ -3763,9 +3808,17 @@ msgstr "Presidente"
 #. [SearchCard.PreviewNotAvailable]
 #. defaultMessage is:
 #. Preview Not Available
+#. [SearchCategoryCard.PreviewNotAvailable]
+#. defaultMessage is:
+#. Preview Not Available
+#. [SearchProfileCard.PreviewNotAvailable]
+#. defaultMessage is:
+#. Preview Not Available
 #: translations/.messages/src/app/components/ActivityCards/ActivityCard.json
 #: translations/.messages/src/app/containers/category-results/categoryResultCard.json
 #: translations/.messages/src/app/containers/searchResultsFull/searchCard.json
+#: translations/.messages/src/app/containers/searchResultsFull/searchCategoryCard.json
+#: translations/.messages/src/app/containers/searchResultsFull/searchProfileCard.json
 msgid "Preview Not Available"
 msgstr "Vista previa no disponible"
 
@@ -3971,6 +4024,7 @@ msgstr "Referencias"
 #. defaultMessage is:
 #. Register with Email
 #: translations/.messages/src/app/components/Login/Login.json
+
 msgid "Register with Email"
 msgstr "Iniciar sesión con correo electrónico"
 
@@ -3978,6 +4032,7 @@ msgstr "Iniciar sesión con correo electrónico"
 #. defaultMessage is:
 #. Registration Successful!
 #: translations/.messages/src/app/components/Login/epid-register.modal.json
+
 msgid "Registration Successful!"
 msgstr "La transacción se ha realizado con éxito"
 
@@ -4295,6 +4350,7 @@ msgstr "Enviar un mensaje a otros editores"
 #. defaultMessage is:
 #. Send to
 #: translations/.messages/src/app/containers/dashboard/MyUserDashboard/IQTab.json
+
 msgid "Send to"
 msgstr "Enviar"
 
@@ -4309,6 +4365,7 @@ msgstr "Envíenos un mensaje"
 #. defaultMessage is:
 #. Sending
 #: translations/.messages/src/app/containers/dashboard/MyUserDashboard/IQTab.json
+
 msgid "Sending"
 msgstr "Enviar"
 
@@ -4858,9 +4915,17 @@ msgstr ""
 #. [SearchCard.TitleNotAvailable]
 #. defaultMessage is:
 #. Title Not Available
+#. [SearchCategoryCard.TitleNotAvailable]
+#. defaultMessage is:
+#. Title Not Available
+#. [SearchProfileCard.TitleNotAvailable]
+#. defaultMessage is:
+#. Title Not Available
 #: translations/.messages/src/app/components/ActivityCards/ActivityCard.json
 #: translations/.messages/src/app/containers/category-results/categoryResultCard.json
 #: translations/.messages/src/app/containers/searchResultsFull/searchCard.json
+#: translations/.messages/src/app/containers/searchResultsFull/searchCategoryCard.json
+#: translations/.messages/src/app/containers/searchResultsFull/searchProfileCard.json
 msgid "Title Not Available"
 msgstr "Título No Disponible"
 
@@ -4971,6 +5036,14 @@ msgstr "Inténtalo de nuevo"
 msgid "Type"
 msgstr "Tipo"
 
+#. [SaveModalAgain.TypeOfEditLabel]
+#. defaultMessage is:
+#. Type of Edit
+#: translations/.messages/src/editor/plugins/save/save-modal-parts/comment-and-category.json
+
+msgid "Type of Edit"
+msgstr "Últimas ediciones"
+
 #. [CategoriesModal.SelectCategories]
 #. defaultMessage is:
 #. Type to search categories
@@ -5003,6 +5076,7 @@ msgstr "URL Slug Alt"
 #. defaultMessage is:
 #. Undefined error: please try again.
 #: translations/.messages/src/app/components/Login/epid-login.modal.json
+
 msgid "Undefined error: please try again."
 msgstr "Por favor inténtelo de nuevo"
 
@@ -5134,13 +5208,6 @@ msgstr "Ver Editar"
 #. View Full List
 #: translations/.messages/src/app/containers/homepageContainer/leaderboard.json
 msgid "View Full List"
-msgstr "Ver historial"
-
-#. [TopNav.ViewHistory]
-#. defaultMessage is:
-#. View History
-#: translations/.messages/src/app/components/content-top-nav/index.json
-msgid "View History"
 msgstr "Ver historial"
 
 #. [SubmitVoteConfirmation.ViewTransaction]
@@ -5289,13 +5356,6 @@ msgstr "Semana"
 msgid "WIKIS"
 msgstr "WIKIS"
 
-#. [SaveModalAgain.WaitAMomentOneLynx]
-#. defaultMessage is:
-#. Wait a moment while we load Lynx.
-#: translations/.messages/src/editor/plugins/save/save-modal.json
-msgid "Wait a moment while we load Lynx."
-msgstr "Espera un momento mientras cargamos a Lynx."
-
 #. [SaveModalAgain.txLoadScatter]
 #. defaultMessage is:
 #. Wait a moment while we load Scatter.  If you do not see the Scatter window, check if it has loaded behind your current window.
@@ -5307,7 +5367,7 @@ msgstr ""
 "Espera un momento mientras cargamos Scatter.  Si no ve la ventana Scatter, "
 "compruebe si se ha cargado detrás de la ventana actual."
 
-#. [SaveModalAgain.WaitAMomentOne]
+#. [SaveModalAgain.WaitAMomentScatter]
 #. defaultMessage is:
 #. Wait a moment while we load Scatter. If you don’t see the Scatter window, check if it has loaded behind your current window.
 #: translations/.messages/src/editor/plugins/save/save-modal.json
@@ -5325,6 +5385,14 @@ msgstr ""
 msgid "Wait a moment while we load the Lynx transaction window."
 msgstr "Espere un momento mientras cargamos la ventana de transacción de Lynx."
 
+#. [SaveModalAgain.WaitAMomentTwo]
+#. defaultMessage is:
+#. Wait a moment while we load your account.
+#: translations/.messages/src/editor/plugins/save/save-modal.json
+
+msgid "Wait a moment while we load your account."
+msgstr "Espera un momento mientras cargamos a Lynx."
+
 #. [SaveModalAgain.txLoadOreId]
 #. defaultMessage is:
 #. Wait a moment while we load your account.  You will be redirected to OreID to confirm your proposed edit.  You may be required to enter the pin that you created when you set up your account.
@@ -5336,19 +5404,6 @@ msgid ""
 msgstr ""
 "Espere un momento mientras cargamos su cuenta.  Se le redirigirá al OreID "
 "para que confirme la edición propuesta.  Es posible que se le pida que "
-"ingrese el pin que creó cuando configuró su cuenta."
-
-#. [SaveModalAgain.WaitAMomentTwo]
-#. defaultMessage is:
-#. Wait a moment while we load your account. You will be redirected to OreID to confirm your proposed edit. You may be required to enter the pin that you created when you set up your account.
-#: translations/.messages/src/editor/plugins/save/save-modal.json
-msgid ""
-"Wait a moment while we load your account. You will be redirected to OreID to "
-"confirm your proposed edit. You may be required to enter the pin that you "
-"created when you set up your account."
-msgstr ""
-"Espere un momento mientras cargamos su cuenta. Se le redirigirá al OreID "
-"para que confirme la edición propuesta. Es posible que se le pida que "
 "ingrese el pin que creó cuando configuró su cuenta."
 
 #. [LoginModal.WaitAMomentWhileWeLoad]
@@ -5399,6 +5454,7 @@ msgstr "Advertencia"
 #. defaultMessage is:
 #. Warning: Your public profile will be visible to everyone
 #: translations/.messages/src/app/components/edit-profile/index.json
+
 msgid "Warning: Your public profile will be visible to everyone"
 msgstr ""
 "Advertencia: Su perfil público será visible para todos y se almacenará en la "
@@ -5475,6 +5531,7 @@ msgstr "Wiki Enciclopedia de todo - Everipedia"
 #. defaultMessage is:
 #. Withdrawal Successful:
 #: translations/.messages/src/app/containers/dashboard/MyUserDashboard/IQTab.json
+
 msgid "Withdrawal Successful:"
 msgstr "Su voto fue un éxito"
 
@@ -5914,10 +5971,18 @@ msgstr "para ver nuestras preguntas frecuentes"
 #. [SearchCard.Views]
 #. defaultMessage is:
 #. views
+#. [SearchCategoryCard.Views]
+#. defaultMessage is:
+#. views
+#. [SearchProfileCard.Views]
+#. defaultMessage is:
+#. views
 #: translations/.messages/src/app/containers/category-results/categoryResultCard.json
 #: translations/.messages/src/app/containers/homepageContainer/mainItem.json
 #: translations/.messages/src/app/containers/homepageContainer/rightList.json
 #: translations/.messages/src/app/containers/searchResultsFull/searchCard.json
+#: translations/.messages/src/app/containers/searchResultsFull/searchCategoryCard.json
+#: translations/.messages/src/app/containers/searchResultsFull/searchProfileCard.json
 msgid "views"
 msgstr "Vistas"
 
@@ -5982,6 +6047,9 @@ msgstr "fue iniciada por"
 msgid "words"
 msgstr "palabras"
 
+#~ msgid "Category"
+#~ msgstr "Categoría"
+
 #~ msgid ""
 #~ "Enter the code that was sent to your email address. If you haven't "
 #~ "received a code, go back and try again."
@@ -5993,6 +6061,18 @@ msgstr "palabras"
 #~ msgstr ""
 #~ "Ingrese su correo electrónico y le enviaremos un código a esa dirección "
 #~ "de correo electrónico."
+
+#~ msgid "View History"
+#~ msgstr "Ver historial"
+
+#~ msgid ""
+#~ "Wait a moment while we load your account. You will be redirected to OreID "
+#~ "to confirm your proposed edit. You may be required to enter the pin that "
+#~ "you created when you set up your account."
+#~ msgstr ""
+#~ "Espere un momento mientras cargamos su cuenta. Se le redirigirá al OreID "
+#~ "para que confirme la edición propuesta. Es posible que se le pida que "
+#~ "ingrese el pin que creó cuando configuró su cuenta."
 
 #~ msgid "about EOS and IQ"
 #~ msgstr "sobre EOS e IQ, o"

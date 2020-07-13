@@ -1,7 +1,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: \n"
-"POT-Creation-Date: 2020-07-10T21:11:14.437Z\n"
+"POT-Creation-Date: 2020-07-13T14:21:11.375Z\n"
 "PO-Revision-Date: \n"
 "Last-Translator: \n"
 "Language-Team: \n"
@@ -203,11 +203,15 @@ msgstr "文章浏览"
 #. [Stats.Articles]
 #. defaultMessage is:
 #. ARTICLES
+#. [SearchResults.ARTICLES]
+#. defaultMessage is:
+#. ARTICLES
 #. [Suggestions.Articles]
 #. defaultMessage is:
 #. ARTICLES
 #: translations/.messages/src/app/components/Search/SearchResults.json
 #: translations/.messages/src/app/containers/admin/admin.container.json
+#: translations/.messages/src/app/containers/searchResultsFull/searchResultsFull.container.json
 #: translations/.messages/src/editor/components/mentions/suggestions.json
 msgid "ARTICLES"
 msgstr "文章"
@@ -309,6 +313,7 @@ msgstr "帐户名称"
 #. defaultMessage is:
 #. Account Update
 #: translations/.messages/src/app/components/Login/EPIDExplanationModal.json
+
 msgid "Account Update"
 msgstr "帐户名称"
 
@@ -318,8 +323,16 @@ msgstr "帐户名称"
 #. [SearchCard.ActiveVoting]
 #. defaultMessage is:
 #. Active Voting
+#. [SearchCategoryCard.ActiveVoting]
+#. defaultMessage is:
+#. Active Voting
+#. [SearchProfileCard.ActiveVoting]
+#. defaultMessage is:
+#. Active Voting
 #: translations/.messages/src/app/containers/category-results/categoryResultCard.json
 #: translations/.messages/src/app/containers/searchResultsFull/searchCard.json
+#: translations/.messages/src/app/containers/searchResultsFull/searchCategoryCard.json
+#: translations/.messages/src/app/containers/searchResultsFull/searchProfileCard.json
 msgid "Active Voting"
 msgstr "有效投票"
 
@@ -651,6 +664,7 @@ msgstr ""
 #. defaultMessage is:
 #. Balance Activity
 #: translations/.messages/src/app/containers/dashboard/MyUserDashboard/IQTab.json
+
 msgid "Balance Activity"
 msgstr "查看活动"
 
@@ -711,8 +725,12 @@ msgstr "书籍 ISBN"
 #. [SearchResults.Categories]
 #. defaultMessage is:
 #. CATEGORIES
+#. [SearchResults.CATEGORIES]
+#. defaultMessage is:
+#. CATEGORIES
 #: translations/.messages/src/app/components/ArticleComponent/CategoryBox.json
 #: translations/.messages/src/app/components/Search/SearchResults.json
+#: translations/.messages/src/app/containers/searchResultsFull/searchResultsFull.container.json
 msgid "CATEGORIES"
 msgstr "分类"
 
@@ -843,13 +861,6 @@ msgstr "事业"
 #: translations/.messages/src/app/components/Sidenav/index.json
 #: translations/.messages/src/app/utils/comment-utils.json
 msgid "Categories"
-msgstr "类别"
-
-#. [SaveModalAgain.CategoryLabel]
-#. defaultMessage is:
-#. Category
-#: translations/.messages/src/editor/plugins/save/save-modal-parts/comment-and-category.json
-msgid "Category"
 msgstr "类别"
 
 #. [About.CensorshipResistant]
@@ -1054,6 +1065,7 @@ msgstr "常见问题"
 #. defaultMessage is:
 #. Confirm Password
 #: translations/.messages/src/app/components/Login/epid-register.modal.json
+
 msgid "Confirm Password"
 msgstr "确认您的投票"
 
@@ -1186,6 +1198,7 @@ msgstr "国家"
 #. defaultMessage is:
 #. Create Account
 #: translations/.messages/src/app/components/Login/epid-register.modal.json
+
 msgid "Create Account"
 msgstr "登录/创建帐户"
 
@@ -1382,6 +1395,7 @@ msgstr "显示名称必须超过3个字符"
 #. defaultMessage is:
 #. Don't have an account?
 #: translations/.messages/src/app/components/Login/epid-login.modal.json
+
 msgid "Don't have an account?"
 msgstr "获得帐号"
 
@@ -1590,6 +1604,7 @@ msgstr "电子邮件"
 #. defaultMessage is:
 #. Email Address
 #: translations/.messages/src/app/components/Login/epid-login.modal.json
+
 msgid "Email Address"
 msgstr "电邮地址"
 
@@ -1707,6 +1722,7 @@ msgstr "错误代码"
 #. Error: 
 #: translations/.messages/src/app/components/Login/epid-login.modal.json
 #: translations/.messages/src/app/components/Login/epid-register.modal.json
+
 msgid "Error: "
 msgstr "错误"
 
@@ -1882,6 +1898,13 @@ msgstr "常见问题解答"
 #: translations/.messages/src/app/components/SubmitVote/ConfirmationModal.json
 msgid "Failed to Vote"
 msgstr "投票失败"
+
+#. [ImageUploader.Failure to fetch]
+#. defaultMessage is:
+#. Failure to fetch. Please check the URL
+#: translations/.messages/src/shared/inputs/image-uploader/image-uploader.component.json
+msgid "Failure to fetch. Please check the URL"
+msgstr ""
 
 #. [NewPageTemplate.NPT_CreativeWork_Features]
 #. defaultMessage is:
@@ -2138,6 +2161,9 @@ msgstr "他/她喜欢"
 msgid "He/she was born in"
 msgstr "他/她出生于"
 
+#. [TopNav.ViewHistory]
+#. defaultMessage is:
+#. History
 #. [NewPageTemplate.NPT_CreativeWork_History]
 #. defaultMessage is:
 #. History
@@ -2153,6 +2179,7 @@ msgstr "他/她出生于"
 #. [NewPageTemplate.NPT_Product_History]
 #. defaultMessage is:
 #. History
+#: translations/.messages/src/app/components/content-top-nav/index.json
 #: translations/.messages/src/editor/utils/editing-utils/template-packs/creative-work.json
 #: translations/.messages/src/editor/utils/editing-utils/template-packs/event.json
 #: translations/.messages/src/editor/utils/editing-utils/template-packs/organization.json
@@ -2190,6 +2217,7 @@ msgstr ""
 #. defaultMessage is:
 #. I accept the 
 #: translations/.messages/src/app/components/Login/epid-register.modal.json
+
 msgid "I accept the "
 msgstr "投票已接受"
 
@@ -2544,7 +2572,15 @@ msgstr ""
 #. [SearchCard.LastEdited]
 #. defaultMessage is:
 #. Last Edited
+#. [SearchCategoryCard.LastEdited]
+#. defaultMessage is:
+#. Last Edited
+#. [SearchProfileCard.LastEdited]
+#. defaultMessage is:
+#. Last Edited
 #: translations/.messages/src/app/containers/searchResultsFull/searchCard.json
+#: translations/.messages/src/app/containers/searchResultsFull/searchCategoryCard.json
+#: translations/.messages/src/app/containers/searchResultsFull/searchProfileCard.json
 msgid "Last Edited"
 msgstr "最后编辑时间"
 
@@ -2699,6 +2735,7 @@ msgstr "载入中"
 #. defaultMessage is:
 #. Loading...
 #: translations/.messages/src/app/containers/login/login.container.json
+
 msgid "Loading..."
 msgstr "载入中"
 
@@ -2772,6 +2809,7 @@ msgstr "登录"
 #. defaultMessage is:
 #. Login Successful!
 #: translations/.messages/src/app/components/Login/epid-login.modal.json
+
 msgid "Login Successful!"
 msgstr "交易成功！"
 
@@ -2815,6 +2853,7 @@ msgstr "登录以参与文章聊天"
 #. Login with Email
 #: translations/.messages/src/app/components/Login/epid-login.modal.json
 #: translations/.messages/src/app/components/Login/Login.json
+
 msgid "Login with Email"
 msgstr "用电子邮件登录"
 
@@ -3044,6 +3083,7 @@ msgstr "信息"
 #. defaultMessage is:
 #. Migrate Now
 #: translations/.messages/src/app/containers/dashboard/dashboard_component.json
+
 msgid "Migrate Now"
 msgstr "立即编辑"
 
@@ -3447,7 +3487,11 @@ msgstr "产品"
 #. [SearchResults.Profiles]
 #. defaultMessage is:
 #. PROFILES
+#. [SearchResults.PROFILES]
+#. defaultMessage is:
+#. PROFILES
 #: translations/.messages/src/app/components/Search/SearchResults.json
+#: translations/.messages/src/app/containers/searchResultsFull/searchResultsFull.container.json
 msgid "PROFILES"
 msgstr "个人资料"
 
@@ -3515,6 +3559,7 @@ msgstr "参与者"
 #. Password
 #: translations/.messages/src/app/components/Login/epid-login.modal.json
 #: translations/.messages/src/app/components/Login/epid-register.modal.json
+
 msgid "Password"
 msgstr "字数"
 
@@ -3720,9 +3765,17 @@ msgstr "总裁"
 #. [SearchCard.PreviewNotAvailable]
 #. defaultMessage is:
 #. Preview Not Available
+#. [SearchCategoryCard.PreviewNotAvailable]
+#. defaultMessage is:
+#. Preview Not Available
+#. [SearchProfileCard.PreviewNotAvailable]
+#. defaultMessage is:
+#. Preview Not Available
 #: translations/.messages/src/app/components/ActivityCards/ActivityCard.json
 #: translations/.messages/src/app/containers/category-results/categoryResultCard.json
 #: translations/.messages/src/app/containers/searchResultsFull/searchCard.json
+#: translations/.messages/src/app/containers/searchResultsFull/searchCategoryCard.json
+#: translations/.messages/src/app/containers/searchResultsFull/searchProfileCard.json
 msgid "Preview Not Available"
 msgstr "预览不可用"
 
@@ -3925,6 +3978,7 @@ msgstr "参考文献"
 #. defaultMessage is:
 #. Register with Email
 #: translations/.messages/src/app/components/Login/Login.json
+
 msgid "Register with Email"
 msgstr "用电子邮件登录"
 
@@ -3932,6 +3986,7 @@ msgstr "用电子邮件登录"
 #. defaultMessage is:
 #. Registration Successful!
 #: translations/.messages/src/app/components/Login/epid-register.modal.json
+
 msgid "Registration Successful!"
 msgstr "交易成功！"
 
@@ -4247,6 +4302,7 @@ msgstr "发信息给其他编者"
 #. defaultMessage is:
 #. Send to
 #: translations/.messages/src/app/containers/dashboard/MyUserDashboard/IQTab.json
+
 msgid "Send to"
 msgstr "发送"
 
@@ -4261,6 +4317,7 @@ msgstr "给我们发信息"
 #. defaultMessage is:
 #. Sending
 #: translations/.messages/src/app/containers/dashboard/MyUserDashboard/IQTab.json
+
 msgid "Sending"
 msgstr "发送"
 
@@ -4793,9 +4850,17 @@ msgstr "您并未保存修改，是否继续？"
 #. [SearchCard.TitleNotAvailable]
 #. defaultMessage is:
 #. Title Not Available
+#. [SearchCategoryCard.TitleNotAvailable]
+#. defaultMessage is:
+#. Title Not Available
+#. [SearchProfileCard.TitleNotAvailable]
+#. defaultMessage is:
+#. Title Not Available
 #: translations/.messages/src/app/components/ActivityCards/ActivityCard.json
 #: translations/.messages/src/app/containers/category-results/categoryResultCard.json
 #: translations/.messages/src/app/containers/searchResultsFull/searchCard.json
+#: translations/.messages/src/app/containers/searchResultsFull/searchCategoryCard.json
+#: translations/.messages/src/app/containers/searchResultsFull/searchProfileCard.json
 msgid "Title Not Available"
 msgstr "标题不可用"
 
@@ -4903,6 +4968,14 @@ msgstr "重试"
 msgid "Type"
 msgstr "输入"
 
+#. [SaveModalAgain.TypeOfEditLabel]
+#. defaultMessage is:
+#. Type of Edit
+#: translations/.messages/src/editor/plugins/save/save-modal-parts/comment-and-category.json
+
+msgid "Type of Edit"
+msgstr "无编辑"
+
 #. [CategoriesModal.SelectCategories]
 #. defaultMessage is:
 #. Type to search categories
@@ -4935,6 +5008,7 @@ msgstr "URL Slug Alt"
 #. defaultMessage is:
 #. Undefined error: please try again.
 #: translations/.messages/src/app/components/Login/epid-login.modal.json
+
 msgid "Undefined error: please try again."
 msgstr "请重试"
 
@@ -5066,13 +5140,6 @@ msgstr "浏览编辑"
 #. View Full List
 #: translations/.messages/src/app/containers/homepageContainer/leaderboard.json
 msgid "View Full List"
-msgstr "浏览历史记录"
-
-#. [TopNav.ViewHistory]
-#. defaultMessage is:
-#. View History
-#: translations/.messages/src/app/components/content-top-nav/index.json
-msgid "View History"
 msgstr "浏览历史记录"
 
 #. [SubmitVoteConfirmation.ViewTransaction]
@@ -5221,13 +5288,6 @@ msgstr "周"
 msgid "WIKIS"
 msgstr "WIKIS"
 
-#. [SaveModalAgain.WaitAMomentOneLynx]
-#. defaultMessage is:
-#. Wait a moment while we load Lynx.
-#: translations/.messages/src/editor/plugins/save/save-modal.json
-msgid "Wait a moment while we load Lynx."
-msgstr "请稍等，正在加载Lynx。"
-
 #. [SaveModalAgain.txLoadScatter]
 #. defaultMessage is:
 #. Wait a moment while we load Scatter.  If you do not see the Scatter window, check if it has loaded behind your current window.
@@ -5239,7 +5299,7 @@ msgstr ""
 "请稍等，正在加载Scatter。  如果您没有看到Scatter窗口，请检查它是否已加载到当"
 "前窗口的后面。"
 
-#. [SaveModalAgain.WaitAMomentOne]
+#. [SaveModalAgain.WaitAMomentScatter]
 #. defaultMessage is:
 #. Wait a moment while we load Scatter. If you don’t see the Scatter window, check if it has loaded behind your current window.
 #: translations/.messages/src/editor/plugins/save/save-modal.json
@@ -5257,6 +5317,14 @@ msgstr ""
 msgid "Wait a moment while we load the Lynx transaction window."
 msgstr "请稍等，正在加载Lynx交易窗口。"
 
+#. [SaveModalAgain.WaitAMomentTwo]
+#. defaultMessage is:
+#. Wait a moment while we load your account.
+#: translations/.messages/src/editor/plugins/save/save-modal.json
+
+msgid "Wait a moment while we load your account."
+msgstr "请稍等，正在加载Lynx。"
+
 #. [SaveModalAgain.txLoadOreId]
 #. defaultMessage is:
 #. Wait a moment while we load your account.  You will be redirected to OreID to confirm your proposed edit.  You may be required to enter the pin that you created when you set up your account.
@@ -5267,18 +5335,6 @@ msgid ""
 "you created when you set up your account."
 msgstr ""
 "请稍等，我们正在加载您的帐户。您将被跳转至OreID，以确认您的编辑提议。您可能需"
-"要输入在设置帐户时创建的PIN码。"
-
-#. [SaveModalAgain.WaitAMomentTwo]
-#. defaultMessage is:
-#. Wait a moment while we load your account. You will be redirected to OreID to confirm your proposed edit. You may be required to enter the pin that you created when you set up your account.
-#: translations/.messages/src/editor/plugins/save/save-modal.json
-msgid ""
-"Wait a moment while we load your account. You will be redirected to OreID to "
-"confirm your proposed edit. You may be required to enter the pin that you "
-"created when you set up your account."
-msgstr ""
-"请稍等，正在加载您的帐户。您将被重新跳转到OreID，以确认您建议的编辑。您可能需"
 "要输入在设置帐户时创建的PIN码。"
 
 #. [LoginModal.WaitAMomentWhileWeLoad]
@@ -5327,6 +5383,7 @@ msgstr "提醒"
 #. defaultMessage is:
 #. Warning: Your public profile will be visible to everyone
 #: translations/.messages/src/app/components/edit-profile/index.json
+
 msgid "Warning: Your public profile will be visible to everyone"
 msgstr "提醒：您的公开个人资料将对所有人公开，并存储在区链上"
 
@@ -5399,6 +5456,7 @@ msgstr "包罗万象的百科全书-Everipedia"
 #. defaultMessage is:
 #. Withdrawal Successful:
 #: translations/.messages/src/app/containers/dashboard/MyUserDashboard/IQTab.json
+
 msgid "Withdrawal Successful:"
 msgstr "您的投票成功"
 
@@ -5831,10 +5889,18 @@ msgstr "查看我们的常见问题"
 #. [SearchCard.Views]
 #. defaultMessage is:
 #. views
+#. [SearchCategoryCard.Views]
+#. defaultMessage is:
+#. views
+#. [SearchProfileCard.Views]
+#. defaultMessage is:
+#. views
 #: translations/.messages/src/app/containers/category-results/categoryResultCard.json
 #: translations/.messages/src/app/containers/homepageContainer/mainItem.json
 #: translations/.messages/src/app/containers/homepageContainer/rightList.json
 #: translations/.messages/src/app/containers/searchResultsFull/searchCard.json
+#: translations/.messages/src/app/containers/searchResultsFull/searchCategoryCard.json
+#: translations/.messages/src/app/containers/searchResultsFull/searchProfileCard.json
 msgid "views"
 msgstr "浏览数"
 
@@ -5899,6 +5965,9 @@ msgstr "始于"
 msgid "words"
 msgstr "字数"
 
+#~ msgid "Category"
+#~ msgstr "类别"
+
 #~ msgid ""
 #~ "Enter the code that was sent to your email address. If you haven't "
 #~ "received a code, go back and try again."
@@ -5907,6 +5976,17 @@ msgstr "字数"
 
 #~ msgid "Enter your email and we'll send a code to that email address."
 #~ msgstr "输入您的电子邮箱地址，我们将向该电子邮箱发送验证码。"
+
+#~ msgid "View History"
+#~ msgstr "浏览历史记录"
+
+#~ msgid ""
+#~ "Wait a moment while we load your account. You will be redirected to OreID "
+#~ "to confirm your proposed edit. You may be required to enter the pin that "
+#~ "you created when you set up your account."
+#~ msgstr ""
+#~ "请稍等，正在加载您的帐户。您将被重新跳转到OreID，以确认您建议的编辑。您可"
+#~ "能需要输入在设置帐户时创建的PIN码。"
 
 #~ msgid "about EOS and IQ"
 #~ msgstr "关于EOS和IQ，或者"
