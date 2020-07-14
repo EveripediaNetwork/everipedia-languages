@@ -1,7 +1,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: \n"
-"POT-Creation-Date: 2020-07-13T14:21:11.375Z\n"
+"POT-Creation-Date: 2020-07-14T15:12:10.875Z\n"
 "PO-Revision-Date: \n"
 "Last-Translator: \n"
 "Language-Team: \n"
@@ -1405,6 +1405,15 @@ msgstr "Nombre para mostrar"
 msgid "Display Name must be longer than 3 characters"
 msgstr "El nombre para mostrar debe tener más de 3 caracteres"
 
+#. [LoginModal.DoYouHaveAnEPAccount]
+#. defaultMessage is:
+#. Do you have an Everipedia account using OreID? Merging your accounts will unify your history and streaks.
+#: translations/.messages/src/app/containers/dashboard/MyUserDashboard/AccountSettings.json
+msgid ""
+"Do you have an Everipedia account using OreID? Merging your accounts will "
+"unify your history and streaks."
+msgstr ""
+
 #. [EpIdLogin.DontHaveAccountQuestion]
 #. defaultMessage is:
 #. Don't have an account?
@@ -2170,6 +2179,13 @@ msgstr ""
 #: translations/.messages/src/app/utils/comment-utils.json
 msgid "Grammar"
 msgstr "Gramática"
+
+#. [LoginModal.HaveOldOreID]
+#. defaultMessage is:
+#. Have an old OreID account?
+#: translations/.messages/src/app/containers/dashboard/HaveOreIDAlert.json
+msgid "Have an old OreID account?"
+msgstr ""
 
 #. [NewPageTemplate.NPT_Person_HeSheLikesTo]
 #. defaultMessage is:
@@ -3095,6 +3111,21 @@ msgstr "Conoce a nuestro equipo"
 msgid "Merge"
 msgstr "Fusionar página"
 
+#. [LoginModal.MergeOreIDAccount]
+#. defaultMessage is:
+#. Merge OreID Account
+#. [LoginModal.MergeOreIDAccount]
+#. defaultMessage is:
+#. Merge OreID Account
+#. [Dashboard.AccountSettings.MergeOreIDAccount]
+#. defaultMessage is:
+#. Merge OreID Account
+#: translations/.messages/src/app/containers/dashboard/HaveOreIDAlert.json
+#: translations/.messages/src/app/containers/dashboard/MyUserDashboard/AccountSettings.json
+
+msgid "Merge OreID Account"
+msgstr "Obtener una cuenta"
+
 #. [MergeModal.Title]
 #. defaultMessage is:
 #. Merge this page into another Everipedia page
@@ -3126,13 +3157,6 @@ msgstr "Mensajes"
 
 msgid "Migrate Now"
 msgstr "Editar ahora"
-
-#. [LoginModal.MigrateFromOreID]
-#. defaultMessage is:
-#. Migrate from OreID
-#: translations/.messages/src/app/containers/dashboard/dashboard_component.json
-msgid "Migrate from OreID"
-msgstr ""
 
 #. [EpIdLogin.MinimumPasswordLength]
 #. defaultMessage is:
@@ -4382,6 +4406,13 @@ msgstr "Servicio(s)"
 #: translations/.messages/src/editor/utils/editing-utils/template-packs/organization.json
 msgid "Services"
 msgstr "Servicios"
+
+#. [Dashboard.Settings]
+#. defaultMessage is:
+#. Settings
+#: translations/.messages/src/app/containers/dashboard/MyUserDashboard/TopNav.json
+msgid "Settings"
+msgstr ""
 
 #. [ShareModal.ShareVia]
 #. defaultMessage is:
