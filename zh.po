@@ -2117,7 +2117,7 @@ msgstr "从这里获得更多IQ"
 #. Got it!
 #: translations/.messages/src/app/components/Login/EPIDExplanationModal.json
 msgid "Got it!"
-msgstr ""
+msgstr "明白！"
 
 #. [CommentUtils.Grammar]
 #. defaultMessage is:
@@ -2342,7 +2342,7 @@ msgstr "如果您的投票占多数，您将获得与您投票的IQ成比例的I
 #. Image URL
 #: translations/.messages/src/shared/inputs/image-uploader/image-uploader.component.json
 msgid "Image URL"
-msgstr "图像URL"
+msgstr "图像链接"
 
 #. [EpIdLogin.ErrorIncorrectUsernameOrPassword]
 #. defaultMessage is:
@@ -3055,14 +3055,14 @@ msgstr "立即编辑"
 #. Migrate from OreID
 #: translations/.messages/src/app/containers/dashboard/dashboard_component.json
 msgid "Migrate from OreID"
-msgstr ""
+msgstr "从OreID迁移"
 
 #. [EpIdLogin.MinimumPasswordLength]
 #. defaultMessage is:
 #. Minimum password length is 8
 #: translations/.messages/src/app/components/Login/epid-login.modal.json
 msgid "Minimum password length is 8"
-msgstr ""
+msgstr "最小密码长度为8位"
 
 #. [Errors.MobileEditingComing]
 #. defaultMessage is:
@@ -3203,7 +3203,7 @@ msgstr "无投票"
 #. No audio embeds available. Add to the media gallery first
 #: translations/.messages/src/editor/plugins/section-embed-modal/panes/audio.json
 msgid "No audio embeds available. Add to the media gallery first"
-msgstr ""
+msgstr "没有音频嵌入可用。请先添加到媒体库"
 
 #. [Dashboard.NoInfoAvailableTwo]
 #. defaultMessage is:
@@ -3235,14 +3235,14 @@ msgstr "无返回结果"
 #. No tweets available. Add to citations first
 #: translations/.messages/src/editor/plugins/section-embed-modal/panes/tweets.json
 msgid "No tweets available. Add to citations first"
-msgstr ""
+msgstr "没有可用的推特。请先添加引用"
 
 #. [SectionEmbedModal.VideosPane.Images.NoneAvailable]
 #. defaultMessage is:
 #. No videos available. Add to media gallery first
 #: translations/.messages/src/editor/plugins/section-embed-modal/panes/videos.json
 msgid "No videos available. Add to media gallery first"
-msgstr ""
+msgstr "没有可用的视频。请先添加到媒体库"
 
 #. [Tooltips.NoVotes]
 #. defaultMessage is:
