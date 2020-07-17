@@ -1,7 +1,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: \n"
-"POT-Creation-Date: 2020-07-10T21:11:14.437Z\n"
+"POT-Creation-Date: 2020-06-25T13:15:15.101Z\n"
 "PO-Revision-Date: \n"
 "Last-Translator: \n"
 "Language-Team: \n"
@@ -40,13 +40,6 @@ msgstr "로그인해서 채팅에 참여하세요"
 #: translations/.messages/src/app/components/Chat/ChatList.json
 msgid " Write your message below to start the conversation"
 msgstr "메시지 쓰기"
-
-#. [EpIdRegister.SpaceAndSpace]
-#. defaultMessage is:
-#.  and 
-#: translations/.messages/src/app/components/Login/epid-register.modal.json
-msgid " and "
-msgstr ""
 
 #. [Errors.IfYouThinkYouAre]
 #. defaultMessage is:
@@ -152,15 +145,6 @@ msgstr "6개월"
 #: translations/.messages/src/app/containers/dashboard/dashboard_component.json
 msgid "7 DAYS"
 msgstr "7일"
-
-#. [EpIdLogin.ALinkToResetHasBeenSent]
-#. defaultMessage is:
-#. A link to reset your password has been sent to your email. You can now use your new password to log into your account.
-#: translations/.messages/src/app/components/Login/epid-login.modal.json
-msgid ""
-"A link to reset your password has been sent to your email. You can now use "
-"your new password to log into your account."
-msgstr ""
 
 #. [Homepage.UniverseOfKnowledge]
 #. defaultMessage is:
@@ -303,13 +287,6 @@ msgstr "계정 문제"
 #. Account Name
 #: translations/.messages/src/app/components/edit-profile/index.json
 msgid "Account Name"
-msgstr "계정명"
-
-#. [EpIdLogin.AccountUpdate]
-#. defaultMessage is:
-#. Account Update
-#: translations/.messages/src/app/components/Login/EPIDExplanationModal.json
-msgid "Account Update"
 msgstr "계정명"
 
 #. [CategoryResultCard.ActiveVoting]
@@ -513,15 +490,6 @@ msgstr "주소, 위치"
 msgid "Adult Content"
 msgstr "성인 콘텐츠"
 
-#. [EpIdLogin.AfterCreating]
-#. defaultMessage is:
-#. After creating a new account, we will prompt you to merge accounts you can always merge your account from your account dashboard.
-#: translations/.messages/src/app/components/Login/EPIDExplanationModal.json
-msgid ""
-"After creating a new account, we will prompt you to merge accounts you can "
-"always merge your account from your account dashboard."
-msgstr ""
-
 #. [Leaderboard.AllTime]
 #. defaultMessage is:
 #. All Time
@@ -638,24 +606,6 @@ msgstr "사용가능"
 #: translations/.messages/src/app/containers/dashboard/dashboard_component.json
 msgid "Available Balance"
 msgstr "사용가능 IQ"
-
-#. [EpIdLogin.Back]
-#. defaultMessage is:
-#. Back
-#. [EpIdLogin.Back]
-#. defaultMessage is:
-#. Back
-#: translations/.messages/src/app/components/Login/epid-login.modal.json
-#: translations/.messages/src/app/components/Login/epid-register.modal.json
-msgid "Back"
-msgstr ""
-
-#. [Dashboard.IQTab.BalanceActivity]
-#. defaultMessage is:
-#. Balance Activity
-#: translations/.messages/src/app/containers/dashboard/MyUserDashboard/IQTab.json
-msgid "Balance Activity"
-msgstr "최근 활동"
 
 #. [Dashboard.BalanceDetail]
 #. defaultMessage is:
@@ -944,7 +894,7 @@ msgstr "새 대표이미지 선택(8mb이하)"
 #. [Login.AnotherLoginMethod]
 #. defaultMessage is:
 #. Choose another login method
-#: translations/.messages/src/app/components/Login/Login.json
+#: translations/.messages/src/app/components/Login/index.json
 msgid "Choose another login method"
 msgstr "다른 방법으로 로그인"
 
@@ -1010,17 +960,6 @@ msgstr "편집 유형을 선택하세요(필수)"
 msgid "Click to vote on this edit"
 msgstr "투표하기"
 
-#. [EpIdLogin.Close]
-#. defaultMessage is:
-#. Close
-#. [EpIdLogin.Close]
-#. defaultMessage is:
-#. Close
-#: translations/.messages/src/app/components/Login/epid-login.modal.json
-#: translations/.messages/src/app/components/Login/epid-register.modal.json
-msgid "Close"
-msgstr ""
-
 #. [ThirdBlock.CoFounderWikipedia]
 #. defaultMessage is:
 #. Co-Founder Wikipedia
@@ -1052,13 +991,6 @@ msgstr "의견"
 #: translations/.messages/src/app/containers/contact-us/contact-us.container.json
 msgid "Common Questions"
 msgstr "자주하는 질문"
-
-#. [EpIdLogin.Confirm Password]
-#. defaultMessage is:
-#. Confirm Password
-#: translations/.messages/src/app/components/Login/epid-register.modal.json
-msgid "Confirm Password"
-msgstr "투표 확인"
 
 #. [SubmitVoteConfirmation.ConfirmYourVote]
 #. defaultMessage is:
@@ -1185,13 +1117,6 @@ msgstr "저작권"
 msgid "Country"
 msgstr "국가"
 
-#. [EpIdLogin.CreateAccount]
-#. defaultMessage is:
-#. Create Account
-#: translations/.messages/src/app/components/Login/epid-register.modal.json
-msgid "Create Account"
-msgstr "로그인 / 계정 만들기"
-
 #. [MobileHamburger.CreateArticle]
 #. defaultMessage is:
 #. Create Article
@@ -1284,13 +1209,6 @@ msgstr "예치중인 IQ"
 msgid "DAY"
 msgstr "일"
 
-#. [Dashboard.Dashboard]
-#. defaultMessage is:
-#. Dashboard
-#: translations/.messages/src/app/containers/dashboard/MyUserDashboard/TopNav.json
-msgid "Dashboard"
-msgstr ""
-
 #. [NewPageTemplate.NPT_CreativeWork_Date_Created]
 #. defaultMessage is:
 #. Date Created
@@ -1381,13 +1299,6 @@ msgstr "공개 이름"
 msgid "Display Name must be longer than 3 characters"
 msgstr "공개 이름은 세글자보다 길어야 합니다"
 
-#. [EpIdLogin.DontHaveAccountQuestion]
-#. defaultMessage is:
-#. Don't have an account?
-#: translations/.messages/src/app/components/Login/epid-login.modal.json
-msgid "Don't have an account?"
-msgstr "계정 만들기"
-
 #. [Tooltips.EditorComment]
 #. defaultMessage is:
 #. EDITOR COMMENT
@@ -1431,13 +1342,6 @@ msgstr "편집"
 #: translations/.messages/src/editor/plugins/section-embed-modal/panes/videos.json
 msgid "EMBED SIZE"
 msgstr "끼워넣기 크기"
-
-#. [Dashboard.IQTab.EOSMemo]
-#. defaultMessage is:
-#. EOS Memo:
-#: translations/.messages/src/app/containers/dashboard/MyUserDashboard/IQTab.json
-msgid "EOS Memo:"
-msgstr ""
 
 #. [ActivityCards.ExpiringSoon]
 #. defaultMessage is:
@@ -1570,36 +1474,21 @@ msgstr "편집"
 msgid "Electronics / Software"
 msgstr "전자제품, 소프트웨어"
 
-#. [EpIdLogin.Email]
-#. defaultMessage is:
-#. Email
-#. [EpIdLogin.Email]
-#. defaultMessage is:
-#. Email
 #. [NewPageTemplate.NPT_Organization_Email]
 #. defaultMessage is:
 #. Email
 #. [NewPageTemplate.NPT_Person_Email]
 #. defaultMessage is:
 #. Email
-#: translations/.messages/src/app/components/Login/epid-login.modal.json
-#: translations/.messages/src/app/components/Login/epid-register.modal.json
 #: translations/.messages/src/editor/utils/editing-utils/template-packs/organization.json
 #: translations/.messages/src/editor/utils/editing-utils/template-packs/person.json
 msgid "Email"
 msgstr "이메일"
 
-#. [EpIdLogin.EmailAddress]
-#. defaultMessage is:
-#. Email Address
-#: translations/.messages/src/app/components/Login/epid-login.modal.json
-msgid "Email Address"
-msgstr "이메일 주소"
-
 #. [LoginModal.EmailComingSoon]
 #. defaultMessage is:
 #. Email Coming Soon
-#: translations/.messages/src/app/components/Login/Login.json
+#: translations/.messages/src/app/components/Login/index.json
 msgid "Email Coming Soon"
 msgstr "곧 이메일 사용가능"
 
@@ -1681,6 +1570,24 @@ msgstr "검색어 입력"
 msgid "Enter a type"
 msgstr "유형 입력"
 
+#. [Login.EnterCode]
+#. defaultMessage is:
+#. Enter the code that was sent to your email address. If you haven't received a code, go back and try again.
+#: translations/.messages/src/app/components/Login/email_login.json
+msgid ""
+"Enter the code that was sent to your email address. If you haven't received "
+"a code, go back and try again."
+msgstr ""
+"이메일 주소로 전송된 코드를 입력하세요. 코드를 받지 못한 경우 다시 시도하세"
+"요."
+
+#. [Login.EnterEmail]
+#. defaultMessage is:
+#. Enter your email and we'll send a code to that email address.
+#: translations/.messages/src/app/components/Login/email_login.json
+msgid "Enter your email and we'll send a code to that email address."
+msgstr "이메일을 입력하면 해당 이메일 주소로 코드가 전송됩니다."
+
 #. [ContactUs.EnterYourMessage]
 #. defaultMessage is:
 #. Enter your message...
@@ -1700,17 +1607,6 @@ msgstr "오류"
 #. Error code
 #: translations/.messages/src/app/components/SubmitVote/ConfirmationModal.json
 msgid "Error code"
-msgstr "오류"
-
-#. [EpIdLogin.ErrorWithPunctuationAndSpace]
-#. defaultMessage is:
-#. Error: 
-#. [EpIdLogin.ErrorWithPunctuationAndSpace]
-#. defaultMessage is:
-#. Error: 
-#: translations/.messages/src/app/components/Login/epid-login.modal.json
-#: translations/.messages/src/app/components/Login/epid-register.modal.json
-msgid "Error: "
 msgstr "오류"
 
 #. [NewPageTemplate.NPT_Person_Ethnicity]
@@ -1977,20 +1873,6 @@ msgstr "인센티브 시스템"
 msgid "First Edit"
 msgstr "처음 편집"
 
-#. [EpIdLogin.ForgotPassword]
-#. defaultMessage is:
-#. Forgot Password
-#: translations/.messages/src/app/components/Login/epid-login.modal.json
-msgid "Forgot Password"
-msgstr ""
-
-#. [EpIdLogin.ForgotPasswordQuestion]
-#. defaultMessage is:
-#. Forgot Password?
-#: translations/.messages/src/app/components/Login/epid-login.modal.json
-msgid "Forgot Password?"
-msgstr ""
-
 #. [CommentUtils.Formatting]
 #. defaultMessage is:
 #. Formatting
@@ -2111,13 +1993,6 @@ msgstr "연락하기"
 msgid "Get more IQ here"
 msgstr "IQ를 받으세요"
 
-#. [EpIdLogin.GotIt]
-#. defaultMessage is:
-#. Got it!
-#: translations/.messages/src/app/components/Login/EPIDExplanationModal.json
-msgid "Got it!"
-msgstr ""
-
 #. [CommentUtils.Grammar]
 #. defaultMessage is:
 #. Grammar
@@ -2180,20 +2055,6 @@ msgstr "홈"
 msgid "How much IQ should I vote?"
 msgstr "투표하는데 IQ 토큰이 얼마나 필요하나요?"
 
-#. [EpIdLogin.HowToMerge]
-#. defaultMessage is:
-#. How to merge your accounts?
-#: translations/.messages/src/app/components/Login/EPIDExplanationModal.json
-msgid "How to merge your accounts?"
-msgstr ""
-
-#. [EpIdRegister.IAcceptThe]
-#. defaultMessage is:
-#. I accept the 
-#: translations/.messages/src/app/components/Login/epid-register.modal.json
-msgid "I accept the "
-msgstr "투표 완료"
-
 #. [ThirdBlock.ILoveEveripediaBecause]
 #. defaultMessage is:
 #. I love Everipedia because everyone benefits, particularly the contributors. As an IQ token holder, I have an incentive to participate in the network.
@@ -2206,13 +2067,6 @@ msgstr ""
 "브리피디아를 사랑합니다. IQ 토큰 사용자로서, 이 네트워크에 참여할 분명한 인센"
 "티브가 있습니다."
 
-#. [EpIdRegister.WouldLikeToRecieveEmails]
-#. defaultMessage is:
-#. I would like to recieve emails from Everipedia
-#: translations/.messages/src/app/components/Login/epid-register.modal.json
-msgid "I would like to recieve emails from Everipedia"
-msgstr ""
-
 #. [InTheNews.InTheNews]
 #. defaultMessage is:
 #. IN THE NEWS
@@ -2220,13 +2074,9 @@ msgstr ""
 msgid "IN THE NEWS"
 msgstr "뉴스 소개"
 
-#. [Dashboard.IQ]
-#. defaultMessage is:
-#. IQ
 #. [Leaderboard.IQ]
 #. defaultMessage is:
 #. IQ
-#: translations/.messages/src/app/containers/dashboard/MyUserDashboard/TopNav.json
 #: translations/.messages/src/app/containers/homepageContainer/leaderboard.json
 msgid "IQ"
 msgstr "IQ"
@@ -2342,13 +2192,6 @@ msgstr ""
 msgid "Image URL"
 msgstr "이미지 웹 주소"
 
-#. [EpIdLogin.ErrorIncorrectUsernameOrPassword]
-#. defaultMessage is:
-#. Incorrect username or password. Please try again.
-#: translations/.messages/src/app/components/Login/epid-login.modal.json
-msgid "Incorrect username or password. Please try again."
-msgstr ""
-
 #. [MetadataModal.Indexed]
 #. defaultMessage is:
 #. Indexed
@@ -2441,7 +2284,7 @@ msgstr "오른쪽 삽입"
 #. [LoginModal.OpenTokenPocket]
 #. defaultMessage is:
 #. It appears you are using a browser other than TokenPocket. Please open your TokenPocket app and try again.
-#: translations/.messages/src/app/components/Login/Login.json
+#: translations/.messages/src/app/components/Login/index.json
 msgid ""
 "It appears you are using a browser other than TokenPocket. Please open your "
 "TokenPocket app and try again."
@@ -2579,7 +2422,7 @@ msgstr "참여자 활동순위"
 #. defaultMessage is:
 #. Learn More
 #: translations/.messages/src/app/components/Chat/ChatList.json
-#: translations/.messages/src/app/components/Login/Login.json
+#: translations/.messages/src/app/components/Login/index.json
 msgid "Learn More"
 msgstr "자세히 알아보기"
 
@@ -2697,13 +2540,6 @@ msgstr ""
 msgid "Loading"
 msgstr "로딩 중"
 
-#. [LoginContainer.EPIDCallback]
-#. defaultMessage is:
-#. Loading...
-#: translations/.messages/src/app/containers/login/login.container.json
-msgid "Loading..."
-msgstr "로딩 중"
-
 #. [ImageUploader.LocalFile]
 #. defaultMessage is:
 #. Local File
@@ -2736,10 +2572,17 @@ msgstr "잠김"
 msgid "Log in to chat"
 msgstr "채팅 로그인"
 
+#. [LoginModal.LoginWithEmail]
+#. defaultMessage is:
+#. Log in with Email
+#: translations/.messages/src/app/components/Login/index.json
+msgid "Log in with Email"
+msgstr "이메일 로그인"
+
 #. [Dashboard.LogOut]
 #. defaultMessage is:
 #. Log out
-#: translations/.messages/src/app/containers/dashboard/MyUserDashboard/TopNav.json
+#: translations/.messages/src/app/containers/dashboard/dashboard_component.json
 msgid "Log out"
 msgstr "로그아웃"
 
@@ -2752,9 +2595,6 @@ msgstr "로그아웃"
 #. [Notifications.Login]
 #. defaultMessage is:
 #. Login
-#. [EpIdLogin.Login]
-#. defaultMessage is:
-#. Login
 #. [AccountNameHeader.Login]
 #. defaultMessage is:
 #. Login
@@ -2764,18 +2604,10 @@ msgstr "로그아웃"
 #: translations/.messages/src/app/components/Chat/ChatInput.json
 #: translations/.messages/src/app/components/Chat/Directory.json
 #: translations/.messages/src/app/components/Chat/Notifications.json
-#: translations/.messages/src/app/components/Login/epid-login.modal.json
 #: translations/.messages/src/app/components/TopNav/account-name-header.json
 #: translations/.messages/src/app/utils/errors.json
 msgid "Login"
 msgstr "로그인"
-
-#. [EpIdLogin.LoginSuccessfulWithPunctuation]
-#. defaultMessage is:
-#. Login Successful!
-#: translations/.messages/src/app/components/Login/epid-login.modal.json
-msgid "Login Successful!"
-msgstr "제출 완료"
 
 #. [Directory.LoginToChat]
 #. defaultMessage is:
@@ -2809,77 +2641,66 @@ msgstr "로그인해서 편집하기"
 msgid "Login to participate in article chat"
 msgstr "로그인해서 채팅 참여하기"
 
-#. [EpIdLogin.LoginWithEmail]
-#. defaultMessage is:
-#. Login with Email
-#. [LoginModal.LoginWithEmail]
-#. defaultMessage is:
-#. Login with Email
-#: translations/.messages/src/app/components/Login/epid-login.modal.json
-#: translations/.messages/src/app/components/Login/Login.json
-msgid "Login with Email"
-msgstr "이메일 로그인"
-
 #. [LoginModal.LoginWithFacebook]
 #. defaultMessage is:
 #. Login with Facebook
-#: translations/.messages/src/app/components/Login/Login.json
+#: translations/.messages/src/app/components/Login/index.json
 msgid "Login with Facebook"
 msgstr "페이스북 로그인"
 
 #. [LoginModal.LoginWithGoogle]
 #. defaultMessage is:
 #. Login with Google
-#: translations/.messages/src/app/components/Login/Login.json
+#: translations/.messages/src/app/components/Login/index.json
 msgid "Login with Google"
 msgstr "구글 로그인"
 
 #. [LoginModal.LoginWithKakao]
 #. defaultMessage is:
 #. Login with Kakao
-#: translations/.messages/src/app/components/Login/Login.json
+#: translations/.messages/src/app/components/Login/index.json
 msgid "Login with Kakao"
 msgstr "카카오 로그인"
 
 #. [LoginModal.LoginWithLine]
 #. defaultMessage is:
 #. Login with Line
-#: translations/.messages/src/app/components/Login/Login.json
+#: translations/.messages/src/app/components/Login/index.json
 msgid "Login with Line"
 msgstr "라인 로그인"
 
 #. [LoginModal.LoginWithPhone]
 #. defaultMessage is:
 #. Login with Phone
-#: translations/.messages/src/app/components/Login/Login.json
+#: translations/.messages/src/app/components/Login/index.json
 msgid "Login with Phone"
 msgstr "모바일 로그인"
 
 #. [LoginModal.LoginWithScatter]
 #. defaultMessage is:
 #. Login with Scatter
-#: translations/.messages/src/app/components/Login/Login.json
+#: translations/.messages/src/app/components/Login/index.json
 msgid "Login with Scatter"
 msgstr "스캐터 로그인"
 
 #. [Login.LoginWithScatterBlockchain]
 #. defaultMessage is:
 #. Login with Scatter to use your existing EOS blockchain account.
-#: translations/.messages/src/app/components/Login/Login.json
+#: translations/.messages/src/app/components/Login/index.json
 msgid "Login with Scatter to use your existing EOS blockchain account."
 msgstr "스캐터로 로그인하여 기존 EOS 계정을 사용하세요"
 
 #. [LoginModal.LoginWithTokenPocket]
 #. defaultMessage is:
 #. Login with TokenPocket
-#: translations/.messages/src/app/components/Login/Login.json
+#: translations/.messages/src/app/components/Login/index.json
 msgid "Login with TokenPocket"
 msgstr "토큰포켓 로그인"
 
 #. [LoginModal.LoginWithTwitter]
 #. defaultMessage is:
 #. Login with Twitter
-#: translations/.messages/src/app/components/Login/Login.json
+#: translations/.messages/src/app/components/Login/index.json
 msgid "Login with Twitter"
 msgstr "트위터 로그인"
 
@@ -3041,27 +2862,6 @@ msgstr "합침"
 #: translations/.messages/src/app/components/Chat/messages.json
 msgid "Messages"
 msgstr "메시지"
-
-#. [DashboardComponent.MigrateFromOreID]
-#. defaultMessage is:
-#. Migrate Now
-#: translations/.messages/src/app/containers/dashboard/dashboard_component.json
-msgid "Migrate Now"
-msgstr "편집하기"
-
-#. [LoginModal.MigrateFromOreID]
-#. defaultMessage is:
-#. Migrate from OreID
-#: translations/.messages/src/app/containers/dashboard/dashboard_component.json
-msgid "Migrate from OreID"
-msgstr ""
-
-#. [EpIdLogin.MinimumPasswordLength]
-#. defaultMessage is:
-#. Minimum password length is 8
-#: translations/.messages/src/app/components/Login/epid-login.modal.json
-msgid "Minimum password length is 8"
-msgstr ""
 
 #. [Errors.MobileEditingComing]
 #. defaultMessage is:
@@ -3391,7 +3191,7 @@ msgstr "기타"
 #. [LoginModal.OtherLoginOptions]
 #. defaultMessage is:
 #. Other Login Options
-#: translations/.messages/src/app/components/Login/Login.json
+#: translations/.messages/src/app/components/Login/index.json
 msgid "Other Login Options"
 msgstr "다른 로그인 선택"
 
@@ -3506,17 +3306,6 @@ msgstr "조회수"
 #: translations/.messages/src/app/components/Chat/messages.json
 msgid "Participants"
 msgstr "참여자"
-
-#. [EpIdLogin.Password]
-#. defaultMessage is:
-#. Password
-#. [EpIdLogin.Password]
-#. defaultMessage is:
-#. Password
-#: translations/.messages/src/app/components/Login/epid-login.modal.json
-#: translations/.messages/src/app/components/Login/epid-register.modal.json
-msgid "Password"
-msgstr "단어"
 
 #. [SearchResults.People]
 #. defaultMessage is:
@@ -3736,11 +3525,7 @@ msgstr "프라이버시"
 #. [CustomCookieBanner.PrivacyPolicy]
 #. defaultMessage is:
 #. Privacy Policy
-#. [EpIdRegister.PrivacyPolicy]
-#. defaultMessage is:
-#. Privacy Policy
 #: translations/.messages/src/app/components/custom-cookie-banner/index.json
-#: translations/.messages/src/app/components/Login/epid-register.modal.json
 msgid "Privacy Policy"
 msgstr "프라이버시"
 
@@ -3829,7 +3614,7 @@ msgstr "자주묻는 질문"
 #. [Login.QuicklyLoginSocialAccount]
 #. defaultMessage is:
 #. Quickly login or create a new account to make edits, create articles, vote, and more!
-#: translations/.messages/src/app/components/Login/Login.json
+#: translations/.messages/src/app/components/Login/index.json
 msgid ""
 "Quickly login or create a new account to make edits, create articles, vote, "
 "and more!"
@@ -3870,13 +3655,6 @@ msgstr ""
 #: translations/.messages/src/app/components/content-top-nav/index.json
 msgid "Read"
 msgstr "읽기"
-
-#. [Dashboard.IQTab.Receive]
-#. defaultMessage is:
-#. Receive
-#: translations/.messages/src/app/containers/dashboard/MyUserDashboard/IQTab.json
-msgid "Receive"
-msgstr ""
 
 #. [RecentActivity.ContainerTitle]
 #. defaultMessage is:
@@ -3921,20 +3699,6 @@ msgstr "ORE ID 인증 페이지로 리디렉션 중입니다"
 #: translations/.messages/src/editor/editor.container.json
 msgid "References"
 msgstr "인용"
-
-#. [LoginModal.RegisterWithEmail]
-#. defaultMessage is:
-#. Register with Email
-#: translations/.messages/src/app/components/Login/Login.json
-msgid "Register with Email"
-msgstr "이메일 로그인"
-
-#. [EpIdLogin.RegistrationSuccessfulWithPunctuation]
-#. defaultMessage is:
-#. Registration Successful!
-#: translations/.messages/src/app/components/Login/epid-register.modal.json
-msgid "Registration Successful!"
-msgstr "제출 완료"
 
 #. [SubmitVoteConfirmation.Reject]
 #. defaultMessage is:
@@ -4019,13 +3783,6 @@ msgstr "댓글"
 #: translations/.messages/src/app/containers/contact-us/messages.json
 msgid "Report a Bug"
 msgstr "버그 신고"
-
-#. [EpIdLogin.ResetPassword]
-#. defaultMessage is:
-#. Reset Password
-#: translations/.messages/src/app/components/Login/epid-login.modal.json
-msgid "Reset Password"
-msgstr ""
 
 #. [Stats.RestrictedArea]
 #. defaultMessage is:
@@ -4192,7 +3949,7 @@ msgstr "선택"
 #. [LoginModal.SelectOtherSocial]
 #. defaultMessage is:
 #. Select Other Social Login Option
-#: translations/.messages/src/app/components/Login/Login.json
+#: translations/.messages/src/app/components/Login/index.json
 msgid "Select Other Social Login Option"
 msgstr "다른 SNS 로그인 선택"
 
@@ -4220,11 +3977,7 @@ msgstr "다른 이유 선택"
 #. [Chat.Send]
 #. defaultMessage is:
 #. Send
-#. [Dashboard.IQTab.Send]
-#. defaultMessage is:
-#. Send
 #: translations/.messages/src/app/components/Chat/ChatInput.json
-#: translations/.messages/src/app/containers/dashboard/MyUserDashboard/IQTab.json
 msgid "Send"
 msgstr "보내기"
 
@@ -4245,26 +3998,12 @@ msgstr "더 보내기"
 msgid "Send a message to other editors"
 msgstr "다른 편집자에게 메시지 보내기"
 
-#. [Dashboard.IQTab.SendTo]
-#. defaultMessage is:
-#. Send to
-#: translations/.messages/src/app/containers/dashboard/MyUserDashboard/IQTab.json
-msgid "Send to"
-msgstr "보내기"
-
 #. [ContactUs.sendUsMessage]
 #. defaultMessage is:
 #. Send us a message
 #: translations/.messages/src/app/containers/contact-us/messages.json
 msgid "Send us a message"
 msgstr "메시지를 보내주세요"
-
-#. [Dashboard.IQTab.Sending]
-#. defaultMessage is:
-#. Sending
-#: translations/.messages/src/app/containers/dashboard/MyUserDashboard/IQTab.json
-msgid "Sending"
-msgstr "보내기"
 
 #. [NewPageTemplate.NPT_Organization_Services]
 #. defaultMessage is:
@@ -4297,9 +4036,6 @@ msgstr "모든 인용 보기"
 #. [LearnMore.SignUp]
 #. defaultMessage is:
 #. Sign Up
-#. [EpIdLogin.Signup]
-#. defaultMessage is:
-#. Sign Up
 #. [AccountNameHeader.SignUp]
 #. defaultMessage is:
 #. Sign Up
@@ -4310,7 +4046,6 @@ msgstr "모든 인용 보기"
 #. defaultMessage is:
 #. Sign Up
 #: translations/.messages/src/app/components/learn-more/index.json
-#: translations/.messages/src/app/components/Login/epid-login.modal.json
 #: translations/.messages/src/app/components/TopNav/account-name-header.json
 #: translations/.messages/src/app/containers/about/last-block.json
 #: translations/.messages/src/app/utils/errors.json
@@ -4446,13 +4181,6 @@ msgstr "글 편집을 제출하세요"
 msgid "Submitting Your Article Edit"
 msgstr "글 편집을 제출하고 있습니다"
 
-#. [EpIdLogin.SuccessExclamation]
-#. defaultMessage is:
-#. Success!
-#: translations/.messages/src/app/components/Login/epid-login.modal.json
-msgid "Success!"
-msgstr ""
-
 #. [SubmitVoteConfirmation.Success]
 #. defaultMessage is:
 #. Successfully Voted!
@@ -4559,11 +4287,7 @@ msgstr "전화번호"
 #. [Footer.Terms]
 #. defaultMessage is:
 #. Terms
-#. [EpIdRegister.Terms]
-#. defaultMessage is:
-#. Terms
 #: translations/.messages/src/app/components/Footer/index.json
-#: translations/.messages/src/app/components/Login/epid-register.modal.json
 msgid "Terms"
 msgstr "이용약관"
 
@@ -4821,13 +4545,6 @@ msgstr "에브리피디아 계정으로 편집에 참여하세요"
 msgid "Today"
 msgstr "오늘"
 
-#. [EpIdLogin.ErrorTooManyAttempts]
-#. defaultMessage is:
-#. Too many login attempts. Please try again later.
-#: translations/.messages/src/app/components/Login/epid-login.modal.json
-msgid "Too many login attempts. Please try again later."
-msgstr ""
-
 #. [Dashboard.TotalBalance]
 #. defaultMessage is:
 #. Total Balance
@@ -4888,7 +4605,7 @@ msgstr "다시 시도하세요"
 #. [Login.TryAgain]
 #. defaultMessage is:
 #. Try again
-#: translations/.messages/src/app/components/Login/Login.json
+#: translations/.messages/src/app/components/Login/index.json
 #: translations/.messages/src/app/containers/wallet-login/wallet-login.container.json
 msgid "Try again"
 msgstr "다시 시도하세요"
@@ -4931,13 +4648,6 @@ msgstr "웹 주소 슬러그"
 #: translations/.messages/src/editor/plugins/metadata/metadata-modal.json
 msgid "URL Slug Alt"
 msgstr "웹 주소 슬러그 Alt"
-
-#. [EpIdLogin.ErrorUndefined]
-#. defaultMessage is:
-#. Undefined error: please try again.
-#: translations/.messages/src/app/components/Login/epid-login.modal.json
-msgid "Undefined error: please try again."
-msgstr "다시 시도하세요"
 
 #. [MainItem.Updated]
 #. defaultMessage is:
@@ -4985,15 +4695,7 @@ msgstr "업로드 중"
 #. [EditProfile.Username]
 #. defaultMessage is:
 #. Username
-#. [EpIdLogin.Username]
-#. defaultMessage is:
-#. Username
-#. [EpIdLogin.Username]
-#. defaultMessage is:
-#. Username
 #: translations/.messages/src/app/components/edit-profile/index.json
-#: translations/.messages/src/app/components/Login/epid-login.modal.json
-#: translations/.messages/src/app/components/Login/epid-register.modal.json
 msgid "Username"
 msgstr "사용자 이름"
 
@@ -5096,14 +4798,6 @@ msgstr "블록체인 트랜잭션 보기"
 #: translations/.messages/src/app/components/Chat/ChatItem.json
 msgid "View edit"
 msgstr "편집 보기"
-
-#. [SaveModalAgain.ViewTransaction]
-#. defaultMessage is:
-#. View transaction
-#: translations/.messages/src/app/containers/dashboard/MyUserDashboard/IQTab.json
-
-msgid "View transaction"
-msgstr "트랜잭션 보기"
 
 #. [SearchResults.Views]
 #. defaultMessage is:
@@ -5285,7 +4979,7 @@ msgstr ""
 #. [LoginModal.WaitAMomentWhileWeLoad]
 #. defaultMessage is:
 #. Wait a moment while we load your wallet – If you don’t see the wallet window, check if it has loaded behind your current window.
-#: translations/.messages/src/app/components/Login/Login.json
+#: translations/.messages/src/app/components/Login/index.json
 msgid ""
 "Wait a moment while we load your wallet – If you don’t see the wallet "
 "window, check if it has loaded behind your current window."
@@ -5322,13 +5016,6 @@ msgstr "ORE ID로 리디렉션 중입니다"
 msgid "Warning"
 msgstr "주의"
 
-#. [EditProfile.WarningEpId]
-#. defaultMessage is:
-#. Warning: Your public profile will be visible to everyone
-#: translations/.messages/src/app/components/edit-profile/index.json
-msgid "Warning: Your public profile will be visible to everyone"
-msgstr "주의: 공개 프로필은 모든 사람에게 공개되며 블록체인에 저장됩니다"
-
 #. [EditProfile.Warning]
 #. defaultMessage is:
 #. Warning: Your public profile will be visible to everyone and stored on-chain
@@ -5336,17 +5023,6 @@ msgstr "주의: 공개 프로필은 모든 사람에게 공개되며 블록체�
 msgid ""
 "Warning: Your public profile will be visible to everyone and stored on-chain"
 msgstr "주의: 공개 프로필은 모든 사람에게 공개되며 블록체인에 저장됩니다"
-
-#. [EpIdLogin.WeNowUse]
-#. defaultMessage is:
-#. We now use EPID for all users who wish to login with a social account or email. As part of this process, you will be prompted to create a new account. If you have an existing account, you will be asked to merge it with youur new account in order to retain your edit history and IQ balance.
-#: translations/.messages/src/app/components/Login/EPIDExplanationModal.json
-msgid ""
-"We now use EPID for all users who wish to login with a social account or "
-"email. As part of this process, you will be prompted to create a new "
-"account. If you have an existing account, you will be asked to merge it with "
-"youur new account in order to retain your edit history and IQ balance."
-msgstr ""
 
 #. [MergeModalAgain.WeReceivedTheFollowingError]
 #. defaultMessage is:
@@ -5358,13 +5034,6 @@ msgstr ""
 #: translations/.messages/src/editor/plugins/save/save-modal.json
 msgid "We received the following error"
 msgstr "다음 오류가 발생했습니다"
-
-#. [EpIdLogin.WellEmailInstructions]
-#. defaultMessage is:
-#. We will email you instructions on how to reset your password.
-#: translations/.messages/src/app/components/Login/epid-login.modal.json
-msgid "We will email you instructions on how to reset your password."
-msgstr ""
 
 #. [ContactUs.WedLoveToHearFromYou]
 #. defaultMessage is:
@@ -5393,13 +5062,6 @@ msgstr "IQ 토큰이란?"
 #: translations/.messages/src/shared/components/DynamicAppHead/index.json
 msgid "Wiki Encyclopedia of Everything - Everipedia"
 msgstr "에브리피디아 - 모두의 온라인 위키 백과사전"
-
-#. [Dashboard.IQTab.SendSuccessful]
-#. defaultMessage is:
-#. Withdrawal Successful:
-#: translations/.messages/src/app/containers/dashboard/MyUserDashboard/IQTab.json
-msgid "Withdrawal Successful:"
-msgstr "투표 완료"
 
 #. [AccountNameHeader.Worth]
 #. defaultMessage is:
@@ -5756,7 +5418,7 @@ msgstr "지원 거래소"
 #. [Login.Or]
 #. defaultMessage is:
 #. or
-#: translations/.messages/src/app/components/Login/Login.json
+#: translations/.messages/src/app/components/Login/index.json
 msgid "or"
 msgstr "또는"
 
@@ -5899,16 +5561,6 @@ msgstr "시작"
 #: translations/.messages/src/app/components/SubmitVote/EditOverview.json
 msgid "words"
 msgstr "단어"
-
-#~ msgid ""
-#~ "Enter the code that was sent to your email address. If you haven't "
-#~ "received a code, go back and try again."
-#~ msgstr ""
-#~ "이메일 주소로 전송된 코드를 입력하세요. 코드를 받지 못한 경우 다시 시도하"
-#~ "세요."
-
-#~ msgid "Enter your email and we'll send a code to that email address."
-#~ msgstr "이메일을 입력하면 해당 이메일 주소로 코드가 전송됩니다."
 
 #~ msgid "about EOS and IQ"
 #~ msgstr "EOS와 IQ"
@@ -6096,6 +5748,9 @@ msgstr "단어"
 #~ msgid "Transaction failed!"
 #~ msgstr "제출 실패"
 
+#~ msgid "Transaction successful!"
+#~ msgstr "제출 완료"
+
 #~ msgid "Undo Changes"
 #~ msgstr "되돌리기"
 
@@ -6127,6 +5782,9 @@ msgstr "단어"
 
 #~ msgid "ISBN (Book)"
 #~ msgstr "ISBN (도서)"
+
+#~ msgid "Login / Create Account"
+#~ msgstr "로그인 / 계정 만들기"
 
 #~ msgid ""
 #~ "To make an edit or create an article, you need an Everipedia account. You "
