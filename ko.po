@@ -1,7 +1,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: \n"
-"POT-Creation-Date: 2020-07-13T14:21:11.375Z\n"
+"POT-Creation-Date: 2020-07-17T20:06:12.507Z\n"
 "PO-Revision-Date: \n"
 "Last-Translator: \n"
 "Language-Team: \n"
@@ -39,7 +39,7 @@ msgid " Write your message below to start the conversation"
 msgstr "메시지 쓰기"
 #. [EpIdRegister.SpaceAndSpace]
 #. defaultMessage is:
-#.  and 
+#.  and
 #: translations/.messages/src/app/components/Login/epid-register.modal.json
 msgid " and "
 msgstr ""
@@ -75,7 +75,7 @@ msgid "+ Create an Account / Login"
 msgstr "+ 계정 만들기 / 로그인"
 #. [IQInfo.Or]
 #. defaultMessage is:
-#. , or 
+#. , or
 #: translations/.messages/src/app/containers/iq-info/iq-info.container.json
 msgid ", or "
 msgstr " 또는 "
@@ -133,14 +133,16 @@ msgstr "6개월"
 #: translations/.messages/src/app/containers/dashboard/dashboard_component.json
 msgid "7 DAYS"
 msgstr "7일"
+
 #. [EpIdLogin.ALinkToResetHasBeenSent]
 #. defaultMessage is:
-#. A link to reset your password has been sent to your email. You can now use your new password to log into your account.
+#. A link to reset your password has been sent to your email. Click the link there to create a new password.
 #: translations/.messages/src/app/components/Login/epid-login.modal.json
 msgid ""
-"A link to reset your password has been sent to your email. You can now use "
-"your new password to log into your account."
-msgstr "비밀번호를 재설정 할 수 있도록 이메일을 보냈습니다"
+"A link to reset your password has been sent to your email. Click the link "
+"there to create a new password."
+msgstr ""
+
 #. [Homepage.UniverseOfKnowledge]
 #. defaultMessage is:
 #. A universe of knowledge.
@@ -276,8 +278,10 @@ msgstr "계정명"
 #. defaultMessage is:
 #. Account Update
 #: translations/.messages/src/app/components/Login/EPIDExplanationModal.json
+
 msgid "Account Update"
 msgstr "계정명"
+
 #. [CategoryResultCard.ActiveVoting]
 #. defaultMessage is:
 #. Active Voting
@@ -498,7 +502,7 @@ msgid "Allow Non-Googlebot"
 msgstr "Googlebot 허용하지 않음"
 #. [CitationModal.AddEditFile.AllowedFormats]
 #. defaultMessage is:
-#. Allowed formats: 
+#. Allowed formats:
 #: translations/.messages/src/editor/plugins/citation-modal/panes/add-edit-file.json
 msgid "Allowed formats: "
 msgstr "허용되는 형식: "
@@ -1239,6 +1243,16 @@ msgstr "공개 이름"
 #: translations/.messages/src/app/components/edit-profile/index.json
 msgid "Display Name must be longer than 3 characters"
 msgstr "공개 이름은 세글자보다 길어야 합니다"
+
+#. [LoginModal.DoYouHaveAnEPAccount]
+#. defaultMessage is:
+#. Do you have an Everipedia account using OreID? Merging your accounts will unify your history and streaks.
+#: translations/.messages/src/app/containers/dashboard/MyUserDashboard/AccountSettings.json
+msgid ""
+"Do you have an Everipedia account using OreID? Merging your accounts will "
+"unify your history and streaks."
+msgstr ""
+
 #. [EpIdLogin.DontHaveAccountQuestion]
 #. defaultMessage is:
 #. Don't have an account?
@@ -1505,6 +1519,7 @@ msgstr "검색어 입력"
 #: translations/.messages/src/editor/plugins/infobox/infobox-modal.json
 msgid "Enter a type"
 msgstr "유형 입력"
+
 #. [ContactUs.EnterYourMessage]
 #. defaultMessage is:
 #. Enter your message...
@@ -1525,10 +1540,10 @@ msgid "Error code"
 msgstr "오류"
 #. [EpIdLogin.ErrorWithPunctuationAndSpace]
 #. defaultMessage is:
-#. Error: 
+#. Error:
 #. [EpIdLogin.ErrorWithPunctuationAndSpace]
 #. defaultMessage is:
-#. Error: 
+#. Error:
 #: translations/.messages/src/app/components/Login/epid-login.modal.json
 #: translations/.messages/src/app/components/Login/epid-register.modal.json
 msgid "Error: "
@@ -1902,6 +1917,14 @@ msgstr "완료"
 #: translations/.messages/src/app/utils/comment-utils.json
 msgid "Grammar"
 msgstr "문법"
+
+#. [LoginModal.HaveOldOreID]
+#. defaultMessage is:
+#. Have an old OreID account?
+#: translations/.messages/src/app/containers/dashboard/HaveOreIDAlert.json
+msgid "Have an old OreID account?"
+msgstr ""
+
 #. [NewPageTemplate.NPT_Person_HeSheLikesTo]
 #. defaultMessage is:
 #. He/She likes to
@@ -1964,7 +1987,7 @@ msgid "How to merge your accounts?"
 msgstr "계정 합치기"
 #. [EpIdRegister.IAcceptThe]
 #. defaultMessage is:
-#. I accept the 
+#. I accept the
 #: translations/.messages/src/app/components/Login/epid-register.modal.json
 msgid "I accept the "
 msgstr "투표 완료"
@@ -2348,7 +2371,7 @@ msgid "Learn more"
 msgstr "자세히 알아보기"
 #. [Login.LearnMoreThree]
 #. defaultMessage is:
-#. Learn more 
+#. Learn more
 #: translations/.messages/src/app/components/Login/login.modal.json
 msgid "Learn more "
 msgstr "자세히 알아보기"
@@ -2706,6 +2729,22 @@ msgstr "운영진"
 #: translations/.messages/src/editor/plugins/merge/index.json
 msgid "Merge"
 msgstr "합치기"
+
+#. [LoginModal.MergeOreIDAccount]
+#. defaultMessage is:
+#. Merge OreID Account
+#. [LoginModal.MergeOreIDAccount]
+#. defaultMessage is:
+#. Merge OreID Account
+#. [Dashboard.AccountSettings.MergeOreIDAccount]
+#. defaultMessage is:
+#. Merge OreID Account
+#: translations/.messages/src/app/containers/dashboard/HaveOreIDAlert.json
+#: translations/.messages/src/app/containers/dashboard/MyUserDashboard/AccountSettings.json
+
+msgid "Merge OreID Account"
+msgstr "계정 만들기"
+
 #. [MergeModal.Title]
 #. defaultMessage is:
 #. Merge this page into another Everipedia page
@@ -3419,7 +3458,7 @@ msgid "Provide the reason for your vote (optional)"
 msgstr "투표에 대한 설명(선택)"
 #. [ContactUs.Questions]
 #. defaultMessage is:
-#. Questions? 
+#. Questions?
 #: translations/.messages/src/app/containers/contact-us/contact-form.json
 msgid "Questions? "
 msgstr "자주묻는 질문"
@@ -3593,12 +3632,25 @@ msgstr "댓글"
 #: translations/.messages/src/app/containers/contact-us/messages.json
 msgid "Report a Bug"
 msgstr "버그 신고"
+
+#. [EpIdLogin.ResendEmail]
+#. defaultMessage is:
+#. Resend Email
+#: translations/.messages/src/app/components/Login/epid-login.modal.json
+msgid "Resend Email"
+msgstr ""
+
 #. [EpIdLogin.ResetPassword]
 #. defaultMessage is:
 #. Reset Password
+#. [EpIdResetPassword.ResetPassword]
+#. defaultMessage is:
+#. Reset Password
 #: translations/.messages/src/app/components/Login/epid-login.modal.json
+#: translations/.messages/src/app/components/Login/EPIDResetPasswordModal.json
 msgid "Reset Password"
 msgstr "비밀번호 재설정"
+
 #. [Stats.RestrictedArea]
 #. defaultMessage is:
 #. Restricted area.
@@ -3799,8 +3851,10 @@ msgstr "다른 편집자에게 메시지 보내기"
 #. defaultMessage is:
 #. Send to
 #: translations/.messages/src/app/containers/dashboard/MyUserDashboard/IQTab.json
+
 msgid "Send to"
 msgstr "보내기"
+
 #. [ContactUs.sendUsMessage]
 #. defaultMessage is:
 #. Send us a message
@@ -3811,8 +3865,10 @@ msgstr "메시지를 보내주세요"
 #. defaultMessage is:
 #. Sending
 #: translations/.messages/src/app/containers/dashboard/MyUserDashboard/IQTab.json
+
 msgid "Sending"
 msgstr "보내기"
+
 #. [NewPageTemplate.NPT_Organization_Services]
 #. defaultMessage is:
 #. Service(s)
@@ -3825,6 +3881,21 @@ msgstr "서비스"
 #: translations/.messages/src/editor/utils/editing-utils/template-packs/organization.json
 msgid "Services"
 msgstr "서비스"
+
+#. [EpIdResetPassword.SetPassword]
+#. defaultMessage is:
+#. Set Password
+#: translations/.messages/src/app/components/Login/EPIDResetPasswordModal.json
+msgid "Set Password"
+msgstr ""
+
+#. [Dashboard.Settings]
+#. defaultMessage is:
+#. Settings
+#: translations/.messages/src/app/containers/dashboard/MyUserDashboard/TopNav.json
+msgid "Settings"
+msgstr ""
+
 #. [ShareModal.ShareVia]
 #. defaultMessage is:
 #. Share via:
@@ -4082,7 +4153,7 @@ msgstr "이용약관"
 #. defaultMessage is:
 #. Thanks for trialing Everipedia. Looks like you’ve been making edits and have run out of the
 #.                         trial IQ Tokens. You can unlock the full potential of Everipedia and get more tokens with a
-#.                         Scatter login. 
+#.                         Scatter login.
 #: translations/.messages/src/app/utils/errors.json
 msgid ""
 "Thanks for trialing Everipedia. Looks like you’ve been making edits and have "
@@ -4096,7 +4167,7 @@ msgstr ""
 #. [Errors.ThanksForUsingEveripedia]
 #. defaultMessage is:
 #. Thanks for using Everipedia. Looks like you have run out of IQ Tokens. You can get more tokens
-#.                         at one of 
+#.                         at one of
 #: translations/.messages/src/app/utils/errors.json
 msgid ""
 "Thanks for using Everipedia. Looks like you have run out of IQ Tokens. You "
@@ -4208,6 +4279,15 @@ msgstr "최근 편집 없음"
 #: translations/.messages/src/app/components/Chat/ChatList.json
 msgid "There is no activity on this article."
 msgstr "최근 활동 없음"
+
+#. [EpIdResetPasswordModal.GenericError]
+#. defaultMessage is:
+#. There was a problem with your request. Please try again or contact support.
+#: translations/.messages/src/app/components/Login/EPIDResetPasswordModal.json
+msgid ""
+"There was a problem with your request. Please try again or contact support."
+msgstr ""
+
 #. [SaveModalAgain.ThereWasAnIssueRecording]
 #. defaultMessage is:
 #. There was an issue recording your edit.
@@ -4954,6 +5034,14 @@ msgid ""
 msgstr ""
 "편집 제안이 투표 중입니다. 투표결과 승인되면, 편집에 따른 보상으로 IQ 토큰을 "
 "받습니다. 편집 제안을 하는데 사용한 IQ 토큰은 21일 동안 예치됩니다."
+
+#. [EpIdResetPassword.NewPasswordSet]
+#. defaultMessage is:
+#. Your new password has been set.
+#: translations/.messages/src/app/components/Login/EPIDResetPasswordModal.json
+msgid "Your new password has been set."
+msgstr ""
+
 #. [Login.aboutLoginOptions]
 #. defaultMessage is:
 #. about Everipedia’s login options.
@@ -5264,14 +5352,23 @@ msgstr "시작"
 #: translations/.messages/src/app/components/SubmitVote/EditOverview.json
 msgid "words"
 msgstr "단어"
+
 #~ msgid "Category"
 #~ msgstr "카테고리"
+
 #~ msgid ""
 #~ "Enter the code that was sent to your email address. If you haven't "
 #~ "received a code, go back and try again."
 #~ msgstr ""
 #~ "이메일 주소로 전송된 코드를 입력하세요. 코드를 받지 못한 경우 다시 시도하"
 #~ "세요."
+
+#~ msgid "Enter your email and we'll send a code to that email address."
+#~ msgstr "이메일을 입력하면 해당 이메일 주소로 코드가 전송됩니다."
+
+#~ msgid "View History"
+#~ msgstr "기록 보기"
+
 #~ msgid "Enter your email and we'll send a code to that email address."
 #~ msgstr "이메일을 입력하면 해당 이메일 주소로 코드가 전송됩니다."
 #~ msgid "View History"
@@ -5283,6 +5380,7 @@ msgstr "단어"
 #~ msgstr ""
 #~ "계정을 실행하고 있습니다. 편집 제안을 ORE ID에서 확인합니다. 계정을 생성할"
 #~ "때 입력한 핀 번호를 입력하세요"
+
 #~ msgid "about EOS and IQ"
 #~ msgstr "EOS와 IQ"
 #~ msgid "Edits Proposed"
@@ -5410,6 +5508,7 @@ msgstr "단어"
 #~ msgstr "현재 이 글에는 부스트가 없습니다"
 #~ msgid "Transaction failed!"
 #~ msgstr "제출 실패"
+
 #~ msgid "Undo Changes"
 #~ msgstr "되돌리기"
 #~ msgid "Verify Account"
@@ -5433,6 +5532,7 @@ msgstr "단어"
 #~ msgstr "삽입하지 않고 추가"
 #~ msgid "ISBN (Book)"
 #~ msgstr "ISBN (도서)"
+
 #~ msgid ""
 #~ "To make an edit or create an article, you need an Everipedia account. You "
 #~ "can sign up for a\n"
