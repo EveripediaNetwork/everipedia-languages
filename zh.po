@@ -1,7 +1,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: \n"
-"POT-Creation-Date: 2020-06-25T13:15:15.101Z\n"
+"POT-Creation-Date: 2020-07-10T21:11:14.437Z\n"
 "PO-Revision-Date: \n"
 "Last-Translator: \n"
 "Language-Team: \n"
@@ -40,6 +40,13 @@ msgstr "登录以参与文章聊天。"
 #: translations/.messages/src/app/components/Chat/ChatList.json
 msgid " Write your message below to start the conversation"
 msgstr "在下面留言以开始对话"
+
+#. [EpIdRegister.SpaceAndSpace]
+#. defaultMessage is:
+#.  and 
+#: translations/.messages/src/app/components/Login/epid-register.modal.json
+msgid " and "
+msgstr "和"
 
 #. [Errors.IfYouThinkYouAre]
 #. defaultMessage is:
@@ -145,6 +152,15 @@ msgstr "6个月"
 #: translations/.messages/src/app/containers/dashboard/dashboard_component.json
 msgid "7 DAYS"
 msgstr "7天"
+
+#. [EpIdLogin.ALinkToResetHasBeenSent]
+#. defaultMessage is:
+#. A link to reset your password has been sent to your email. You can now use your new password to log into your account.
+#: translations/.messages/src/app/components/Login/epid-login.modal.json
+msgid ""
+"A link to reset your password has been sent to your email. You can now use "
+"your new password to log into your account."
+msgstr "一个重置密码的链接已经发送到您的电子邮件。您现在可以用您的新密码登录您的账户了。"
 
 #. [Homepage.UniverseOfKnowledge]
 #. defaultMessage is:
@@ -287,6 +303,13 @@ msgstr "帐户异常"
 #. Account Name
 #: translations/.messages/src/app/components/edit-profile/index.json
 msgid "Account Name"
+msgstr "帐户名称"
+
+#. [EpIdLogin.AccountUpdate]
+#. defaultMessage is:
+#. Account Update
+#: translations/.messages/src/app/components/Login/EPIDExplanationModal.json
+msgid "Account Update"
 msgstr "帐户名称"
 
 #. [CategoryResultCard.ActiveVoting]
@@ -488,6 +511,16 @@ msgstr "地址/位置"
 msgid "Adult Content"
 msgstr "涉及成人内容"
 
+#. [EpIdLogin.AfterCreating]
+#. defaultMessage is:
+#. After creating a new account, we will prompt you to merge accounts you can always merge your account from your account dashboard.
+#: translations/.messages/src/app/components/Login/EPIDExplanationModal.json
+msgid ""
+"After creating a new account, we will prompt you to merge accounts you can "
+"always merge your account from your account dashboard."
+msgstr "在创建一个新帐户后，我们将提示您合并帐户。您总是可以从您的帐户仪表板合并您
+"的帐户。"
+
 #. [Leaderboard.AllTime]
 #. defaultMessage is:
 #. All Time
@@ -603,6 +636,24 @@ msgstr "可用"
 #: translations/.messages/src/app/containers/dashboard/dashboard_component.json
 msgid "Available Balance"
 msgstr "可用余额"
+
+#. [EpIdLogin.Back]
+#. defaultMessage is:
+#. Back
+#. [EpIdLogin.Back]
+#. defaultMessage is:
+#. Back
+#: translations/.messages/src/app/components/Login/epid-login.modal.json
+#: translations/.messages/src/app/components/Login/epid-register.modal.json
+msgid "Back"
+msgstr "返回"
+
+#. [Dashboard.IQTab.BalanceActivity]
+#. defaultMessage is:
+#. Balance Activity
+#: translations/.messages/src/app/containers/dashboard/MyUserDashboard/IQTab.json
+msgid "Balance Activity"
+msgstr "查看活动"
 
 #. [Dashboard.BalanceDetail]
 #. defaultMessage is:
@@ -891,7 +942,7 @@ msgstr "选择一个新的主图"
 #. [Login.AnotherLoginMethod]
 #. defaultMessage is:
 #. Choose another login method
-#: translations/.messages/src/app/components/Login/index.json
+#: translations/.messages/src/app/components/Login/Login.json
 msgid "Choose another login method"
 msgstr "选择其他登录方式"
 
@@ -957,6 +1008,17 @@ msgstr "单击以选择您创作的编辑类型（必填）"
 msgid "Click to vote on this edit"
 msgstr "单击以对此编辑进行投票"
 
+#. [EpIdLogin.Close]
+#. defaultMessage is:
+#. Close
+#. [EpIdLogin.Close]
+#. defaultMessage is:
+#. Close
+#: translations/.messages/src/app/components/Login/epid-login.modal.json
+#: translations/.messages/src/app/components/Login/epid-register.modal.json
+msgid "Close"
+msgstr "关闭"
+
 #. [ThirdBlock.CoFounderWikipedia]
 #. defaultMessage is:
 #. Co-Founder Wikipedia
@@ -988,6 +1050,13 @@ msgstr "评论"
 #: translations/.messages/src/app/containers/contact-us/contact-us.container.json
 msgid "Common Questions"
 msgstr "常见问题"
+
+#. [EpIdLogin.Confirm Password]
+#. defaultMessage is:
+#. Confirm Password
+#: translations/.messages/src/app/components/Login/epid-register.modal.json
+msgid "Confirm Password"
+msgstr "确认您的投票"
 
 #. [SubmitVoteConfirmation.ConfirmYourVote]
 #. defaultMessage is:
@@ -1114,6 +1183,13 @@ msgstr "版权"
 msgid "Country"
 msgstr "国家"
 
+#. [EpIdLogin.CreateAccount]
+#. defaultMessage is:
+#. Create Account
+#: translations/.messages/src/app/components/Login/epid-register.modal.json
+msgid "Create Account"
+msgstr "登录/创建帐户"
+
 #. [MobileHamburger.CreateArticle]
 #. defaultMessage is:
 #. Create Article
@@ -1206,6 +1282,13 @@ msgstr "目前已质押"
 msgid "DAY"
 msgstr "天"
 
+#. [Dashboard.Dashboard]
+#. defaultMessage is:
+#. Dashboard
+#: translations/.messages/src/app/containers/dashboard/MyUserDashboard/TopNav.json
+msgid "Dashboard"
+msgstr "仪表板"
+
 #. [NewPageTemplate.NPT_CreativeWork_Date_Created]
 #. defaultMessage is:
 #. Date Created
@@ -1296,6 +1379,13 @@ msgstr "显示名称"
 msgid "Display Name must be longer than 3 characters"
 msgstr "显示名称必须超过3个字符"
 
+#. [EpIdLogin.DontHaveAccountQuestion]
+#. defaultMessage is:
+#. Don't have an account?
+#: translations/.messages/src/app/components/Login/epid-login.modal.json
+msgid "Don't have an account?"
+msgstr "获得帐号"
+
 #. [Tooltips.EditorComment]
 #. defaultMessage is:
 #. EDITOR COMMENT
@@ -1339,6 +1429,13 @@ msgstr "编辑"
 #: translations/.messages/src/editor/plugins/section-embed-modal/panes/videos.json
 msgid "EMBED SIZE"
 msgstr "嵌入尺寸"
+
+#. [Dashboard.IQTab.EOSMemo]
+#. defaultMessage is:
+#. EOS Memo:
+#: translations/.messages/src/app/containers/dashboard/MyUserDashboard/IQTab.json
+msgid "EOS Memo:"
+msgstr "EOS 备注："
 
 #. [ActivityCards.ExpiringSoon]
 #. defaultMessage is:
@@ -1471,21 +1568,36 @@ msgstr "编辑"
 msgid "Electronics / Software"
 msgstr "电子产品/软件"
 
+#. [EpIdLogin.Email]
+#. defaultMessage is:
+#. Email
+#. [EpIdLogin.Email]
+#. defaultMessage is:
+#. Email
 #. [NewPageTemplate.NPT_Organization_Email]
 #. defaultMessage is:
 #. Email
 #. [NewPageTemplate.NPT_Person_Email]
 #. defaultMessage is:
 #. Email
+#: translations/.messages/src/app/components/Login/epid-login.modal.json
+#: translations/.messages/src/app/components/Login/epid-register.modal.json
 #: translations/.messages/src/editor/utils/editing-utils/template-packs/organization.json
 #: translations/.messages/src/editor/utils/editing-utils/template-packs/person.json
 msgid "Email"
 msgstr "电子邮件"
 
+#. [EpIdLogin.EmailAddress]
+#. defaultMessage is:
+#. Email Address
+#: translations/.messages/src/app/components/Login/epid-login.modal.json
+msgid "Email Address"
+msgstr "电邮地址"
+
 #. [LoginModal.EmailComingSoon]
 #. defaultMessage is:
 #. Email Coming Soon
-#: translations/.messages/src/app/components/Login/index.json
+#: translations/.messages/src/app/components/Login/Login.json
 msgid "Email Coming Soon"
 msgstr "邮件支持即将到来"
 
@@ -1567,22 +1679,6 @@ msgstr "输入一个搜索词"
 msgid "Enter a type"
 msgstr "输入类型"
 
-#. [Login.EnterCode]
-#. defaultMessage is:
-#. Enter the code that was sent to your email address. If you haven't received a code, go back and try again.
-#: translations/.messages/src/app/components/Login/email_login.json
-msgid ""
-"Enter the code that was sent to your email address. If you haven't received "
-"a code, go back and try again."
-msgstr "输入发送到您的电子邮箱的验证码。如果您尚未收到验证码，请返回并重试。"
-
-#. [Login.EnterEmail]
-#. defaultMessage is:
-#. Enter your email and we'll send a code to that email address.
-#: translations/.messages/src/app/components/Login/email_login.json
-msgid "Enter your email and we'll send a code to that email address."
-msgstr "输入您的电子邮箱地址，我们将向该电子邮箱发送验证码。"
-
 #. [ContactUs.EnterYourMessage]
 #. defaultMessage is:
 #. Enter your message...
@@ -1603,6 +1699,17 @@ msgstr "错误"
 #: translations/.messages/src/app/components/SubmitVote/ConfirmationModal.json
 msgid "Error code"
 msgstr "错误代码"
+
+#. [EpIdLogin.ErrorWithPunctuationAndSpace]
+#. defaultMessage is:
+#. Error: 
+#. [EpIdLogin.ErrorWithPunctuationAndSpace]
+#. defaultMessage is:
+#. Error: 
+#: translations/.messages/src/app/components/Login/epid-login.modal.json
+#: translations/.messages/src/app/components/Login/epid-register.modal.json
+msgid "Error: "
+msgstr "错误"
 
 #. [NewPageTemplate.NPT_Person_Ethnicity]
 #. defaultMessage is:
@@ -1706,7 +1813,8 @@ msgstr ""
 msgid ""
 "Everipedia uses cookies to provide you with a great user experience. "
 "Everipedia will never sell any personal information."
-msgstr ""
+msgstr "Everipedia使用cookie为您提供良好的用户体验。"
+"Everipedia永远不会出售任何个人信息。”"
 
 #. [About.ModernDesignText]
 #. defaultMessage is:
@@ -1870,6 +1978,20 @@ msgstr "财务激励"
 msgid "First Edit"
 msgstr "第一次编辑"
 
+#. [EpIdLogin.ForgotPassword]
+#. defaultMessage is:
+#. Forgot Password
+#: translations/.messages/src/app/components/Login/epid-login.modal.json
+msgid "Forgot Password"
+msgstr "忘记密码"
+
+#. [EpIdLogin.ForgotPasswordQuestion]
+#. defaultMessage is:
+#. Forgot Password?
+#: translations/.messages/src/app/components/Login/epid-login.modal.json
+msgid "Forgot Password?"
+msgstr "忘记密码？"
+
 #. [CommentUtils.Formatting]
 #. defaultMessage is:
 #. Formatting
@@ -1990,6 +2112,13 @@ msgstr "取得联系"
 msgid "Get more IQ here"
 msgstr "从这里获得更多IQ"
 
+#. [EpIdLogin.GotIt]
+#. defaultMessage is:
+#. Got it!
+#: translations/.messages/src/app/components/Login/EPIDExplanationModal.json
+msgid "Got it!"
+msgstr "明白！"
+
 #. [CommentUtils.Grammar]
 #. defaultMessage is:
 #. Grammar
@@ -2052,6 +2181,20 @@ msgstr "首页"
 msgid "How much IQ should I vote?"
 msgstr "我应该使用多少IQ来进行投票？"
 
+#. [EpIdLogin.HowToMerge]
+#. defaultMessage is:
+#. How to merge your accounts?
+#: translations/.messages/src/app/components/Login/EPIDExplanationModal.json
+msgid "How to merge your accounts?"
+msgstr "如何合并您的帐户?"
+
+#. [EpIdRegister.IAcceptThe]
+#. defaultMessage is:
+#. I accept the 
+#: translations/.messages/src/app/components/Login/epid-register.modal.json
+msgid "I accept the "
+msgstr "投票已接受"
+
 #. [ThirdBlock.ILoveEveripediaBecause]
 #. defaultMessage is:
 #. I love Everipedia because everyone benefits, particularly the contributors. As an IQ token holder, I have an incentive to participate in the network.
@@ -2063,6 +2206,13 @@ msgstr ""
 "我喜欢Everipedia，因为每个人都能从中受益，特别是贡献者。作为IQ代币的持有者，"
 "我有参与网络建设的动力。"
 
+#. [EpIdRegister.WouldLikeToRecieveEmails]
+#. defaultMessage is:
+#. I would like to recieve emails from Everipedia
+#: translations/.messages/src/app/components/Login/epid-register.modal.json
+msgid "I would like to recieve emails from Everipedia"
+msgstr "我愿意接收Everipedia的电子邮件"
+
 #. [InTheNews.InTheNews]
 #. defaultMessage is:
 #. IN THE NEWS
@@ -2070,9 +2220,13 @@ msgstr ""
 msgid "IN THE NEWS"
 msgstr "新闻动态"
 
+#. [Dashboard.IQ]
+#. defaultMessage is:
+#. IQ
 #. [Leaderboard.IQ]
 #. defaultMessage is:
 #. IQ
+#: translations/.messages/src/app/containers/dashboard/MyUserDashboard/TopNav.json
 #: translations/.messages/src/app/containers/homepageContainer/leaderboard.json
 msgid "IQ"
 msgstr "IQ"
@@ -2188,7 +2342,14 @@ msgstr "如果您的投票占多数，您将获得与您投票的IQ成比例的I
 #. Image URL
 #: translations/.messages/src/shared/inputs/image-uploader/image-uploader.component.json
 msgid "Image URL"
-msgstr "图像URL"
+msgstr "图像链接"
+
+#. [EpIdLogin.ErrorIncorrectUsernameOrPassword]
+#. defaultMessage is:
+#. Incorrect username or password. Please try again.
+#: translations/.messages/src/app/components/Login/epid-login.modal.json
+msgid "Incorrect username or password. Please try again."
+msgstr ""
 
 #. [MetadataModal.Indexed]
 #. defaultMessage is:
@@ -2282,11 +2443,11 @@ msgstr "在右边插入"
 #. [LoginModal.OpenTokenPocket]
 #. defaultMessage is:
 #. It appears you are using a browser other than TokenPocket. Please open your TokenPocket app and try again.
-#: translations/.messages/src/app/components/Login/index.json
+#: translations/.messages/src/app/components/Login/Login.json
 msgid ""
 "It appears you are using a browser other than TokenPocket. Please open your "
 "TokenPocket app and try again."
-msgstr ""
+msgstr "似乎您使用的不是TokenPocket浏览器。请打开您的TokenPocket应用程序，然后再试一次。"
 
 #. [EditorDraftContinuationGuard.Unsaved]
 #. defaultMessage is:
@@ -2313,7 +2474,8 @@ msgstr "项目"
 msgid ""
 "Join thousands of others in receiving the most interesting wikis on "
 "Everipedia every week"
-msgstr ""
+msgstr "和成千上万的人一起接受每周最有趣"
+"的维基内容"
 
 #. [Login.JustGettingStarted]
 #. defaultMessage is:
@@ -2420,7 +2582,7 @@ msgstr "排行榜"
 #. defaultMessage is:
 #. Learn More
 #: translations/.messages/src/app/components/Chat/ChatList.json
-#: translations/.messages/src/app/components/Login/index.json
+#: translations/.messages/src/app/components/Login/Login.json
 msgid "Learn More"
 msgstr "了解更多"
 
@@ -2440,7 +2602,7 @@ msgstr "了解方法"
 #. Learn how to set up an EOS account
 #: translations/.messages/src/app/containers/iq-info/iq-info.container.json
 msgid "Learn how to set up an EOS account"
-msgstr ""
+msgstr "学习如何创建一个EOS账户"
 
 #. [IQInfo.LearnMore]
 #. defaultMessage is:
@@ -2536,6 +2698,13 @@ msgstr "可以摆脱中心机构的控制，对区块链上的内容进行实时
 msgid "Loading"
 msgstr "载入中"
 
+#. [LoginContainer.EPIDCallback]
+#. defaultMessage is:
+#. Loading...
+#: translations/.messages/src/app/containers/login/login.container.json
+msgid "Loading..."
+msgstr "载入中"
+
 #. [ImageUploader.LocalFile]
 #. defaultMessage is:
 #. Local File
@@ -2568,17 +2737,10 @@ msgstr "锁定"
 msgid "Log in to chat"
 msgstr "登录聊天"
 
-#. [LoginModal.LoginWithEmail]
-#. defaultMessage is:
-#. Log in with Email
-#: translations/.messages/src/app/components/Login/index.json
-msgid "Log in with Email"
-msgstr "用电子邮件登录"
-
 #. [Dashboard.LogOut]
 #. defaultMessage is:
 #. Log out
-#: translations/.messages/src/app/containers/dashboard/dashboard_component.json
+#: translations/.messages/src/app/containers/dashboard/MyUserDashboard/TopNav.json
 msgid "Log out"
 msgstr "退出"
 
@@ -2591,6 +2753,9 @@ msgstr "退出"
 #. [Notifications.Login]
 #. defaultMessage is:
 #. Login
+#. [EpIdLogin.Login]
+#. defaultMessage is:
+#. Login
 #. [AccountNameHeader.Login]
 #. defaultMessage is:
 #. Login
@@ -2600,10 +2765,18 @@ msgstr "退出"
 #: translations/.messages/src/app/components/Chat/ChatInput.json
 #: translations/.messages/src/app/components/Chat/Directory.json
 #: translations/.messages/src/app/components/Chat/Notifications.json
+#: translations/.messages/src/app/components/Login/epid-login.modal.json
 #: translations/.messages/src/app/components/TopNav/account-name-header.json
 #: translations/.messages/src/app/utils/errors.json
 msgid "Login"
 msgstr "登录"
+
+#. [EpIdLogin.LoginSuccessfulWithPunctuation]
+#. defaultMessage is:
+#. Login Successful!
+#: translations/.messages/src/app/components/Login/epid-login.modal.json
+msgid "Login Successful!"
+msgstr "交易成功！"
 
 #. [Directory.LoginToChat]
 #. defaultMessage is:
@@ -2637,66 +2810,77 @@ msgstr "登录以开始贡献"
 msgid "Login to participate in article chat"
 msgstr "登录以参与文章聊天"
 
+#. [EpIdLogin.LoginWithEmail]
+#. defaultMessage is:
+#. Login with Email
+#. [LoginModal.LoginWithEmail]
+#. defaultMessage is:
+#. Login with Email
+#: translations/.messages/src/app/components/Login/epid-login.modal.json
+#: translations/.messages/src/app/components/Login/Login.json
+msgid "Login with Email"
+msgstr "用电子邮件登录"
+
 #. [LoginModal.LoginWithFacebook]
 #. defaultMessage is:
 #. Login with Facebook
-#: translations/.messages/src/app/components/Login/index.json
+#: translations/.messages/src/app/components/Login/Login.json
 msgid "Login with Facebook"
 msgstr "Facebook登录"
 
 #. [LoginModal.LoginWithGoogle]
 #. defaultMessage is:
 #. Login with Google
-#: translations/.messages/src/app/components/Login/index.json
+#: translations/.messages/src/app/components/Login/Login.json
 msgid "Login with Google"
 msgstr "Google登录"
 
 #. [LoginModal.LoginWithKakao]
 #. defaultMessage is:
 #. Login with Kakao
-#: translations/.messages/src/app/components/Login/index.json
+#: translations/.messages/src/app/components/Login/Login.json
 msgid "Login with Kakao"
 msgstr "Kakao登录"
 
 #. [LoginModal.LoginWithLine]
 #. defaultMessage is:
 #. Login with Line
-#: translations/.messages/src/app/components/Login/index.json
+#: translations/.messages/src/app/components/Login/Login.json
 msgid "Login with Line"
 msgstr "Line登录"
 
 #. [LoginModal.LoginWithPhone]
 #. defaultMessage is:
 #. Login with Phone
-#: translations/.messages/src/app/components/Login/index.json
+#: translations/.messages/src/app/components/Login/Login.json
 msgid "Login with Phone"
 msgstr "手机登录"
 
 #. [LoginModal.LoginWithScatter]
 #. defaultMessage is:
 #. Login with Scatter
-#: translations/.messages/src/app/components/Login/index.json
+#: translations/.messages/src/app/components/Login/Login.json
 msgid "Login with Scatter"
 msgstr "Scatter登录"
 
 #. [Login.LoginWithScatterBlockchain]
 #. defaultMessage is:
 #. Login with Scatter to use your existing EOS blockchain account.
-#: translations/.messages/src/app/components/Login/index.json
+#: translations/.messages/src/app/components/Login/Login.json
 msgid "Login with Scatter to use your existing EOS blockchain account."
 msgstr "Scatter登录以使用您现有的EOS区块链帐户。"
 
 #. [LoginModal.LoginWithTokenPocket]
 #. defaultMessage is:
 #. Login with TokenPocket
-#: translations/.messages/src/app/components/Login/index.json
+#: translations/.messages/src/app/components/Login/Login.json
 msgid "Login with TokenPocket"
 msgstr "TokenPocket登录"
 
 #. [LoginModal.LoginWithTwitter]
 #. defaultMessage is:
 #. Login with Twitter
-#: translations/.messages/src/app/components/Login/index.json
+#: translations/.messages/src/app/components/Login/Login.json
 msgid "Login with Twitter"
 msgstr "Twitter登录"
 
@@ -2859,6 +3043,27 @@ msgstr "已合并"
 msgid "Messages"
 msgstr "信息"
 
+#. [DashboardComponent.MigrateFromOreID]
+#. defaultMessage is:
+#. Migrate Now
+#: translations/.messages/src/app/containers/dashboard/dashboard_component.json
+msgid "Migrate Now"
+msgstr "立即编辑"
+
+#. [LoginModal.MigrateFromOreID]
+#. defaultMessage is:
+#. Migrate from OreID
+#: translations/.messages/src/app/containers/dashboard/dashboard_component.json
+msgid "Migrate from OreID"
+msgstr "从OreID迁移"
+
+#. [EpIdLogin.MinimumPasswordLength]
+#. defaultMessage is:
+#. Minimum password length is 8
+#: translations/.messages/src/app/components/Login/epid-login.modal.json
+msgid "Minimum password length is 8"
+msgstr "最小密码长度为8位"
+
 #. [Errors.MobileEditingComing]
 #. defaultMessage is:
 #. Mobile editing coming soon
@@ -2998,7 +3203,7 @@ msgstr "无投票"
 #. No audio embeds available. Add to the media gallery first
 #: translations/.messages/src/editor/plugins/section-embed-modal/panes/audio.json
 msgid "No audio embeds available. Add to the media gallery first"
-msgstr ""
+msgstr "没有音频嵌入可用。请先添加到媒体库"
 
 #. [Dashboard.NoInfoAvailableTwo]
 #. defaultMessage is:
@@ -3030,14 +3235,14 @@ msgstr "无返回结果"
 #. No tweets available. Add to citations first
 #: translations/.messages/src/editor/plugins/section-embed-modal/panes/tweets.json
 msgid "No tweets available. Add to citations first"
-msgstr ""
+msgstr "没有可用的推特。请先添加引用"
 
 #. [SectionEmbedModal.VideosPane.Images.NoneAvailable]
 #. defaultMessage is:
 #. No videos available. Add to media gallery first
 #: translations/.messages/src/editor/plugins/section-embed-modal/panes/videos.json
 msgid "No videos available. Add to media gallery first"
-msgstr ""
+msgstr "没有可用的视频。请先添加到媒体库"
 
 #. [Tooltips.NoVotes]
 #. defaultMessage is:
@@ -3187,7 +3392,7 @@ msgstr "其他"
 #. [LoginModal.OtherLoginOptions]
 #. defaultMessage is:
 #. Other Login Options
-#: translations/.messages/src/app/components/Login/index.json
+#: translations/.messages/src/app/components/Login/Login.json
 msgid "Other Login Options"
 msgstr "其他登录选项"
 
@@ -3304,6 +3509,17 @@ msgstr "浏览量"
 #: translations/.messages/src/app/components/Chat/messages.json
 msgid "Participants"
 msgstr "参与者"
+
+#. [EpIdLogin.Password]
+#. defaultMessage is:
+#. Password
+#. [EpIdLogin.Password]
+#. defaultMessage is:
+#. Password
+#: translations/.messages/src/app/components/Login/epid-login.modal.json
+#: translations/.messages/src/app/components/Login/epid-register.modal.json
+msgid "Password"
+msgstr "字数"
 
 #. [SearchResults.People]
 #. defaultMessage is:
@@ -3523,7 +3739,11 @@ msgstr "隐私"
 #. [CustomCookieBanner.PrivacyPolicy]
 #. defaultMessage is:
 #. Privacy Policy
+#. [EpIdRegister.PrivacyPolicy]
+#. defaultMessage is:
+#. Privacy Policy
 #: translations/.messages/src/app/components/custom-cookie-banner/index.json
+#: translations/.messages/src/app/components/Login/epid-register.modal.json
 msgid "Privacy Policy"
 msgstr "隐私"
 
@@ -3612,7 +3832,7 @@ msgstr "有问题吗？"
 #. [Login.QuicklyLoginSocialAccount]
 #. defaultMessage is:
 #. Quickly login or create a new account to make edits, create articles, vote, and more!
-#: translations/.messages/src/app/components/Login/index.json
+#: translations/.messages/src/app/components/Login/Login.json
 msgid ""
 "Quickly login or create a new account to make edits, create articles, vote, "
 "and more!"
@@ -3644,7 +3864,7 @@ msgstr "最近更新"
 #. REWARDS
 #: translations/.messages/src/app/containers/leaderboard/leaderboard.container.json
 msgid "REWARDS"
-msgstr ""
+msgstr "奖励"
 
 #. [TopNav.Read]
 #. defaultMessage is:
@@ -3652,6 +3872,13 @@ msgstr ""
 #: translations/.messages/src/app/components/content-top-nav/index.json
 msgid "Read"
 msgstr "已读"
+
+#. [Dashboard.IQTab.Receive]
+#. defaultMessage is:
+#. Receive
+#: translations/.messages/src/app/containers/dashboard/MyUserDashboard/IQTab.json
+msgid "Receive"
+msgstr "接收"
 
 #. [RecentActivity.ContainerTitle]
 #. defaultMessage is:
@@ -3696,6 +3923,20 @@ msgstr "重新跳转到ORE ID身份验证页面"
 #: translations/.messages/src/editor/editor.container.json
 msgid "References"
 msgstr "参考文献"
+
+#. [LoginModal.RegisterWithEmail]
+#. defaultMessage is:
+#. Register with Email
+#: translations/.messages/src/app/components/Login/Login.json
+msgid "Register with Email"
+msgstr "用电子邮件登录"
+
+#. [EpIdLogin.RegistrationSuccessfulWithPunctuation]
+#. defaultMessage is:
+#. Registration Successful!
+#: translations/.messages/src/app/components/Login/epid-register.modal.json
+msgid "Registration Successful!"
+msgstr "交易成功！"
 
 #. [SubmitVoteConfirmation.Reject]
 #. defaultMessage is:
@@ -3780,6 +4021,13 @@ msgstr "回复"
 #: translations/.messages/src/app/containers/contact-us/messages.json
 msgid "Report a Bug"
 msgstr "报告程序错误"
+
+#. [EpIdLogin.ResetPassword]
+#. defaultMessage is:
+#. Reset Password
+#: translations/.messages/src/app/components/Login/epid-login.modal.json
+msgid "Reset Password"
+msgstr "重置密码"
 
 #. [Stats.RestrictedArea]
 #. defaultMessage is:
@@ -3945,7 +4193,7 @@ msgstr "选择"
 #. [LoginModal.SelectOtherSocial]
 #. defaultMessage is:
 #. Select Other Social Login Option
-#: translations/.messages/src/app/components/Login/index.json
+#: translations/.messages/src/app/components/Login/Login.json
 msgid "Select Other Social Login Option"
 msgstr "选择其他社交账号登录选项"
 
@@ -3973,7 +4221,11 @@ msgstr "选择不同的原因"
 #. [Chat.Send]
 #. defaultMessage is:
 #. Send
+#. [Dashboard.IQTab.Send]
+#. defaultMessage is:
+#. Send
 #: translations/.messages/src/app/components/Chat/ChatInput.json
+#: translations/.messages/src/app/containers/dashboard/MyUserDashboard/IQTab.json
 msgid "Send"
 msgstr "发送"
 
@@ -3994,12 +4246,26 @@ msgstr "发送另一个"
 msgid "Send a message to other editors"
 msgstr "发信息给其他编者"
 
+#. [Dashboard.IQTab.SendTo]
+#. defaultMessage is:
+#. Send to
+#: translations/.messages/src/app/containers/dashboard/MyUserDashboard/IQTab.json
+msgid "Send to"
+msgstr "发送"
+
 #. [ContactUs.sendUsMessage]
 #. defaultMessage is:
 #. Send us a message
 #: translations/.messages/src/app/containers/contact-us/messages.json
 msgid "Send us a message"
 msgstr "给我们发信息"
+
+#. [Dashboard.IQTab.Sending]
+#. defaultMessage is:
+#. Sending
+#: translations/.messages/src/app/containers/dashboard/MyUserDashboard/IQTab.json
+msgid "Sending"
+msgstr "发送"
 
 #. [NewPageTemplate.NPT_Organization_Services]
 #. defaultMessage is:
@@ -4032,6 +4298,9 @@ msgstr "显示所有引文"
 #. [LearnMore.SignUp]
 #. defaultMessage is:
 #. Sign Up
+#. [EpIdLogin.Signup]
+#. defaultMessage is:
+#. Sign Up
 #. [AccountNameHeader.SignUp]
 #. defaultMessage is:
 #. Sign Up
@@ -4042,6 +4311,7 @@ msgstr "显示所有引文"
 #. defaultMessage is:
 #. Sign Up
 #: translations/.messages/src/app/components/learn-more/index.json
+#: translations/.messages/src/app/components/Login/epid-login.modal.json
 #: translations/.messages/src/app/components/TopNav/account-name-header.json
 #: translations/.messages/src/app/containers/about/last-block.json
 #: translations/.messages/src/app/utils/errors.json
@@ -4177,6 +4447,13 @@ msgstr "提交文章编辑"
 msgid "Submitting Your Article Edit"
 msgstr "正在提交您的文章编辑"
 
+#. [EpIdLogin.SuccessExclamation]
+#. defaultMessage is:
+#. Success!
+#: translations/.messages/src/app/components/Login/epid-login.modal.json
+msgid "Success!"
+msgstr "成功！"
+
 #. [SubmitVoteConfirmation.Success]
 #. defaultMessage is:
 #. Successfully Voted!
@@ -4283,7 +4560,11 @@ msgstr "电话"
 #. [Footer.Terms]
 #. defaultMessage is:
 #. Terms
+#. [EpIdRegister.Terms]
+#. defaultMessage is:
+#. Terms
 #: translations/.messages/src/app/components/Footer/index.json
+#: translations/.messages/src/app/components/Login/epid-register.modal.json
 msgid "Terms"
 msgstr "条款"
 
@@ -4542,6 +4823,13 @@ msgstr "要进行编辑或创建文章，您需要一个 Everipedia 帐户。"
 msgid "Today"
 msgstr "今日"
 
+#. [EpIdLogin.ErrorTooManyAttempts]
+#. defaultMessage is:
+#. Too many login attempts. Please try again later.
+#: translations/.messages/src/app/components/Login/epid-login.modal.json
+msgid "Too many login attempts. Please try again later."
+msgstr ""
+
 #. [Dashboard.TotalBalance]
 #. defaultMessage is:
 #. Total Balance
@@ -4602,7 +4890,7 @@ msgstr "重试"
 #. [Login.TryAgain]
 #. defaultMessage is:
 #. Try again
-#: translations/.messages/src/app/components/Login/index.json
+#: translations/.messages/src/app/components/Login/Login.json
 #: translations/.messages/src/app/containers/wallet-login/wallet-login.container.json
 msgid "Try again"
 msgstr "重试"
@@ -4645,6 +4933,13 @@ msgstr "URL 后缀"
 #: translations/.messages/src/editor/plugins/metadata/metadata-modal.json
 msgid "URL Slug Alt"
 msgstr "URL Slug Alt"
+
+#. [EpIdLogin.ErrorUndefined]
+#. defaultMessage is:
+#. Undefined error: please try again.
+#: translations/.messages/src/app/components/Login/epid-login.modal.json
+msgid "Undefined error: please try again."
+msgstr "请重试"
 
 #. [MainItem.Updated]
 #. defaultMessage is:
@@ -4692,7 +4987,15 @@ msgstr "上传中..."
 #. [EditProfile.Username]
 #. defaultMessage is:
 #. Username
+#. [EpIdLogin.Username]
+#. defaultMessage is:
+#. Username
+#. [EpIdLogin.Username]
+#. defaultMessage is:
+#. Username
 #: translations/.messages/src/app/components/edit-profile/index.json
+#: translations/.messages/src/app/components/Login/epid-login.modal.json
+#: translations/.messages/src/app/components/Login/epid-register.modal.json
 msgid "Username"
 msgstr "已投票"
 
@@ -4795,6 +5098,14 @@ msgstr "浏览区块链交易记录"
 #: translations/.messages/src/app/components/Chat/ChatItem.json
 msgid "View edit"
 msgstr "浏览编辑"
+
+#. [SaveModalAgain.ViewTransaction]
+#. defaultMessage is:
+#. View transaction
+#: translations/.messages/src/app/containers/dashboard/MyUserDashboard/IQTab.json
+
+msgid "View transaction"
+msgstr "浏览交易记录"
 
 #. [SearchResults.Views]
 #. defaultMessage is:
@@ -4976,7 +5287,7 @@ msgstr ""
 #. [LoginModal.WaitAMomentWhileWeLoad]
 #. defaultMessage is:
 #. Wait a moment while we load your wallet – If you don’t see the wallet window, check if it has loaded behind your current window.
-#: translations/.messages/src/app/components/Login/index.json
+#: translations/.messages/src/app/components/Login/Login.json
 msgid ""
 "Wait a moment while we load your wallet – If you don’t see the wallet "
 "window, check if it has loaded behind your current window."
@@ -5015,6 +5326,13 @@ msgstr "请稍等，正在将您重新跳转到Ore ID。完成签名后，您将
 msgid "Warning"
 msgstr "提醒"
 
+#. [EditProfile.WarningEpId]
+#. defaultMessage is:
+#. Warning: Your public profile will be visible to everyone
+#: translations/.messages/src/app/components/edit-profile/index.json
+msgid "Warning: Your public profile will be visible to everyone"
+msgstr "提醒：您的公开个人资料将对所有人公开，并存储在区链上"
+
 #. [EditProfile.Warning]
 #. defaultMessage is:
 #. Warning: Your public profile will be visible to everyone and stored on-chain
@@ -5022,6 +5340,20 @@ msgstr "提醒"
 msgid ""
 "Warning: Your public profile will be visible to everyone and stored on-chain"
 msgstr "提醒：您的公开个人资料将对所有人公开，并存储在区链上"
+
+#. [EpIdLogin.WeNowUse]
+#. defaultMessage is:
+#. We now use EPID for all users who wish to login with a social account or email. As part of this process, you will be prompted to create a new account. If you have an existing account, you will be asked to merge it with youur new account in order to retain your edit history and IQ balance.
+#: translations/.messages/src/app/components/Login/EPIDExplanationModal.json
+msgid ""
+"We now use EPID for all users who wish to login with a social account or "
+"email. As part of this process, you will be prompted to create a new "
+"account. If you have an existing account, you will be asked to merge it with "
+"youur new account in order to retain your edit history and IQ balance."
+msgstr ""
+"我们正在为那些希望通过社交媒体或者电子邮件登录的用户提供EPID.在此过程中，"
+"系统将提示您创建一个新帐户.如果您已经有一个账户，您将会被要求将其与您的"
+"旧账户合并，这样就可以保持您的编辑历史和IQ余额"
 
 #. [MergeModalAgain.WeReceivedTheFollowingError]
 #. defaultMessage is:
@@ -5033,6 +5365,13 @@ msgstr "提醒：您的公开个人资料将对所有人公开，并存储在区
 #: translations/.messages/src/editor/plugins/save/save-modal.json
 msgid "We received the following error"
 msgstr "我们收到以下错误"
+
+#. [EpIdLogin.WellEmailInstructions]
+#. defaultMessage is:
+#. We will email you instructions on how to reset your password.
+#: translations/.messages/src/app/components/Login/epid-login.modal.json
+msgid "We will email you instructions on how to reset your password."
+msgstr "我们将通过电子邮件告知您如何重置密码"
 
 #. [ContactUs.WedLoveToHearFromYou]
 #. defaultMessage is:
@@ -5061,6 +5400,13 @@ msgstr "什么是IQ？"
 #: translations/.messages/src/shared/components/DynamicAppHead/index.json
 msgid "Wiki Encyclopedia of Everything - Everipedia"
 msgstr "包罗万象的百科全书-Everipedia"
+
+#. [Dashboard.IQTab.SendSuccessful]
+#. defaultMessage is:
+#. Withdrawal Successful:
+#: translations/.messages/src/app/containers/dashboard/MyUserDashboard/IQTab.json
+msgid "Withdrawal Successful:"
+msgstr "您的投票成功"
 
 #. [AccountNameHeader.Worth]
 #. defaultMessage is:
@@ -5415,7 +5761,7 @@ msgstr "支持的交易所"
 #. [Login.Or]
 #. defaultMessage is:
 #. or
-#: translations/.messages/src/app/components/Login/index.json
+#: translations/.messages/src/app/components/Login/Login.json
 msgid "or"
 msgstr "或"
 
@@ -5558,6 +5904,15 @@ msgstr "始于"
 #: translations/.messages/src/app/components/SubmitVote/EditOverview.json
 msgid "words"
 msgstr "字数"
+
+#~ msgid ""
+#~ "Enter the code that was sent to your email address. If you haven't "
+#~ "received a code, go back and try again."
+#~ msgstr ""
+#~ "输入发送到您的电子邮箱的验证码。如果您尚未收到验证码，请返回并重试。"
+
+#~ msgid "Enter your email and we'll send a code to that email address."
+#~ msgstr "输入您的电子邮箱地址，我们将向该电子邮箱发送验证码。"
 
 #~ msgid "about EOS and IQ"
 #~ msgstr "关于EOS和IQ，或者"
@@ -5745,9 +6100,6 @@ msgstr "字数"
 #~ msgid "Transaction failed!"
 #~ msgstr "交易失败！"
 
-#~ msgid "Transaction successful!"
-#~ msgstr "交易成功！"
-
 #~ msgid "Undo Changes"
 #~ msgstr "撤销更改"
 
@@ -5778,9 +6130,6 @@ msgstr "字数"
 
 #~ msgid "ISBN (Book)"
 #~ msgstr "ISBN（图书）"
-
-#~ msgid "Login / Create Account"
-#~ msgstr "登录/创建帐户"
 
 #~ msgid ""
 #~ "To make an edit or create an article, you need an Everipedia account. You "
