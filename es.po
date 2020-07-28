@@ -1,7 +1,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: \n"
-"POT-Creation-Date: 2020-07-23T23:09:44.624Z\n"
+"POT-Creation-Date: 2020-07-27T20:21:03.772Z\n"
 "PO-Revision-Date: \n"
 "Last-Translator: \n"
 "Language-Team: \n"
@@ -567,6 +567,13 @@ msgstr "Permitir Googlebot"
 #: translations/.messages/src/editor/plugins/citation-modal/panes/add-edit-file.json
 msgid "Allowed formats: "
 msgstr "Formatos permitidos:"
+
+#. [Dashboard.IQTab.WithdrawIQ.Amount]
+#. defaultMessage is:
+#. Amount
+#: translations/.messages/src/app/containers/dashboard/MyUserDashboard/IQTab/WithdrawIQ.json
+msgid "Amount"
+msgstr "Cuenta"
 
 #. [Homepage.ModernAge]
 #. defaultMessage is:
@@ -1189,8 +1196,11 @@ msgstr "Contenido"
 #. [Dashboard.IQTab.DepositIQ.Continue]
 #. defaultMessage is:
 #. Continue
+#. [Dashboard.IQTab.DepositIQ.Continue]
+#. defaultMessage is:
+#. Continue
 #: translations/.messages/src/app/containers/dashboard/MyUserDashboard/IQTab/DepositIQ.json
-
+#: translations/.messages/src/app/containers/dashboard/MyUserDashboard/IQTab/WithdrawIQ.json
 msgid "Continue"
 msgstr "Contenido"
 
@@ -1491,6 +1501,13 @@ msgstr "Modificaciones"
 #: translations/.messages/src/editor/plugins/section-embed-modal/panes/videos.json
 msgid "EMBED SIZE"
 msgstr "TAMAÑO DE LA EMBALA"
+
+#. [Dashboard.IQTab.WithdrawIQ.WithdrawalAddress]
+#. defaultMessage is:
+#. EOS Address or EPID Account
+#: translations/.messages/src/app/containers/dashboard/MyUserDashboard/IQTab/WithdrawIQ.json
+msgid "EOS Address or EPID Account"
+msgstr "Obtener una cuenta"
 
 #. [ActivityCards.ExpiringSoon]
 #. defaultMessage is:
@@ -2314,6 +2331,14 @@ msgstr "Noticias"
 msgid "IQ"
 msgstr "IQ (Calificación Interna)"
 
+#. [Dashboard.IQTab.WithdrawIQ.IQAvailable]
+#. defaultMessage is:
+#. IQ Available
+#: translations/.messages/src/app/containers/dashboard/MyUserDashboard/IQTab/WithdrawIQ.json
+
+msgid "IQ Available"
+msgstr "Disponible"
+
 #. [Stats.IQEarned]
 #. defaultMessage is:
 #. IQ EARNED
@@ -2532,6 +2557,13 @@ msgstr "Insertar Nuevo"
 #: translations/.messages/src/editor/plugins/table/table-button.json
 msgid "Insert Right"
 msgstr "Insertar a la derecha"
+
+#. [Dashboard.IQTab.DepositIQ.InsufficientBalance]
+#. defaultMessage is:
+#. Insufficient balance.
+#: translations/.messages/src/app/containers/dashboard/MyUserDashboard/IQTab/WithdrawIQ.json
+msgid "Insufficient balance."
+msgstr ""
 
 #. [LoginModal.OpenTokenPocket]
 #. defaultMessage is:
@@ -3122,6 +3154,13 @@ msgstr "Conoce a nuestro equipo"
 #. Memo (Required)
 #: translations/.messages/src/app/containers/dashboard/MyUserDashboard/IQTab/DepositIQ.json
 msgid "Memo (Required)"
+msgstr ""
+
+#. [Dashboard.IQTab.WithdrawIQ.MemoOptional]
+#. defaultMessage is:
+#. Memo (optional)
+#: translations/.messages/src/app/containers/dashboard/MyUserDashboard/IQTab/WithdrawIQ.json
+msgid "Memo (optional)"
 msgstr ""
 
 #. [CommentUtils.Merge]
@@ -4393,6 +4432,13 @@ msgstr "Enviar"
 msgid "Send Another"
 msgstr "Agregar otro"
 
+#. [Dashboard.IQTab.WithdrawIQ.SendIQ]
+#. defaultMessage is:
+#. Send IQ
+#: translations/.messages/src/app/containers/dashboard/MyUserDashboard/IQTab/WithdrawIQ.json
+msgid "Send IQ"
+msgstr "Enviar"
+
 #. [Chat.SendMessageToEditors]
 #. defaultMessage is:
 #. Send a message to other editors
@@ -4409,6 +4455,13 @@ msgstr "Enviar un mensaje a otros editores"
 #: translations/.messages/src/app/containers/contact-us/messages.json
 msgid "Send us a message"
 msgstr "Envíenos un mensaje"
+
+#. [Dashboard.IQTab.WithdrawIQ.Sender]
+#. defaultMessage is:
+#. Sender
+#: translations/.messages/src/app/containers/dashboard/MyUserDashboard/IQTab/WithdrawIQ.json
+msgid "Sender"
+msgstr "Género"
 
 #. [NewPageTemplate.NPT_Organization_Services]
 #. defaultMessage is:
@@ -5336,9 +5389,6 @@ msgstr "Vistas"
 #. [SubmitVote.Vote]
 #. defaultMessage is:
 #. Vote
-#. [SubmitVote.VoteOreID]
-#. defaultMessage is:
-#. Vote
 #. [SubmitVote.LoginToVote]
 #. defaultMessage is:
 #. Vote
@@ -5609,6 +5659,13 @@ msgstr "¿Qué es el coeficiente intelectual?"
 msgid "Wiki Encyclopedia of Everything - Everipedia"
 msgstr "Wiki Enciclopedia de todo - Everipedia"
 
+#. [Dashboard.IQTab.WithdrawIQ.WithdrawIQ]
+#. defaultMessage is:
+#. Withdraw IQ
+#: translations/.messages/src/app/containers/dashboard/MyUserDashboard/IQTab/WithdrawIQ.json
+msgid "Withdraw IQ"
+msgstr ""
+
 #. [AccountNameHeader.Worth]
 #. defaultMessage is:
 #. Worth
@@ -5697,15 +5754,6 @@ msgstr "Debes estar registrado para participar en el chat"
 #: translations/.messages/src/app/components/SubmitVote/index.json
 msgid "You must login to vote"
 msgstr "Debe iniciar sesión para votar"
-
-#. [SubmitVote.YouNeedToMakeAnEdit]
-#. defaultMessage is:
-#. You need to make an edit before you can vote with your Ore ID account
-#: translations/.messages/src/app/components/SubmitVote/index.json
-msgid "You need to make an edit before you can vote with your Ore ID account"
-msgstr ""
-"Necesita hacer una edición antes de poder votar con su cuenta de "
-"identificación de mineral"
 
 #. [Footer.PrivacyCA]
 #. defaultMessage is:
@@ -6128,6 +6176,15 @@ msgstr "fue iniciada por"
 msgid "words"
 msgstr "palabras"
 
+#~ msgid "Withdrawal Address"
+#~ msgstr "Su voto fue un éxito"
+
+#~ msgid ""
+#~ "You need to make an edit before you can vote with your Ore ID account"
+#~ msgstr ""
+#~ "Necesita hacer una edición antes de poder votar con su cuenta de "
+#~ "identificación de mineral"
+
 #~ msgid "Contact Info"
 #~ msgstr "Información de contacto"
 
@@ -6136,9 +6193,6 @@ msgstr "palabras"
 
 #~ msgid "Sending"
 #~ msgstr "Enviar"
-
-#~ msgid "Withdrawal Successful:"
-#~ msgstr "Su voto fue un éxito"
 
 #~ msgid "Category"
 #~ msgstr "Categoría"
@@ -6205,9 +6259,6 @@ msgstr "palabras"
 
 #~ msgid "Welcome"
 #~ msgstr "Bienvenido"
-
-#~ msgid "Account"
-#~ msgstr "Cuenta"
 
 #~ msgid "Active Boosts"
 #~ msgstr "Impulsos Activos"
