@@ -1,7 +1,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: \n"
-"POT-Creation-Date: 2020-07-29T20:40:22.970Z\n"
+"POT-Creation-Date: 2020-07-29T21:40:36.523Z\n"
 "PO-Revision-Date: \n"
 "Last-Translator: \n"
 "Language-Team: \n"
@@ -567,6 +567,14 @@ msgstr "Permitir Googlebot"
 #: translations/.messages/src/editor/plugins/citation-modal/panes/add-edit-file.json
 msgid "Allowed formats: "
 msgstr "Formatos permitidos:"
+
+#. [EpIdRegister.AlreadyHaveAnEPIDAccount]
+#. defaultMessage is:
+#. Already have an EPID Account?
+#: translations/.messages/src/app/components/Login/epid-register.modal.json
+
+msgid "Already have an EPID Account?"
+msgstr "Obtener una cuenta"
 
 #. [Dashboard.IQTab.WithdrawIQ.Amount]
 #. defaultMessage is:
@@ -1232,19 +1240,20 @@ msgstr ""
 msgid "Country"
 msgstr "País"
 
-#. [EpIdLogin.CreateAccount]
-#. defaultMessage is:
-#. Create Account
-#: translations/.messages/src/app/components/Login/epid-register.modal.json
-msgid "Create Account"
-msgstr "Iniciar sesión / Crear una cuenta"
-
 #. [MobileHamburger.CreateArticle]
 #. defaultMessage is:
 #. Create Article
 #: translations/.messages/src/app/components/TopNav/Mobile-Hamburger.json
 msgid "Create Article"
 msgstr "Crear artículo nuevo"
+
+#. [EpIdLogin.CreateEPIDAccount]
+#. defaultMessage is:
+#. Create EPID Account
+#: translations/.messages/src/app/components/Login/epid-register.modal.json
+
+msgid "Create EPID Account"
+msgstr "Iniciar sesión / Crear una cuenta"
 
 #. [CreatePage.CreateNewArticle]
 #. defaultMessage is:
@@ -2892,6 +2901,9 @@ msgstr "Cerrar sesión"
 #. [EpIdLogin.Login]
 #. defaultMessage is:
 #. Login
+#. [EpIdRegister.Login]
+#. defaultMessage is:
+#. Login
 #. [EpIdResetPassword.Login]
 #. defaultMessage is:
 #. Login
@@ -2905,6 +2917,7 @@ msgstr "Cerrar sesión"
 #: translations/.messages/src/app/components/Chat/Directory.json
 #: translations/.messages/src/app/components/Chat/Notifications.json
 #: translations/.messages/src/app/components/Login/epid-login.modal.json
+#: translations/.messages/src/app/components/Login/epid-register.modal.json
 #: translations/.messages/src/app/components/Login/EPIDResetPasswordModal.json
 #: translations/.messages/src/app/components/TopNav/account-name-header.json
 #: translations/.messages/src/app/utils/errors.json
@@ -4109,6 +4122,14 @@ msgstr "Redireccionamiento a la página de autenticación de ORE ID"
 #: translations/.messages/src/editor/editor.container.json
 msgid "References"
 msgstr "Referencias"
+
+#. [LoginModal.LoginRegisterWithEmail]
+#. defaultMessage is:
+#. Register or Login with Email
+#: translations/.messages/src/app/components/Login/Login.json
+
+msgid "Register or Login with Email"
+msgstr "Iniciar sesión con correo electrónico"
 
 #. [LoginModal.RegisterWithEmail]
 #. defaultMessage is:

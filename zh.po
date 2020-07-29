@@ -1,7 +1,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: \n"
-"POT-Creation-Date: 2020-07-29T20:40:22.970Z\n"
+"POT-Creation-Date: 2020-07-29T21:40:36.523Z\n"
 "PO-Revision-Date: \n"
 "Last-Translator: \n"
 "Language-Team: \n"
@@ -567,6 +567,14 @@ msgstr "支持非Googlebot"
 #: translations/.messages/src/editor/plugins/citation-modal/panes/add-edit-file.json
 msgid "Allowed formats: "
 msgstr "支持的格式："
+
+#. [EpIdRegister.AlreadyHaveAnEPIDAccount]
+#. defaultMessage is:
+#. Already have an EPID Account?
+#: translations/.messages/src/app/components/Login/epid-register.modal.json
+
+msgid "Already have an EPID Account?"
+msgstr "获得帐号"
 
 #. [Dashboard.IQTab.WithdrawIQ.Amount]
 #. defaultMessage is:
@@ -1222,19 +1230,20 @@ msgstr "版权"
 msgid "Country"
 msgstr "国家"
 
-#. [EpIdLogin.CreateAccount]
-#. defaultMessage is:
-#. Create Account
-#: translations/.messages/src/app/components/Login/epid-register.modal.json
-msgid "Create Account"
-msgstr "登录/创建帐户"
-
 #. [MobileHamburger.CreateArticle]
 #. defaultMessage is:
 #. Create Article
 #: translations/.messages/src/app/components/TopNav/Mobile-Hamburger.json
 msgid "Create Article"
 msgstr "创建一篇文章"
+
+#. [EpIdLogin.CreateEPIDAccount]
+#. defaultMessage is:
+#. Create EPID Account
+#: translations/.messages/src/app/components/Login/epid-register.modal.json
+
+msgid "Create EPID Account"
+msgstr "登录/创建帐户"
 
 #. [CreatePage.CreateNewArticle]
 #. defaultMessage is:
@@ -2860,6 +2869,9 @@ msgstr "退出"
 #. [EpIdLogin.Login]
 #. defaultMessage is:
 #. Login
+#. [EpIdRegister.Login]
+#. defaultMessage is:
+#. Login
 #. [EpIdResetPassword.Login]
 #. defaultMessage is:
 #. Login
@@ -2873,6 +2885,7 @@ msgstr "退出"
 #: translations/.messages/src/app/components/Chat/Directory.json
 #: translations/.messages/src/app/components/Chat/Notifications.json
 #: translations/.messages/src/app/components/Login/epid-login.modal.json
+#: translations/.messages/src/app/components/Login/epid-register.modal.json
 #: translations/.messages/src/app/components/Login/EPIDResetPasswordModal.json
 #: translations/.messages/src/app/components/TopNav/account-name-header.json
 #: translations/.messages/src/app/utils/errors.json
@@ -4071,6 +4084,14 @@ msgstr "重新跳转到ORE ID身份验证页面"
 #: translations/.messages/src/editor/editor.container.json
 msgid "References"
 msgstr "参考文献"
+
+#. [LoginModal.LoginRegisterWithEmail]
+#. defaultMessage is:
+#. Register or Login with Email
+#: translations/.messages/src/app/components/Login/Login.json
+
+msgid "Register or Login with Email"
+msgstr "用电子邮件登录"
 
 #. [LoginModal.RegisterWithEmail]
 #. defaultMessage is:
