@@ -1,7 +1,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: \n"
-"POT-Creation-Date: 2020-07-10T21:11:14.437Z\n"
+"POT-Creation-Date: 2020-07-29T20:40:22.970Z\n"
 "PO-Revision-Date: \n"
 "Last-Translator: \n"
 "Language-Team: \n"
@@ -9,7 +9,7 @@ msgstr ""
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"X-Generator: Poedit 2.2.4\n"
+"X-Generator: Poedit 2.4\n"
 "Plural-Forms: nplurals=1; plural=0;\n"
 
 #. [ActivityCard.Changed]
@@ -155,12 +155,14 @@ msgstr "7天"
 
 #. [EpIdLogin.ALinkToResetHasBeenSent]
 #. defaultMessage is:
-#. A link to reset your password has been sent to your email. You can now use your new password to log into your account.
+#. A link to reset your password has been sent to your email. Click the link there to create a new password.
 #: translations/.messages/src/app/components/Login/epid-login.modal.json
 msgid ""
-"A link to reset your password has been sent to your email. You can now use "
-"your new password to log into your account."
-msgstr "一个重置密码的链接已经发送到您的电子邮件。您现在可以用您的新密码登录您的账户了。"
+"A link to reset your password has been sent to your email. Click the link "
+"there to create a new password."
+msgstr ""
+"一个重置密码的链接已经发送到您的电子邮件。您现在可以用您的新密码登录您的账户"
+"了。"
 
 #. [Homepage.UniverseOfKnowledge]
 #. defaultMessage is:
@@ -203,11 +205,15 @@ msgstr "文章浏览"
 #. [Stats.Articles]
 #. defaultMessage is:
 #. ARTICLES
+#. [SearchResults.ARTICLES]
+#. defaultMessage is:
+#. ARTICLES
 #. [Suggestions.Articles]
 #. defaultMessage is:
 #. ARTICLES
 #: translations/.messages/src/app/components/Search/SearchResults.json
 #: translations/.messages/src/app/containers/admin/admin.container.json
+#: translations/.messages/src/app/containers/searchResultsFull/searchResultsFull.container.json
 #: translations/.messages/src/editor/components/mentions/suggestions.json
 msgid "ARTICLES"
 msgstr "文章"
@@ -318,8 +324,16 @@ msgstr "帐户名称"
 #. [SearchCard.ActiveVoting]
 #. defaultMessage is:
 #. Active Voting
+#. [SearchCategoryCard.ActiveVoting]
+#. defaultMessage is:
+#. Active Voting
+#. [SearchProfileCard.ActiveVoting]
+#. defaultMessage is:
+#. Active Voting
 #: translations/.messages/src/app/containers/category-results/categoryResultCard.json
 #: translations/.messages/src/app/containers/searchResultsFull/searchCard.json
+#: translations/.messages/src/app/containers/searchResultsFull/searchCategoryCard.json
+#: translations/.messages/src/app/containers/searchResultsFull/searchProfileCard.json
 msgid "Active Voting"
 msgstr "有效投票"
 
@@ -518,8 +532,9 @@ msgstr "涉及成人内容"
 msgid ""
 "After creating a new account, we will prompt you to merge accounts you can "
 "always merge your account from your account dashboard."
-msgstr "在创建一个新帐户后，我们将提示您合并帐户。您总是可以从您的帐户仪表板合并您
-"的帐户。"
+msgstr ""
+"在创建一个新帐户后，我们将提示您合并帐户。您总是可以从您的帐户仪表板合并的帐"
+"户。"
 
 #. [Leaderboard.AllTime]
 #. defaultMessage is:
@@ -552,6 +567,13 @@ msgstr "支持非Googlebot"
 #: translations/.messages/src/editor/plugins/citation-modal/panes/add-edit-file.json
 msgid "Allowed formats: "
 msgstr "支持的格式："
+
+#. [Dashboard.IQTab.WithdrawIQ.Amount]
+#. defaultMessage is:
+#. Amount
+#: translations/.messages/src/app/containers/dashboard/MyUserDashboard/IQTab/WithdrawIQ.json
+msgid "Amount"
+msgstr "帐户"
 
 #. [Homepage.ModernAge]
 #. defaultMessage is:
@@ -651,7 +673,7 @@ msgstr "返回"
 #. [Dashboard.IQTab.BalanceActivity]
 #. defaultMessage is:
 #. Balance Activity
-#: translations/.messages/src/app/containers/dashboard/MyUserDashboard/IQTab.json
+#: translations/.messages/src/app/containers/dashboard/MyUserDashboard/IQTab/IQTab.json
 msgid "Balance Activity"
 msgstr "查看活动"
 
@@ -706,14 +728,27 @@ msgstr "博客"
 msgid "Book ISBN"
 msgstr "书籍 ISBN"
 
+#. [Dashboard.IQTab.DepositIQ.BothAreRequiredToRec]
+#. defaultMessage is:
+#. Both an address and memo are required to receive IQ. If you do not include the memo, your funds may be lost.
+#: translations/.messages/src/app/containers/dashboard/MyUserDashboard/IQTab/DepositIQ.json
+msgid ""
+"Both an address and memo are required to receive IQ. If you do not include "
+"the memo, your funds may be lost."
+msgstr ""
+
 #. [CategoryBox.Categories]
 #. defaultMessage is:
 #. CATEGORIES
 #. [SearchResults.Categories]
 #. defaultMessage is:
 #. CATEGORIES
+#. [SearchResults.CATEGORIES]
+#. defaultMessage is:
+#. CATEGORIES
 #: translations/.messages/src/app/components/ArticleComponent/CategoryBox.json
 #: translations/.messages/src/app/components/Search/SearchResults.json
+#: translations/.messages/src/app/containers/searchResultsFull/searchResultsFull.container.json
 msgid "CATEGORIES"
 msgstr "分类"
 
@@ -844,13 +879,6 @@ msgstr "事业"
 #: translations/.messages/src/app/components/Sidenav/index.json
 #: translations/.messages/src/app/utils/comment-utils.json
 msgid "Categories"
-msgstr "类别"
-
-#. [SaveModalAgain.CategoryLabel]
-#. defaultMessage is:
-#. Category
-#: translations/.messages/src/editor/plugins/save/save-modal-parts/comment-and-category.json
-msgid "Category"
 msgstr "类别"
 
 #. [About.CensorshipResistant]
@@ -1051,7 +1079,14 @@ msgstr "评论"
 msgid "Common Questions"
 msgstr "常见问题"
 
-#. [EpIdLogin.Confirm Password]
+#. [EpIdResetPassword.ConfirmNewPassword]
+#. defaultMessage is:
+#. Confirm New Password
+#: translations/.messages/src/app/components/Login/EPIDResetPasswordModal.json
+msgid "Confirm New Password"
+msgstr "确认您的投票"
+
+#. [EpIdLogin.ConfirmPassword]
 #. defaultMessage is:
 #. Confirm Password
 #: translations/.messages/src/app/components/Login/epid-register.modal.json
@@ -1134,13 +1169,6 @@ msgstr "将此页面连接到其他对应的语言版本"
 msgid "Contact"
 msgstr "联系"
 
-#. [Dashboard.ContactInfo]
-#. defaultMessage is:
-#. Contact Info
-#: translations/.messages/src/app/containers/dashboard/dashboard_component.json
-msgid "Contact Info"
-msgstr "联系方式"
-
 #. [Errors.ContactUs]
 #. defaultMessage is:
 #. Contact us
@@ -1153,6 +1181,17 @@ msgstr "联系我们"
 #. Content
 #: translations/.messages/src/app/utils/comment-utils.json
 msgid "Content"
+msgstr "内容"
+
+#. [Dashboard.IQTab.DepositIQ.Continue]
+#. defaultMessage is:
+#. Continue
+#. [Dashboard.IQTab.DepositIQ.Continue]
+#. defaultMessage is:
+#. Continue
+#: translations/.messages/src/app/containers/dashboard/MyUserDashboard/IQTab/DepositIQ.json
+#: translations/.messages/src/app/containers/dashboard/MyUserDashboard/IQTab/WithdrawIQ.json
+msgid "Continue"
 msgstr "内容"
 
 #. [Chat.CopyText]
@@ -1347,6 +1386,20 @@ msgstr "民主"
 msgid "Democratic Governance"
 msgstr "民主治理"
 
+#. [Dashboard.IQTab.DepositIQ.DepositAddress]
+#. defaultMessage is:
+#. Deposit Address
+#: translations/.messages/src/app/containers/dashboard/MyUserDashboard/IQTab/DepositIQ.json
+msgid "Deposit Address"
+msgstr "电邮地址"
+
+#. [Dashboard.IQTab.DepositIQ.DepositIQ]
+#. defaultMessage is:
+#. Deposit IQ
+#: translations/.messages/src/app/containers/dashboard/MyUserDashboard/IQTab/DepositIQ.json
+msgid "Deposit IQ"
+msgstr "获得IQ"
+
 #. [About.DesktopViewAlt]
 #. defaultMessage is:
 #. Desktop view of Everipedia article
@@ -1378,6 +1431,15 @@ msgstr "显示名称"
 #: translations/.messages/src/app/components/edit-profile/index.json
 msgid "Display Name must be longer than 3 characters"
 msgstr "显示名称必须超过3个字符"
+
+#. [LoginModal.DoYouHaveAnEPAccount]
+#. defaultMessage is:
+#. Do you have an Everipedia account using OreID? Merging your accounts will unify your history and streaks.
+#: translations/.messages/src/app/containers/dashboard/MyUserDashboard/AccountSettings.json
+msgid ""
+"Do you have an Everipedia account using OreID? Merging your accounts will "
+"unify your history and streaks."
+msgstr ""
 
 #. [EpIdLogin.DontHaveAccountQuestion]
 #. defaultMessage is:
@@ -1430,12 +1492,12 @@ msgstr "编辑"
 msgid "EMBED SIZE"
 msgstr "嵌入尺寸"
 
-#. [Dashboard.IQTab.EOSMemo]
+#. [Dashboard.IQTab.WithdrawIQ.WithdrawalAddress]
 #. defaultMessage is:
-#. EOS Memo:
-#: translations/.messages/src/app/containers/dashboard/MyUserDashboard/IQTab.json
-msgid "EOS Memo:"
-msgstr "EOS 备注："
+#. EOS Address or EPID Account
+#: translations/.messages/src/app/containers/dashboard/MyUserDashboard/IQTab/WithdrawIQ.json
+msgid "EOS Address or EPID Account"
+msgstr ""
 
 #. [ActivityCards.ExpiringSoon]
 #. defaultMessage is:
@@ -1813,8 +1875,9 @@ msgstr ""
 msgid ""
 "Everipedia uses cookies to provide you with a great user experience. "
 "Everipedia will never sell any personal information."
-msgstr "Everipedia使用cookie为您提供良好的用户体验。"
-"Everipedia永远不会出售任何个人信息。”"
+msgstr ""
+"Everipedia使用cookie为您提供良好的用户体验。Everipedia永远不会出售任何个人信"
+"息。”"
 
 #. [About.ModernDesignText]
 #. defaultMessage is:
@@ -1884,6 +1947,13 @@ msgstr "常见问题解答"
 #: translations/.messages/src/app/components/SubmitVote/ConfirmationModal.json
 msgid "Failed to Vote"
 msgstr "投票失败"
+
+#. [ImageUploader.Failure to fetch]
+#. defaultMessage is:
+#. Failure to fetch. Please check the URL
+#: translations/.messages/src/shared/inputs/image-uploader/image-uploader.component.json
+msgid "Failure to fetch. Please check the URL"
+msgstr ""
 
 #. [NewPageTemplate.NPT_CreativeWork_Features]
 #. defaultMessage is:
@@ -2126,6 +2196,13 @@ msgstr "明白！"
 msgid "Grammar"
 msgstr "语法"
 
+#. [LoginModal.HaveOldOreID]
+#. defaultMessage is:
+#. Have an old OreID account?
+#: translations/.messages/src/app/containers/dashboard/HaveOreIDAlert.json
+msgid "Have an old OreID account?"
+msgstr "获得帐号"
+
 #. [NewPageTemplate.NPT_Person_HeSheLikesTo]
 #. defaultMessage is:
 #. He/She likes to
@@ -2140,6 +2217,9 @@ msgstr "他/她喜欢"
 msgid "He/she was born in"
 msgstr "他/她出生于"
 
+#. [TopNav.ViewHistory]
+#. defaultMessage is:
+#. History
 #. [NewPageTemplate.NPT_CreativeWork_History]
 #. defaultMessage is:
 #. History
@@ -2155,6 +2235,7 @@ msgstr "他/她出生于"
 #. [NewPageTemplate.NPT_Product_History]
 #. defaultMessage is:
 #. History
+#: translations/.messages/src/app/components/content-top-nav/index.json
 #: translations/.messages/src/editor/utils/editing-utils/template-packs/creative-work.json
 #: translations/.messages/src/editor/utils/editing-utils/template-packs/event.json
 #: translations/.messages/src/editor/utils/editing-utils/template-packs/organization.json
@@ -2231,6 +2312,13 @@ msgstr "新闻动态"
 msgid "IQ"
 msgstr "IQ"
 
+#. [Dashboard.IQTab.WithdrawIQ.IQAvailable]
+#. defaultMessage is:
+#. IQ Available
+#: translations/.messages/src/app/containers/dashboard/MyUserDashboard/IQTab/WithdrawIQ.json
+msgid "IQ Available"
+msgstr "可用"
+
 #. [Stats.IQEarned]
 #. defaultMessage is:
 #. IQ EARNED
@@ -2289,7 +2377,7 @@ msgid ""
 "                    proposed content."
 msgstr ""
 "IQ 代币用于激励用户创建和维护Everipedia网络上的内容\n"
-"                    贡献者因创作文章或给提议的文章投票而获得IQ代币奖励\n"
+"                    贡献者因创作文章或给提议的文章投票而获得IQ代币奖励"
 
 #. [IQInfo.IQTokensPower]
 #. defaultMessage is:
@@ -2440,6 +2528,13 @@ msgstr "插入新内容"
 msgid "Insert Right"
 msgstr "在右边插入"
 
+#. [Dashboard.IQTab.DepositIQ.InsufficientBalance]
+#. defaultMessage is:
+#. Insufficient balance.
+#: translations/.messages/src/app/containers/dashboard/MyUserDashboard/IQTab/WithdrawIQ.json
+msgid "Insufficient balance."
+msgstr ""
+
 #. [LoginModal.OpenTokenPocket]
 #. defaultMessage is:
 #. It appears you are using a browser other than TokenPocket. Please open your TokenPocket app and try again.
@@ -2447,7 +2542,9 @@ msgstr "在右边插入"
 msgid ""
 "It appears you are using a browser other than TokenPocket. Please open your "
 "TokenPocket app and try again."
-msgstr "似乎您使用的不是TokenPocket浏览器。请打开您的TokenPocket应用程序，然后再试一次。"
+msgstr ""
+"似乎您使用的不是TokenPocket浏览器。请打开您的TokenPocket应用程序，然后再试一"
+"次。"
 
 #. [EditorDraftContinuationGuard.Unsaved]
 #. defaultMessage is:
@@ -2474,8 +2571,7 @@ msgstr "项目"
 msgid ""
 "Join thousands of others in receiving the most interesting wikis on "
 "Everipedia every week"
-msgstr "和成千上万的人一起接受每周最有趣"
-"的维基内容"
+msgstr "和成千上万的人一起接受每周最有趣的维基内容"
 
 #. [Login.JustGettingStarted]
 #. defaultMessage is:
@@ -2547,7 +2643,15 @@ msgstr ""
 #. [SearchCard.LastEdited]
 #. defaultMessage is:
 #. Last Edited
+#. [SearchCategoryCard.LastEdited]
+#. defaultMessage is:
+#. Last Edited
+#. [SearchProfileCard.LastEdited]
+#. defaultMessage is:
+#. Last Edited
 #: translations/.messages/src/app/containers/searchResultsFull/searchCard.json
+#: translations/.messages/src/app/containers/searchResultsFull/searchCategoryCard.json
+#: translations/.messages/src/app/containers/searchResultsFull/searchProfileCard.json
 msgid "Last Edited"
 msgstr "最后编辑时间"
 
@@ -2756,6 +2860,9 @@ msgstr "退出"
 #. [EpIdLogin.Login]
 #. defaultMessage is:
 #. Login
+#. [EpIdResetPassword.Login]
+#. defaultMessage is:
+#. Login
 #. [AccountNameHeader.Login]
 #. defaultMessage is:
 #. Login
@@ -2766,6 +2873,7 @@ msgstr "退出"
 #: translations/.messages/src/app/components/Chat/Directory.json
 #: translations/.messages/src/app/components/Chat/Notifications.json
 #: translations/.messages/src/app/components/Login/epid-login.modal.json
+#: translations/.messages/src/app/components/Login/EPIDResetPasswordModal.json
 #: translations/.messages/src/app/components/TopNav/account-name-header.json
 #: translations/.messages/src/app/utils/errors.json
 msgid "Login"
@@ -3008,6 +3116,20 @@ msgstr "中等"
 msgid "Meet our team"
 msgstr "认识我们团队"
 
+#. [Dashboard.IQTab.DepositIQ.MemoRequired]
+#. defaultMessage is:
+#. Memo (Required)
+#: translations/.messages/src/app/containers/dashboard/MyUserDashboard/IQTab/DepositIQ.json
+msgid "Memo (Required)"
+msgstr ""
+
+#. [Dashboard.IQTab.WithdrawIQ.MemoOptional]
+#. defaultMessage is:
+#. Memo (optional)
+#: translations/.messages/src/app/containers/dashboard/MyUserDashboard/IQTab/WithdrawIQ.json
+msgid "Memo (optional)"
+msgstr ""
+
 #. [CommentUtils.Merge]
 #. defaultMessage is:
 #. Merge
@@ -3018,6 +3140,20 @@ msgstr "认识我们团队"
 #: translations/.messages/src/editor/plugins/merge/index.json
 msgid "Merge"
 msgstr "合并"
+
+#. [LoginModal.MergeOreIDAccount]
+#. defaultMessage is:
+#. Merge OreID Account
+#. [LoginModal.MergeOreIDAccount]
+#. defaultMessage is:
+#. Merge OreID Account
+#. [Dashboard.AccountSettings.MergeOreIDAccount]
+#. defaultMessage is:
+#. Merge OreID Account
+#: translations/.messages/src/app/containers/dashboard/HaveOreIDAlert.json
+#: translations/.messages/src/app/containers/dashboard/MyUserDashboard/AccountSettings.json
+msgid "Merge OreID Account"
+msgstr "登录/创建帐户"
 
 #. [MergeModal.Title]
 #. defaultMessage is:
@@ -3050,11 +3186,11 @@ msgstr "信息"
 msgid "Migrate Now"
 msgstr "立即编辑"
 
-#. [LoginModal.MigrateFromOreID]
+#. [EpIdLogin.MigratingFromOREID?]
 #. defaultMessage is:
-#. Migrate from OreID
-#: translations/.messages/src/app/containers/dashboard/dashboard_component.json
-msgid "Migrate from OreID"
+#. Migrating from OREID?
+#: translations/.messages/src/app/components/Login/epid-login.modal.json
+msgid "Migrating from OREID?"
 msgstr "从OreID迁移"
 
 #. [EpIdLogin.MinimumPasswordLength]
@@ -3137,6 +3273,13 @@ msgstr "新文章"
 #: translations/.messages/src/editor/plugins/section-embed-modal/section-embed-modal.json
 msgid "New Media"
 msgstr "新媒体"
+
+#. [EpIdResetPassword.NewPassword]
+#. defaultMessage is:
+#. New Password
+#: translations/.messages/src/app/components/Login/EPIDResetPasswordModal.json
+msgid "New Password"
+msgstr "字数"
 
 #. [Footer.Newsletter]
 #. defaultMessage is:
@@ -3450,7 +3593,11 @@ msgstr "产品"
 #. [SearchResults.Profiles]
 #. defaultMessage is:
 #. PROFILES
+#. [SearchResults.PROFILES]
+#. defaultMessage is:
+#. PROFILES
 #: translations/.messages/src/app/components/Search/SearchResults.json
+#: translations/.messages/src/app/containers/searchResultsFull/searchResultsFull.container.json
 msgid "PROFILES"
 msgstr "个人资料"
 
@@ -3723,9 +3870,17 @@ msgstr "总裁"
 #. [SearchCard.PreviewNotAvailable]
 #. defaultMessage is:
 #. Preview Not Available
+#. [SearchCategoryCard.PreviewNotAvailable]
+#. defaultMessage is:
+#. Preview Not Available
+#. [SearchProfileCard.PreviewNotAvailable]
+#. defaultMessage is:
+#. Preview Not Available
 #: translations/.messages/src/app/components/ActivityCards/ActivityCard.json
 #: translations/.messages/src/app/containers/category-results/categoryResultCard.json
 #: translations/.messages/src/app/containers/searchResultsFull/searchCard.json
+#: translations/.messages/src/app/containers/searchResultsFull/searchCategoryCard.json
+#: translations/.messages/src/app/containers/searchResultsFull/searchProfileCard.json
 msgid "Preview Not Available"
 msgstr "预览不可用"
 
@@ -3873,13 +4028,6 @@ msgstr "奖励"
 msgid "Read"
 msgstr "已读"
 
-#. [Dashboard.IQTab.Receive]
-#. defaultMessage is:
-#. Receive
-#: translations/.messages/src/app/containers/dashboard/MyUserDashboard/IQTab.json
-msgid "Receive"
-msgstr "接收"
-
 #. [RecentActivity.ContainerTitle]
 #. defaultMessage is:
 #. Recent Activity
@@ -4022,10 +4170,21 @@ msgstr "回复"
 msgid "Report a Bug"
 msgstr "报告程序错误"
 
+#. [EpIdLogin.ResendEmail]
+#. defaultMessage is:
+#. Resend Email
+#: translations/.messages/src/app/components/Login/epid-login.modal.json
+msgid "Resend Email"
+msgstr "用电子邮件登录"
+
 #. [EpIdLogin.ResetPassword]
 #. defaultMessage is:
 #. Reset Password
+#. [EpIdResetPassword.ResetPassword]
+#. defaultMessage is:
+#. Reset Password
 #: translations/.messages/src/app/components/Login/epid-login.modal.json
+#: translations/.messages/src/app/components/Login/EPIDResetPasswordModal.json
 msgid "Reset Password"
 msgstr "重置密码"
 
@@ -4221,11 +4380,7 @@ msgstr "选择不同的原因"
 #. [Chat.Send]
 #. defaultMessage is:
 #. Send
-#. [Dashboard.IQTab.Send]
-#. defaultMessage is:
-#. Send
 #: translations/.messages/src/app/components/Chat/ChatInput.json
-#: translations/.messages/src/app/containers/dashboard/MyUserDashboard/IQTab.json
 msgid "Send"
 msgstr "发送"
 
@@ -4235,6 +4390,13 @@ msgstr "发送"
 #: translations/.messages/src/app/containers/contact-us/messages.json
 msgid "Send Another"
 msgstr "发送另一个"
+
+#. [Dashboard.IQTab.WithdrawIQ.SendIQ]
+#. defaultMessage is:
+#. Send IQ
+#: translations/.messages/src/app/containers/dashboard/MyUserDashboard/IQTab/WithdrawIQ.json
+msgid "Send IQ"
+msgstr "发送"
 
 #. [Chat.SendMessageToEditors]
 #. defaultMessage is:
@@ -4246,13 +4408,6 @@ msgstr "发送另一个"
 msgid "Send a message to other editors"
 msgstr "发信息给其他编者"
 
-#. [Dashboard.IQTab.SendTo]
-#. defaultMessage is:
-#. Send to
-#: translations/.messages/src/app/containers/dashboard/MyUserDashboard/IQTab.json
-msgid "Send to"
-msgstr "发送"
-
 #. [ContactUs.sendUsMessage]
 #. defaultMessage is:
 #. Send us a message
@@ -4260,12 +4415,12 @@ msgstr "发送"
 msgid "Send us a message"
 msgstr "给我们发信息"
 
-#. [Dashboard.IQTab.Sending]
+#. [Dashboard.IQTab.WithdrawIQ.Sender]
 #. defaultMessage is:
-#. Sending
-#: translations/.messages/src/app/containers/dashboard/MyUserDashboard/IQTab.json
-msgid "Sending"
-msgstr "发送"
+#. Sender
+#: translations/.messages/src/app/containers/dashboard/MyUserDashboard/IQTab/WithdrawIQ.json
+msgid "Sender"
+msgstr "性别"
 
 #. [NewPageTemplate.NPT_Organization_Services]
 #. defaultMessage is:
@@ -4280,6 +4435,20 @@ msgstr "服务"
 #: translations/.messages/src/editor/utils/editing-utils/template-packs/organization.json
 msgid "Services"
 msgstr "服务（多项）"
+
+#. [EpIdResetPassword.SetPassword]
+#. defaultMessage is:
+#. Set Password
+#: translations/.messages/src/app/components/Login/EPIDResetPasswordModal.json
+msgid "Set Password"
+msgstr "重置密码"
+
+#. [Dashboard.Settings]
+#. defaultMessage is:
+#. Settings
+#: translations/.messages/src/app/containers/dashboard/MyUserDashboard/TopNav.json
+msgid "Settings"
+msgstr ""
 
 #. [ShareModal.ShareVia]
 #. defaultMessage is:
@@ -4350,7 +4519,11 @@ msgstr "小"
 #. [EditProfile.SocialPlatforms]
 #. defaultMessage is:
 #. Social Platforms
+#. [Dashboard.SocialPlatforms]
+#. defaultMessage is:
+#. Social Platforms
 #: translations/.messages/src/app/components/edit-profile/index.json
+#: translations/.messages/src/app/containers/dashboard/dashboard_component.json
 msgid "Social Platforms"
 msgstr "社交平台"
 
@@ -4450,7 +4623,11 @@ msgstr "正在提交您的文章编辑"
 #. [EpIdLogin.SuccessExclamation]
 #. defaultMessage is:
 #. Success!
+#. [EpIdResetPassword.SuccessExclamation]
+#. defaultMessage is:
+#. Success!
 #: translations/.messages/src/app/components/Login/epid-login.modal.json
+#: translations/.messages/src/app/components/Login/EPIDResetPasswordModal.json
 msgid "Success!"
 msgstr "成功！"
 
@@ -4712,6 +4889,14 @@ msgstr "最近没有对本文的编辑。成为第一个更新它的人。"
 msgid "There is no activity on this article."
 msgstr "没有关于这篇文章的活动"
 
+#. [EpIdResetPasswordModal.GenericError]
+#. defaultMessage is:
+#. There was a problem with your request. Please try again or contact support.
+#: translations/.messages/src/app/components/Login/EPIDResetPasswordModal.json
+msgid ""
+"There was a problem with your request. Please try again or contact support."
+msgstr ""
+
 #. [SaveModalAgain.ThereWasAnIssueRecording]
 #. defaultMessage is:
 #. There was an issue recording your edit.
@@ -4796,11 +4981,28 @@ msgstr "您并未保存修改，是否继续？"
 #. [SearchCard.TitleNotAvailable]
 #. defaultMessage is:
 #. Title Not Available
+#. [SearchCategoryCard.TitleNotAvailable]
+#. defaultMessage is:
+#. Title Not Available
+#. [SearchProfileCard.TitleNotAvailable]
+#. defaultMessage is:
+#. Title Not Available
 #: translations/.messages/src/app/components/ActivityCards/ActivityCard.json
 #: translations/.messages/src/app/containers/category-results/categoryResultCard.json
 #: translations/.messages/src/app/containers/searchResultsFull/searchCard.json
+#: translations/.messages/src/app/containers/searchResultsFull/searchCategoryCard.json
+#: translations/.messages/src/app/containers/searchResultsFull/searchProfileCard.json
 msgid "Title Not Available"
 msgstr "标题不可用"
+
+#. [Dashboard.IQTab.DepositIQ.DepositIQIntoEPIDAccount]
+#. defaultMessage is:
+#. To deposit IQ into your account please go to your wallet or exchange and send to the EOS wallet address with the memo below.
+#: translations/.messages/src/app/containers/dashboard/MyUserDashboard/IQTab/DepositIQ.json
+msgid ""
+"To deposit IQ into your account please go to your wallet or exchange and "
+"send to the EOS wallet address with the memo below."
+msgstr ""
 
 #. [Errors.ToEditThisArticleRightNow]
 #. defaultMessage is:
@@ -4906,6 +5108,13 @@ msgstr "重试"
 msgid "Type"
 msgstr "输入"
 
+#. [SaveModalAgain.TypeOfEditLabel]
+#. defaultMessage is:
+#. Type of Edit
+#: translations/.messages/src/editor/plugins/save/save-modal-parts/comment-and-category.json
+msgid "Type of Edit"
+msgstr "无编辑"
+
 #. [CategoriesModal.SelectCategories]
 #. defaultMessage is:
 #. Type to search categories
@@ -4983,6 +5192,13 @@ msgstr "上传中..."
 #: translations/.messages/src/shared/inputs/file-uploader/file-uploader.component.json
 msgid "Uploading...."
 msgstr "上传中..."
+
+#. [Dashboard.IQTab.DepositIQ.UseQRCode]
+#. defaultMessage is:
+#. Use QR Code (enter memo manually)
+#: translations/.messages/src/app/containers/dashboard/MyUserDashboard/IQTab/DepositIQ.json
+msgid "Use QR Code (enter memo manually)"
+msgstr ""
 
 #. [EditProfile.Username]
 #. defaultMessage is:
@@ -5071,13 +5287,6 @@ msgstr "浏览编辑"
 msgid "View Full List"
 msgstr "浏览历史记录"
 
-#. [TopNav.ViewHistory]
-#. defaultMessage is:
-#. View History
-#: translations/.messages/src/app/components/content-top-nav/index.json
-msgid "View History"
-msgstr "浏览历史记录"
-
 #. [SubmitVoteConfirmation.ViewTransaction]
 #. defaultMessage is:
 #. View Transaction
@@ -5102,8 +5311,11 @@ msgstr "浏览编辑"
 #. [SaveModalAgain.ViewTransaction]
 #. defaultMessage is:
 #. View transaction
-#: translations/.messages/src/app/containers/dashboard/MyUserDashboard/IQTab.json
-
+#. [SaveModalAgain.ViewTransaction]
+#. defaultMessage is:
+#. View transaction
+#: translations/.messages/src/app/containers/dashboard/MyUserDashboard/IQTab/IQTab.json
+#: translations/.messages/src/app/containers/dashboard/MyUserDashboard/IQTab/WithdrawIQ.json
 msgid "View transaction"
 msgstr "浏览交易记录"
 
@@ -5118,9 +5330,6 @@ msgstr "浏览数"
 #. defaultMessage is:
 #. Vote
 #. [SubmitVote.Vote]
-#. defaultMessage is:
-#. Vote
-#. [SubmitVote.VoteOreID]
 #. defaultMessage is:
 #. Vote
 #. [SubmitVote.LoginToVote]
@@ -5224,13 +5433,6 @@ msgstr "周"
 msgid "WIKIS"
 msgstr "WIKIS"
 
-#. [SaveModalAgain.WaitAMomentOneLynx]
-#. defaultMessage is:
-#. Wait a moment while we load Lynx.
-#: translations/.messages/src/editor/plugins/save/save-modal.json
-msgid "Wait a moment while we load Lynx."
-msgstr "请稍等，正在加载Lynx。"
-
 #. [SaveModalAgain.txLoadScatter]
 #. defaultMessage is:
 #. Wait a moment while we load Scatter.  If you do not see the Scatter window, check if it has loaded behind your current window.
@@ -5242,7 +5444,7 @@ msgstr ""
 "请稍等，正在加载Scatter。  如果您没有看到Scatter窗口，请检查它是否已加载到当"
 "前窗口的后面。"
 
-#. [SaveModalAgain.WaitAMomentOne]
+#. [SaveModalAgain.WaitAMomentScatter]
 #. defaultMessage is:
 #. Wait a moment while we load Scatter. If you don’t see the Scatter window, check if it has loaded behind your current window.
 #: translations/.messages/src/editor/plugins/save/save-modal.json
@@ -5260,6 +5462,13 @@ msgstr ""
 msgid "Wait a moment while we load the Lynx transaction window."
 msgstr "请稍等，正在加载Lynx交易窗口。"
 
+#. [SaveModalAgain.WaitAMomentTwo]
+#. defaultMessage is:
+#. Wait a moment while we load your account.
+#: translations/.messages/src/editor/plugins/save/save-modal.json
+msgid "Wait a moment while we load your account."
+msgstr "请稍等，正在加载Lynx。"
+
 #. [SaveModalAgain.txLoadOreId]
 #. defaultMessage is:
 #. Wait a moment while we load your account.  You will be redirected to OreID to confirm your proposed edit.  You may be required to enter the pin that you created when you set up your account.
@@ -5270,18 +5479,6 @@ msgid ""
 "you created when you set up your account."
 msgstr ""
 "请稍等，我们正在加载您的帐户。您将被跳转至OreID，以确认您的编辑提议。您可能需"
-"要输入在设置帐户时创建的PIN码。"
-
-#. [SaveModalAgain.WaitAMomentTwo]
-#. defaultMessage is:
-#. Wait a moment while we load your account. You will be redirected to OreID to confirm your proposed edit. You may be required to enter the pin that you created when you set up your account.
-#: translations/.messages/src/editor/plugins/save/save-modal.json
-msgid ""
-"Wait a moment while we load your account. You will be redirected to OreID to "
-"confirm your proposed edit. You may be required to enter the pin that you "
-"created when you set up your account."
-msgstr ""
-"请稍等，正在加载您的帐户。您将被重新跳转到OreID，以确认您建议的编辑。您可能需"
 "要输入在设置帐户时创建的PIN码。"
 
 #. [LoginModal.WaitAMomentWhileWeLoad]
@@ -5351,9 +5548,9 @@ msgid ""
 "account. If you have an existing account, you will be asked to merge it with "
 "youur new account in order to retain your edit history and IQ balance."
 msgstr ""
-"我们正在为那些希望通过社交媒体或者电子邮件登录的用户提供EPID.在此过程中，"
-"系统将提示您创建一个新帐户.如果您已经有一个账户，您将会被要求将其与您的"
-"旧账户合并，这样就可以保持您的编辑历史和IQ余额"
+"我们正在为那些希望通过社交媒体或者电子邮件登录的用户提供EPID.在此过程中，系统"
+"将提示您创建一个新帐户.如果您已经有一个账户，您将会被要求将其与您的旧账户合"
+"并，这样就可以保持您的编辑历史和IQ余额"
 
 #. [MergeModalAgain.WeReceivedTheFollowingError]
 #. defaultMessage is:
@@ -5401,12 +5598,12 @@ msgstr "什么是IQ？"
 msgid "Wiki Encyclopedia of Everything - Everipedia"
 msgstr "包罗万象的百科全书-Everipedia"
 
-#. [Dashboard.IQTab.SendSuccessful]
+#. [Dashboard.IQTab.WithdrawIQ.WithdrawIQ]
 #. defaultMessage is:
-#. Withdrawal Successful:
-#: translations/.messages/src/app/containers/dashboard/MyUserDashboard/IQTab.json
-msgid "Withdrawal Successful:"
-msgstr "您的投票成功"
+#. Withdraw IQ
+#: translations/.messages/src/app/containers/dashboard/MyUserDashboard/IQTab/WithdrawIQ.json
+msgid "Withdraw IQ"
+msgstr ""
 
 #. [AccountNameHeader.Worth]
 #. defaultMessage is:
@@ -5495,13 +5692,6 @@ msgstr "您必须登录才能参与聊天"
 msgid "You must login to vote"
 msgstr "您必须登录才能投票"
 
-#. [SubmitVote.YouNeedToMakeAnEdit]
-#. defaultMessage is:
-#. You need to make an edit before you can vote with your Ore ID account
-#: translations/.messages/src/app/components/SubmitVote/index.json
-msgid "You need to make an edit before you can vote with your Ore ID account"
-msgstr "您需要创作一条编辑之后才能使用您的Ore ID帐户进行投票"
-
 #. [Footer.PrivacyCA]
 #. defaultMessage is:
 #. Your CA Privacy Rights
@@ -5561,6 +5751,13 @@ msgid ""
 msgstr ""
 "现在，您的编辑将由社区投票。如果被接受，您将因为您的贡献获得IQ奖励。您用于提"
 "议编辑的IQ通证将被锁定（质押）21天。"
+
+#. [EpIdResetPassword.NewPasswordSet]
+#. defaultMessage is:
+#. Your new password has been set.
+#: translations/.messages/src/app/components/Login/EPIDResetPasswordModal.json
+msgid "Your new password has been set."
+msgstr ""
 
 #. [Login.aboutLoginOptions]
 #. defaultMessage is:
@@ -5837,10 +6034,18 @@ msgstr "查看我们的常见问题"
 #. [SearchCard.Views]
 #. defaultMessage is:
 #. views
+#. [SearchCategoryCard.Views]
+#. defaultMessage is:
+#. views
+#. [SearchProfileCard.Views]
+#. defaultMessage is:
+#. views
 #: translations/.messages/src/app/containers/category-results/categoryResultCard.json
 #: translations/.messages/src/app/containers/homepageContainer/mainItem.json
 #: translations/.messages/src/app/containers/homepageContainer/rightList.json
 #: translations/.messages/src/app/containers/searchResultsFull/searchCard.json
+#: translations/.messages/src/app/containers/searchResultsFull/searchCategoryCard.json
+#: translations/.messages/src/app/containers/searchResultsFull/searchProfileCard.json
 msgid "views"
 msgstr "浏览数"
 
@@ -5905,6 +6110,42 @@ msgstr "始于"
 msgid "words"
 msgstr "字数"
 
+#~ msgid "Category"
+#~ msgstr "类别"
+
+#~ msgid "Contact Info"
+#~ msgstr "联系方式"
+
+#~ msgid "EOS Memo:"
+#~ msgstr "EOS 备注："
+
+#~ msgid "Receive"
+#~ msgstr "接收"
+
+#~ msgid "Send to"
+#~ msgstr "发送"
+
+#~ msgid "Sending"
+#~ msgstr "发送"
+
+#~ msgid "View History"
+#~ msgstr "浏览历史记录"
+
+#~ msgid ""
+#~ "Wait a moment while we load your account. You will be redirected to OreID "
+#~ "to confirm your proposed edit. You may be required to enter the pin that "
+#~ "you created when you set up your account."
+#~ msgstr ""
+#~ "请稍等，正在加载您的帐户。您将被重新跳转到OreID，以确认您建议的编辑。您可"
+#~ "能需要输入在设置帐户时创建的PIN码。"
+
+#~ msgid "Withdrawal Successful:"
+#~ msgstr "您的投票成功"
+
+#~ msgid ""
+#~ "You need to make an edit before you can vote with your Ore ID account"
+#~ msgstr "您需要创作一条编辑之后才能使用您的Ore ID帐户进行投票"
+
 #~ msgid ""
 #~ "Enter the code that was sent to your email address. If you haven't "
 #~ "received a code, go back and try again."
@@ -5950,9 +6191,6 @@ msgstr "字数"
 
 #~ msgid "Welcome"
 #~ msgstr "欢迎"
-
-#~ msgid "Account"
-#~ msgstr "帐户"
 
 #~ msgid "Active Boosts"
 #~ msgstr "有效助推"
