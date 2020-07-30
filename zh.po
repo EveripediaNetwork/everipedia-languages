@@ -1,7 +1,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: \n"
-"POT-Creation-Date: 2020-07-29T21:40:36.523Z\n"
+"POT-Creation-Date: 2020-07-30T20:26:17.375Z\n"
 "PO-Revision-Date: \n"
 "Last-Translator: \n"
 "Language-Team: \n"
@@ -572,7 +572,6 @@ msgstr "支持的格式："
 #. defaultMessage is:
 #. Already have an EPID Account?
 #: translations/.messages/src/app/components/Login/epid-register.modal.json
-
 msgid "Already have an EPID Account?"
 msgstr "获得帐号"
 
@@ -1094,12 +1093,12 @@ msgstr "常见问题"
 msgid "Confirm New Password"
 msgstr "确认您的投票"
 
-#. [EpIdLogin.ConfirmPassword]
+#. [EpIdRegisterModal.ConfirmPassword]
 #. defaultMessage is:
 #. Confirm Password
 #: translations/.messages/src/app/components/Login/epid-register.modal.json
 msgid "Confirm Password"
-msgstr "确认您的投票"
+msgstr "再次输入密码"
 
 #. [SubmitVoteConfirmation.ConfirmYourVote]
 #. defaultMessage is:
@@ -1241,7 +1240,6 @@ msgstr "创建一篇文章"
 #. defaultMessage is:
 #. Create EPID Account
 #: translations/.messages/src/app/components/Login/epid-register.modal.json
-
 msgid "Create EPID Account"
 msgstr "登录/创建帐户"
 
@@ -1506,7 +1504,7 @@ msgstr "嵌入尺寸"
 #. EOS Address or EPID Account
 #: translations/.messages/src/app/containers/dashboard/MyUserDashboard/IQTab/WithdrawIQ.json
 msgid "EOS Address or EPID Account"
-msgstr ""
+msgstr "登录/创建帐户"
 
 #. [ActivityCards.ExpiringSoon]
 #. defaultMessage is:
@@ -2446,7 +2444,7 @@ msgstr "图像链接"
 #. Incorrect username or password. Please try again.
 #: translations/.messages/src/app/components/Login/epid-login.modal.json
 msgid "Incorrect username or password. Please try again."
-msgstr ""
+msgstr "请重试"
 
 #. [MetadataModal.Indexed]
 #. defaultMessage is:
@@ -3673,13 +3671,13 @@ msgstr "参与者"
 #. [EpIdLogin.Password]
 #. defaultMessage is:
 #. Password
-#. [EpIdLogin.Password]
+#. [EpIdRegisterModal.Password]
 #. defaultMessage is:
 #. Password
 #: translations/.messages/src/app/components/Login/epid-login.modal.json
 #: translations/.messages/src/app/components/Login/epid-register.modal.json
 msgid "Password"
-msgstr "字数"
+msgstr "密码"
 
 #. [SearchResults.People]
 #. defaultMessage is:
@@ -4089,16 +4087,15 @@ msgstr "参考文献"
 #. defaultMessage is:
 #. Register or Login with Email
 #: translations/.messages/src/app/components/Login/Login.json
-
 msgid "Register or Login with Email"
-msgstr "用电子邮件登录"
+msgstr "用电子邮件注册或登录"
 
 #. [LoginModal.RegisterWithEmail]
 #. defaultMessage is:
 #. Register with Email
 #: translations/.messages/src/app/components/Login/Login.json
 msgid "Register with Email"
-msgstr "用电子邮件登录"
+msgstr "用电子邮件注册"
 
 #. [EpIdLogin.RegistrationSuccessfulWithPunctuation]
 #. defaultMessage is:
@@ -5227,14 +5224,14 @@ msgstr ""
 #. [EpIdLogin.Username]
 #. defaultMessage is:
 #. Username
-#. [EpIdLogin.Username]
+#. [EpIdRegisterModal.Username]
 #. defaultMessage is:
 #. Username
 #: translations/.messages/src/app/components/edit-profile/index.json
 #: translations/.messages/src/app/components/Login/epid-login.modal.json
 #: translations/.messages/src/app/components/Login/epid-register.modal.json
 msgid "Username"
-msgstr "已投票"
+msgstr "用户名"
 
 #. [SubmitVote.VersionVotes]
 #. defaultMessage is:

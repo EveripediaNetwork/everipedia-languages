@@ -1,7 +1,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: \n"
-"POT-Creation-Date: 2020-07-17T20:06:12.507Z\n"
+"POT-Creation-Date: 2020-07-30T20:23:30.296Z\n"
 "PO-Revision-Date: \n"
 "Last-Translator: \n"
 "Language-Team: \n"
@@ -14,13 +14,13 @@ msgstr ""
 
 #. [ActivityCard.Changed]
 #. defaultMessage is:
-#. Changed
+#.  Changed
 #. [ChatItem.Changed]
 #. defaultMessage is:
-#. Changed
+#.  Changed
 #. [EditOverview.ChangedTwo]
 #. defaultMessage is:
-#. Changed
+#.  Changed
 #: translations/.messages/src/app/components/ActivityCards/ActivityCard.json
 #: translations/.messages/src/app/components/Chat/ChatItem.json
 #: translations/.messages/src/app/components/SubmitVote/EditOverview.json
@@ -29,49 +29,49 @@ msgstr "변경됨"
 
 #. [ChatList.LoginToParticipate]
 #. defaultMessage is:
-#. Login to participate in article chat.
+#.  Login to participate in article chat.
 #: translations/.messages/src/app/components/Chat/ChatList.json
 msgid " Login to participate in article chat."
 msgstr "로그인해서 채팅에 참여하세요"
 
 #. [ChatList.WriteYourMessageBelow]
 #. defaultMessage is:
-#. Write your message below to start the conversation
+#.  Write your message below to start the conversation
 #: translations/.messages/src/app/components/Chat/ChatList.json
 msgid " Write your message below to start the conversation"
 msgstr "메시지 쓰기"
 
 #. [EpIdRegister.SpaceAndSpace]
 #. defaultMessage is:
-#. and
+#.  and 
 #: translations/.messages/src/app/components/Login/epid-register.modal.json
 msgid " and "
 msgstr ""
 
 #. [Errors.IfYouThinkYouAre]
 #. defaultMessage is:
-#. if you think you are receiving this message in error.
+#.  if you think you are receiving this message in error.
 #: translations/.messages/src/app/utils/errors.json
 msgid " if you think you are receiving this message in error."
 msgstr "이 메시지가 잘못 전달된 경우"
 
 #. [EditOverview.MergedIntoThisArticle]
 #. defaultMessage is:
-#. merged into this article.
+#.  merged into this article.
 #: translations/.messages/src/app/components/SubmitVote/EditOverview.json
 msgid " merged into this article."
 msgstr "이 글에 합치기"
 
 #. [MediaGallery.ToChooseAQualityImage]
 #. defaultMessage is:
-#. to choose a quality image. You can upload jpg, gif, and png files
+#.  to choose a quality image. You can upload jpg, gif, and png files
 #: translations/.messages/src/editor/plugins/media-gallery/media-gallery-modal.json
 msgid " to choose a quality image. You can upload jpg, gif, and png files"
 msgstr "jpg, gif, png 파일을 올릴 수 있습니다"
 
 #. [Tooltips.Vote]
 #. defaultMessage is:
-#. vote
+#.  vote
 #: translations/.messages/src/app/components/tooltips/index.json
 msgid " vote"
 msgstr "투표"
@@ -85,7 +85,7 @@ msgstr "+ 계정 만들기 / 로그인"
 
 #. [IQInfo.Or]
 #. defaultMessage is:
-#. , or
+#. , or 
 #: translations/.messages/src/app/containers/iq-info/iq-info.container.json
 msgid ", or "
 msgstr " 또는 "
@@ -157,7 +157,9 @@ msgstr "7일"
 #. defaultMessage is:
 #. A link to reset your password has been sent to your email. Click the link there to create a new password.
 #: translations/.messages/src/app/components/Login/epid-login.modal.json
-msgid "A link to reset your password has been sent to your email. Click the link there to create a new password."
+msgid ""
+"A link to reset your password has been sent to your email. Click the link "
+"there to create a new password."
 msgstr ""
 
 #. [Homepage.UniverseOfKnowledge]
@@ -487,8 +489,12 @@ msgstr "이미지 추가 또는 편집"
 #. defaultMessage is:
 #. Add your contribution to the world’s most universal knowledge base. You can create an article about anything.
 #: translations/.messages/src/app/components/create-new-page/index.json
-msgid "Add your contribution to the world’s most universal knowledge base. You can create an article about anything."
-msgstr "세계에서 가장 보편적인 지식 네트워크에 참여하세요. 무엇에 대해서든 위키를 만들 수 있습니다."
+msgid ""
+"Add your contribution to the world’s most universal knowledge base. You can "
+"create an article about anything."
+msgstr ""
+"세계에서 가장 보편적인 지식 네트워크에 참여하세요. 무엇에 대해서든 위키를 만"
+"들 수 있습니다."
 
 #. [MediaGallery.AddingMediaMakes]
 #. defaultMessage is:
@@ -523,7 +529,9 @@ msgstr "성인 콘텐츠"
 #. defaultMessage is:
 #. After creating a new account, we will prompt you to merge accounts you can always merge your account from your account dashboard.
 #: translations/.messages/src/app/components/Login/EPIDExplanationModal.json
-msgid "After creating a new account, we will prompt you to merge accounts you can always merge your account from your account dashboard."
+msgid ""
+"After creating a new account, we will prompt you to merge accounts you can "
+"always merge your account from your account dashboard."
 msgstr "기존에 사용하던 계정을 새로운 계정에 합칠 수 있습니다"
 
 #. [Leaderboard.AllTime]
@@ -537,8 +545,12 @@ msgstr "전체 기간"
 #. defaultMessage is:
 #. All holders of IQ will be incentivized to create quality, neutral content and to work together in building the reputation of the network.
 #: translations/.messages/src/app/containers/about/about.container.json
-msgid "All holders of IQ will be incentivized to create quality, neutral content and to work together in building the reputation of the network."
-msgstr "IQ 토큰 사용자는 인센티브 시스템을 통해 수준있는 콘텐츠를 만들고, 이 네트워크에서 인지도를 쌓아가며 공동작업합니다."
+msgid ""
+"All holders of IQ will be incentivized to create quality, neutral content "
+"and to work together in building the reputation of the network."
+msgstr ""
+"IQ 토큰 사용자는 인센티브 시스템을 통해 수준있는 콘텐츠를 만들고, 이 네트워크"
+"에서 인지도를 쌓아가며 공동작업합니다."
 
 #. [MetadataModal.AllowNonGooglebot]
 #. defaultMessage is:
@@ -549,10 +561,26 @@ msgstr "Googlebot 허용하지 않음"
 
 #. [CitationModal.AddEditFile.AllowedFormats]
 #. defaultMessage is:
-#. Allowed formats:
+#. Allowed formats: 
 #: translations/.messages/src/editor/plugins/citation-modal/panes/add-edit-file.json
 msgid "Allowed formats: "
 msgstr "허용되는 형식: "
+
+#. [EpIdRegister.AlreadyHaveAnEPIDAccount]
+#. defaultMessage is:
+#. Already have an EPID Account?
+#: translations/.messages/src/app/components/Login/epid-register.modal.json
+
+msgid "Already have an EPID Account?"
+msgstr "계정 만들기"
+
+#. [Dashboard.IQTab.WithdrawIQ.Amount]
+#. defaultMessage is:
+#. Amount
+#: translations/.messages/src/app/containers/dashboard/MyUserDashboard/IQTab/WithdrawIQ.json
+
+msgid "Amount"
+msgstr "계정"
 
 #. [Homepage.ModernAge]
 #. defaultMessage is:
@@ -572,8 +600,13 @@ msgstr "세상에 대한 지식을 확장하는, 열린 공동체."
 #. defaultMessage is:
 #. Anyone with IQ Tokens is a stakeholder in the Everipedia Network. Using IQ tokens to vote, users decide which new articles and edits are added to the knowledge base.
 #: translations/.messages/src/app/containers/about/about.container.json
-msgid "Anyone with IQ Tokens is a stakeholder in the Everipedia Network. Using IQ tokens to vote, users decide which new articles and edits are added to the knowledge base."
-msgstr "IQ 토큰 보유자는 에브리피디아 네트워크의 이해 관계자입니다. IQ 토큰으로 투표함으로써 네트워크 전반에 대한 의견을 주장할 수 있습니다."
+msgid ""
+"Anyone with IQ Tokens is a stakeholder in the Everipedia Network. Using IQ "
+"tokens to vote, users decide which new articles and edits are added to the "
+"knowledge base."
+msgstr ""
+"IQ 토큰 보유자는 에브리피디아 네트워크의 이해 관계자입니다. IQ 토큰으로 투표"
+"함으로써 네트워크 전반에 대한 의견을 주장할 수 있습니다."
 
 #. [AdultContentContainer.Approve]
 #. defaultMessage is:
@@ -593,15 +626,25 @@ msgstr "정말로 삭제하시겠습니까?"
 #. defaultMessage is:
 #. Articles are fetched using IPFS and EOS Storage. Majority of IQ being distributed during the airdrop.
 #: translations/.messages/src/app/containers/about/about.container.json
-msgid "Articles are fetched using IPFS and EOS Storage. Majority of IQ being distributed during the airdrop."
-msgstr "IPFS 및 EOS 메인넷을 사용하여 글을 가져옵니다. 대부분의 IQ 토큰은 에어드롭을 통해 분배되었습니다."
+msgid ""
+"Articles are fetched using IPFS and EOS Storage. Majority of IQ being "
+"distributed during the airdrop."
+msgstr ""
+"IPFS 및 EOS 메인넷을 사용하여 글을 가져옵니다. 대부분의 IQ 토큰은 에어드롭을 "
+"통해 분배되었습니다."
 
 #. [ThirdBlock.AsAnEditor]
 #. defaultMessage is:
 #. As an editor, the killer feature of Everipedia is that as long as you use sources and a neutral wording, you can write an article about anything you want. A dapp you like, yourself — anything.
 #: translations/.messages/src/app/containers/about/third-block.json
-msgid "As an editor, the killer feature of Everipedia is that as long as you use sources and a neutral wording, you can write an article about anything you want. A dapp you like, yourself — anything."
-msgstr "인용와 함께 중립적인 언어를 사용한다면, 어떤 주제에 대해서든 쓰고 싶은 글을 쓸 수 있다는 것이 에브리피디아의 핵심적인 특징입니다. 내가 좋아하는 디앱 서비스, 나 자신에 대해서, 그 무엇에 대해서든지 말입니다."
+msgid ""
+"As an editor, the killer feature of Everipedia is that as long as you use "
+"sources and a neutral wording, you can write an article about anything you "
+"want. A dapp you like, yourself — anything."
+msgstr ""
+"인용와 함께 중립적인 언어를 사용한다면, 어떤 주제에 대해서든 쓰고 싶은 글을 "
+"쓸 수 있다는 것이 에브리피디아의 핵심적인 특징입니다. 내가 좋아하는 디앱 서비"
+"스, 나 자신에 대해서, 그 무엇에 대해서든지 말입니다."
 
 #. [NewPageTemplate.NPT_Product_Audience]
 #. defaultMessage is:
@@ -638,7 +681,7 @@ msgstr "뒤로가기"
 #. [Dashboard.IQTab.BalanceActivity]
 #. defaultMessage is:
 #. Balance Activity
-#: translations/.messages/src/app/containers/dashboard/MyUserDashboard/IQTab.json
+#: translations/.messages/src/app/containers/dashboard/MyUserDashboard/IQTab/IQTab.json
 msgid "Balance Activity"
 msgstr "최근 활동"
 
@@ -692,6 +735,15 @@ msgstr "블로그"
 #: translations/.messages/src/editor/plugins/citation-modal/citation-modal.json
 msgid "Book ISBN"
 msgstr "도서 ISBN"
+
+#. [Dashboard.IQTab.DepositIQ.BothAreRequiredToRec]
+#. defaultMessage is:
+#. Both an address and memo are required to receive IQ. If you do not include the memo, your funds may be lost.
+#: translations/.messages/src/app/containers/dashboard/MyUserDashboard/IQTab/DepositIQ.json
+msgid ""
+"Both an address and memo are required to receive IQ. If you do not include "
+"the memo, your funds may be lost."
+msgstr ""
 
 #. [CategoryBox.Categories]
 #. defaultMessage is:
@@ -973,7 +1025,9 @@ msgstr "여기를 클릭하세요"
 #. defaultMessage is:
 #. Click or drag a non-media file to this area to upload, such as a PDF, Word document, or Excel file.
 #: translations/.messages/src/editor/plugins/citation-modal/panes/add-edit-file.json
-msgid "Click or drag a non-media file to this area to upload, such as a PDF, Word document, or Excel file."
+msgid ""
+"Click or drag a non-media file to this area to upload, such as a PDF, Word "
+"document, or Excel file."
 msgstr "PDF, Word, Excel 등을 업로드하려면 이곳에 파일을 끌어다 놓으세요"
 
 #. [SaveModalAgain.ClickToSelectTheType]
@@ -1033,7 +1087,15 @@ msgstr "의견"
 msgid "Common Questions"
 msgstr "자주하는 질문"
 
-#. [EpIdLogin.Confirm Password]
+#. [EpIdResetPassword.ConfirmNewPassword]
+#. defaultMessage is:
+#. Confirm New Password
+#: translations/.messages/src/app/components/Login/EPIDResetPasswordModal.json
+
+msgid "Confirm New Password"
+msgstr "투표 확인"
+
+#. [EpIdRegisterModal.ConfirmPassword]
 #. defaultMessage is:
 #. Confirm Password
 #: translations/.messages/src/app/components/Login/epid-register.modal.json
@@ -1066,7 +1128,9 @@ msgstr "최신 버전 지갑을 사용하고 있는지 확인하세요"
 #. Confirm that you have enough IQ in your wallet (50IQ required to submit at edit)
 #: translations/.messages/src/editor/plugins/merge/merge-modal.json
 #: translations/.messages/src/editor/plugins/save/save-modal.json
-msgid "Confirm that you have enough IQ in your wallet (50IQ required to submit at edit)"
+msgid ""
+"Confirm that you have enough IQ in your wallet (50IQ required to submit at "
+"edit)"
 msgstr "지갑에 IQ가 충분한지 확인하세요 (편집 제안에 50 IQ 필요)"
 
 #. [MergeModalAgain.ConfirmThatYouHaveSufficientEOS]
@@ -1077,7 +1141,9 @@ msgstr "지갑에 IQ가 충분한지 확인하세요 (편집 제안에 50 IQ 필
 #. Confirm that you have sufficient EOS resources. For additional information, please see our FAQs.
 #: translations/.messages/src/editor/plugins/merge/merge-modal.json
 #: translations/.messages/src/editor/plugins/save/save-modal.json
-msgid "Confirm that you have sufficient EOS resources. For additional information, please see our FAQs."
+msgid ""
+"Confirm that you have sufficient EOS resources. For additional information, "
+"please see our FAQs."
 msgstr "EOS 자원이 충분한지 확인하세요. 자세한 내용은 FAQ를 확인하세요."
 
 #. [MergeModalAgain.ConfirmYouHaveWalletOpen]
@@ -1112,13 +1178,6 @@ msgstr "이 글을 다른 언어판의 글에 연결"
 msgid "Contact"
 msgstr "연락하기"
 
-#. [Dashboard.ContactInfo]
-#. defaultMessage is:
-#. Contact Info
-#: translations/.messages/src/app/containers/dashboard/dashboard_component.json
-msgid "Contact Info"
-msgstr "연락처"
-
 #. [Errors.ContactUs]
 #. defaultMessage is:
 #. Contact us
@@ -1131,6 +1190,18 @@ msgstr "연락하기"
 #. Content
 #: translations/.messages/src/app/utils/comment-utils.json
 msgid "Content"
+msgstr "내용"
+
+#. [Dashboard.IQTab.DepositIQ.Continue]
+#. defaultMessage is:
+#. Continue
+#. [Dashboard.IQTab.DepositIQ.Continue]
+#. defaultMessage is:
+#. Continue
+#: translations/.messages/src/app/containers/dashboard/MyUserDashboard/IQTab/DepositIQ.json
+#: translations/.messages/src/app/containers/dashboard/MyUserDashboard/IQTab/WithdrawIQ.json
+
+msgid "Continue"
 msgstr "내용"
 
 #. [Chat.CopyText]
@@ -1161,19 +1232,20 @@ msgstr "저작권"
 msgid "Country"
 msgstr "국가"
 
-#. [EpIdLogin.CreateAccount]
-#. defaultMessage is:
-#. Create Account
-#: translations/.messages/src/app/components/Login/epid-register.modal.json
-msgid "Create Account"
-msgstr "로그인 / 계정 만들기"
-
 #. [MobileHamburger.CreateArticle]
 #. defaultMessage is:
 #. Create Article
 #: translations/.messages/src/app/components/TopNav/Mobile-Hamburger.json
 msgid "Create Article"
 msgstr "새 위키 만들기"
+
+#. [EpIdLogin.CreateEPIDAccount]
+#. defaultMessage is:
+#. Create EPID Account
+#: translations/.messages/src/app/components/Login/epid-register.modal.json
+
+msgid "Create EPID Account"
+msgstr "로그인 / 계정 만들기"
 
 #. [CreatePage.CreateNewArticle]
 #. defaultMessage is:
@@ -1325,6 +1397,22 @@ msgstr "민주적"
 msgid "Democratic Governance"
 msgstr "민주적 운영"
 
+#. [Dashboard.IQTab.DepositIQ.DepositAddress]
+#. defaultMessage is:
+#. Deposit Address
+#: translations/.messages/src/app/containers/dashboard/MyUserDashboard/IQTab/DepositIQ.json
+
+msgid "Deposit Address"
+msgstr "이메일 주소"
+
+#. [Dashboard.IQTab.DepositIQ.DepositIQ]
+#. defaultMessage is:
+#. Deposit IQ
+#: translations/.messages/src/app/containers/dashboard/MyUserDashboard/IQTab/DepositIQ.json
+
+msgid "Deposit IQ"
+msgstr "IQ 토큰 교환"
+
 #. [About.DesktopViewAlt]
 #. defaultMessage is:
 #. Desktop view of Everipedia article
@@ -1361,7 +1449,9 @@ msgstr "공개 이름은 세글자보다 길어야 합니다"
 #. defaultMessage is:
 #. Do you have an Everipedia account using OreID? Merging your accounts will unify your history and streaks.
 #: translations/.messages/src/app/containers/dashboard/MyUserDashboard/AccountSettings.json
-msgid "Do you have an Everipedia account using OreID? Merging your accounts will unify your history and streaks."
+msgid ""
+"Do you have an Everipedia account using OreID? Merging your accounts will "
+"unify your history and streaks."
 msgstr ""
 
 #. [EpIdLogin.DontHaveAccountQuestion]
@@ -1415,12 +1505,13 @@ msgstr "편집"
 msgid "EMBED SIZE"
 msgstr "끼워넣기 크기"
 
-#. [Dashboard.IQTab.EOSMemo]
+#. [Dashboard.IQTab.WithdrawIQ.WithdrawalAddress]
 #. defaultMessage is:
-#. EOS Memo:
-#: translations/.messages/src/app/containers/dashboard/MyUserDashboard/IQTab.json
-msgid "EOS Memo:"
-msgstr "EOS 메모"
+#. EOS Address or EPID Account
+#: translations/.messages/src/app/containers/dashboard/MyUserDashboard/IQTab/WithdrawIQ.json
+
+msgid "EOS Address or EPID Account"
+msgstr "계정 만들기"
 
 #. [ActivityCards.ExpiringSoon]
 #. defaultMessage is:
@@ -1523,7 +1614,9 @@ msgstr "편집 / 투표 문제"
 #. Editing Wikipedia-imported pages is currently disabled, but is expected to be available in the future.
 #: translations/.messages/src/editor/editor.container.json
 #: translations/.messages/src/editor/utils/editing-utils/template-packs/thing.json
-msgid "Editing Wikipedia-imported pages is currently disabled, but is expected to be available in the future."
+msgid ""
+"Editing Wikipedia-imported pages is currently disabled, but is expected to "
+"be available in the future."
 msgstr "위키백과에서 가져온 글은 당분간 편집할 수 없습니다"
 
 #. [ThirdBlock.Editor]
@@ -1685,10 +1778,10 @@ msgstr "오류"
 
 #. [EpIdLogin.ErrorWithPunctuationAndSpace]
 #. defaultMessage is:
-#. Error:
+#. Error: 
 #. [EpIdLogin.ErrorWithPunctuationAndSpace]
 #. defaultMessage is:
-#. Error:
+#. Error: 
 #: translations/.messages/src/app/components/Login/epid-login.modal.json
 #: translations/.messages/src/app/components/Login/epid-register.modal.json
 msgid "Error: "
@@ -1751,8 +1844,13 @@ msgstr "메인"
 #. defaultMessage is:
 #. Everipedia allows you to create an article about anything as long as you have a citation. This allows for a much broader scope of content in the knowledge base.
 #: translations/.messages/src/app/containers/about/about.container.json
-msgid "Everipedia allows you to create an article about anything as long as you have a citation. This allows for a much broader scope of content in the knowledge base."
-msgstr "하나의 인용만 있어도 그것에 대한 글을 작성할 수 있습니다. 이를 통해 지적 자산의 폭을 넓혀갑니다."
+msgid ""
+"Everipedia allows you to create an article about anything as long as you "
+"have a citation. This allows for a much broader scope of content in the "
+"knowledge base."
+msgstr ""
+"하나의 인용만 있어도 그것에 대한 글을 작성할 수 있습니다. 이를 통해 지적 자산"
+"의 폭을 넓혀갑니다."
 
 #. [About.LearnMore]
 #. defaultMessage is:
@@ -1762,22 +1860,36 @@ msgstr "하나의 인용만 있어도 그것에 대한 글을 작성할 수 있�
 #. Everipedia offers a space for you to dive into anything you find interesting, connect with people who share your interests, and contribute your own perspective.
 #: translations/.messages/src/app/containers/about/about.container.json
 #: translations/.messages/src/app/containers/homepageContainer/homepage.container.json
-msgid "Everipedia offers a space for you to dive into anything you find interesting, connect with people who share your interests, and contribute your own perspective."
-msgstr "개개인이 흥미있는 주제를 탐구하고 다른 이들과 공유하는 네트워크 입니다. "
+msgid ""
+"Everipedia offers a space for you to dive into anything you find "
+"interesting, connect with people who share your interests, and contribute "
+"your own perspective."
+msgstr ""
+"개개인이 흥미있는 주제를 탐구하고 다른 이들과 공유하는 네트워크 입니다. "
 
 #. [About.Blockchain]
 #. defaultMessage is:
 #. Everipedia uses blockchain technology to help us fulfill our vision for a world where all knowledge is available to all people - a world in which everyone, everywhere can participate in sharing what they know and providing value to others.
 #: translations/.messages/src/app/containers/about/about.container.json
-msgid "Everipedia uses blockchain technology to help us fulfill our vision for a world where all knowledge is available to all people - a world in which everyone, everywhere can participate in sharing what they know and providing value to others."
-msgstr "세계 어디서든 접근할 수 있고, 의미있는 모든 것을 누구나 공유할 수 있도록 하겠다는 에브리피디아의 비전. 블록체인 기술로 이를 이루어 갑니다."
+msgid ""
+"Everipedia uses blockchain technology to help us fulfill our vision for a "
+"world where all knowledge is available to all people - a world in which "
+"everyone, everywhere can participate in sharing what they know and providing "
+"value to others."
+msgstr ""
+"세계 어디서든 접근할 수 있고, 의미있는 모든 것을 누구나 공유할 수 있도록 하겠"
+"다는 에브리피디아의 비전. 블록체인 기술로 이를 이루어 갑니다."
 
 #. [CustomCookieBanner.EveripediaCookies]
 #. defaultMessage is:
 #. Everipedia uses cookies to provide you with a great user experience. Everipedia will never sell any personal information.
 #: translations/.messages/src/app/components/custom-cookie-banner/index.json
-msgid "Everipedia uses cookies to provide you with a great user experience. Everipedia will never sell any personal information."
-msgstr "에브리피디아는 쿠키를 사용하여 사용자경험을 향상시키고 있으며, 이 정보를 판매하거나 하지 않습니다."
+msgid ""
+"Everipedia uses cookies to provide you with a great user experience. "
+"Everipedia will never sell any personal information."
+msgstr ""
+"에브리피디아는 쿠키를 사용하여 사용자경험을 향상시키고 있으며, 이 정보를 판매"
+"하거나 하지 않습니다."
 
 #. [About.ModernDesignText]
 #. defaultMessage is:
@@ -1790,8 +1902,13 @@ msgstr "현대적으로 만들어가는 에브리피디아의 디자인과 기�
 #. defaultMessage is:
 #. Everipedia’s vibrant community is open and welcoming to everyone. We’re already one of the world’s largest encyclopedias, but we’re far from complete. Join us today.
 #: translations/.messages/src/app/containers/about/third-block.json
-msgid "Everipedia’s vibrant community is open and welcoming to everyone. We’re already one of the world’s largest encyclopedias, but we’re far from complete. Join us today."
-msgstr "에브리피디아 네트워크는 항상 열려있으며, 누구나 참여할 수 있습니다. 에브리피디아는 세계에서 가장 큰 백과사전이며, 장차 이루어나갈 수많은 것들이 있습니다."
+msgid ""
+"Everipedia’s vibrant community is open and welcoming to everyone. We’re "
+"already one of the world’s largest encyclopedias, but we’re far from "
+"complete. Join us today."
+msgstr ""
+"에브리피디아 네트워크는 항상 열려있으며, 누구나 참여할 수 있습니다. 에브리피"
+"디아는 세계에서 가장 큰 백과사전이며, 장차 이루어나갈 수많은 것들이 있습니다."
 
 #. [CitationModal.Existing]
 #. defaultMessage is:
@@ -2166,7 +2283,7 @@ msgstr "계정 합치기"
 
 #. [EpIdRegister.IAcceptThe]
 #. defaultMessage is:
-#. I accept the
+#. I accept the 
 #: translations/.messages/src/app/components/Login/epid-register.modal.json
 msgid "I accept the "
 msgstr "투표 완료"
@@ -2175,8 +2292,13 @@ msgstr "투표 완료"
 #. defaultMessage is:
 #. I love Everipedia because everyone benefits, particularly the contributors. As an IQ token holder, I have an incentive to participate in the network.
 #: translations/.messages/src/app/containers/about/third-block.json
-msgid "I love Everipedia because everyone benefits, particularly the contributors. As an IQ token holder, I have an incentive to participate in the network."
-msgstr "독자만이 아니라 특히 기여자들이 이를 통해 실제적인 가치를 공유할 수 있어서 에브리피디아를 사랑합니다. IQ 토큰 사용자로서, 이 네트워크에 참여할 분명한 인센티브가 있습니다."
+msgid ""
+"I love Everipedia because everyone benefits, particularly the contributors. "
+"As an IQ token holder, I have an incentive to participate in the network."
+msgstr ""
+"독자만이 아니라 특히 기여자들이 이를 통해 실제적인 가치를 공유할 수 있어서 에"
+"브리피디아를 사랑합니다. IQ 토큰 사용자로서, 이 네트워크에 참여할 분명한 인센"
+"티브가 있습니다."
 
 #. [EpIdRegister.WouldLikeToRecieveEmails]
 #. defaultMessage is:
@@ -2202,6 +2324,14 @@ msgstr "뉴스 소개"
 #: translations/.messages/src/app/containers/homepageContainer/leaderboard.json
 msgid "IQ"
 msgstr "IQ"
+
+#. [Dashboard.IQTab.WithdrawIQ.IQAvailable]
+#. defaultMessage is:
+#. IQ Available
+#: translations/.messages/src/app/containers/dashboard/MyUserDashboard/IQTab/WithdrawIQ.json
+
+msgid "IQ Available"
+msgstr "사용가능"
 
 #. [Stats.IQEarned]
 #. defaultMessage is:
@@ -2239,46 +2369,73 @@ msgstr "IQ 토큰"
 #. defaultMessage is:
 #. IQ Tokens allow us to keep track and reward people for contributing to Everipedia, and as the value of the platform grows, the people who built it get to share in its success.
 #: translations/.messages/src/app/containers/about/about.container.json
-msgid "IQ Tokens allow us to keep track and reward people for contributing to Everipedia, and as the value of the platform grows, the people who built it get to share in its success."
-msgstr "IQ 토큰을 통해 사용자들의 활동에 따른 보상이 있도록 함으로써, 이 네트워크의 가치상승에 따라 참여자들이 그 가치를 공유할 수 있습니다."
+msgid ""
+"IQ Tokens allow us to keep track and reward people for contributing to "
+"Everipedia, and as the value of the platform grows, the people who built it "
+"get to share in its success."
+msgstr ""
+"IQ 토큰을 통해 사용자들의 활동에 따른 보상이 있도록 함으로써, 이 네트워크의 "
+"가치상승에 따라 참여자들이 그 가치를 공유할 수 있습니다."
 
 #. [WhatIsIQ.Description]
 #. defaultMessage is:
 #. IQ tokens are used to incentivize users to create and maintain content within the Everipedia
-#. Network. Contributors are rewarded with IQ Tokens for creating or editing articles or voting on
-#. proposed content.
+#.                     Network. Contributors are rewarded with IQ Tokens for creating or editing articles or voting on
+#.                     proposed content.
 #: translations/.messages/src/app/containers/dashboard/what_is_iq.json
-msgid "IQ tokens are used to incentivize users to create and maintain content within the Everipedia\n"
-"                    Network. Contributors are rewarded with IQ Tokens for creating or editing articles or voting on\n"
+msgid ""
+"IQ tokens are used to incentivize users to create and maintain content "
+"within the Everipedia\n"
+"                    Network. Contributors are rewarded with IQ Tokens for "
+"creating or editing articles or voting on\n"
 "                    proposed content."
-msgstr "IQ 토큰은 에브리피디아 네트워크에서 글의 생성과 편집, 그리고 그에 대해서 투표하는 활동에 인센티브로 사용됩니다."
+msgstr ""
+"IQ 토큰은 에브리피디아 네트워크에서 글의 생성과 편집, 그리고 그에 대해서 투표"
+"하는 활동에 인센티브로 사용됩니다."
 
 #. [IQInfo.IQTokensPower]
 #. defaultMessage is:
 #. IQ tokens power the Everipedia Network. They are used to contribute content to our
-#. ever-growing knowledge base and to vote for / against new articles and edits to existing
-#. articles. Contributors are rewarded in the form of IQ tokens. In addition, each token
-#. holder can also vote on upgrades and modifications to the system.
+#.                                 ever-growing knowledge base and to vote for / against new articles and edits to existing
+#.                                 articles. Contributors are rewarded in the form of IQ tokens. In addition, each token
+#.                                 holder can also vote on upgrades and modifications to the system.
 #: translations/.messages/src/app/containers/iq-info/iq-info.container.json
-msgid "IQ tokens power the Everipedia Network. They are used to contribute content to our\n"
-"                                ever-growing knowledge base and to vote for / against new articles and edits to existing\n"
-"                                articles. Contributors are rewarded in the form of IQ tokens. In addition, each token\n"
-"                                holder can also vote on upgrades and modifications to the system."
-msgstr "IQ 토큰으로 에브리피디아 네트워크가 운영됩니다. 새로운 글과 기존 글 편집 제안에 대한 투표를 통해 지적 자산을 확장합니다."
+msgid ""
+"IQ tokens power the Everipedia Network. They are used to contribute content "
+"to our\n"
+"                                ever-growing knowledge base and to vote "
+"for / against new articles and edits to existing\n"
+"                                articles. Contributors are rewarded in the "
+"form of IQ tokens. In addition, each token\n"
+"                                holder can also vote on upgrades and "
+"modifications to the system."
+msgstr ""
+"IQ 토큰으로 에브리피디아 네트워크가 운영됩니다. 새로운 글과 기존 글 편집 제안"
+"에 대한 투표를 통해 지적 자산을 확장합니다."
 
 #. [MergeModalAgain.IfItIsRejected]
 #. defaultMessage is:
 #. If it is rejected, the IQ tokens that you used to propose your edit will be locked up for a longer period of time, which is proportional to the difference between the total number of votes in the majority and the minority.
 #: translations/.messages/src/editor/plugins/merge/merge-modal.json
-msgid "If it is rejected, the IQ tokens that you used to propose your edit will be locked up for a longer period of time, which is proportional to the difference between the total number of votes in the majority and the minority."
-msgstr "편집자의 제안이 투표결과에서 거부된 경우, 편집자가 편집시 제출한 IQ 토큰은 투표수 차이에 따라 더 오래 예치되게 됩니다."
+msgid ""
+"If it is rejected, the IQ tokens that you used to propose your edit will be "
+"locked up for a longer period of time, which is proportional to the "
+"difference between the total number of votes in the majority and the "
+"minority."
+msgstr ""
+"편집자의 제안이 투표결과에서 거부된 경우, 편집자가 편집시 제출한 IQ 토큰은 투"
+"표수 차이에 따라 더 오래 예치되게 됩니다."
 
 #. [SubmitVoteConfirmation.IfYourVoteIsInTheMajority]
 #. defaultMessage is:
 #. If your vote is in the majority, you will receive an IQ reward in proportion to the amount of IQ you voted.
 #: translations/.messages/src/app/components/SubmitVote/ConfirmationModal.json
-msgid "If your vote is in the majority, you will receive an IQ reward in proportion to the amount of IQ you voted."
-msgstr "투표결과 다수에 투표했다면, 투표한 투표수에 비례해 IQ 토큰을 보상으로 받습니다."
+msgid ""
+"If your vote is in the majority, you will receive an IQ reward in proportion "
+"to the amount of IQ you voted."
+msgstr ""
+"투표결과 다수에 투표했다면, 투표한 투표수에 비례해 IQ 토큰을 보상으로 받습니"
+"다."
 
 #. [ImageUploader.ImageURL]
 #. defaultMessage is:
@@ -2383,11 +2540,20 @@ msgstr "새로 삽입"
 msgid "Insert Right"
 msgstr "오른쪽 삽입"
 
+#. [Dashboard.IQTab.DepositIQ.InsufficientBalance]
+#. defaultMessage is:
+#. Insufficient balance.
+#: translations/.messages/src/app/containers/dashboard/MyUserDashboard/IQTab/WithdrawIQ.json
+msgid "Insufficient balance."
+msgstr ""
+
 #. [LoginModal.OpenTokenPocket]
 #. defaultMessage is:
 #. It appears you are using a browser other than TokenPocket. Please open your TokenPocket app and try again.
 #: translations/.messages/src/app/components/Login/Login.json
-msgid "It appears you are using a browser other than TokenPocket. Please open your TokenPocket app and try again."
+msgid ""
+"It appears you are using a browser other than TokenPocket. Please open your "
+"TokenPocket app and try again."
 msgstr "토큰포켓에 로그인하고 다시 실행해주세요"
 
 #. [EditorDraftContinuationGuard.Unsaved]
@@ -2412,7 +2578,9 @@ msgstr "항목"
 #. defaultMessage is:
 #. Join thousands of others in receiving the most interesting wikis on Everipedia every week
 #: translations/.messages/src/app/containers/blog/blog.slug.container.json
-msgid "Join thousands of others in receiving the most interesting wikis on Everipedia every week"
+msgid ""
+"Join thousands of others in receiving the most interesting wikis on "
+"Everipedia every week"
 msgstr "에브리피디아의 흥미로운 콘텐츠를 받을 수 있습니다"
 
 #. [Login.JustGettingStarted]
@@ -2426,8 +2594,14 @@ msgstr "처음이신가요?"
 #. defaultMessage is:
 #. Kedar Iyer is a software engineer from Santa Clara, California. He has written two books about blockchain technology, including a textbook for Solidity developers on how to build decentralized applications on Ethereum.
 #: translations/.messages/src/app/containers/about/third-block.json
-msgid "Kedar Iyer is a software engineer from Santa Clara, California. He has written two books about blockchain technology, including a textbook for Solidity developers on how to build decentralized applications on Ethereum."
-msgstr "케이다 아이얼은 캘리포니아 산타클라라 출신의 소프트웨어 엔지니어이다. 솔리디티 개발자 대상의 이더리움기반 디탭 관련 저서를 포함해, 블록체인 기술관련 도서들을 집필하였다."
+msgid ""
+"Kedar Iyer is a software engineer from Santa Clara, California. He has "
+"written two books about blockchain technology, including a textbook for "
+"Solidity developers on how to build decentralized applications on Ethereum."
+msgstr ""
+"케이다 아이얼은 캘리포니아 산타클라라 출신의 소프트웨어 엔지니어이다. 솔리디"
+"티 개발자 대상의 이더리움기반 디탭 관련 저서를 포함해, 블록체인 기술관련 도서"
+"들을 집필하였다."
 
 #. [InfoboxModal.Label]
 #. defaultMessage is:
@@ -2466,8 +2640,15 @@ msgstr "크게"
 #. defaultMessage is:
 #. Larry Sanger is a knowledge project developer; his claim to fame is that he is the co-founder of Wikipedia. He has a Ph.D. in Philosophy from Ohio State University. When he is not working on knowledge projects, he plays the Irish fiddle and homeschools his two boys.
 #: translations/.messages/src/app/containers/about/third-block.json
-msgid "Larry Sanger is a knowledge project developer; his claim to fame is that he is the co-founder of Wikipedia. He has a Ph.D. in Philosophy from Ohio State University. When he is not working on knowledge projects, he plays the Irish fiddle and homeschools his two boys."
-msgstr "래리생어는 지식 프로젝트 개발자이다. 그의 가장 유명한 업적은 위키백과를 공동 설립한 것이다. 오하이오 주립대에서 철학박사 학위를 수여하였다. 여가 시간에는 아이리쉬 바이올린을 연주하고, 홈스쿨링으로 두 아들을 가르친다."
+msgid ""
+"Larry Sanger is a knowledge project developer; his claim to fame is that he "
+"is the co-founder of Wikipedia. He has a Ph.D. in Philosophy from Ohio State "
+"University. When he is not working on knowledge projects, he plays the Irish "
+"fiddle and homeschools his two boys."
+msgstr ""
+"래리생어는 지식 프로젝트 개발자이다. 그의 가장 유명한 업적은 위키백과를 공동 "
+"설립한 것이다. 오하이오 주립대에서 철학박사 학위를 수여하였다. 여가 시간에는 "
+"아이리쉬 바이올린을 연주하고, 홈스쿨링으로 두 아들을 가르친다."
 
 #. [SearchCard.LastEdited]
 #. defaultMessage is:
@@ -2546,7 +2727,7 @@ msgstr "자세히 알아보기"
 
 #. [Login.LearnMoreThree]
 #. defaultMessage is:
-#. Learn more
+#. Learn more 
 #: translations/.messages/src/app/components/Login/login.modal.json
 msgid "Learn more "
 msgstr "자세히 알아보기"
@@ -2611,8 +2792,12 @@ msgstr "목록"
 #. defaultMessage is:
 #. Live and permanent edits of content on the blockchain beyond the control of a central authority.
 #: translations/.messages/src/app/containers/about/about.container.json
-msgid "Live and permanent edits of content on the blockchain beyond the control of a central authority."
-msgstr "중앙권력의 통제를 벗어나, 블록체인을 통해 콘텐츠를 영구적으로 저장하고 실시간으로 편집합니다."
+msgid ""
+"Live and permanent edits of content on the blockchain beyond the control of "
+"a central authority."
+msgstr ""
+"중앙권력의 통제를 벗어나, 블록체인을 통해 콘텐츠를 영구적으로 저장하고 실시간"
+"으로 편집합니다."
 
 #. [Chat.Loading]
 #. defaultMessage is:
@@ -2687,6 +2872,12 @@ msgstr "로그아웃"
 #. [EpIdLogin.Login]
 #. defaultMessage is:
 #. Login
+#. [EpIdRegister.Login]
+#. defaultMessage is:
+#. Login
+#. [EpIdResetPassword.Login]
+#. defaultMessage is:
+#. Login
 #. [AccountNameHeader.Login]
 #. defaultMessage is:
 #. Login
@@ -2697,6 +2888,8 @@ msgstr "로그아웃"
 #: translations/.messages/src/app/components/Chat/Directory.json
 #: translations/.messages/src/app/components/Chat/Notifications.json
 #: translations/.messages/src/app/components/Login/epid-login.modal.json
+#: translations/.messages/src/app/components/Login/epid-register.modal.json
+#: translations/.messages/src/app/components/Login/EPIDResetPasswordModal.json
 #: translations/.messages/src/app/components/TopNav/account-name-header.json
 #: translations/.messages/src/app/utils/errors.json
 msgid "Login"
@@ -2939,6 +3132,20 @@ msgstr "중간"
 msgid "Meet our team"
 msgstr "운영진"
 
+#. [Dashboard.IQTab.DepositIQ.MemoRequired]
+#. defaultMessage is:
+#. Memo (Required)
+#: translations/.messages/src/app/containers/dashboard/MyUserDashboard/IQTab/DepositIQ.json
+msgid "Memo (Required)"
+msgstr ""
+
+#. [Dashboard.IQTab.WithdrawIQ.MemoOptional]
+#. defaultMessage is:
+#. Memo (optional)
+#: translations/.messages/src/app/containers/dashboard/MyUserDashboard/IQTab/WithdrawIQ.json
+msgid "Memo (optional)"
+msgstr ""
+
 #. [CommentUtils.Merge]
 #. defaultMessage is:
 #. Merge
@@ -2995,11 +3202,12 @@ msgstr "메시지"
 msgid "Migrate Now"
 msgstr "편집하기"
 
-#. [LoginModal.MigrateFromOreID]
+#. [EpIdLogin.MigratingFromOREID?]
 #. defaultMessage is:
-#. Migrate from OreID
-#: translations/.messages/src/app/containers/dashboard/dashboard_component.json
-msgid "Migrate from OreID"
+#. Migrating from OREID?
+#: translations/.messages/src/app/components/Login/epid-login.modal.json
+
+msgid "Migrating from OREID?"
 msgstr "기존 OreID계정을 합치기"
 
 #. [EpIdLogin.MinimumPasswordLength]
@@ -3082,6 +3290,14 @@ msgstr "새 글"
 #: translations/.messages/src/editor/plugins/section-embed-modal/section-embed-modal.json
 msgid "New Media"
 msgstr "미디어"
+
+#. [EpIdResetPassword.NewPassword]
+#. defaultMessage is:
+#. New Password
+#: translations/.messages/src/app/components/Login/EPIDResetPasswordModal.json
+
+msgid "New Password"
+msgstr "비밀번호"
 
 #. [Footer.Newsletter]
 #. defaultMessage is:
@@ -3268,15 +3484,25 @@ msgstr "직업"
 #. defaultMessage is:
 #. Once you submit edits, they will be displayed immediately in the article and be open for voting. If approved by the community, your edits will be accepted into the article.
 #: translations/.messages/src/editor/plugins/save/save-modal.json
-msgid "Once you submit edits, they will be displayed immediately in the article and be open for voting. If approved by the community, your edits will be accepted into the article."
-msgstr "편집해 제출하면 글에 바로 반영되며, 이에 대해 커뮤니티의 투표가 이루어집니다. 승인이 되면 그대로 유지됩니다."
+msgid ""
+"Once you submit edits, they will be displayed immediately in the article and "
+"be open for voting. If approved by the community, your edits will be "
+"accepted into the article."
+msgstr ""
+"편집해 제출하면 글에 바로 반영되며, 이에 대해 커뮤니티의 투표가 이루어집니"
+"다. 승인이 되면 그대로 유지됩니다."
 
 #. [SaveModalAgain.Description]
 #. defaultMessage is:
 #. Once you submit your edits, they will be displayed immediately in the article and be open for voting. If approved by the community, your edits will be accepted into the article.
 #: translations/.messages/src/editor/plugins/save/save-modal.json
-msgid "Once you submit your edits, they will be displayed immediately in the article and be open for voting. If approved by the community, your edits will be accepted into the article."
-msgstr "편집해 제출하면 글에 바로 반영되며, 이에 대해 커뮤니티의 투표가 이루어집니다. 승인이 되면 그대로 유지됩니다."
+msgid ""
+"Once you submit your edits, they will be displayed immediately in the "
+"article and be open for voting. If approved by the community, your edits "
+"will be accepted into the article."
+msgstr ""
+"편집해 제출하면 글에 바로 반영되며, 이에 대해 커뮤니티의 투표가 이루어집니"
+"다. 승인이 되면 그대로 유지됩니다."
 
 #. [NewPageTemplate.NPT_Organization_OperatingArea]
 #. defaultMessage is:
@@ -3341,13 +3567,20 @@ msgstr "글로벌 지사"
 #. [ThirdBlock.OurMissionToBuild]
 #. defaultMessage is:
 #. Our mission to build the world’s greatest encyclopedia requires a skilled executive team that
-#. embraces grand challenges. At Everipedia, we are fortunate to have people with deep experience
-#. and knowledge in both the education and blockchain industry.
+#.                         embraces grand challenges. At Everipedia, we are fortunate to have people with deep experience
+#.                         and knowledge in both the education and blockchain industry.
 #: translations/.messages/src/app/containers/about/third-block.json
-msgid "Our mission to build the world’s greatest encyclopedia requires a skilled executive team that\n"
-"                        embraces grand challenges. At Everipedia, we are fortunate to have people with deep experience\n"
-"                        and knowledge in both the education and blockchain industry."
-msgstr "세계 최고의 백과사전을 만들겠다는 비전을 이루는 데에는 전문적인 운영진이 있어야 합니다. 교육계와 블록체인 업계에서 많은 지식과 경험을 가지고 있는 이들이 에브리피디아와 함께하고 있습니다."
+msgid ""
+"Our mission to build the world’s greatest encyclopedia requires a skilled "
+"executive team that\n"
+"                        embraces grand challenges. At Everipedia, we are "
+"fortunate to have people with deep experience\n"
+"                        and knowledge in both the education and blockchain "
+"industry."
+msgstr ""
+"세계 최고의 백과사전을 만들겠다는 비전을 이루는 데에는 전문적인 운영진이 있어"
+"야 합니다. 교육계와 블록체인 업계에서 많은 지식과 경험을 가지고 있는 이들이 "
+"에브리피디아와 함께하고 있습니다."
 
 #. [Errors.OutOfIQ]
 #. defaultMessage is:
@@ -3443,7 +3676,7 @@ msgstr "참여자"
 #. [EpIdLogin.Password]
 #. defaultMessage is:
 #. Password
-#. [EpIdLogin.Password]
+#. [EpIdRegisterModal.Password]
 #. defaultMessage is:
 #. Password
 #: translations/.messages/src/app/components/Login/epid-login.modal.json
@@ -3731,8 +3964,13 @@ msgstr "프로필 이미지"
 #. defaultMessage is:
 #. Proof of Stake (PoS) model allows for voting to change and upgrade the IQ network as it grows. Also will facilitate batch imports of new content with no fees.
 #: translations/.messages/src/app/containers/about/about.container.json
-msgid "Proof of Stake (PoS) model allows for voting to change and upgrade the IQ network as it grows. Also will facilitate batch imports of new content with no fees."
-msgstr "지분증명(PoS) 기반으로 에브리피디아 네트워크를 변경하고 업그레이드 하는것을 투표로 결정할 수 있습니다"
+msgid ""
+"Proof of Stake (PoS) model allows for voting to change and upgrade the IQ "
+"network as it grows. Also will facilitate batch imports of new content with "
+"no fees."
+msgstr ""
+"지분증명(PoS) 기반으로 에브리피디아 네트워크를 변경하고 업그레이드 하는것을 "
+"투표로 결정할 수 있습니다"
 
 #. [DashboardComponent.Proposals]
 #. defaultMessage is:
@@ -3757,7 +3995,7 @@ msgstr "투표에 대한 설명(선택)"
 
 #. [ContactUs.Questions]
 #. defaultMessage is:
-#. Questions?
+#. Questions? 
 #: translations/.messages/src/app/containers/contact-us/contact-form.json
 msgid "Questions? "
 msgstr "자주묻는 질문"
@@ -3766,8 +4004,11 @@ msgstr "자주묻는 질문"
 #. defaultMessage is:
 #. Quickly login or create a new account to make edits, create articles, vote, and more!
 #: translations/.messages/src/app/components/Login/Login.json
-msgid "Quickly login or create a new account to make edits, create articles, vote, and more!"
-msgstr "새 계정을 만들어 로그인하면 편집과 투표를 포함한 모든 것을 할 수 있습니다"
+msgid ""
+"Quickly login or create a new account to make edits, create articles, vote, "
+"and more!"
+msgstr ""
+"새 계정을 만들어 로그인하면 편집과 투표를 포함한 모든 것을 할 수 있습니다"
 
 #. [RecentPopularContent.RECENT]
 #. defaultMessage is:
@@ -3803,13 +4044,6 @@ msgstr "보상"
 #: translations/.messages/src/app/components/content-top-nav/index.json
 msgid "Read"
 msgstr "읽기"
-
-#. [Dashboard.IQTab.Receive]
-#. defaultMessage is:
-#. Receive
-#: translations/.messages/src/app/containers/dashboard/MyUserDashboard/IQTab.json
-msgid "Receive"
-msgstr "받기"
 
 #. [RecentActivity.ContainerTitle]
 #. defaultMessage is:
@@ -3854,6 +4088,14 @@ msgstr "ORE ID 인증 페이지로 리디렉션 중입니다"
 #: translations/.messages/src/editor/editor.container.json
 msgid "References"
 msgstr "인용"
+
+#. [LoginModal.LoginRegisterWithEmail]
+#. defaultMessage is:
+#. Register or Login with Email
+#: translations/.messages/src/app/components/Login/Login.json
+
+msgid "Register or Login with Email"
+msgstr "이메일 로그인"
 
 #. [LoginModal.RegisterWithEmail]
 #. defaultMessage is:
@@ -4000,8 +4242,17 @@ msgstr "행"
 #. defaultMessage is:
 #. Sam Kazemian is an Iranian-American Internet entrepreneur and programmer. His journey in crypto started after he put together a homemade CPU+GPU mining rig in his UCLA dorm room. His passion for the industry led him to integrate blockchain technology to an online knowledge base for the first time in history.
 #: translations/.messages/src/app/containers/about/third-block.json
-msgid "Sam Kazemian is an Iranian-American Internet entrepreneur and programmer. His journey in crypto started after he put together a homemade CPU+GPU mining rig in his UCLA dorm room. His passion for the industry led him to integrate blockchain technology to an online knowledge base for the first time in history."
-msgstr "샘 카제미안은 이란계 미국인 출신의 인터넷 사업가이자 프로그래머이다. UCLA 재학시절, 그가 직접 만든 마이닝 기기를 기숙사에서 운영하는 것으로 크립토 업계에서의 여정을 시작하였다. 이 업계에 대한 비상한 열정으로, 세계 최초로 블록체인 기술을 온라인 지식기반에 통합하였다."
+msgid ""
+"Sam Kazemian is an Iranian-American Internet entrepreneur and programmer. "
+"His journey in crypto started after he put together a homemade CPU+GPU "
+"mining rig in his UCLA dorm room. His passion for the industry led him to "
+"integrate blockchain technology to an online knowledge base for the first "
+"time in history."
+msgstr ""
+"샘 카제미안은 이란계 미국인 출신의 인터넷 사업가이자 프로그래머이다. UCLA 재"
+"학시절, 그가 직접 만든 마이닝 기기를 기숙사에서 운영하는 것으로 크립토 업계에"
+"서의 여정을 시작하였다. 이 업계에 대한 비상한 열정으로, 세계 최초로 블록체인 "
+"기술을 온라인 지식기반에 통합하였다."
 
 #. [CategoriesModal.Save]
 #. defaultMessage is:
@@ -4155,11 +4406,7 @@ msgstr "다른 이유 선택"
 #. [Chat.Send]
 #. defaultMessage is:
 #. Send
-#. [Dashboard.IQTab.Send]
-#. defaultMessage is:
-#. Send
 #: translations/.messages/src/app/components/Chat/ChatInput.json
-#: translations/.messages/src/app/containers/dashboard/MyUserDashboard/IQTab.json
 msgid "Send"
 msgstr "보내기"
 
@@ -4169,6 +4416,14 @@ msgstr "보내기"
 #: translations/.messages/src/app/containers/contact-us/messages.json
 msgid "Send Another"
 msgstr "더 보내기"
+
+#. [Dashboard.IQTab.WithdrawIQ.SendIQ]
+#. defaultMessage is:
+#. Send IQ
+#: translations/.messages/src/app/containers/dashboard/MyUserDashboard/IQTab/WithdrawIQ.json
+
+msgid "Send IQ"
+msgstr "보내기"
 
 #. [Chat.SendMessageToEditors]
 #. defaultMessage is:
@@ -4180,13 +4435,6 @@ msgstr "더 보내기"
 msgid "Send a message to other editors"
 msgstr "다른 편집자에게 메시지 보내기"
 
-#. [Dashboard.IQTab.SendTo]
-#. defaultMessage is:
-#. Send to
-#: translations/.messages/src/app/containers/dashboard/MyUserDashboard/IQTab.json
-msgid "Send to"
-msgstr "보내기"
-
 #. [ContactUs.sendUsMessage]
 #. defaultMessage is:
 #. Send us a message
@@ -4194,12 +4442,13 @@ msgstr "보내기"
 msgid "Send us a message"
 msgstr "메시지를 보내주세요"
 
-#. [Dashboard.IQTab.Sending]
+#. [Dashboard.IQTab.WithdrawIQ.Sender]
 #. defaultMessage is:
-#. Sending
-#: translations/.messages/src/app/containers/dashboard/MyUserDashboard/IQTab.json
-msgid "Sending"
-msgstr "보내기"
+#. Sender
+#: translations/.messages/src/app/containers/dashboard/MyUserDashboard/IQTab/WithdrawIQ.json
+
+msgid "Sender"
+msgstr "성별"
 
 #. [NewPageTemplate.NPT_Organization_Services]
 #. defaultMessage is:
@@ -4298,7 +4547,11 @@ msgstr "작게"
 #. [EditProfile.SocialPlatforms]
 #. defaultMessage is:
 #. Social Platforms
+#. [Dashboard.SocialPlatforms]
+#. defaultMessage is:
+#. Social Platforms
 #: translations/.messages/src/app/components/edit-profile/index.json
+#: translations/.messages/src/app/containers/dashboard/dashboard_component.json
 msgid "Social Platforms"
 msgstr "소셜 플랫폼"
 
@@ -4398,7 +4651,11 @@ msgstr "글 편집을 제출하고 있습니다"
 #. [EpIdLogin.SuccessExclamation]
 #. defaultMessage is:
 #. Success!
+#. [EpIdResetPassword.SuccessExclamation]
+#. defaultMessage is:
+#. Success!
 #: translations/.messages/src/app/components/Login/epid-login.modal.json
+#: translations/.messages/src/app/components/Login/EPIDResetPasswordModal.json
 msgid "Success!"
 msgstr "완료"
 
@@ -4427,8 +4684,13 @@ msgstr "메시지 보냄"
 #. defaultMessage is:
 #. Suchet Dhindsa is a Norwegian economist, entrepreneur, and investor. Suchet has 10 years of experience in global expansion strategy, venture capital and emerging technologies.
 #: translations/.messages/src/app/containers/about/third-block.json
-msgid "Suchet Dhindsa is a Norwegian economist, entrepreneur, and investor. Suchet has 10 years of experience in global expansion strategy, venture capital and emerging technologies."
-msgstr "수셰이 딘드사는 노르웨이 출신의 경제학자이자 사업가, 투자자이다. 글로벌 확장전략, 벤처캐피탈, 신흥 기술 분야에서 10년 이상 근무하였다."
+msgid ""
+"Suchet Dhindsa is a Norwegian economist, entrepreneur, and investor. Suchet "
+"has 10 years of experience in global expansion strategy, venture capital and "
+"emerging technologies."
+msgstr ""
+"수셰이 딘드사는 노르웨이 출신의 경제학자이자 사업가, 투자자이다. 글로벌 확장"
+"전략, 벤처캐피탈, 신흥 기술 분야에서 10년 이상 근무하였다."
 
 #. [IQInfo.SupportedExchanges]
 #. defaultMessage is:
@@ -4514,29 +4776,41 @@ msgstr "이용약관"
 #. [Errors.ThanksForTrialing]
 #. defaultMessage is:
 #. Thanks for trialing Everipedia. Looks like you’ve been making edits and have run out of the
-#. trial IQ Tokens. You can unlock the full potential of Everipedia and get more tokens with a
-#. Scatter login.
+#.                         trial IQ Tokens. You can unlock the full potential of Everipedia and get more tokens with a
+#.                         Scatter login. 
 #: translations/.messages/src/app/utils/errors.json
-msgid "Thanks for trialing Everipedia. Looks like you’ve been making edits and have run out of the\n"
-"                        trial IQ Tokens. You can unlock the full potential of Everipedia and get more tokens with a\n"
+msgid ""
+"Thanks for trialing Everipedia. Looks like you’ve been making edits and have "
+"run out of the\n"
+"                        trial IQ Tokens. You can unlock the full potential "
+"of Everipedia and get more tokens with a\n"
 "                        Scatter login. "
-msgstr "에브리피디아에 참여해 주셔서 감사합니다. 편집하는데 IQ 토큰이 필요합니다. 스캐터로 로그인하여 에브리피디아 모든 기능을 사용하세요"
+msgstr ""
+"에브리피디아에 참여해 주셔서 감사합니다. 편집하는데 IQ 토큰이 필요합니다. 스"
+"캐터로 로그인하여 에브리피디아 모든 기능을 사용하세요"
 
 #. [Errors.ThanksForUsingEveripedia]
 #. defaultMessage is:
 #. Thanks for using Everipedia. Looks like you have run out of IQ Tokens. You can get more tokens
-#. at one of
+#.                         at one of 
 #: translations/.messages/src/app/utils/errors.json
-msgid "Thanks for using Everipedia. Looks like you have run out of IQ Tokens. You can get more tokens\n"
+msgid ""
+"Thanks for using Everipedia. Looks like you have run out of IQ Tokens. You "
+"can get more tokens\n"
 "                        at one of "
-msgstr "에브리피디아에 참여해 주셔서 감사합니다. 편집하는데 IQ 토큰이 필요합니다."
+msgstr ""
+"에브리피디아에 참여해 주셔서 감사합니다. 편집하는데 IQ 토큰이 필요합니다."
 
 #. [ThirdBlock.ThanksToNewTechnology]
 #. defaultMessage is:
 #. Thanks to new technology, it is now possible for Everipedia to move beyond Wikipedia just like how we moved beyond Britannica almost two decades ago.
 #: translations/.messages/src/app/containers/about/third-block.json
-msgid "Thanks to new technology, it is now possible for Everipedia to move beyond Wikipedia just like how we moved beyond Britannica almost two decades ago."
-msgstr "약 이십년 전에 위키백과가 브리태니커를 넘어선 것처럼, 새로운 기술로서 오늘날 에브리피디아가 위키백과를 넘어서는 것이 가능해졌습니다."
+msgid ""
+"Thanks to new technology, it is now possible for Everipedia to move beyond "
+"Wikipedia just like how we moved beyond Britannica almost two decades ago."
+msgstr ""
+"약 이십년 전에 위키백과가 브리태니커를 넘어선 것처럼, 새로운 기술로서 오늘날 "
+"에브리피디아가 위키백과를 넘어서는 것이 가능해졌습니다."
 
 #. [About.EncyclopediaOfEverything]
 #. defaultMessage is:
@@ -4564,8 +4838,13 @@ msgstr "모든 것의 백과사전"
 #: translations/.messages/src/app/containers/about/about.container.json
 #: translations/.messages/src/app/containers/contact-us/contact-us.container.json
 #: translations/.messages/src/app/containers/homepageContainer/homepage.container.json
-msgid "The Everipedia IQ blockchain provides a new paradigm change and knowledge economy to disrupt the old centralized internet knowledge encyclopedia model similar to Wikipedia"
-msgstr "에브리피디아 네트워크는 기존의 중앙화된 백과사전의 한계를 극복하는 새로운 패러다임을 제시합니다"
+msgid ""
+"The Everipedia IQ blockchain provides a new paradigm change and knowledge "
+"economy to disrupt the old centralized internet knowledge encyclopedia model "
+"similar to Wikipedia"
+msgstr ""
+"에브리피디아 네트워크는 기존의 중앙화된 백과사전의 한계를 극복하는 새로운 패"
+"러다임을 제시합니다"
 
 #. [Homepage.TheEncylopediaOfEverything]
 #. defaultMessage is:
@@ -4581,8 +4860,13 @@ msgstr "모든 것, 모든 사람, 모든 곳을 위한 에브리피디아"
 #. defaultMessage is:
 #. The Wiki Encyclopedia for Everything, Everyone, Everywhere. Everipedia offers a space for you to dive into anything you find interesting, connect with people who share your interests, and contribute your own perspective.
 #: translations/.messages/src/shared/components/DynamicAppHead/index.json
-msgid "The Wiki Encyclopedia for Everything, Everyone, Everywhere. Everipedia offers a space for you to dive into anything you find interesting, connect with people who share your interests, and contribute your own perspective."
-msgstr "모든 것을 다루는 백과사전으로서, 누구나가 참여하여 글을 생성하고 편집할 수 있다."
+msgid ""
+"The Wiki Encyclopedia for Everything, Everyone, Everywhere. Everipedia "
+"offers a space for you to dive into anything you find interesting, connect "
+"with people who share your interests, and contribute your own perspective."
+msgstr ""
+"모든 것을 다루는 백과사전으로서, 누구나가 참여하여 글을 생성하고 편집할 수 있"
+"다."
 
 #. [BlogContainer.WikiEncyclopediaOrEverything]
 #. defaultMessage is:
@@ -4606,14 +4890,22 @@ msgstr "정보상자를 이용해 간편하고 쉽게 정보에 접근할 수 �
 #. defaultMessage is:
 #. Theodor Forselius  is a Swedish Internet entrepreneur and programmer. He co-founded Everipedia at the age of 20, gaining experience in digital advertising, web development, and online gaming industries in the process.
 #: translations/.messages/src/app/containers/about/third-block.json
-msgid "Theodor Forselius  is a Swedish Internet entrepreneur and programmer. He co-founded Everipedia at the age of 20, gaining experience in digital advertising, web development, and online gaming industries in the process."
-msgstr "테오도르 포셀리우스는 스웨덴 출신의 인터넷 사업자이자 프로그래머이다. 20살에 에브리피디아를 공동 설립했다. 디지털 광고, 웹 개발, 온라인 게이밍 업계에 근무하였다."
+msgid ""
+"Theodor Forselius  is a Swedish Internet entrepreneur and programmer. He co-"
+"founded Everipedia at the age of 20, gaining experience in digital "
+"advertising, web development, and online gaming industries in the process."
+msgstr ""
+"테오도르 포셀리우스는 스웨덴 출신의 인터넷 사업자이자 프로그래머이다. 20살에 "
+"에브리피디아를 공동 설립했다. 디지털 광고, 웹 개발, 온라인 게이밍 업계에 근무"
+"하였다."
 
 #. [SubmitVote.NoRecentEdits]
 #. defaultMessage is:
 #. There have been no recent edits to this article. Be the first person to update it.
 #: translations/.messages/src/app/components/SubmitVote/index.json
-msgid "There have been no recent edits to this article. Be the first person to update it."
+msgid ""
+"There have been no recent edits to this article. Be the first person to "
+"update it."
 msgstr "최근 편집 없음"
 
 #. [ChatList.ThereIsNoActivity]
@@ -4627,7 +4919,8 @@ msgstr "최근 활동 없음"
 #. defaultMessage is:
 #. There was a problem with your request. Please try again or contact support.
 #: translations/.messages/src/app/components/Login/EPIDResetPasswordModal.json
-msgid "There was a problem with your request. Please try again or contact support."
+msgid ""
+"There was a problem with your request. Please try again or contact support."
 msgstr ""
 
 #. [SaveModalAgain.ThereWasAnIssueRecording]
@@ -4648,8 +4941,12 @@ msgstr "스캐터로 다음 거래소들을 이용할 수 있습니다"
 #. defaultMessage is:
 #. These exchanges require personal information for signup, but may have additional features and fiat currency deposits / withdrawals
 #: translations/.messages/src/app/containers/iq-info/iq-info.container.json
-msgid "These exchanges require personal information for signup, but may have additional features and fiat currency deposits / withdrawals"
-msgstr "다음 거래소를 이용하려면 개인정보가 필요합니다. 대신 법정화폐 입출금 등의 기능이 있습니다"
+msgid ""
+"These exchanges require personal information for signup, but may have "
+"additional features and fiat currency deposits / withdrawals"
+msgstr ""
+"다음 거래소를 이용하려면 개인정보가 필요합니다. 대신 법정화폐 입출금 등의 기"
+"능이 있습니다"
 
 #. [MetadataModal.Thing]
 #. defaultMessage is:
@@ -4683,7 +4980,9 @@ msgstr "주"
 #. defaultMessage is:
 #. This is not the most recent version of this article. See the latest version here:
 #: translations/.messages/src/app/components/SubmitVote/index.json
-msgid "This is not the most recent version of this article. See the latest version here:"
+msgid ""
+"This is not the most recent version of this article. See the latest version "
+"here:"
 msgstr "이 글은 최근 편집이 아닙니다. 최근 편집은 여기를 확인하세요."
 
 #. [EditorContainer.PageIsLocked]
@@ -4722,6 +5021,15 @@ msgstr "저장하지 않은 편집이 있는것 같습니다. 계속 하시겠�
 #: translations/.messages/src/app/containers/searchResultsFull/searchProfileCard.json
 msgid "Title Not Available"
 msgstr "제목 사용 불가"
+
+#. [Dashboard.IQTab.DepositIQ.DepositIQIntoEPIDAccount]
+#. defaultMessage is:
+#. To deposit IQ into your account please go to your wallet or exchange and send to the EOS wallet address with the memo below.
+#: translations/.messages/src/app/containers/dashboard/MyUserDashboard/IQTab/DepositIQ.json
+msgid ""
+"To deposit IQ into your account please go to your wallet or exchange and "
+"send to the EOS wallet address with the memo below."
+msgstr ""
 
 #. [Errors.ToEditThisArticleRightNow]
 #. defaultMessage is:
@@ -4769,8 +5077,15 @@ msgstr "총 보상"
 #. defaultMessage is:
 #. Travis Moore is an Italian-American computer programmer, angel investor and entrepreneur from Thousand Oaks, a suburb of Los Angeles. He co-founded Everipedia after graduating from UCLA with degrees in Molecular Biology, Biochemistry, and Neuroscience in 2011.
 #: translations/.messages/src/app/containers/about/third-block.json
-msgid "Travis Moore is an Italian-American computer programmer, angel investor and entrepreneur from Thousand Oaks, a suburb of Los Angeles. He co-founded Everipedia after graduating from UCLA with degrees in Molecular Biology, Biochemistry, and Neuroscience in 2011."
-msgstr "트래비스 무어는 이탈리안계 미국인 출신의 컴퓨터 프로그래머이다. 로스엔젤레스 근교의 다우전옥스에 살고 있는 엔젤 투자자이자 사업가이다. UCLA에서 분자 생물학을 전공한 후 에브리피디아를 공동 설립하였다."
+msgid ""
+"Travis Moore is an Italian-American computer programmer, angel investor and "
+"entrepreneur from Thousand Oaks, a suburb of Los Angeles. He co-founded "
+"Everipedia after graduating from UCLA with degrees in Molecular Biology, "
+"Biochemistry, and Neuroscience in 2011."
+msgstr ""
+"트래비스 무어는 이탈리안계 미국인 출신의 컴퓨터 프로그래머이다. 로스엔젤레스 "
+"근교의 다우전옥스에 살고 있는 엔젤 투자자이자 사업가이다. UCLA에서 분자 생물"
+"학을 전공한 후 에브리피디아를 공동 설립하였다."
 
 #. [NewPageTemplate.NPT_Person_Trivia]
 #. defaultMessage is:
@@ -4905,13 +5220,20 @@ msgstr "업로드 중"
 msgid "Uploading...."
 msgstr "업로드 중"
 
+#. [Dashboard.IQTab.DepositIQ.UseQRCode]
+#. defaultMessage is:
+#. Use QR Code (enter memo manually)
+#: translations/.messages/src/app/containers/dashboard/MyUserDashboard/IQTab/DepositIQ.json
+msgid "Use QR Code (enter memo manually)"
+msgstr ""
+
 #. [EditProfile.Username]
 #. defaultMessage is:
 #. Username
 #. [EpIdLogin.Username]
 #. defaultMessage is:
 #. Username
-#. [EpIdLogin.Username]
+#. [EpIdRegisterModal.Username]
 #. defaultMessage is:
 #. Username
 #: translations/.messages/src/app/components/edit-profile/index.json
@@ -5016,7 +5338,11 @@ msgstr "편집 보기"
 #. [SaveModalAgain.ViewTransaction]
 #. defaultMessage is:
 #. View transaction
-#: translations/.messages/src/app/containers/dashboard/MyUserDashboard/IQTab.json
+#. [SaveModalAgain.ViewTransaction]
+#. defaultMessage is:
+#. View transaction
+#: translations/.messages/src/app/containers/dashboard/MyUserDashboard/IQTab/IQTab.json
+#: translations/.messages/src/app/containers/dashboard/MyUserDashboard/IQTab/WithdrawIQ.json
 msgid "View transaction"
 msgstr "트랜잭션 보기"
 
@@ -5031,9 +5357,6 @@ msgstr "조회수"
 #. defaultMessage is:
 #. Vote
 #. [SubmitVote.Vote]
-#. defaultMessage is:
-#. Vote
-#. [SubmitVote.VoteOreID]
 #. defaultMessage is:
 #. Vote
 #. [SubmitVote.LoginToVote]
@@ -5141,15 +5464,23 @@ msgstr "글"
 #. defaultMessage is:
 #. Wait a moment while we load Scatter.  If you do not see the Scatter window, check if it has loaded behind your current window.
 #: translations/.messages/src/editor/plugins/save/save-modal.json
-msgid "Wait a moment while we load Scatter.  If you do not see the Scatter window, check if it has loaded behind your current window."
-msgstr "스캐터를 실행 중입니다. 스캐터 창이 보이지 않으면 현재 창 뒤에 있는지 확인하세요."
+msgid ""
+"Wait a moment while we load Scatter.  If you do not see the Scatter window, "
+"check if it has loaded behind your current window."
+msgstr ""
+"스캐터를 실행 중입니다. 스캐터 창이 보이지 않으면 현재 창 뒤에 있는지 확인하"
+"세요."
 
 #. [SaveModalAgain.WaitAMomentScatter]
 #. defaultMessage is:
 #. Wait a moment while we load Scatter. If you don’t see the Scatter window, check if it has loaded behind your current window.
 #: translations/.messages/src/editor/plugins/save/save-modal.json
-msgid "Wait a moment while we load Scatter. If you don’t see the Scatter window, check if it has loaded behind your current window."
-msgstr "스캐터를 실행 중입니다. 스캐터 창이 보이지 않으면 현재 창 뒤에 있는지 확인하세요."
+msgid ""
+"Wait a moment while we load Scatter. If you don’t see the Scatter window, "
+"check if it has loaded behind your current window."
+msgstr ""
+"스캐터를 실행 중입니다. 스캐터 창이 보이지 않으면 현재 창 뒤에 있는지 확인하"
+"세요."
 
 #. [SaveModalAgain.txLoadLynx]
 #. defaultMessage is:
@@ -5169,28 +5500,41 @@ msgstr "Lynx 실행 중입니다"
 #. defaultMessage is:
 #. Wait a moment while we load your account.  You will be redirected to OreID to confirm your proposed edit.  You may be required to enter the pin that you created when you set up your account.
 #: translations/.messages/src/editor/plugins/save/save-modal.json
-msgid "Wait a moment while we load your account.  You will be redirected to OreID to confirm your proposed edit.  You may be required to enter the pin that you created when you set up your account."
-msgstr "계정을 실행하고 있습니다. 편집 제안을 ORE ID에서 확인합니다. 계정을 생성할때 입력한 핀 번호를 입력하세요"
+msgid ""
+"Wait a moment while we load your account.  You will be redirected to OreID "
+"to confirm your proposed edit.  You may be required to enter the pin that "
+"you created when you set up your account."
+msgstr ""
+"계정을 실행하고 있습니다. 편집 제안을 ORE ID에서 확인합니다. 계정을 생성할때 "
+"입력한 핀 번호를 입력하세요"
 
 #. [LoginModal.WaitAMomentWhileWeLoad]
 #. defaultMessage is:
 #. Wait a moment while we load your wallet – If you don’t see the wallet window, check if it has loaded behind your current window.
 #: translations/.messages/src/app/components/Login/Login.json
-msgid "Wait a moment while we load your wallet – If you don’t see the wallet window, check if it has loaded behind your current window."
-msgstr "지갑을 실행 중입니다. 인증 창이 보이지 않으면 현재 창 뒤에 있는지 확인하세요."
+msgid ""
+"Wait a moment while we load your wallet – If you don’t see the wallet "
+"window, check if it has loaded behind your current window."
+msgstr ""
+"지갑을 실행 중입니다. 인증 창이 보이지 않으면 현재 창 뒤에 있는지 확인하세요."
 
 #. [SubmitVoteConfirmation.WaitAMomentWallet]
 #. defaultMessage is:
 #. Wait a moment while we load your wallet. If you don’t see the wallet window, check if it has loaded behind your current window.
 #: translations/.messages/src/app/components/SubmitVote/ConfirmationModal.json
-msgid "Wait a moment while we load your wallet. If you don’t see the wallet window, check if it has loaded behind your current window."
-msgstr "지갑을 실행 중입니다. 인증 창이 보이지 않으면 현재 창 뒤에 있는지 확인하세요."
+msgid ""
+"Wait a moment while we load your wallet. If you don’t see the wallet window, "
+"check if it has loaded behind your current window."
+msgstr ""
+"지갑을 실행 중입니다. 인증 창이 보이지 않으면 현재 창 뒤에 있는지 확인하세요."
 
 #. [SubmitVoteConfirmation.WaitAMomentOREID]
 #. defaultMessage is:
 #. Wait a moment while we redirect you to Ore ID.  You will be returned here once you have completed signing
 #: translations/.messages/src/app/components/SubmitVote/ConfirmationModal.json
-msgid "Wait a moment while we redirect you to Ore ID.  You will be returned here once you have completed signing"
+msgid ""
+"Wait a moment while we redirect you to Ore ID.  You will be returned here "
+"once you have completed signing"
 msgstr "ORE ID로 리디렉션 중입니다"
 
 #. [AdultContentContainer.Warning]
@@ -5215,15 +5559,22 @@ msgstr "주의: 공개 프로필은 모든 사람에게 공개되며 블록체�
 #. defaultMessage is:
 #. Warning: Your public profile will be visible to everyone and stored on-chain
 #: translations/.messages/src/app/components/edit-profile/index.json
-msgid "Warning: Your public profile will be visible to everyone and stored on-chain"
+msgid ""
+"Warning: Your public profile will be visible to everyone and stored on-chain"
 msgstr "주의: 공개 프로필은 모든 사람에게 공개되며 블록체인에 저장됩니다"
 
 #. [EpIdLogin.WeNowUse]
 #. defaultMessage is:
 #. We now use EPID for all users who wish to login with a social account or email. As part of this process, you will be prompted to create a new account. If you have an existing account, you will be asked to merge it with youur new account in order to retain your edit history and IQ balance.
 #: translations/.messages/src/app/components/Login/EPIDExplanationModal.json
-msgid "We now use EPID for all users who wish to login with a social account or email. As part of this process, you will be prompted to create a new account. If you have an existing account, you will be asked to merge it with youur new account in order to retain your edit history and IQ balance."
-msgstr "SNS, 이메일 계정을 이용하는 경우 EPID 계정으로 전환할 수 있습니다. 기존 계정이 있는 경우 활동 기록을 그대로 가져올 수 있습니다."
+msgid ""
+"We now use EPID for all users who wish to login with a social account or "
+"email. As part of this process, you will be prompted to create a new "
+"account. If you have an existing account, you will be asked to merge it with "
+"youur new account in order to retain your edit history and IQ balance."
+msgstr ""
+"SNS, 이메일 계정을 이용하는 경우 EPID 계정으로 전환할 수 있습니다. 기존 계정"
+"이 있는 경우 활동 기록을 그대로 가져올 수 있습니다."
 
 #. [MergeModalAgain.WeReceivedTheFollowingError]
 #. defaultMessage is:
@@ -5271,12 +5622,12 @@ msgstr "IQ 토큰이란?"
 msgid "Wiki Encyclopedia of Everything - Everipedia"
 msgstr "에브리피디아 - 모두의 온라인 위키 백과사전"
 
-#. [Dashboard.IQTab.SendSuccessful]
+#. [Dashboard.IQTab.WithdrawIQ.WithdrawIQ]
 #. defaultMessage is:
-#. Withdrawal Successful:
-#: translations/.messages/src/app/containers/dashboard/MyUserDashboard/IQTab.json
-msgid "Withdrawal Successful:"
-msgstr "인출 완료"
+#. Withdraw IQ
+#: translations/.messages/src/app/containers/dashboard/MyUserDashboard/IQTab/WithdrawIQ.json
+msgid "Withdraw IQ"
+msgstr ""
 
 #. [AccountNameHeader.Worth]
 #. defaultMessage is:
@@ -5324,8 +5675,12 @@ msgstr "가능합니다"
 #. defaultMessage is:
 #. You can vote with any amount of IQ.  If you vote with the majority, you will receive a reward that is proportional to the amount you vote!
 #: translations/.messages/src/app/components/SubmitVote/ConfirmationModal.json
-msgid "You can vote with any amount of IQ.  If you vote with the majority, you will receive a reward that is proportional to the amount you vote!"
-msgstr "IQ 토큰으로 투표할 수 있습니다. 투표결과 다수에 투표했다면, 투표한 수량에 따라 보상을 받습니다"
+msgid ""
+"You can vote with any amount of IQ.  If you vote with the majority, you will "
+"receive a reward that is proportional to the amount you vote!"
+msgstr ""
+"IQ 토큰으로 투표할 수 있습니다. 투표결과 다수에 투표했다면, 투표한 수량에 따"
+"라 보상을 받습니다"
 
 #. [Notifications.NoNotifications]
 #. defaultMessage is:
@@ -5342,8 +5697,12 @@ msgstr "알림 없음"
 #. You may have received this error for a variety of reasons. The most common reasons:
 #: translations/.messages/src/editor/plugins/merge/merge-modal.json
 #: translations/.messages/src/editor/plugins/save/save-modal.json
-msgid "You may have received this error for a variety of reasons. The most common reasons:"
-msgstr "여러가지 이유로 이러한 오류가 발생합니다. 가장 일반적인 이유는 다음과 같습니다"
+msgid ""
+"You may have received this error for a variety of reasons. The most common "
+"reasons:"
+msgstr ""
+"여러가지 이유로 이러한 오류가 발생합니다. 가장 일반적인 이유는 다음과 같습니"
+"다"
 
 #. [Chat.YouMustBeLoggedIn]
 #. defaultMessage is:
@@ -5358,13 +5717,6 @@ msgstr "로그인하여 채팅에 참여하세요"
 #: translations/.messages/src/app/components/SubmitVote/index.json
 msgid "You must login to vote"
 msgstr "로그인하여 투표하세요"
-
-#. [SubmitVote.YouNeedToMakeAnEdit]
-#. defaultMessage is:
-#. You need to make an edit before you can vote with your Ore ID account
-#: translations/.messages/src/app/components/SubmitVote/index.json
-msgid "You need to make an edit before you can vote with your Ore ID account"
-msgstr "ORE ID로 투표하려면 편집을 먼저 해야합니다"
 
 #. [Footer.PrivacyCA]
 #. defaultMessage is:
@@ -5405,7 +5757,9 @@ msgstr "투표 완료"
 #. defaultMessage is:
 #. Your active chats will be displayed here when you start conversations in articles.
 #: translations/.messages/src/app/components/Chat/Directory.json
-msgid "Your active chats will be displayed here when you start conversations in articles."
+msgid ""
+"Your active chats will be displayed here when you start conversations in "
+"articles."
 msgstr "대화를 시작하면 진행 중인 채팅이 나타납니다"
 
 #. [MergeModalAgain.YourEditWillNowBeVotedOn]
@@ -5416,8 +5770,13 @@ msgstr "대화를 시작하면 진행 중인 채팅이 나타납니다"
 #. Your edit will now be voted on by the community. If it is accepted, you will receive an IQ reward for your contribution.  The IQ Tokens that you used to propose your edit will be locked up (staked) for 21 days.
 #: translations/.messages/src/editor/plugins/merge/merge-modal.json
 #: translations/.messages/src/editor/plugins/save/save-modal.json
-msgid "Your edit will now be voted on by the community. If it is accepted, you will receive an IQ reward for your contribution.  The IQ Tokens that you used to propose your edit will be locked up (staked) for 21 days."
-msgstr "편집 제안이 투표 중입니다. 투표결과 승인되면, 편집에 따른 보상으로 IQ 토큰을 받습니다. 편집 제안을 하는데 사용한 IQ 토큰은 21일 동안 예치됩니다."
+msgid ""
+"Your edit will now be voted on by the community. If it is accepted, you will "
+"receive an IQ reward for your contribution.  The IQ Tokens that you used to "
+"propose your edit will be locked up (staked) for 21 days."
+msgstr ""
+"편집 제안이 투표 중입니다. 투표결과 승인되면, 편집에 따른 보상으로 IQ 토큰을 "
+"받습니다. 편집 제안을 하는데 사용한 IQ 토큰은 21일 동안 예치됩니다."
 
 #. [EpIdResetPassword.NewPasswordSet]
 #. defaultMessage is:
@@ -5777,6 +6136,28 @@ msgstr "시작"
 msgid "words"
 msgstr "단어"
 
+#~ msgid "Contact Info"
+#~ msgstr "연락처"
+
+#~ msgid "EOS Memo:"
+#~ msgstr "EOS 메모"
+
+#~ msgid "Receive"
+#~ msgstr "받기"
+
+#~ msgid "Send to"
+#~ msgstr "보내기"
+
+#~ msgid "Sending"
+#~ msgstr "보내기"
+
+#~ msgid "Withdrawal Successful:"
+#~ msgstr "인출 완료"
+
+#~ msgid ""
+#~ "You need to make an edit before you can vote with your Ore ID account"
+#~ msgstr "ORE ID로 투표하려면 편집을 먼저 해야합니다"
+
 #~ msgid "Category"
 #~ msgstr "카테고리"
 
@@ -5786,12 +6167,6 @@ msgstr "단어"
 #~ msgstr ""
 #~ "이메일 주소로 전송된 코드를 입력하세요. 코드를 받지 못한 경우 다시 시도하"
 #~ "세요."
-
-#~ msgid "Enter your email and we'll send a code to that email address."
-#~ msgstr "이메일을 입력하면 해당 이메일 주소로 코드가 전송됩니다."
-
-#~ msgid "View History"
-#~ msgstr "기록 보기"
 
 #~ msgid "Enter your email and we'll send a code to that email address."
 #~ msgstr "이메일을 입력하면 해당 이메일 주소로 코드가 전송됩니다."
@@ -5843,9 +6218,6 @@ msgstr "단어"
 
 #~ msgid "Welcome"
 #~ msgstr "환영합니다"
-
-#~ msgid "Account"
-#~ msgstr "계정"
 
 #~ msgid "Active Boosts"
 #~ msgstr "부스트 중"
@@ -5948,8 +6320,8 @@ msgstr "단어"
 
 #~ msgid "NEW BOOST"
 #~ msgstr "새로운 부스트"
-#~| msgid "View Transaction"
 
+#~| msgid "View Transaction"
 #~ msgid "No transaction ID"
 #~ msgstr "트랜잭션 없음"
 
@@ -5998,8 +6370,8 @@ msgstr "단어"
 
 #~ msgid "Verify Account"
 #~ msgstr "계정 인증하기"
-#~| msgid "No Preview Available"
 
+#~| msgid "No Preview Available"
 #~ msgid "Video preview unavailable"
 #~ msgstr "미리보기 사용불가"
 
