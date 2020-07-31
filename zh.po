@@ -1,7 +1,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: \n"
-"POT-Creation-Date: 2020-07-31T17:17:31.823Z\n"
+"POT-Creation-Date: 2020-07-31T22:09:49.467Z\n"
 "PO-Revision-Date: \n"
 "Last-Translator: \n"
 "Language-Team: \n"
@@ -1393,6 +1393,14 @@ msgstr "民主"
 msgid "Democratic Governance"
 msgstr "民主治理"
 
+#. [IQTab.ActivityType.deposit]
+#. defaultMessage is:
+#. Deposit
+#: translations/.messages/src/app/containers/dashboard/MyUserDashboard/IQTab/IQTab.json
+
+msgid "Deposit"
+msgstr "获得IQ"
+
 #. [Dashboard.IQTab.DepositIQ.DepositAddress]
 #. defaultMessage is:
 #. Deposit Address
@@ -1569,12 +1577,35 @@ msgstr "编辑分类"
 msgid "Edit Now"
 msgstr "立即编辑"
 
+#. [IQTab.ActivityType.slash]
+#. defaultMessage is:
+#. Edit Or Vote Penalty
+#: translations/.messages/src/app/containers/dashboard/MyUserDashboard/IQTab/IQTab.json
+msgid "Edit Or Vote Penalty"
+msgstr ""
+
 #. [EditProfile.EditPublicProfile]
 #. defaultMessage is:
 #. Edit Public Profile
 #: translations/.messages/src/app/components/edit-profile/index.json
 msgid "Edit Public Profile"
 msgstr "编辑公开的个人资料"
+
+#. [IQTab.ActivityType.reward-editor]
+#. defaultMessage is:
+#. Edit Reward
+#: translations/.messages/src/app/containers/dashboard/MyUserDashboard/IQTab/IQTab.json
+
+msgid "Edit Reward"
+msgstr "已编辑"
+
+#. [IQTab.ActivityType.propose]
+#. defaultMessage is:
+#. Edit Stake
+#: translations/.messages/src/app/containers/dashboard/MyUserDashboard/IQTab/IQTab.json
+
+msgid "Edit Stake"
+msgstr "质押"
 
 #. [MetadataModal.Title]
 #. defaultMessage is:
@@ -4373,6 +4404,13 @@ msgstr "发现有内容缺失？"
 msgid "See your edit on a block explorer"
 msgstr "在区块浏览器中查看您的编辑"
 
+#. [IQTab.ActivityType.seed]
+#. defaultMessage is:
+#. Seed
+#: translations/.messages/src/app/containers/dashboard/MyUserDashboard/IQTab/IQTab.json
+msgid "Seed"
+msgstr ""
+
 #. [EditProfile.Select]
 #. defaultMessage is:
 #. Select
@@ -4557,6 +4595,13 @@ msgstr "小"
 #: translations/.messages/src/app/containers/dashboard/dashboard_component.json
 msgid "Social Platforms"
 msgstr "社交平台"
+
+#. [IQTab.ActivityType.stake-return]
+#. defaultMessage is:
+#. Stake Return
+#: translations/.messages/src/app/containers/dashboard/MyUserDashboard/IQTab/IQTab.json
+msgid "Stake Return"
+msgstr ""
 
 #. [AccountNameHeader.Staked]
 #. defaultMessage is:
@@ -4920,9 +4965,13 @@ msgstr "最近没有对本文的编辑。成为第一个更新它的人。"
 msgid "There is no activity on this article."
 msgstr "没有关于这篇文章的活动"
 
+#. [EditProfile.UnknownError]
+#. defaultMessage is:
+#. There was a problem with your request. Please try again or contact support.
 #. [EpIdResetPasswordModal.GenericError]
 #. defaultMessage is:
 #. There was a problem with your request. Please try again or contact support.
+#: translations/.messages/src/app/components/edit-profile/index.json
 #: translations/.messages/src/app/components/Login/EPIDResetPasswordModal.json
 msgid ""
 "There was a problem with your request. Please try again or contact support."
@@ -5181,6 +5230,13 @@ msgstr "URL Slug Alt"
 msgid "Undefined error: please try again."
 msgstr "请重试"
 
+#. [IQTab.ActivityType.unknown]
+#. defaultMessage is:
+#. Unknown
+#: translations/.messages/src/app/containers/dashboard/MyUserDashboard/IQTab/IQTab.json
+msgid "Unknown"
+msgstr ""
+
 #. [MainItem.Updated]
 #. defaultMessage is:
 #. Updated
@@ -5374,6 +5430,22 @@ msgstr "浏览数"
 #: translations/.messages/src/app/containers/homepageContainer/leaderboard.json
 msgid "Vote"
 msgstr "投票"
+
+#. [IQTab.ActivityType.reward-curation]
+#. defaultMessage is:
+#. Vote Reward
+#: translations/.messages/src/app/containers/dashboard/MyUserDashboard/IQTab/IQTab.json
+
+msgid "Vote Reward"
+msgstr "总奖励"
+
+#. [IQTab.ActivityType.vote]
+#. defaultMessage is:
+#. Vote Stake
+#: translations/.messages/src/app/containers/dashboard/MyUserDashboard/IQTab/IQTab.json
+
+msgid "Vote Stake"
+msgstr "质押"
 
 #. [Chat.VoteAcceptedTwo]
 #. defaultMessage is:
@@ -5636,6 +5708,13 @@ msgstr "什么是IQ？"
 msgid "Wiki Encyclopedia of Everything - Everipedia"
 msgstr "包罗万象的百科全书-Everipedia"
 
+#. [IQTab.ActivityType.withdraw]
+#. defaultMessage is:
+#. Withdraw
+#: translations/.messages/src/app/containers/dashboard/MyUserDashboard/IQTab/IQTab.json
+msgid "Withdraw"
+msgstr ""
+
 #. [Dashboard.IQTab.WithdrawIQ.WithdrawIQ]
 #. defaultMessage is:
 #. Withdraw IQ
@@ -5796,6 +5875,13 @@ msgstr ""
 #: translations/.messages/src/app/components/Login/EPIDResetPasswordModal.json
 msgid "Your new password has been set."
 msgstr ""
+
+#. [EditProfile.YourProfileUpdateWasSuccessfully]
+#. defaultMessage is:
+#. Your public profile was successfully updated
+#: translations/.messages/src/app/components/edit-profile/index.json
+msgid "Your public profile was successfully updated"
+msgstr "您的投票成功"
 
 #. [Login.aboutLoginOptions]
 #. defaultMessage is:

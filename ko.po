@@ -1,7 +1,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: \n"
-"POT-Creation-Date: 2020-07-31T17:17:31.823Z\n"
+"POT-Creation-Date: 2020-07-31T22:09:49.467Z\n"
 "PO-Revision-Date: \n"
 "Last-Translator: \n"
 "Language-Team: \n"
@@ -1392,6 +1392,14 @@ msgstr "민주적"
 msgid "Democratic Governance"
 msgstr "민주적 운영"
 
+#. [IQTab.ActivityType.deposit]
+#. defaultMessage is:
+#. Deposit
+#: translations/.messages/src/app/containers/dashboard/MyUserDashboard/IQTab/IQTab.json
+
+msgid "Deposit"
+msgstr "IQ 토큰 교환"
+
 #. [Dashboard.IQTab.DepositIQ.DepositAddress]
 #. defaultMessage is:
 #. Deposit Address
@@ -1568,12 +1576,35 @@ msgstr "분류 편집하기"
 msgid "Edit Now"
 msgstr "편집하기"
 
+#. [IQTab.ActivityType.slash]
+#. defaultMessage is:
+#. Edit Or Vote Penalty
+#: translations/.messages/src/app/containers/dashboard/MyUserDashboard/IQTab/IQTab.json
+msgid "Edit Or Vote Penalty"
+msgstr ""
+
 #. [EditProfile.EditPublicProfile]
 #. defaultMessage is:
 #. Edit Public Profile
 #: translations/.messages/src/app/components/edit-profile/index.json
 msgid "Edit Public Profile"
 msgstr "프로필 편집"
+
+#. [IQTab.ActivityType.reward-editor]
+#. defaultMessage is:
+#. Edit Reward
+#: translations/.messages/src/app/containers/dashboard/MyUserDashboard/IQTab/IQTab.json
+
+msgid "Edit Reward"
+msgstr "편집함"
+
+#. [IQTab.ActivityType.propose]
+#. defaultMessage is:
+#. Edit Stake
+#: translations/.messages/src/app/containers/dashboard/MyUserDashboard/IQTab/IQTab.json
+
+msgid "Edit Stake"
+msgstr "예치됨"
 
 #. [MetadataModal.Title]
 #. defaultMessage is:
@@ -4369,6 +4400,13 @@ msgstr "빠진 것이 있나요?"
 msgid "See your edit on a block explorer"
 msgstr "block explorer에서 편집 보기"
 
+#. [IQTab.ActivityType.seed]
+#. defaultMessage is:
+#. Seed
+#: translations/.messages/src/app/containers/dashboard/MyUserDashboard/IQTab/IQTab.json
+msgid "Seed"
+msgstr ""
+
 #. [EditProfile.Select]
 #. defaultMessage is:
 #. Select
@@ -4553,6 +4591,13 @@ msgstr "작게"
 #: translations/.messages/src/app/containers/dashboard/dashboard_component.json
 msgid "Social Platforms"
 msgstr "소셜 플랫폼"
+
+#. [IQTab.ActivityType.stake-return]
+#. defaultMessage is:
+#. Stake Return
+#: translations/.messages/src/app/containers/dashboard/MyUserDashboard/IQTab/IQTab.json
+msgid "Stake Return"
+msgstr ""
 
 #. [AccountNameHeader.Staked]
 #. defaultMessage is:
@@ -4914,9 +4959,13 @@ msgstr "최근 편집 없음"
 msgid "There is no activity on this article."
 msgstr "최근 활동 없음"
 
+#. [EditProfile.UnknownError]
+#. defaultMessage is:
+#. There was a problem with your request. Please try again or contact support.
 #. [EpIdResetPasswordModal.GenericError]
 #. defaultMessage is:
 #. There was a problem with your request. Please try again or contact support.
+#: translations/.messages/src/app/components/edit-profile/index.json
 #: translations/.messages/src/app/components/Login/EPIDResetPasswordModal.json
 msgid ""
 "There was a problem with your request. Please try again or contact support."
@@ -5176,6 +5225,13 @@ msgstr "웹 주소 슬러그 Alt"
 msgid "Undefined error: please try again."
 msgstr "다시 시도하세요"
 
+#. [IQTab.ActivityType.unknown]
+#. defaultMessage is:
+#. Unknown
+#: translations/.messages/src/app/containers/dashboard/MyUserDashboard/IQTab/IQTab.json
+msgid "Unknown"
+msgstr ""
+
 #. [MainItem.Updated]
 #. defaultMessage is:
 #. Updated
@@ -5369,6 +5425,22 @@ msgstr "조회수"
 #: translations/.messages/src/app/containers/homepageContainer/leaderboard.json
 msgid "Vote"
 msgstr "투표"
+
+#. [IQTab.ActivityType.reward-curation]
+#. defaultMessage is:
+#. Vote Reward
+#: translations/.messages/src/app/containers/dashboard/MyUserDashboard/IQTab/IQTab.json
+
+msgid "Vote Reward"
+msgstr "총 보상"
+
+#. [IQTab.ActivityType.vote]
+#. defaultMessage is:
+#. Vote Stake
+#: translations/.messages/src/app/containers/dashboard/MyUserDashboard/IQTab/IQTab.json
+
+msgid "Vote Stake"
+msgstr "예치됨"
 
 #. [Chat.VoteAcceptedTwo]
 #. defaultMessage is:
@@ -5628,6 +5700,13 @@ msgstr "IQ 토큰이란?"
 msgid "Wiki Encyclopedia of Everything - Everipedia"
 msgstr "에브리피디아 - 모두의 온라인 위키 백과사전"
 
+#. [IQTab.ActivityType.withdraw]
+#. defaultMessage is:
+#. Withdraw
+#: translations/.messages/src/app/containers/dashboard/MyUserDashboard/IQTab/IQTab.json
+msgid "Withdraw"
+msgstr ""
+
 #. [Dashboard.IQTab.WithdrawIQ.WithdrawIQ]
 #. defaultMessage is:
 #. Withdraw IQ
@@ -5790,6 +5869,13 @@ msgstr ""
 #: translations/.messages/src/app/components/Login/EPIDResetPasswordModal.json
 msgid "Your new password has been set."
 msgstr ""
+
+#. [EditProfile.YourProfileUpdateWasSuccessfully]
+#. defaultMessage is:
+#. Your public profile was successfully updated
+#: translations/.messages/src/app/components/edit-profile/index.json
+msgid "Your public profile was successfully updated"
+msgstr "투표 완료"
 
 #. [Login.aboutLoginOptions]
 #. defaultMessage is:

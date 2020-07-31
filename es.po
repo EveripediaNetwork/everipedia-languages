@@ -1,7 +1,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: \n"
-"POT-Creation-Date: 2020-07-31T17:17:31.823Z\n"
+"POT-Creation-Date: 2020-07-31T22:09:49.467Z\n"
 "PO-Revision-Date: \n"
 "Last-Translator: \n"
 "Language-Team: \n"
@@ -1403,6 +1403,14 @@ msgstr "Democrático"
 msgid "Democratic Governance"
 msgstr "Gestión democrática"
 
+#. [IQTab.ActivityType.deposit]
+#. defaultMessage is:
+#. Deposit
+#: translations/.messages/src/app/containers/dashboard/MyUserDashboard/IQTab/IQTab.json
+
+msgid "Deposit"
+msgstr "Obtener IQ"
+
 #. [Dashboard.IQTab.DepositIQ.DepositAddress]
 #. defaultMessage is:
 #. Deposit Address
@@ -1579,12 +1587,35 @@ msgstr "Editar las categorías"
 msgid "Edit Now"
 msgstr "Editar ahora"
 
+#. [IQTab.ActivityType.slash]
+#. defaultMessage is:
+#. Edit Or Vote Penalty
+#: translations/.messages/src/app/containers/dashboard/MyUserDashboard/IQTab/IQTab.json
+msgid "Edit Or Vote Penalty"
+msgstr ""
+
 #. [EditProfile.EditPublicProfile]
 #. defaultMessage is:
 #. Edit Public Profile
 #: translations/.messages/src/app/components/edit-profile/index.json
 msgid "Edit Public Profile"
 msgstr "Editar Perfil publico"
+
+#. [IQTab.ActivityType.reward-editor]
+#. defaultMessage is:
+#. Edit Reward
+#: translations/.messages/src/app/containers/dashboard/MyUserDashboard/IQTab/IQTab.json
+
+msgid "Edit Reward"
+msgstr "corregido"
+
+#. [IQTab.ActivityType.propose]
+#. defaultMessage is:
+#. Edit Stake
+#: translations/.messages/src/app/containers/dashboard/MyUserDashboard/IQTab/IQTab.json
+
+msgid "Edit Stake"
+msgstr "Estacado"
 
 #. [MetadataModal.Title]
 #. defaultMessage is:
@@ -4413,6 +4444,13 @@ msgstr "¿Ves que falta algo?"
 msgid "See your edit on a block explorer"
 msgstr "Ver tu edición en un explorador de bloques"
 
+#. [IQTab.ActivityType.seed]
+#. defaultMessage is:
+#. Seed
+#: translations/.messages/src/app/containers/dashboard/MyUserDashboard/IQTab/IQTab.json
+msgid "Seed"
+msgstr ""
+
 #. [EditProfile.Select]
 #. defaultMessage is:
 #. Select
@@ -4597,6 +4635,13 @@ msgstr "Pequeño"
 #: translations/.messages/src/app/containers/dashboard/dashboard_component.json
 msgid "Social Platforms"
 msgstr "Plataformas Sociales"
+
+#. [IQTab.ActivityType.stake-return]
+#. defaultMessage is:
+#. Stake Return
+#: translations/.messages/src/app/containers/dashboard/MyUserDashboard/IQTab/IQTab.json
+msgid "Stake Return"
+msgstr ""
 
 #. [AccountNameHeader.Staked]
 #. defaultMessage is:
@@ -4972,9 +5017,13 @@ msgstr ""
 msgid "There is no activity on this article."
 msgstr "No hay actividad en este artículo."
 
+#. [EditProfile.UnknownError]
+#. defaultMessage is:
+#. There was a problem with your request. Please try again or contact support.
 #. [EpIdResetPasswordModal.GenericError]
 #. defaultMessage is:
 #. There was a problem with your request. Please try again or contact support.
+#: translations/.messages/src/app/components/edit-profile/index.json
 #: translations/.messages/src/app/components/Login/EPIDResetPasswordModal.json
 msgid ""
 "There was a problem with your request. Please try again or contact support."
@@ -5241,6 +5290,13 @@ msgstr "URL Slug Alt"
 msgid "Undefined error: please try again."
 msgstr "Por favor inténtelo de nuevo"
 
+#. [IQTab.ActivityType.unknown]
+#. defaultMessage is:
+#. Unknown
+#: translations/.messages/src/app/containers/dashboard/MyUserDashboard/IQTab/IQTab.json
+msgid "Unknown"
+msgstr ""
+
 #. [MainItem.Updated]
 #. defaultMessage is:
 #. Updated
@@ -5434,6 +5490,22 @@ msgstr "Vistas"
 #: translations/.messages/src/app/containers/homepageContainer/leaderboard.json
 msgid "Vote"
 msgstr "Votar"
+
+#. [IQTab.ActivityType.reward-curation]
+#. defaultMessage is:
+#. Vote Reward
+#: translations/.messages/src/app/containers/dashboard/MyUserDashboard/IQTab/IQTab.json
+
+msgid "Vote Reward"
+msgstr "Recompensas totales"
+
+#. [IQTab.ActivityType.vote]
+#. defaultMessage is:
+#. Vote Stake
+#: translations/.messages/src/app/containers/dashboard/MyUserDashboard/IQTab/IQTab.json
+
+msgid "Vote Stake"
+msgstr "Estacado"
 
 #. [Chat.VoteAcceptedTwo]
 #. defaultMessage is:
@@ -5700,6 +5772,14 @@ msgstr "¿Qué es el coeficiente intelectual?"
 msgid "Wiki Encyclopedia of Everything - Everipedia"
 msgstr "Wiki Enciclopedia de todo - Everipedia"
 
+#. [IQTab.ActivityType.withdraw]
+#. defaultMessage is:
+#. Withdraw
+#: translations/.messages/src/app/containers/dashboard/MyUserDashboard/IQTab/IQTab.json
+
+msgid "Withdraw"
+msgstr "Su voto fue un éxito"
+
 #. [Dashboard.IQTab.WithdrawIQ.WithdrawIQ]
 #. defaultMessage is:
 #. Withdraw IQ
@@ -5865,6 +5945,13 @@ msgstr ""
 #: translations/.messages/src/app/components/Login/EPIDResetPasswordModal.json
 msgid "Your new password has been set."
 msgstr ""
+
+#. [EditProfile.YourProfileUpdateWasSuccessfully]
+#. defaultMessage is:
+#. Your public profile was successfully updated
+#: translations/.messages/src/app/components/edit-profile/index.json
+msgid "Your public profile was successfully updated"
+msgstr "Su voto fue un éxito"
 
 #. [Login.aboutLoginOptions]
 #. defaultMessage is:
