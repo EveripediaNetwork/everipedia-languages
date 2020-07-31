@@ -1,7 +1,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: \n"
-"POT-Creation-Date: 2020-07-30T20:23:30.296Z\n"
+"POT-Creation-Date: 2020-07-31T17:17:31.823Z\n"
 "PO-Revision-Date: \n"
 "Last-Translator: \n"
 "Language-Team: \n"
@@ -570,7 +570,6 @@ msgstr "허용되는 형식: "
 #. defaultMessage is:
 #. Already have an EPID Account?
 #: translations/.messages/src/app/components/Login/epid-register.modal.json
-
 msgid "Already have an EPID Account?"
 msgstr "계정 만들기"
 
@@ -578,7 +577,6 @@ msgstr "계정 만들기"
 #. defaultMessage is:
 #. Amount
 #: translations/.messages/src/app/containers/dashboard/MyUserDashboard/IQTab/WithdrawIQ.json
-
 msgid "Amount"
 msgstr "계정"
 
@@ -1091,7 +1089,6 @@ msgstr "자주하는 질문"
 #. defaultMessage is:
 #. Confirm New Password
 #: translations/.messages/src/app/components/Login/EPIDResetPasswordModal.json
-
 msgid "Confirm New Password"
 msgstr "투표 확인"
 
@@ -1200,7 +1197,6 @@ msgstr "내용"
 #. Continue
 #: translations/.messages/src/app/containers/dashboard/MyUserDashboard/IQTab/DepositIQ.json
 #: translations/.messages/src/app/containers/dashboard/MyUserDashboard/IQTab/WithdrawIQ.json
-
 msgid "Continue"
 msgstr "내용"
 
@@ -1243,7 +1239,6 @@ msgstr "새 위키 만들기"
 #. defaultMessage is:
 #. Create EPID Account
 #: translations/.messages/src/app/components/Login/epid-register.modal.json
-
 msgid "Create EPID Account"
 msgstr "로그인 / 계정 만들기"
 
@@ -1401,7 +1396,6 @@ msgstr "민주적 운영"
 #. defaultMessage is:
 #. Deposit Address
 #: translations/.messages/src/app/containers/dashboard/MyUserDashboard/IQTab/DepositIQ.json
-
 msgid "Deposit Address"
 msgstr "이메일 주소"
 
@@ -1409,7 +1403,6 @@ msgstr "이메일 주소"
 #. defaultMessage is:
 #. Deposit IQ
 #: translations/.messages/src/app/containers/dashboard/MyUserDashboard/IQTab/DepositIQ.json
-
 msgid "Deposit IQ"
 msgstr "IQ 토큰 교환"
 
@@ -1509,9 +1502,17 @@ msgstr "끼워넣기 크기"
 #. defaultMessage is:
 #. EOS Address or EPID Account
 #: translations/.messages/src/app/containers/dashboard/MyUserDashboard/IQTab/WithdrawIQ.json
-
 msgid "EOS Address or EPID Account"
 msgstr "계정 만들기"
+
+#. [HighIQBalanceAlert.EPIDIsAnEductionalTool]
+#. defaultMessage is:
+#. EPID is an educational tool for starting with crypto. Once you have 100,000 IQ, we recommend you store a majority of your funds in your own wallet.
+#: translations/.messages/src/app/containers/dashboard/MyUserDashboard/HighIQBalanceAlert.json
+msgid ""
+"EPID is an educational tool for starting with crypto. Once you have 100,000 "
+"IQ, we recommend you store a majority of your funds in your own wallet."
+msgstr ""
 
 #. [ActivityCards.ExpiringSoon]
 #. defaultMessage is:
@@ -2211,7 +2212,7 @@ msgstr "문법"
 #. [LoginModal.HaveOldOreID]
 #. defaultMessage is:
 #. Have an old OreID account?
-#: translations/.messages/src/app/containers/dashboard/HaveOreIDAlert.json
+#: translations/.messages/src/app/containers/dashboard/MyUserDashboard/HaveOreIDAlert.json
 msgid "Have an old OreID account?"
 msgstr ""
 
@@ -2329,7 +2330,6 @@ msgstr "IQ"
 #. defaultMessage is:
 #. IQ Available
 #: translations/.messages/src/app/containers/dashboard/MyUserDashboard/IQTab/WithdrawIQ.json
-
 msgid "IQ Available"
 msgstr "사용가능"
 
@@ -2343,7 +2343,7 @@ msgstr "받은 IQ"
 #. [WhatIsIQ.IQFAQ]
 #. defaultMessage is:
 #. IQ FAQ
-#: translations/.messages/src/app/containers/dashboard/what_is_iq.json
+#: translations/.messages/src/app/containers/dashboard/MyUserDashboard/WhatIsIQAlert.json
 msgid "IQ FAQ"
 msgstr "IQ 더 알아보기"
 
@@ -2382,7 +2382,7 @@ msgstr ""
 #. IQ tokens are used to incentivize users to create and maintain content within the Everipedia
 #.                     Network. Contributors are rewarded with IQ Tokens for creating or editing articles or voting on
 #.                     proposed content.
-#: translations/.messages/src/app/containers/dashboard/what_is_iq.json
+#: translations/.messages/src/app/containers/dashboard/MyUserDashboard/WhatIsIQAlert.json
 msgid ""
 "IQ tokens are used to incentivize users to create and maintain content "
 "within the Everipedia\n"
@@ -2711,9 +2711,13 @@ msgstr "자세히 알아보기"
 msgid "Learn how"
 msgstr "자세히 알아보기"
 
+#. [HighIQBalanceAlert.LearnHowToSetupEOS]
+#. defaultMessage is:
+#. Learn how to set up an EOS account
 #. [IQInfo.LearnHowToSetupEOS]
 #. defaultMessage is:
 #. Learn how to set up an EOS account
+#: translations/.messages/src/app/containers/dashboard/MyUserDashboard/HighIQBalanceAlert.json
 #: translations/.messages/src/app/containers/iq-info/iq-info.container.json
 msgid "Learn how to set up an EOS account"
 msgstr "EOS 계정 만드는 방법"
@@ -3160,14 +3164,14 @@ msgstr "합치기"
 #. [LoginModal.MergeOreIDAccount]
 #. defaultMessage is:
 #. Merge OreID Account
-#. [LoginModal.MergeOreIDAccount]
-#. defaultMessage is:
-#. Merge OreID Account
 #. [Dashboard.AccountSettings.MergeOreIDAccount]
 #. defaultMessage is:
 #. Merge OreID Account
-#: translations/.messages/src/app/containers/dashboard/HaveOreIDAlert.json
+#. [LoginModal.MergeOreIDAccount]
+#. defaultMessage is:
+#. Merge OreID Account
 #: translations/.messages/src/app/containers/dashboard/MyUserDashboard/AccountSettings.json
+#: translations/.messages/src/app/containers/dashboard/MyUserDashboard/HaveOreIDAlert.json
 msgid "Merge OreID Account"
 msgstr "계정 만들기"
 
@@ -3206,7 +3210,6 @@ msgstr "편집하기"
 #. defaultMessage is:
 #. Migrating from OREID?
 #: translations/.messages/src/app/components/Login/epid-login.modal.json
-
 msgid "Migrating from OREID?"
 msgstr "기존 OreID계정을 합치기"
 
@@ -3295,7 +3298,6 @@ msgstr "미디어"
 #. defaultMessage is:
 #. New Password
 #: translations/.messages/src/app/components/Login/EPIDResetPasswordModal.json
-
 msgid "New Password"
 msgstr "비밀번호"
 
@@ -4093,7 +4095,6 @@ msgstr "인용"
 #. defaultMessage is:
 #. Register or Login with Email
 #: translations/.messages/src/app/components/Login/Login.json
-
 msgid "Register or Login with Email"
 msgstr "이메일 로그인"
 
@@ -4421,7 +4422,6 @@ msgstr "더 보내기"
 #. defaultMessage is:
 #. Send IQ
 #: translations/.messages/src/app/containers/dashboard/MyUserDashboard/IQTab/WithdrawIQ.json
-
 msgid "Send IQ"
 msgstr "보내기"
 
@@ -4446,7 +4446,6 @@ msgstr "메시지를 보내주세요"
 #. defaultMessage is:
 #. Sender
 #: translations/.messages/src/app/containers/dashboard/MyUserDashboard/IQTab/WithdrawIQ.json
-
 msgid "Sender"
 msgstr "성별"
 
@@ -5563,6 +5562,13 @@ msgid ""
 "Warning: Your public profile will be visible to everyone and stored on-chain"
 msgstr "주의: 공개 프로필은 모든 사람에게 공개되며 블록체인에 저장됩니다"
 
+#. [HighIQBalanceAlert.WarningIQBalance]
+#. defaultMessage is:
+#. Warning: your IQ balance is higher than we support in EPID.
+#: translations/.messages/src/app/containers/dashboard/MyUserDashboard/HighIQBalanceAlert.json
+msgid "Warning: your IQ balance is higher than we support in EPID."
+msgstr ""
+
 #. [EpIdLogin.WeNowUse]
 #. defaultMessage is:
 #. We now use EPID for all users who wish to login with a social account or email. As part of this process, you will be prompted to create a new account. If you have an existing account, you will be asked to merge it with youur new account in order to retain your edit history and IQ balance.
@@ -5611,7 +5617,7 @@ msgstr "링크할 글을 입력하세요"
 #. [WhatIsIQ.WhatIsIQ]
 #. defaultMessage is:
 #. What is IQ?
-#: translations/.messages/src/app/containers/dashboard/what_is_iq.json
+#: translations/.messages/src/app/containers/dashboard/MyUserDashboard/WhatIsIQAlert.json
 msgid "What is IQ?"
 msgstr "IQ 토큰이란?"
 
@@ -6135,6 +6141,9 @@ msgstr "시작"
 #: translations/.messages/src/app/components/SubmitVote/EditOverview.json
 msgid "words"
 msgstr "단어"
+
+#~ msgid "Learn how to set up an EOS account."
+#~ msgstr "EOS 계정 만드는 방법"
 
 #~ msgid "Contact Info"
 #~ msgstr "연락처"

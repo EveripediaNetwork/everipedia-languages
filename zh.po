@@ -1,7 +1,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: \n"
-"POT-Creation-Date: 2020-07-30T20:26:17.375Z\n"
+"POT-Creation-Date: 2020-07-31T17:17:31.823Z\n"
 "PO-Revision-Date: \n"
 "Last-Translator: \n"
 "Language-Team: \n"
@@ -1506,6 +1506,15 @@ msgstr "嵌入尺寸"
 msgid "EOS Address or EPID Account"
 msgstr "登录/创建帐户"
 
+#. [HighIQBalanceAlert.EPIDIsAnEductionalTool]
+#. defaultMessage is:
+#. EPID is an educational tool for starting with crypto. Once you have 100,000 IQ, we recommend you store a majority of your funds in your own wallet.
+#: translations/.messages/src/app/containers/dashboard/MyUserDashboard/HighIQBalanceAlert.json
+msgid ""
+"EPID is an educational tool for starting with crypto. Once you have 100,000 "
+"IQ, we recommend you store a majority of your funds in your own wallet."
+msgstr ""
+
 #. [ActivityCards.ExpiringSoon]
 #. defaultMessage is:
 #. EXPIRING SOON
@@ -2206,7 +2215,7 @@ msgstr "语法"
 #. [LoginModal.HaveOldOreID]
 #. defaultMessage is:
 #. Have an old OreID account?
-#: translations/.messages/src/app/containers/dashboard/HaveOreIDAlert.json
+#: translations/.messages/src/app/containers/dashboard/MyUserDashboard/HaveOreIDAlert.json
 msgid "Have an old OreID account?"
 msgstr "获得帐号"
 
@@ -2336,7 +2345,7 @@ msgstr "赚取的IQ"
 #. [WhatIsIQ.IQFAQ]
 #. defaultMessage is:
 #. IQ FAQ
-#: translations/.messages/src/app/containers/dashboard/what_is_iq.json
+#: translations/.messages/src/app/containers/dashboard/MyUserDashboard/WhatIsIQAlert.json
 msgid "IQ FAQ"
 msgstr "IQ 常见问题解答"
 
@@ -2375,7 +2384,7 @@ msgstr ""
 #. IQ tokens are used to incentivize users to create and maintain content within the Everipedia
 #.                     Network. Contributors are rewarded with IQ Tokens for creating or editing articles or voting on
 #.                     proposed content.
-#: translations/.messages/src/app/containers/dashboard/what_is_iq.json
+#: translations/.messages/src/app/containers/dashboard/MyUserDashboard/WhatIsIQAlert.json
 msgid ""
 "IQ tokens are used to incentivize users to create and maintain content "
 "within the Everipedia\n"
@@ -2708,9 +2717,13 @@ msgstr "了解更多"
 msgid "Learn how"
 msgstr "了解方法"
 
+#. [HighIQBalanceAlert.LearnHowToSetupEOS]
+#. defaultMessage is:
+#. Learn how to set up an EOS account
 #. [IQInfo.LearnHowToSetupEOS]
 #. defaultMessage is:
 #. Learn how to set up an EOS account
+#: translations/.messages/src/app/containers/dashboard/MyUserDashboard/HighIQBalanceAlert.json
 #: translations/.messages/src/app/containers/iq-info/iq-info.container.json
 msgid "Learn how to set up an EOS account"
 msgstr "学习如何创建一个EOS账户"
@@ -3155,14 +3168,14 @@ msgstr "合并"
 #. [LoginModal.MergeOreIDAccount]
 #. defaultMessage is:
 #. Merge OreID Account
-#. [LoginModal.MergeOreIDAccount]
-#. defaultMessage is:
-#. Merge OreID Account
 #. [Dashboard.AccountSettings.MergeOreIDAccount]
 #. defaultMessage is:
 #. Merge OreID Account
-#: translations/.messages/src/app/containers/dashboard/HaveOreIDAlert.json
+#. [LoginModal.MergeOreIDAccount]
+#. defaultMessage is:
+#. Merge OreID Account
 #: translations/.messages/src/app/containers/dashboard/MyUserDashboard/AccountSettings.json
+#: translations/.messages/src/app/containers/dashboard/MyUserDashboard/HaveOreIDAlert.json
 msgid "Merge OreID Account"
 msgstr "登录/创建帐户"
 
@@ -5556,6 +5569,13 @@ msgid ""
 "Warning: Your public profile will be visible to everyone and stored on-chain"
 msgstr "提醒：您的公开个人资料将对所有人公开，并存储在区链上"
 
+#. [HighIQBalanceAlert.WarningIQBalance]
+#. defaultMessage is:
+#. Warning: your IQ balance is higher than we support in EPID.
+#: translations/.messages/src/app/containers/dashboard/MyUserDashboard/HighIQBalanceAlert.json
+msgid "Warning: your IQ balance is higher than we support in EPID."
+msgstr ""
+
 #. [EpIdLogin.WeNowUse]
 #. defaultMessage is:
 #. We now use EPID for all users who wish to login with a social account or email. As part of this process, you will be prompted to create a new account. If you have an existing account, you will be asked to merge it with youur new account in order to retain your edit history and IQ balance.
@@ -5605,7 +5625,7 @@ msgstr "您想链接到哪篇文章？"
 #. [WhatIsIQ.WhatIsIQ]
 #. defaultMessage is:
 #. What is IQ?
-#: translations/.messages/src/app/containers/dashboard/what_is_iq.json
+#: translations/.messages/src/app/containers/dashboard/MyUserDashboard/WhatIsIQAlert.json
 msgid "What is IQ?"
 msgstr "什么是IQ？"
 
@@ -6127,6 +6147,9 @@ msgstr "始于"
 #: translations/.messages/src/app/components/SubmitVote/EditOverview.json
 msgid "words"
 msgstr "字数"
+
+#~ msgid "Learn how to set up an EOS account."
+#~ msgstr "学习如何创建一个EOS账户"
 
 #~ msgid "Category"
 #~ msgstr "类别"
