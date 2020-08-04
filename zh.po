@@ -1,7 +1,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: \n"
-"POT-Creation-Date: 2020-07-31T22:09:49.467Z\n"
+"POT-Creation-Date: 2020-08-03T22:06:46.697Z\n"
 "PO-Revision-Date: \n"
 "Last-Translator: \n"
 "Language-Team: \n"
@@ -75,6 +75,13 @@ msgstr "选择一个高质量的图像。你可以上传jpg, gif和png格式文�
 #: translations/.messages/src/app/components/tooltips/index.json
 msgid " vote"
 msgstr "投票"
+
+#. [Dashboard.IQTab.WithdrawIQ.WholeNumbersOnly]
+#. defaultMessage is:
+#. (whole numbers only)
+#: translations/.messages/src/app/containers/dashboard/MyUserDashboard/IQTab/WithdrawIQ.json
+msgid "(whole numbers only)"
+msgstr ""
 
 #. [MobileHamburger.SignUp]
 #. defaultMessage is:
@@ -1397,7 +1404,6 @@ msgstr "民主治理"
 #. defaultMessage is:
 #. Deposit
 #: translations/.messages/src/app/containers/dashboard/MyUserDashboard/IQTab/IQTab.json
-
 msgid "Deposit"
 msgstr "获得IQ"
 
@@ -1595,7 +1601,6 @@ msgstr "编辑公开的个人资料"
 #. defaultMessage is:
 #. Edit Reward
 #: translations/.messages/src/app/containers/dashboard/MyUserDashboard/IQTab/IQTab.json
-
 msgid "Edit Reward"
 msgstr "已编辑"
 
@@ -1603,7 +1608,6 @@ msgstr "已编辑"
 #. defaultMessage is:
 #. Edit Stake
 #: translations/.messages/src/app/containers/dashboard/MyUserDashboard/IQTab/IQTab.json
-
 msgid "Edit Stake"
 msgstr "质押"
 
@@ -2390,6 +2394,13 @@ msgstr "IQ 常见问题解答"
 #: translations/.messages/src/app/containers/homepageContainer/stats.json
 msgid "IQ HOLDERS"
 msgstr "IQ 持有人"
+
+#. [Dashboard.IQTab.WithdrawIQ.IQStaked]
+#. defaultMessage is:
+#. IQ Staked
+#: translations/.messages/src/app/containers/dashboard/MyUserDashboard/IQTab/WithdrawIQ.json
+msgid "IQ Staked"
+msgstr "质押"
 
 #. [Footer.IQToken]
 #. defaultMessage is:
@@ -5435,7 +5446,6 @@ msgstr "投票"
 #. defaultMessage is:
 #. Vote Reward
 #: translations/.messages/src/app/containers/dashboard/MyUserDashboard/IQTab/IQTab.json
-
 msgid "Vote Reward"
 msgstr "总奖励"
 
@@ -5443,7 +5453,6 @@ msgstr "总奖励"
 #. defaultMessage is:
 #. Vote Stake
 #: translations/.messages/src/app/containers/dashboard/MyUserDashboard/IQTab/IQTab.json
-
 msgid "Vote Stake"
 msgstr "质押"
 
@@ -5722,10 +5731,28 @@ msgstr ""
 msgid "Withdraw IQ"
 msgstr ""
 
+#. [Dashboard.IQTab.WithdrawIQ.Error.PositiveNumber]
+#. defaultMessage is:
+#. Withdrawal amount must be a positive number
+#: translations/.messages/src/app/containers/dashboard/MyUserDashboard/IQTab/WithdrawIQ.json
+msgid "Withdrawal amount must be a positive number"
+msgstr ""
+
+#. [Dashboard.IQTab.WithdrawIQ.Error.WholeNumber]
+#. defaultMessage is:
+#. Withdrawal amount must be a whole number. Please remove all decimals.
+#: translations/.messages/src/app/containers/dashboard/MyUserDashboard/IQTab/WithdrawIQ.json
+msgid "Withdrawal amount must be a whole number. Please remove all decimals."
+msgstr ""
+
+#. [AccountNameHeader.Worth]
+#. defaultMessage is:
+#. Worth
 #. [AccountNameHeader.Worth]
 #. defaultMessage is:
 #. Worth
 #: translations/.messages/src/app/components/TopNav/account-name-header-user.json
+#: translations/.messages/src/app/containers/dashboard/MyUserDashboard/IQTab/WithdrawIQ.json
 msgid "Worth"
 msgstr "价值"
 

@@ -1,7 +1,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: \n"
-"POT-Creation-Date: 2020-07-31T22:09:49.467Z\n"
+"POT-Creation-Date: 2020-08-03T22:06:46.697Z\n"
 "PO-Revision-Date: \n"
 "Last-Translator: \n"
 "Language-Team: \n"
@@ -75,6 +75,13 @@ msgstr ""
 #: translations/.messages/src/app/components/tooltips/index.json
 msgid " vote"
 msgstr "Votar"
+
+#. [Dashboard.IQTab.WithdrawIQ.WholeNumbersOnly]
+#. defaultMessage is:
+#. (whole numbers only)
+#: translations/.messages/src/app/containers/dashboard/MyUserDashboard/IQTab/WithdrawIQ.json
+msgid "(whole numbers only)"
+msgstr ""
 
 #. [MobileHamburger.SignUp]
 #. defaultMessage is:
@@ -1407,7 +1414,6 @@ msgstr "Gestión democrática"
 #. defaultMessage is:
 #. Deposit
 #: translations/.messages/src/app/containers/dashboard/MyUserDashboard/IQTab/IQTab.json
-
 msgid "Deposit"
 msgstr "Obtener IQ"
 
@@ -1605,7 +1611,6 @@ msgstr "Editar Perfil publico"
 #. defaultMessage is:
 #. Edit Reward
 #: translations/.messages/src/app/containers/dashboard/MyUserDashboard/IQTab/IQTab.json
-
 msgid "Edit Reward"
 msgstr "corregido"
 
@@ -1613,7 +1618,6 @@ msgstr "corregido"
 #. defaultMessage is:
 #. Edit Stake
 #: translations/.messages/src/app/containers/dashboard/MyUserDashboard/IQTab/IQTab.json
-
 msgid "Edit Stake"
 msgstr "Estacado"
 
@@ -2409,6 +2413,13 @@ msgstr "IQ FAQ"
 #: translations/.messages/src/app/containers/homepageContainer/stats.json
 msgid "IQ HOLDERS"
 msgstr "TITULARES IQ"
+
+#. [Dashboard.IQTab.WithdrawIQ.IQStaked]
+#. defaultMessage is:
+#. IQ Staked
+#: translations/.messages/src/app/containers/dashboard/MyUserDashboard/IQTab/WithdrawIQ.json
+msgid "IQ Staked"
+msgstr "Estacado"
 
 #. [Footer.IQToken]
 #. defaultMessage is:
@@ -5495,7 +5506,6 @@ msgstr "Votar"
 #. defaultMessage is:
 #. Vote Reward
 #: translations/.messages/src/app/containers/dashboard/MyUserDashboard/IQTab/IQTab.json
-
 msgid "Vote Reward"
 msgstr "Recompensas totales"
 
@@ -5503,7 +5513,6 @@ msgstr "Recompensas totales"
 #. defaultMessage is:
 #. Vote Stake
 #: translations/.messages/src/app/containers/dashboard/MyUserDashboard/IQTab/IQTab.json
-
 msgid "Vote Stake"
 msgstr "Estacado"
 
@@ -5776,7 +5785,6 @@ msgstr "Wiki Enciclopedia de todo - Everipedia"
 #. defaultMessage is:
 #. Withdraw
 #: translations/.messages/src/app/containers/dashboard/MyUserDashboard/IQTab/IQTab.json
-
 msgid "Withdraw"
 msgstr "Su voto fue un éxito"
 
@@ -5787,10 +5795,28 @@ msgstr "Su voto fue un éxito"
 msgid "Withdraw IQ"
 msgstr "Su voto fue un éxito"
 
+#. [Dashboard.IQTab.WithdrawIQ.Error.PositiveNumber]
+#. defaultMessage is:
+#. Withdrawal amount must be a positive number
+#: translations/.messages/src/app/containers/dashboard/MyUserDashboard/IQTab/WithdrawIQ.json
+msgid "Withdrawal amount must be a positive number"
+msgstr ""
+
+#. [Dashboard.IQTab.WithdrawIQ.Error.WholeNumber]
+#. defaultMessage is:
+#. Withdrawal amount must be a whole number. Please remove all decimals.
+#: translations/.messages/src/app/containers/dashboard/MyUserDashboard/IQTab/WithdrawIQ.json
+msgid "Withdrawal amount must be a whole number. Please remove all decimals."
+msgstr ""
+
+#. [AccountNameHeader.Worth]
+#. defaultMessage is:
+#. Worth
 #. [AccountNameHeader.Worth]
 #. defaultMessage is:
 #. Worth
 #: translations/.messages/src/app/components/TopNav/account-name-header-user.json
+#: translations/.messages/src/app/containers/dashboard/MyUserDashboard/IQTab/WithdrawIQ.json
 msgid "Worth"
 msgstr "Vale la pena"
 
