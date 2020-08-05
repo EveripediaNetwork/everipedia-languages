@@ -1,7 +1,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: \n"
-"POT-Creation-Date: 2020-08-03T22:06:46.697Z\n"
+"POT-Creation-Date: 2020-08-05T19:09:45.306Z\n"
 "PO-Revision-Date: \n"
 "Last-Translator: \n"
 "Language-Team: \n"
@@ -588,6 +588,28 @@ msgstr "Obtener una cuenta"
 #: translations/.messages/src/app/containers/dashboard/MyUserDashboard/IQTab/WithdrawIQ.json
 msgid "Amount"
 msgstr "Cuenta"
+
+#. [SubmitVoteConfirmation.Errors.PositiveNumber]
+#. defaultMessage is:
+#. Amount must be a positive number
+#. [Dashboard.IQTab.WithdrawIQ.Error.PositiveNumber]
+#. defaultMessage is:
+#. Amount must be a positive number
+#: translations/.messages/src/app/components/SubmitVote/ConfirmationModal.json
+#: translations/.messages/src/app/containers/dashboard/MyUserDashboard/IQTab/WithdrawIQ.json
+msgid "Amount must be a positive number"
+msgstr ""
+
+#. [SubmitVoteConfirmation.Errors.WholeNumber]
+#. defaultMessage is:
+#. Amount must be a whole number. Please remove all decimals.
+#. [Dashboard.IQTab.WithdrawIQ.Error.WholeNumber]
+#. defaultMessage is:
+#. Amount must be a whole number. Please remove all decimals.
+#: translations/.messages/src/app/components/SubmitVote/ConfirmationModal.json
+#: translations/.messages/src/app/containers/dashboard/MyUserDashboard/IQTab/WithdrawIQ.json
+msgid "Amount must be a whole number. Please remove all decimals."
+msgstr ""
 
 #. [Homepage.ModernAge]
 #. defaultMessage is:
@@ -1210,11 +1232,7 @@ msgstr "Contenido"
 #. [Dashboard.IQTab.DepositIQ.Continue]
 #. defaultMessage is:
 #. Continue
-#. [Dashboard.IQTab.DepositIQ.Continue]
-#. defaultMessage is:
-#. Continue
 #: translations/.messages/src/app/containers/dashboard/MyUserDashboard/IQTab/DepositIQ.json
-#: translations/.messages/src/app/containers/dashboard/MyUserDashboard/IQTab/WithdrawIQ.json
 msgid "Continue"
 msgstr "Contenido"
 
@@ -2251,6 +2269,22 @@ msgstr "Contacta con nosotros"
 msgid "Get more IQ here"
 msgstr "Obtenga más IQ aquí"
 
+#. [LoginModal.Errors.GoogleAuthError]
+#. defaultMessage is:
+#. Google Login Failed.
+#: translations/.messages/src/app/components/Login/Login.json
+msgid "Google Login Failed."
+msgstr "Impulso fallido"
+
+#. [LoginModal.Errors.GoogleThirdPartyCookies]
+#. defaultMessage is:
+#. Google was unable to access cookies. Please enable third party cookies and try again.
+#: translations/.messages/src/app/components/Login/Login.json
+msgid ""
+"Google was unable to access cookies. Please enable third party cookies and "
+"try again."
+msgstr ""
+
 #. [EpIdLogin.GotIt]
 #. defaultMessage is:
 #. Got it!
@@ -2614,13 +2648,6 @@ msgstr "Insertar Nuevo"
 #: translations/.messages/src/editor/plugins/table/table-button.json
 msgid "Insert Right"
 msgstr "Insertar a la derecha"
-
-#. [Dashboard.IQTab.DepositIQ.InsufficientBalance]
-#. defaultMessage is:
-#. Insufficient balance.
-#: translations/.messages/src/app/containers/dashboard/MyUserDashboard/IQTab/WithdrawIQ.json
-msgid "Insufficient balance."
-msgstr ""
 
 #. [LoginModal.OpenTokenPocket]
 #. defaultMessage is:
@@ -3940,6 +3967,15 @@ msgstr "Por favor inténtelo de nuevo"
 #: translations/.messages/src/app/components/Chat/Directory.json
 msgid "Popular Chats"
 msgstr "Charlas populares"
+
+#. [LoginModal.Errors.GooglePopupClosed]
+#. defaultMessage is:
+#. Popup was closed. If this was an accident, please turn off popup-blockers and try again.
+#: translations/.messages/src/app/components/Login/Login.json
+msgid ""
+"Popup was closed. If this was an accident, please turn off popup-blockers "
+"and try again."
+msgstr ""
 
 #. [Footer.PoweredBy]
 #. defaultMessage is:
@@ -5795,20 +5831,6 @@ msgstr "Su voto fue un éxito"
 msgid "Withdraw IQ"
 msgstr "Su voto fue un éxito"
 
-#. [Dashboard.IQTab.WithdrawIQ.Error.PositiveNumber]
-#. defaultMessage is:
-#. Withdrawal amount must be a positive number
-#: translations/.messages/src/app/containers/dashboard/MyUserDashboard/IQTab/WithdrawIQ.json
-msgid "Withdrawal amount must be a positive number"
-msgstr ""
-
-#. [Dashboard.IQTab.WithdrawIQ.Error.WholeNumber]
-#. defaultMessage is:
-#. Withdrawal amount must be a whole number. Please remove all decimals.
-#: translations/.messages/src/app/containers/dashboard/MyUserDashboard/IQTab/WithdrawIQ.json
-msgid "Withdrawal amount must be a whole number. Please remove all decimals."
-msgstr ""
-
 #. [AccountNameHeader.Worth]
 #. defaultMessage is:
 #. Worth
@@ -5930,12 +5952,27 @@ msgstr "Su edición fue enviada con éxito para su votación"
 msgid "Your Edit was not Submitted"
 msgstr "Su edición no ha sido enviada"
 
+#. [OreidCallbackContainer.MigrationSuccessfulTitle]
+#. defaultMessage is:
+#. Your OreID account was successfully merged to your EPID Account!
+#: translations/.messages/src/app/containers/oreid-callback/oreid-callback.container.json
+msgid "Your OreID account was successfully merged to your EPID Account!"
+msgstr ""
+
 #. [SubmitVoteConfirmation.YourVoteWasSuccessful]
 #. defaultMessage is:
 #. Your Vote was Successful
 #: translations/.messages/src/app/components/SubmitVote/ConfirmationModal.json
 msgid "Your Vote was Successful"
 msgstr "Su voto fue un éxito"
+
+#. [OreidCallbackContainer.MigrationSuccessfulDescription]
+#. defaultMessage is:
+#. Your account balance, votes, and edits are now associated to this account.
+#: translations/.messages/src/app/containers/oreid-callback/oreid-callback.container.json
+msgid ""
+"Your account balance, votes, and edits are now associated to this account."
+msgstr ""
 
 #. [Directory.ActiveChats]
 #. defaultMessage is:
@@ -6437,9 +6474,6 @@ msgstr "palabras"
 
 #~ msgid "Boost your voting power"
 #~ msgstr "Aumente su poder de voto"
-
-#~ msgid "Boosting Failed"
-#~ msgstr "Impulso fallido"
 
 #~ msgid "Boosts / Voting Power"
 #~ msgstr "Impulsos / Poder de Voto"

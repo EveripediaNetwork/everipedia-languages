@@ -1,7 +1,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: \n"
-"POT-Creation-Date: 2020-08-03T22:06:46.697Z\n"
+"POT-Creation-Date: 2020-08-05T19:09:45.306Z\n"
 "PO-Revision-Date: \n"
 "Last-Translator: \n"
 "Language-Team: \n"
@@ -586,6 +586,28 @@ msgstr "계정 만들기"
 #: translations/.messages/src/app/containers/dashboard/MyUserDashboard/IQTab/WithdrawIQ.json
 msgid "Amount"
 msgstr "계정"
+
+#. [SubmitVoteConfirmation.Errors.PositiveNumber]
+#. defaultMessage is:
+#. Amount must be a positive number
+#. [Dashboard.IQTab.WithdrawIQ.Error.PositiveNumber]
+#. defaultMessage is:
+#. Amount must be a positive number
+#: translations/.messages/src/app/components/SubmitVote/ConfirmationModal.json
+#: translations/.messages/src/app/containers/dashboard/MyUserDashboard/IQTab/WithdrawIQ.json
+msgid "Amount must be a positive number"
+msgstr ""
+
+#. [SubmitVoteConfirmation.Errors.WholeNumber]
+#. defaultMessage is:
+#. Amount must be a whole number. Please remove all decimals.
+#. [Dashboard.IQTab.WithdrawIQ.Error.WholeNumber]
+#. defaultMessage is:
+#. Amount must be a whole number. Please remove all decimals.
+#: translations/.messages/src/app/components/SubmitVote/ConfirmationModal.json
+#: translations/.messages/src/app/containers/dashboard/MyUserDashboard/IQTab/WithdrawIQ.json
+msgid "Amount must be a whole number. Please remove all decimals."
+msgstr ""
 
 #. [Homepage.ModernAge]
 #. defaultMessage is:
@@ -1199,11 +1221,7 @@ msgstr "내용"
 #. [Dashboard.IQTab.DepositIQ.Continue]
 #. defaultMessage is:
 #. Continue
-#. [Dashboard.IQTab.DepositIQ.Continue]
-#. defaultMessage is:
-#. Continue
 #: translations/.messages/src/app/containers/dashboard/MyUserDashboard/IQTab/DepositIQ.json
-#: translations/.messages/src/app/containers/dashboard/MyUserDashboard/IQTab/WithdrawIQ.json
 msgid "Continue"
 msgstr "내용"
 
@@ -2230,6 +2248,22 @@ msgstr "연락하기"
 msgid "Get more IQ here"
 msgstr "IQ를 받으세요"
 
+#. [LoginModal.Errors.GoogleAuthError]
+#. defaultMessage is:
+#. Google Login Failed.
+#: translations/.messages/src/app/components/Login/Login.json
+msgid "Google Login Failed."
+msgstr "부스트 실패"
+
+#. [LoginModal.Errors.GoogleThirdPartyCookies]
+#. defaultMessage is:
+#. Google was unable to access cookies. Please enable third party cookies and try again.
+#: translations/.messages/src/app/components/Login/Login.json
+msgid ""
+"Google was unable to access cookies. Please enable third party cookies and "
+"try again."
+msgstr ""
+
 #. [EpIdLogin.GotIt]
 #. defaultMessage is:
 #. Got it!
@@ -2581,13 +2615,6 @@ msgstr "새로 삽입"
 #: translations/.messages/src/editor/plugins/table/table-button.json
 msgid "Insert Right"
 msgstr "오른쪽 삽입"
-
-#. [Dashboard.IQTab.DepositIQ.InsufficientBalance]
-#. defaultMessage is:
-#. Insufficient balance.
-#: translations/.messages/src/app/containers/dashboard/MyUserDashboard/IQTab/WithdrawIQ.json
-msgid "Insufficient balance."
-msgstr ""
 
 #. [LoginModal.OpenTokenPocket]
 #. defaultMessage is:
@@ -3899,6 +3926,15 @@ msgstr "다시 시도하세요"
 #: translations/.messages/src/app/components/Chat/Directory.json
 msgid "Popular Chats"
 msgstr "인기 채팅"
+
+#. [LoginModal.Errors.GooglePopupClosed]
+#. defaultMessage is:
+#. Popup was closed. If this was an accident, please turn off popup-blockers and try again.
+#: translations/.messages/src/app/components/Login/Login.json
+msgid ""
+"Popup was closed. If this was an accident, please turn off popup-blockers "
+"and try again."
+msgstr ""
 
 #. [Footer.PoweredBy]
 #. defaultMessage is:
@@ -5723,20 +5759,6 @@ msgstr ""
 msgid "Withdraw IQ"
 msgstr ""
 
-#. [Dashboard.IQTab.WithdrawIQ.Error.PositiveNumber]
-#. defaultMessage is:
-#. Withdrawal amount must be a positive number
-#: translations/.messages/src/app/containers/dashboard/MyUserDashboard/IQTab/WithdrawIQ.json
-msgid "Withdrawal amount must be a positive number"
-msgstr ""
-
-#. [Dashboard.IQTab.WithdrawIQ.Error.WholeNumber]
-#. defaultMessage is:
-#. Withdrawal amount must be a whole number. Please remove all decimals.
-#: translations/.messages/src/app/containers/dashboard/MyUserDashboard/IQTab/WithdrawIQ.json
-msgid "Withdrawal amount must be a whole number. Please remove all decimals."
-msgstr ""
-
 #. [AccountNameHeader.Worth]
 #. defaultMessage is:
 #. Worth
@@ -5858,12 +5880,27 @@ msgstr "편집 제안이 투표 중입니다"
 msgid "Your Edit was not Submitted"
 msgstr "편집 제안이 제출되지 않았습니다"
 
+#. [OreidCallbackContainer.MigrationSuccessfulTitle]
+#. defaultMessage is:
+#. Your OreID account was successfully merged to your EPID Account!
+#: translations/.messages/src/app/containers/oreid-callback/oreid-callback.container.json
+msgid "Your OreID account was successfully merged to your EPID Account!"
+msgstr ""
+
 #. [SubmitVoteConfirmation.YourVoteWasSuccessful]
 #. defaultMessage is:
 #. Your Vote was Successful
 #: translations/.messages/src/app/components/SubmitVote/ConfirmationModal.json
 msgid "Your Vote was Successful"
 msgstr "투표 완료"
+
+#. [OreidCallbackContainer.MigrationSuccessfulDescription]
+#. defaultMessage is:
+#. Your account balance, votes, and edits are now associated to this account.
+#: translations/.messages/src/app/containers/oreid-callback/oreid-callback.container.json
+msgid ""
+"Your account balance, votes, and edits are now associated to this account."
+msgstr ""
 
 #. [Directory.ActiveChats]
 #. defaultMessage is:
@@ -6367,9 +6404,6 @@ msgstr "단어"
 
 #~ msgid "Boost your voting power"
 #~ msgstr "부스트하기"
-
-#~ msgid "Boosting Failed"
-#~ msgstr "부스트 실패"
 
 #~ msgid "Boosts / Voting Power"
 #~ msgstr "부스트 / 투표 파워"
