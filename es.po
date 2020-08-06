@@ -1,7 +1,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: \n"
-"POT-Creation-Date: 2020-08-05T19:09:45.306Z\n"
+"POT-Creation-Date: 2020-08-06T15:51:11.803Z\n"
 "PO-Revision-Date: \n"
 "Last-Translator: \n"
 "Language-Team: \n"
@@ -3704,6 +3704,13 @@ msgstr ""
 msgid "Out of IQ"
 msgstr "Fuera de IQ"
 
+#. [Homepage.OwnedByEveryone]
+#. defaultMessage is:
+#. Owned by everyone.
+#: translations/.messages/src/app/containers/homepageContainer/homepage.container.json
+msgid "Owned by everyone."
+msgstr "Impulsado por "
+
 #. [RecentPopularContent.POPULAR]
 #. defaultMessage is:
 #. POPULAR
@@ -3984,11 +3991,11 @@ msgstr ""
 msgid "Powered by"
 msgstr "Impulsado por "
 
-#. [Homepage.PoweredByYou]
+#. [Homepage.PoweredByIQToken]
 #. defaultMessage is:
-#. Powered by you.
+#. Powered by the IQ Token.
 #: translations/.messages/src/app/containers/homepageContainer/homepage.container.json
-msgid "Powered by you."
+msgid "Powered by the IQ Token."
 msgstr "Impulsado por "
 
 #. [TeamInfo.SamKazemianTitle]
@@ -5032,6 +5039,13 @@ msgstr ""
 "El cuadro de información está diseñado para que la información sea concisa y "
 "de fácil acceso."
 
+#. [Homepage.WorldsBiggestCryptoWiki]
+#. defaultMessage is:
+#. The world's largest knowledge base.
+#: translations/.messages/src/app/containers/homepageContainer/homepage.container.json
+msgid "The world's largest knowledge base."
+msgstr ""
+
 #. [TeamInfo.TheodorForseliusBio]
 #. defaultMessage is:
 #. Theodor Forselius  is a Swedish Internet entrepreneur and programmer. He co-founded Everipedia at the age of 20, gaining experience in digital advertising, web development, and online gaming industries in the process.
@@ -5501,6 +5515,13 @@ msgstr "Ver transacción de cadena de bloques"
 #: translations/.messages/src/app/components/Chat/ChatItem.json
 msgid "View edit"
 msgstr "Ver edición"
+
+#. [Homepage.ViewOnCMC]
+#. defaultMessage is:
+#. View on CoinMarketCap
+#: translations/.messages/src/app/containers/homepageContainer/homepage.container.json
+msgid "View on CoinMarketCap"
+msgstr ""
 
 #. [SaveModalAgain.ViewTransaction]
 #. defaultMessage is:
