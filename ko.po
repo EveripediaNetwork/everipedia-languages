@@ -1,7 +1,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: \n"
-"POT-Creation-Date: 2020-08-07T15:59:25.650Z\n"
+"POT-Creation-Date: 2020-08-07T16:51:44.395Z\n"
 "PO-Revision-Date: \n"
 "Last-Translator: \n"
 "Language-Team: \n"
@@ -607,6 +607,13 @@ msgstr ""
 #: translations/.messages/src/app/components/SubmitVote/ConfirmationModal.json
 #: translations/.messages/src/app/containers/dashboard/MyUserDashboard/IQTab/WithdrawIQ.json
 msgid "Amount must be a whole number. Please remove all decimals."
+msgstr ""
+
+#. [EpIdLogin.ErrorUsernameOrEmailExists]
+#. defaultMessage is:
+#. An account with that email or username already exists
+#: translations/.messages/src/app/components/Login/epid-login.modal.json
+msgid "An account with that email or username already exists"
 msgstr ""
 
 #. [Homepage.ModernAge]
