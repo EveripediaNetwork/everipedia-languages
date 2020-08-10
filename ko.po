@@ -1,7 +1,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: \n"
-"POT-Creation-Date: 2020-08-07T16:51:44.395Z\n"
+"POT-Creation-Date: 2020-08-08T12:15:05.882Z\n"
 "PO-Revision-Date: \n"
 "Last-Translator: \n"
 "Language-Team: \n"
@@ -4188,7 +4188,7 @@ msgstr "인용"
 #. Register or Login with Email
 #: translations/.messages/src/app/components/Login/Login.json
 msgid "Register or Login with Email"
-msgstr "이메일 로그인"
+msgstr "이메일 로그인 또는 회원가입"
 
 #. [LoginModal.RegisterWithEmail]
 #. defaultMessage is:
