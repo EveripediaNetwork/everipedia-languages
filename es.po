@@ -1,7 +1,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: \n"
-"POT-Creation-Date: 2020-08-07T16:51:44.395Z\n"
+"POT-Creation-Date: 2020-08-11T16:25:51.174Z\n"
 "PO-Revision-Date: \n"
 "Last-Translator: \n"
 "Language-Team: \n"
@@ -3248,18 +3248,18 @@ msgstr "Mediano"
 msgid "Meet our team"
 msgstr "Conoce a nuestro equipo"
 
+#. [Dashboard.IQTab.WithdrawIQ.Memo]
+#. defaultMessage is:
+#. Memo
+#: translations/.messages/src/app/containers/dashboard/MyUserDashboard/IQTab/WithdrawIQ.json
+msgid "Memo"
+msgstr ""
+
 #. [Dashboard.IQTab.DepositIQ.MemoRequired]
 #. defaultMessage is:
 #. Memo (Required)
 #: translations/.messages/src/app/containers/dashboard/MyUserDashboard/IQTab/DepositIQ.json
 msgid "Memo (Required)"
-msgstr ""
-
-#. [Dashboard.IQTab.WithdrawIQ.MemoOptional]
-#. defaultMessage is:
-#. Memo (optional)
-#: translations/.messages/src/app/containers/dashboard/MyUserDashboard/IQTab/WithdrawIQ.json
-msgid "Memo (optional)"
 msgstr ""
 
 #. [CommentUtils.Merge]

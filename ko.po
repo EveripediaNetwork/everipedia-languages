@@ -1,7 +1,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: \n"
-"POT-Creation-Date: 2020-08-08T12:15:05.882Z\n"
+"POT-Creation-Date: 2020-08-11T16:25:51.174Z\n"
 "PO-Revision-Date: \n"
 "Last-Translator: \n"
 "Language-Team: \n"
@@ -3212,18 +3212,19 @@ msgstr "중간"
 msgid "Meet our team"
 msgstr "운영진"
 
+#. [Dashboard.IQTab.WithdrawIQ.Memo]
+#. defaultMessage is:
+#. Memo
+#: translations/.messages/src/app/containers/dashboard/MyUserDashboard/IQTab/WithdrawIQ.json
+
+msgid "Memo"
+msgstr "EOS 메모"
+
 #. [Dashboard.IQTab.DepositIQ.MemoRequired]
 #. defaultMessage is:
 #. Memo (Required)
 #: translations/.messages/src/app/containers/dashboard/MyUserDashboard/IQTab/DepositIQ.json
 msgid "Memo (Required)"
-msgstr ""
-
-#. [Dashboard.IQTab.WithdrawIQ.MemoOptional]
-#. defaultMessage is:
-#. Memo (optional)
-#: translations/.messages/src/app/containers/dashboard/MyUserDashboard/IQTab/WithdrawIQ.json
-msgid "Memo (optional)"
 msgstr ""
 
 #. [CommentUtils.Merge]
@@ -6325,9 +6326,6 @@ msgstr "단어"
 
 #~ msgid "Contact Info"
 #~ msgstr "연락처"
-
-#~ msgid "EOS Memo:"
-#~ msgstr "EOS 메모"
 
 #~ msgid "Receive"
 #~ msgstr "받기"
