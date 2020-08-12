@@ -1,7 +1,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: \n"
-"POT-Creation-Date: 2020-08-11T16:25:51.174Z\n"
+"POT-Creation-Date: 2020-08-12T17:49:12.120Z\n"
 "PO-Revision-Date: \n"
 "Last-Translator: \n"
 "Language-Team: \n"
@@ -6015,16 +6015,17 @@ msgstr ""
 
 #. [MergeModalAgain.YourEditWillNowBeVotedOn]
 #. defaultMessage is:
-#. Your edit will now be voted on by the community. If it is accepted, you will receive an IQ reward for your contribution.  The IQ Tokens that you used to propose your edit will be locked up (staked) for 21 days.
+#. Your edit will now be voted on by the community. If it is accepted, you will receive an IQ reward for your contribution.  The IQ Tokens that you used to propose your edit will be locked up (staked) for 5 days.
 #. [SaveModalAgain.YourEditWillNowBeVotedOn]
 #. defaultMessage is:
-#. Your edit will now be voted on by the community. If it is accepted, you will receive an IQ reward for your contribution.  The IQ Tokens that you used to propose your edit will be locked up (staked) for 21 days.
+#. Your edit will now be voted on by the community. If it is accepted, you will receive an IQ reward for your contribution.  The IQ Tokens that you used to propose your edit will be locked up (staked) for 5 days.
 #: translations/.messages/src/editor/plugins/merge/merge-modal.json
 #: translations/.messages/src/editor/plugins/save/save-modal.json
+
 msgid ""
 "Your edit will now be voted on by the community. If it is accepted, you will "
 "receive an IQ reward for your contribution.  The IQ Tokens that you used to "
-"propose your edit will be locked up (staked) for 21 days."
+"propose your edit will be locked up (staked) for 5 days."
 msgstr ""
 "Su edición será ahora votada por la comunidad. Si es aceptado, recibirás una "
 "recompensa de IQ por tu contribución.  Los IQ Tokens que usó para proponer "

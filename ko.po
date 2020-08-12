@@ -1,7 +1,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: \n"
-"POT-Creation-Date: 2020-08-11T16:25:51.174Z\n"
+"POT-Creation-Date: 2020-08-12T17:49:12.120Z\n"
 "PO-Revision-Date: \n"
 "Last-Translator: \n"
 "Language-Team: \n"
@@ -3216,7 +3216,6 @@ msgstr "운영진"
 #. defaultMessage is:
 #. Memo
 #: translations/.messages/src/app/containers/dashboard/MyUserDashboard/IQTab/WithdrawIQ.json
-
 msgid "Memo"
 msgstr "EOS 메모"
 
@@ -5942,16 +5941,17 @@ msgstr "대화를 시작하면 진행 중인 채팅이 나타납니다"
 
 #. [MergeModalAgain.YourEditWillNowBeVotedOn]
 #. defaultMessage is:
-#. Your edit will now be voted on by the community. If it is accepted, you will receive an IQ reward for your contribution.  The IQ Tokens that you used to propose your edit will be locked up (staked) for 21 days.
+#. Your edit will now be voted on by the community. If it is accepted, you will receive an IQ reward for your contribution.  The IQ Tokens that you used to propose your edit will be locked up (staked) for 5 days.
 #. [SaveModalAgain.YourEditWillNowBeVotedOn]
 #. defaultMessage is:
-#. Your edit will now be voted on by the community. If it is accepted, you will receive an IQ reward for your contribution.  The IQ Tokens that you used to propose your edit will be locked up (staked) for 21 days.
+#. Your edit will now be voted on by the community. If it is accepted, you will receive an IQ reward for your contribution.  The IQ Tokens that you used to propose your edit will be locked up (staked) for 5 days.
 #: translations/.messages/src/editor/plugins/merge/merge-modal.json
 #: translations/.messages/src/editor/plugins/save/save-modal.json
+
 msgid ""
 "Your edit will now be voted on by the community. If it is accepted, you will "
 "receive an IQ reward for your contribution.  The IQ Tokens that you used to "
-"propose your edit will be locked up (staked) for 21 days."
+"propose your edit will be locked up (staked) for 5 days."
 msgstr ""
 "편집 제안이 투표 중입니다. 투표결과 승인되면, 편집에 따른 보상으로 IQ 토큰을 "
 "받습니다. 편집 제안을 하는데 사용한 IQ 토큰은 21일 동안 예치됩니다."
