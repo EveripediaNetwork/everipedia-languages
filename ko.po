@@ -1,7 +1,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: \n"
-"POT-Creation-Date: 2020-08-12T17:49:12.120Z\n"
+"POT-Creation-Date: 2020-08-14T20:00:43.045Z\n"
 "PO-Revision-Date: \n"
 "Last-Translator: \n"
 "Language-Team: \n"
@@ -5640,18 +5640,6 @@ msgstr "Lynx 트랜잭션 실행 중입니다"
 msgid "Wait a moment while we load your account."
 msgstr "Lynx 실행 중입니다"
 
-#. [SaveModalAgain.txLoadOreId]
-#. defaultMessage is:
-#. Wait a moment while we load your account.  You will be redirected to OreID to confirm your proposed edit.  You may be required to enter the pin that you created when you set up your account.
-#: translations/.messages/src/editor/plugins/save/save-modal.json
-msgid ""
-"Wait a moment while we load your account.  You will be redirected to OreID "
-"to confirm your proposed edit.  You may be required to enter the pin that "
-"you created when you set up your account."
-msgstr ""
-"계정을 실행하고 있습니다. 편집 제안을 ORE ID에서 확인합니다. 계정을 생성할때 "
-"입력한 핀 번호를 입력하세요"
-
 #. [LoginModal.WaitAMomentWhileWeLoad]
 #. defaultMessage is:
 #. Wait a moment while we load your wallet – If you don’t see the wallet window, check if it has loaded behind your current window.
@@ -5947,7 +5935,6 @@ msgstr "대화를 시작하면 진행 중인 채팅이 나타납니다"
 #. Your edit will now be voted on by the community. If it is accepted, you will receive an IQ reward for your contribution.  The IQ Tokens that you used to propose your edit will be locked up (staked) for 5 days.
 #: translations/.messages/src/editor/plugins/merge/merge-modal.json
 #: translations/.messages/src/editor/plugins/save/save-modal.json
-
 msgid ""
 "Your edit will now be voted on by the community. If it is accepted, you will "
 "receive an IQ reward for your contribution.  The IQ Tokens that you used to "
@@ -6320,6 +6307,14 @@ msgstr "시작"
 #: translations/.messages/src/app/components/SubmitVote/EditOverview.json
 msgid "words"
 msgstr "단어"
+
+#~ msgid ""
+#~ "Wait a moment while we load your account.  You will be redirected to "
+#~ "OreID to confirm your proposed edit.  You may be required to enter the "
+#~ "pin that you created when you set up your account."
+#~ msgstr ""
+#~ "계정을 실행하고 있습니다. 편집 제안을 ORE ID에서 확인합니다. 계정을 생성할"
+#~ "때 입력한 핀 번호를 입력하세요"
 
 #~ msgid "Learn how to set up an EOS account."
 #~ msgstr "EOS 계정 만드는 방법"

@@ -1,7 +1,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: \n"
-"POT-Creation-Date: 2020-08-12T17:49:12.120Z\n"
+"POT-Creation-Date: 2020-08-14T20:00:43.045Z\n"
 "PO-Revision-Date: \n"
 "Last-Translator: \n"
 "Language-Team: \n"
@@ -5645,18 +5645,6 @@ msgstr "请稍等，正在加载Lynx交易窗口。"
 msgid "Wait a moment while we load your account."
 msgstr "请稍等，正在加载Lynx。"
 
-#. [SaveModalAgain.txLoadOreId]
-#. defaultMessage is:
-#. Wait a moment while we load your account.  You will be redirected to OreID to confirm your proposed edit.  You may be required to enter the pin that you created when you set up your account.
-#: translations/.messages/src/editor/plugins/save/save-modal.json
-msgid ""
-"Wait a moment while we load your account.  You will be redirected to OreID "
-"to confirm your proposed edit.  You may be required to enter the pin that "
-"you created when you set up your account."
-msgstr ""
-"请稍等，我们正在加载您的帐户。您将被跳转至OreID，以确认您的编辑提议。您可能需"
-"要输入在设置帐户时创建的PIN码。"
-
 #. [LoginModal.WaitAMomentWhileWeLoad]
 #. defaultMessage is:
 #. Wait a moment while we load your wallet – If you don’t see the wallet window, check if it has loaded behind your current window.
@@ -5953,7 +5941,6 @@ msgstr "当您在文章中开始对话时，您的活跃聊天将显示在此处
 #. Your edit will now be voted on by the community. If it is accepted, you will receive an IQ reward for your contribution.  The IQ Tokens that you used to propose your edit will be locked up (staked) for 5 days.
 #: translations/.messages/src/editor/plugins/merge/merge-modal.json
 #: translations/.messages/src/editor/plugins/save/save-modal.json
-
 msgid ""
 "Your edit will now be voted on by the community. If it is accepted, you will "
 "receive an IQ reward for your contribution.  The IQ Tokens that you used to "
@@ -6326,6 +6313,14 @@ msgstr "始于"
 #: translations/.messages/src/app/components/SubmitVote/EditOverview.json
 msgid "words"
 msgstr "字数"
+
+#~ msgid ""
+#~ "Wait a moment while we load your account.  You will be redirected to "
+#~ "OreID to confirm your proposed edit.  You may be required to enter the "
+#~ "pin that you created when you set up your account."
+#~ msgstr ""
+#~ "请稍等，我们正在加载您的帐户。您将被跳转至OreID，以确认您的编辑提议。您可"
+#~ "能需要输入在设置帐户时创建的PIN码。"
 
 #~ msgid "Learn how to set up an EOS account."
 #~ msgstr "学习如何创建一个EOS账户"

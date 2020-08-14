@@ -1,7 +1,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: \n"
-"POT-Creation-Date: 2020-08-12T17:49:12.120Z\n"
+"POT-Creation-Date: 2020-08-14T20:00:43.045Z\n"
 "PO-Revision-Date: \n"
 "Last-Translator: \n"
 "Language-Team: \n"
@@ -5705,19 +5705,6 @@ msgstr "Espere un momento mientras cargamos la ventana de transacción de Lynx."
 msgid "Wait a moment while we load your account."
 msgstr "Espera un momento mientras cargamos a Lynx."
 
-#. [SaveModalAgain.txLoadOreId]
-#. defaultMessage is:
-#. Wait a moment while we load your account.  You will be redirected to OreID to confirm your proposed edit.  You may be required to enter the pin that you created when you set up your account.
-#: translations/.messages/src/editor/plugins/save/save-modal.json
-msgid ""
-"Wait a moment while we load your account.  You will be redirected to OreID "
-"to confirm your proposed edit.  You may be required to enter the pin that "
-"you created when you set up your account."
-msgstr ""
-"Espere un momento mientras cargamos su cuenta.  Se le redirigirá al OreID "
-"para que confirme la edición propuesta.  Es posible que se le pida que "
-"ingrese el pin que creó cuando configuró su cuenta."
-
 #. [LoginModal.WaitAMomentWhileWeLoad]
 #. defaultMessage is:
 #. Wait a moment while we load your wallet – If you don’t see the wallet window, check if it has loaded behind your current window.
@@ -6021,7 +6008,6 @@ msgstr ""
 #. Your edit will now be voted on by the community. If it is accepted, you will receive an IQ reward for your contribution.  The IQ Tokens that you used to propose your edit will be locked up (staked) for 5 days.
 #: translations/.messages/src/editor/plugins/merge/merge-modal.json
 #: translations/.messages/src/editor/plugins/save/save-modal.json
-
 msgid ""
 "Your edit will now be voted on by the community. If it is accepted, you will "
 "receive an IQ reward for your contribution.  The IQ Tokens that you used to "
@@ -6395,6 +6381,15 @@ msgstr "fue iniciada por"
 #: translations/.messages/src/app/components/SubmitVote/EditOverview.json
 msgid "words"
 msgstr "palabras"
+
+#~ msgid ""
+#~ "Wait a moment while we load your account.  You will be redirected to "
+#~ "OreID to confirm your proposed edit.  You may be required to enter the "
+#~ "pin that you created when you set up your account."
+#~ msgstr ""
+#~ "Espere un momento mientras cargamos su cuenta.  Se le redirigirá al OreID "
+#~ "para que confirme la edición propuesta.  Es posible que se le pida que "
+#~ "ingrese el pin que creó cuando configuró su cuenta."
 
 #~ msgid ""
 #~ "You need to make an edit before you can vote with your Ore ID account"
