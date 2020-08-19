@@ -1,11 +1,8 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: \n"
-"POT-Creation-Date: 2020-08-14T20:00:43.045Z\n"
+"POT-Creation-Date: 2020-08-18T21:11:21.655Z\n"
 "PO-Revision-Date: \n"
-"Last-Translator: \n"
-"Language-Team: \n"
-"Language: es_ES\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
@@ -249,14 +246,14 @@ msgstr "SALDO DISPONIBLE"
 #. [About.About]
 #. defaultMessage is:
 #. About
-#. [Featured.AboutTwo]
+#. [BlackTopNav.AboutTwo]
 #. defaultMessage is:
 #. About
 #: translations/.messages/src/app/components/Footer/index.json
 #: translations/.messages/src/app/components/TopNav/index.json
 #: translations/.messages/src/app/components/TopNav/Mobile-Hamburger.json
 #: translations/.messages/src/app/containers/about/about.container.json
-#: translations/.messages/src/app/containers/homepageContainer/featured.json
+#: translations/.messages/src/app/containers/homepageContainer/BlackTopNav.json
 msgid "About"
 msgstr "Sobre"
 
@@ -351,13 +348,13 @@ msgstr "Voto Activo"
 #. [MobileHamburger.Activity]
 #. defaultMessage is:
 #. Activity
-#. [Featured.ActivityTwo]
+#. [BlackTopNav.ActivityTwo]
 #. defaultMessage is:
 #. Activity
 #: translations/.messages/src/app/components/Chat/index.json
 #: translations/.messages/src/app/components/TopNav/index.json
 #: translations/.messages/src/app/components/TopNav/Mobile-Hamburger.json
-#: translations/.messages/src/app/containers/homepageContainer/featured.json
+#: translations/.messages/src/app/containers/homepageContainer/BlackTopNav.json
 msgid "Activity"
 msgstr "Actividad"
 
@@ -618,6 +615,13 @@ msgstr ""
 msgid "An account with that email or username already exists"
 msgstr ""
 
+#. [Homepage.AboveTheFold.EcoSystemOfKnowledge]
+#. defaultMessage is:
+#. An ecosystem of knowledge.
+#: translations/.messages/src/app/containers/homepageContainer/AboveTheFold.json
+msgid "An ecosystem of knowledge."
+msgstr "Un universo de conocimiento."
+
 #. [Homepage.ModernAge]
 #. defaultMessage is:
 #. An encyclopedia for the modern age.
@@ -756,14 +760,14 @@ msgstr "Cumpleaños"
 #. [BlogFullPage.Blog]
 #. defaultMessage is:
 #. Blog
-#. [Featured.Blog]
+#. [BlackTopNav.Blog]
 #. defaultMessage is:
 #. Blog
 #: translations/.messages/src/app/components/Footer/index.json
 #: translations/.messages/src/app/components/TopNav/index.json
 #: translations/.messages/src/app/components/TopNav/Mobile-Hamburger.json
 #: translations/.messages/src/app/containers/blog/blog-full-page.json
-#: translations/.messages/src/app/containers/homepageContainer/featured.json
+#: translations/.messages/src/app/containers/homepageContainer/BlackTopNav.json
 msgid "Blog"
 msgstr "Blog"
 
@@ -967,7 +971,7 @@ msgstr "Cambiado"
 #: translations/.messages/src/app/components/Chat/messages.json
 #: translations/.messages/src/app/components/TopNav/index.json
 #: translations/.messages/src/app/components/TopNav/Mobile-Hamburger.json
-#: translations/.messages/src/app/containers/homepageContainer/featured.json
+#: translations/.messages/src/app/containers/homepageContainer/BlackTopNav.json
 msgid "Chat"
 msgstr "Chat"
 
@@ -1294,13 +1298,13 @@ msgstr "Iniciar sesión / Crear una cuenta"
 #. [Header.CreateArticle]
 #. defaultMessage is:
 #. Create New Wiki
-#. [Featured.CreateArticleTwo]
+#. [BlackTopNav.CreateArticleTwo]
 #. defaultMessage is:
 #. Create New Wiki
 #: translations/.messages/src/app/components/create-new-page/index.json
 #: translations/.messages/src/app/components/Search/SearchResults.json
 #: translations/.messages/src/app/components/TopNav/index.json
-#: translations/.messages/src/app/containers/homepageContainer/featured.json
+#: translations/.messages/src/app/containers/homepageContainer/BlackTopNav.json
 msgid "Create New Wiki"
 msgstr "Crear una nueva wiki"
 
@@ -1968,6 +1972,16 @@ msgstr ""
 msgid ""
 "Everipedia uses cookies to provide you with a great user experience. "
 "Everipedia will never sell any personal information."
+msgstr ""
+
+#. [Homepage.AboveTheFold.EveripediasVision]
+#. defaultMessage is:
+#. Everipedia's vision is to bring real-world data and knowledge to the blockchain, helping verify facts in an era of misinformation and unlocking a new class of use cases in financial markets
+#: translations/.messages/src/app/containers/homepageContainer/AboveTheFold.json
+msgid ""
+"Everipedia's vision is to bring real-world data and knowledge to the "
+"blockchain, helping verify facts in an era of misinformation and unlocking a "
+"new class of use cases in financial markets"
 msgstr ""
 
 #. [About.ModernDesignText]
@@ -3594,6 +3608,13 @@ msgstr "PÁGINAS ORIGINALES"
 msgid "Occupation"
 msgstr "Profesión"
 
+#. [Homepage.AboveTheFold.OnTheBlockchain]
+#. defaultMessage is:
+#. On the blockchain.
+#: translations/.messages/src/app/containers/homepageContainer/AboveTheFold.json
+msgid "On the blockchain."
+msgstr ""
+
 #. [SaveModalAgain.OnceYouSubmitEdits]
 #. defaultMessage is:
 #. Once you submit edits, they will be displayed immediately in the article and be open for voting. If approved by the community, your edits will be accepted into the article.
@@ -4349,6 +4370,13 @@ msgstr "Iniciar sesión con correo electrónico"
 msgid "Reset Password"
 msgstr "palabras"
 
+#. [EditOverview.Restore]
+#. defaultMessage is:
+#. Restore
+#: translations/.messages/src/app/components/SubmitVote/EditOverview.json
+msgid "Restore"
+msgstr ""
+
 #. [Stats.RestrictedArea]
 #. defaultMessage is:
 #. Restricted area.
@@ -4436,6 +4464,14 @@ msgstr "Guardar"
 #: translations/.messages/src/editor/plugins/metadata/metadata-modal.json
 msgid "Science / Academia / Humanities"
 msgstr "Ciencias/Academia/Humanidades"
+
+#. [HomepageSearch.Search]
+#. defaultMessage is:
+#. Search
+#: translations/.messages/src/app/containers/homepageContainer/HomepageSearch.json
+
+msgid "Search"
+msgstr "Buscando..."
 
 #. [Search.SearchPlaceholder]
 #. defaultMessage is:

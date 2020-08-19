@@ -1,7 +1,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: \n"
-"POT-Creation-Date: 2020-08-14T20:00:43.045Z\n"
+"POT-Creation-Date: 2020-08-19T21:08:43.379Z\n"
 "PO-Revision-Date: \n"
 "Last-Translator: \n"
 "Language-Team: \n"
@@ -249,14 +249,14 @@ msgstr "사용가능 IQ"
 #. [About.About]
 #. defaultMessage is:
 #. About
-#. [Featured.AboutTwo]
+#. [BlackTopNav.AboutTwo]
 #. defaultMessage is:
 #. About
 #: translations/.messages/src/app/components/Footer/index.json
 #: translations/.messages/src/app/components/TopNav/index.json
 #: translations/.messages/src/app/components/TopNav/Mobile-Hamburger.json
 #: translations/.messages/src/app/containers/about/about.container.json
-#: translations/.messages/src/app/containers/homepageContainer/featured.json
+#: translations/.messages/src/app/containers/homepageContainer/BlackTopNav.json
 msgid "About"
 msgstr "회사 소개"
 
@@ -351,13 +351,13 @@ msgstr "투표 진행중"
 #. [MobileHamburger.Activity]
 #. defaultMessage is:
 #. Activity
-#. [Featured.ActivityTwo]
+#. [BlackTopNav.ActivityTwo]
 #. defaultMessage is:
 #. Activity
 #: translations/.messages/src/app/components/Chat/index.json
 #: translations/.messages/src/app/components/TopNav/index.json
 #: translations/.messages/src/app/components/TopNav/Mobile-Hamburger.json
-#: translations/.messages/src/app/containers/homepageContainer/featured.json
+#: translations/.messages/src/app/containers/homepageContainer/BlackTopNav.json
 msgid "Activity"
 msgstr "최근 활동"
 
@@ -616,6 +616,13 @@ msgstr ""
 msgid "An account with that email or username already exists"
 msgstr ""
 
+#. [Homepage.AboveTheFold.EcoSystemOfKnowledge]
+#. defaultMessage is:
+#. An ecosystem of knowledge.
+#: translations/.messages/src/app/containers/homepageContainer/AboveTheFold.json
+msgid "An ecosystem of knowledge."
+msgstr "지식의 바다,"
+
 #. [Homepage.ModernAge]
 #. defaultMessage is:
 #. An encyclopedia for the modern age.
@@ -752,14 +759,14 @@ msgstr "출생"
 #. [BlogFullPage.Blog]
 #. defaultMessage is:
 #. Blog
-#. [Featured.Blog]
+#. [BlackTopNav.Blog]
 #. defaultMessage is:
 #. Blog
 #: translations/.messages/src/app/components/Footer/index.json
 #: translations/.messages/src/app/components/TopNav/index.json
 #: translations/.messages/src/app/components/TopNav/Mobile-Hamburger.json
 #: translations/.messages/src/app/containers/blog/blog-full-page.json
-#: translations/.messages/src/app/containers/homepageContainer/featured.json
+#: translations/.messages/src/app/containers/homepageContainer/BlackTopNav.json
 msgid "Blog"
 msgstr "블로그"
 
@@ -963,7 +970,7 @@ msgstr "변경됨"
 #: translations/.messages/src/app/components/Chat/messages.json
 #: translations/.messages/src/app/components/TopNav/index.json
 #: translations/.messages/src/app/components/TopNav/Mobile-Hamburger.json
-#: translations/.messages/src/app/containers/homepageContainer/featured.json
+#: translations/.messages/src/app/containers/homepageContainer/BlackTopNav.json
 msgid "Chat"
 msgstr "채팅"
 
@@ -1283,13 +1290,13 @@ msgstr "로그인 / 계정 만들기"
 #. [Header.CreateArticle]
 #. defaultMessage is:
 #. Create New Wiki
-#. [Featured.CreateArticleTwo]
+#. [BlackTopNav.CreateArticleTwo]
 #. defaultMessage is:
 #. Create New Wiki
 #: translations/.messages/src/app/components/create-new-page/index.json
 #: translations/.messages/src/app/components/Search/SearchResults.json
 #: translations/.messages/src/app/components/TopNav/index.json
-#: translations/.messages/src/app/containers/homepageContainer/featured.json
+#: translations/.messages/src/app/containers/homepageContainer/BlackTopNav.json
 msgid "Create New Wiki"
 msgstr "새 위키 만들기"
 
@@ -1951,6 +1958,19 @@ msgid ""
 msgstr ""
 "에브리피디아는 쿠키를 사용하여 사용자경험을 향상시키고 있으며, 이 정보를 판매"
 "하거나 하지 않습니다."
+
+#. [Homepage.AboveTheFold.EveripediasVision]
+#. defaultMessage is:
+#. Everipedia's vision is to bring real-world data and knowledge to the blockchain, helping verify facts in an era of misinformation and unlocking a new class of use cases in financial markets
+#: translations/.messages/src/app/containers/homepageContainer/AboveTheFold.json
+msgid ""
+"Everipedia's vision is to bring real-world data and knowledge to the "
+"blockchain, helping verify facts in an era of misinformation and unlocking a "
+"new class of use cases in financial markets"
+msgstr ""
+"에브리피디아의 비전은 실세계의 지식과 정보를 블록체인에 올려놓는 것입니다. 이"
+"를 통해 정보가 사실임을 확인할 수 있으며 금융 시장에서 새로운 사용 사례를 만"
+"들 수 있습니다."
 
 #. [About.ModernDesignText]
 #. defaultMessage is:
@@ -3558,6 +3578,13 @@ msgstr "원본"
 msgid "Occupation"
 msgstr "직업"
 
+#. [Homepage.AboveTheFold.OnTheBlockchain]
+#. defaultMessage is:
+#. On the blockchain.
+#: translations/.messages/src/app/containers/homepageContainer/AboveTheFold.json
+msgid "On the blockchain."
+msgstr ""
+
 #. [SaveModalAgain.OnceYouSubmitEdits]
 #. defaultMessage is:
 #. Once you submit edits, they will be displayed immediately in the article and be open for voting. If approved by the community, your edits will be accepted into the article.
@@ -4306,6 +4333,13 @@ msgstr ""
 msgid "Reset Password"
 msgstr "비밀번호 재설정"
 
+#. [EditOverview.Restore]
+#. defaultMessage is:
+#. Restore
+#: translations/.messages/src/app/components/SubmitVote/EditOverview.json
+msgid "Restore"
+msgstr ""
+
 #. [Stats.RestrictedArea]
 #. defaultMessage is:
 #. Restricted area.
@@ -4392,6 +4426,13 @@ msgstr "저장"
 #: translations/.messages/src/editor/plugins/metadata/metadata-modal.json
 msgid "Science / Academia / Humanities"
 msgstr "과학, 학문, 인문"
+
+#. [HomepageSearch.Search]
+#. defaultMessage is:
+#. Search
+#: translations/.messages/src/app/containers/homepageContainer/HomepageSearch.json
+msgid "Search"
+msgstr "검색 중"
 
 #. [Search.SearchPlaceholder]
 #. defaultMessage is:
