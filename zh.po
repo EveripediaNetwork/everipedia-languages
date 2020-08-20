@@ -1,7 +1,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: \n"
-"POT-Creation-Date: 2020-08-19T20:59:44.492Z\n"
+"POT-Creation-Date: 2020-08-20T22:26:22.152Z\n"
 "PO-Revision-Date: \n"
 "Last-Translator: \n"
 "Language-Team: \n"
@@ -5042,7 +5042,7 @@ msgstr "该信息框旨在提供简洁明了的信息。"
 #. The world's largest knowledge base.
 #: translations/.messages/src/app/containers/homepageContainer/homepage.container.json
 msgid "The world's largest knowledge base."
-msgstr ""
+msgstr "世界上最大的知识库。"
 
 #. [TeamInfo.TheodorForseliusBio]
 #. defaultMessage is:

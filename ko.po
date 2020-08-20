@@ -1,7 +1,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: \n"
-"POT-Creation-Date: 2020-08-19T21:08:43.379Z\n"
+"POT-Creation-Date: 2020-08-20T22:30:42.059Z\n"
 "PO-Revision-Date: \n"
 "Last-Translator: \n"
 "Language-Team: \n"
@@ -174,7 +174,7 @@ msgstr ""
 #. A universe of knowledge.
 #: translations/.messages/src/app/containers/homepageContainer/homepage.container.json
 msgid "A universe of knowledge."
-msgstr "지식의 바다,"
+msgstr "열린 지식,"
 
 #. [Leaderboard.AllTimeCap]
 #. defaultMessage is:
@@ -4432,7 +4432,7 @@ msgstr "과학, 학문, 인문"
 #. Search
 #: translations/.messages/src/app/containers/homepageContainer/HomepageSearch.json
 msgid "Search"
-msgstr "검색 중"
+msgstr "검색"
 
 #. [Search.SearchPlaceholder]
 #. defaultMessage is:
