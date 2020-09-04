@@ -1,7 +1,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: \n"
-"POT-Creation-Date: 2020-08-20T22:26:22.152Z\n"
+"POT-Creation-Date: 2020-09-02T14:53:49.162Z\n"
 "PO-Revision-Date: \n"
 "Last-Translator: \n"
 "Language-Team: \n"
@@ -163,7 +163,7 @@ msgstr "7天"
 #. [EpIdLogin.ALinkToResetHasBeenSent]
 #. defaultMessage is:
 #. A link to reset your password has been sent to your email. Click the link there to create a new password.
-#: translations/.messages/src/app/components/Login/epid-login.modal.json
+#: translations/.messages/src/app/components/Login/EpIdLoginModal.json
 msgid ""
 "A link to reset your password has been sent to your email. Click the link "
 "there to create a new password."
@@ -614,7 +614,7 @@ msgstr ""
 #. [EpIdLogin.ErrorUsernameOrEmailExists]
 #. defaultMessage is:
 #. An account with that email or username already exists
-#: translations/.messages/src/app/components/Login/epid-login.modal.json
+#: translations/.messages/src/app/components/Login/EpIdLoginModal.json
 msgid "An account with that email or username already exists"
 msgstr ""
 
@@ -715,8 +715,8 @@ msgstr "可用余额"
 #. [EpIdLogin.Back]
 #. defaultMessage is:
 #. Back
-#: translations/.messages/src/app/components/Login/epid-login.modal.json
 #: translations/.messages/src/app/components/Login/epid-register.modal.json
+#: translations/.messages/src/app/components/Login/EpIdLoginModal.json
 msgid "Back"
 msgstr "返回"
 
@@ -1092,8 +1092,8 @@ msgstr "单击以对此编辑进行投票"
 #. [EpIdLogin.Close]
 #. defaultMessage is:
 #. Close
-#: translations/.messages/src/app/components/Login/epid-login.modal.json
 #: translations/.messages/src/app/components/Login/epid-register.modal.json
+#: translations/.messages/src/app/components/Login/EpIdLoginModal.json
 msgid "Close"
 msgstr "关闭"
 
@@ -1497,7 +1497,7 @@ msgstr ""
 #. [EpIdLogin.DontHaveAccountQuestion]
 #. defaultMessage is:
 #. Don't have an account?
-#: translations/.messages/src/app/components/Login/epid-login.modal.json
+#: translations/.messages/src/app/components/Login/EpIdLoginModal.json
 msgid "Don't have an account?"
 msgstr "获得帐号"
 
@@ -1725,8 +1725,8 @@ msgstr "电子产品/软件"
 #. [NewPageTemplate.NPT_Person_Email]
 #. defaultMessage is:
 #. Email
-#: translations/.messages/src/app/components/Login/epid-login.modal.json
 #: translations/.messages/src/app/components/Login/epid-register.modal.json
+#: translations/.messages/src/app/components/Login/EpIdLoginModal.json
 #: translations/.messages/src/editor/utils/editing-utils/template-packs/organization.json
 #: translations/.messages/src/editor/utils/editing-utils/template-packs/person.json
 msgid "Email"
@@ -1735,7 +1735,7 @@ msgstr "电子邮件"
 #. [EpIdLogin.EmailAddress]
 #. defaultMessage is:
 #. Email Address
-#: translations/.messages/src/app/components/Login/epid-login.modal.json
+#: translations/.messages/src/app/components/Login/EpIdLoginModal.json
 msgid "Email Address"
 msgstr "电邮地址"
 
@@ -1851,8 +1851,8 @@ msgstr "错误代码"
 #. [EpIdLogin.ErrorWithPunctuationAndSpace]
 #. defaultMessage is:
 #. Error: 
-#: translations/.messages/src/app/components/Login/epid-login.modal.json
 #: translations/.messages/src/app/components/Login/epid-register.modal.json
+#: translations/.messages/src/app/components/Login/EpIdLoginModal.json
 msgid "Error: "
 msgstr "错误"
 
@@ -1962,6 +1962,13 @@ msgstr ""
 "Everipedia使用cookie为您提供良好的用户体验。Everipedia永远不会出售任何个人信"
 "息。”"
 
+#. [FutureKnowledgeSection.EveripediasKnowledgeMarket]
+#. defaultMessage is:
+#. Everipedia's Knowledge Market: PredIQt
+#: translations/.messages/src/app/containers/homepageContainer/FutureKnowledgeSection/FutureKnowledgeSection.json
+msgid "Everipedia's Knowledge Market: PredIQt"
+msgstr ""
+
 #. [Homepage.AboveTheFold.EveripediasVision]
 #. defaultMessage is:
 #. Everipedia's vision is to bring real-world data and knowledge to the blockchain, helping verify facts in an era of misinformation and unlocking a new class of use cases in financial markets
@@ -2006,6 +2013,13 @@ msgstr "现有"
 #: translations/.messages/src/editor/plugins/section-embed-modal/section-embed-modal.json
 msgid "Existing Media"
 msgstr "现有媒体"
+
+#. [FutureKnowledgeSection.ExploreMarkets]
+#. defaultMessage is:
+#. Explore Markets
+#: translations/.messages/src/app/containers/homepageContainer/FutureKnowledgeSection/FutureKnowledgeSection.json
+msgid "Explore Markets"
+msgstr ""
 
 #. [LastBlock.ExploreYourCuriosity]
 #. defaultMessage is:
@@ -2146,14 +2160,14 @@ msgstr "第一次编辑"
 #. [EpIdLogin.ForgotPassword]
 #. defaultMessage is:
 #. Forgot Password
-#: translations/.messages/src/app/components/Login/epid-login.modal.json
+#: translations/.messages/src/app/components/Login/EpIdLoginModal.json
 msgid "Forgot Password"
 msgstr "忘记密码"
 
 #. [EpIdLogin.ForgotPasswordQuestion]
 #. defaultMessage is:
 #. Forgot Password?
-#: translations/.messages/src/app/components/Login/epid-login.modal.json
+#: translations/.messages/src/app/components/Login/EpIdLoginModal.json
 msgid "Forgot Password?"
 msgstr "忘记密码？"
 
@@ -2553,7 +2567,7 @@ msgstr "图像链接"
 #. [EpIdLogin.ErrorIncorrectUsernameOrPassword]
 #. defaultMessage is:
 #. Incorrect username or password. Please try again.
-#: translations/.messages/src/app/components/Login/epid-login.modal.json
+#: translations/.messages/src/app/components/Login/EpIdLoginModal.json
 msgid "Incorrect username or password. Please try again."
 msgstr "请重试"
 
@@ -2972,10 +2986,10 @@ msgstr "退出"
 #. [Notifications.Login]
 #. defaultMessage is:
 #. Login
-#. [EpIdLogin.Login]
+#. [EpIdRegister.Login]
 #. defaultMessage is:
 #. Login
-#. [EpIdRegister.Login]
+#. [EpIdLogin.Login]
 #. defaultMessage is:
 #. Login
 #. [EpIdResetPassword.Login]
@@ -2990,8 +3004,8 @@ msgstr "退出"
 #: translations/.messages/src/app/components/Chat/ChatInput.json
 #: translations/.messages/src/app/components/Chat/Directory.json
 #: translations/.messages/src/app/components/Chat/Notifications.json
-#: translations/.messages/src/app/components/Login/epid-login.modal.json
 #: translations/.messages/src/app/components/Login/epid-register.modal.json
+#: translations/.messages/src/app/components/Login/EpIdLoginModal.json
 #: translations/.messages/src/app/components/Login/EPIDResetPasswordModal.json
 #: translations/.messages/src/app/components/TopNav/account-name-header.json
 #: translations/.messages/src/app/utils/errors.json
@@ -3001,7 +3015,7 @@ msgstr "登录"
 #. [EpIdLogin.LoginSuccessfulWithPunctuation]
 #. defaultMessage is:
 #. Login Successful!
-#: translations/.messages/src/app/components/Login/epid-login.modal.json
+#: translations/.messages/src/app/components/Login/EpIdLoginModal.json
 msgid "Login Successful!"
 msgstr "交易成功！"
 
@@ -3043,7 +3057,7 @@ msgstr "登录以参与文章聊天"
 #. [LoginModal.LoginWithEmail]
 #. defaultMessage is:
 #. Login with Email
-#: translations/.messages/src/app/components/Login/epid-login.modal.json
+#: translations/.messages/src/app/components/Login/EpIdLoginModal.json
 #: translations/.messages/src/app/components/Login/Login.json
 msgid "Login with Email"
 msgstr "用电子邮件登录"
@@ -3308,14 +3322,14 @@ msgstr "立即编辑"
 #. [EpIdLogin.MigratingFromOREID?]
 #. defaultMessage is:
 #. Migrating from OREID?
-#: translations/.messages/src/app/components/Login/epid-login.modal.json
+#: translations/.messages/src/app/components/Login/EpIdLoginModal.json
 msgid "Migrating from OREID?"
 msgstr "从OreID迁移"
 
 #. [EpIdLogin.MinimumPasswordLength]
 #. defaultMessage is:
 #. Minimum password length is 8
-#: translations/.messages/src/app/components/Login/epid-login.modal.json
+#: translations/.messages/src/app/components/Login/EpIdLoginModal.json
 msgid "Minimum password length is 8"
 msgstr "最小密码长度为8位"
 
@@ -3790,14 +3804,14 @@ msgstr "浏览量"
 msgid "Participants"
 msgstr "参与者"
 
-#. [EpIdLogin.Password]
-#. defaultMessage is:
-#. Password
 #. [EpIdRegisterModal.Password]
 #. defaultMessage is:
 #. Password
-#: translations/.messages/src/app/components/Login/epid-login.modal.json
+#. [EpIdLogin.Password]
+#. defaultMessage is:
+#. Password
 #: translations/.messages/src/app/components/Login/epid-register.modal.json
+#: translations/.messages/src/app/components/Login/EpIdLoginModal.json
 msgid "Password"
 msgstr "密码"
 
@@ -3995,6 +4009,13 @@ msgstr "支持方"
 #: translations/.messages/src/app/containers/homepageContainer/homepage.container.json
 msgid "Powered by the IQ Token."
 msgstr "由您支持。"
+
+#. [FutureKnowledgeSection.PredictTheOutcome]
+#. defaultMessage is:
+#. Predict the outcome of future events.
+#: translations/.messages/src/app/containers/homepageContainer/FutureKnowledgeSection/FutureKnowledgeSection.json
+msgid "Predict the outcome of future events."
+msgstr ""
 
 #. [TeamInfo.SamKazemianTitle]
 #. defaultMessage is:
@@ -4322,7 +4343,7 @@ msgstr "报告程序错误"
 #. [EpIdLogin.ResendEmail]
 #. defaultMessage is:
 #. Resend Email
-#: translations/.messages/src/app/components/Login/epid-login.modal.json
+#: translations/.messages/src/app/components/Login/EpIdLoginModal.json
 msgid "Resend Email"
 msgstr "用电子邮件登录"
 
@@ -4332,7 +4353,7 @@ msgstr "用电子邮件登录"
 #. [EpIdResetPassword.ResetPassword]
 #. defaultMessage is:
 #. Reset Password
-#: translations/.messages/src/app/components/Login/epid-login.modal.json
+#: translations/.messages/src/app/components/Login/EpIdLoginModal.json
 #: translations/.messages/src/app/components/Login/EPIDResetPasswordModal.json
 msgid "Reset Password"
 msgstr "重置密码"
@@ -4650,7 +4671,7 @@ msgstr "显示所有引文"
 #. defaultMessage is:
 #. Sign Up
 #: translations/.messages/src/app/components/learn-more/index.json
-#: translations/.messages/src/app/components/Login/epid-login.modal.json
+#: translations/.messages/src/app/components/Login/EpIdLoginModal.json
 #: translations/.messages/src/app/components/TopNav/account-name-header.json
 #: translations/.messages/src/app/containers/about/last-block.json
 #: translations/.messages/src/app/utils/errors.json
@@ -4803,7 +4824,7 @@ msgstr "正在提交您的文章编辑"
 #. [EpIdResetPassword.SuccessExclamation]
 #. defaultMessage is:
 #. Success!
-#: translations/.messages/src/app/components/Login/epid-login.modal.json
+#: translations/.messages/src/app/components/Login/EpIdLoginModal.json
 #: translations/.messages/src/app/components/Login/EPIDResetPasswordModal.json
 msgid "Success!"
 msgstr "成功！"
@@ -5216,7 +5237,7 @@ msgstr "今日"
 #. [EpIdLogin.ErrorTooManyAttempts]
 #. defaultMessage is:
 #. Too many login attempts. Please try again later.
-#: translations/.messages/src/app/components/Login/epid-login.modal.json
+#: translations/.messages/src/app/components/Login/EpIdLoginModal.json
 msgid "Too many login attempts. Please try again later."
 msgstr ""
 
@@ -5334,7 +5355,7 @@ msgstr "URL Slug Alt"
 #. [EpIdLogin.ErrorUndefined]
 #. defaultMessage is:
 #. Undefined error: please try again.
-#: translations/.messages/src/app/components/Login/epid-login.modal.json
+#: translations/.messages/src/app/components/Login/EpIdLoginModal.json
 msgid "Undefined error: please try again."
 msgstr "请重试"
 
@@ -5398,15 +5419,15 @@ msgstr ""
 #. [EditProfile.Username]
 #. defaultMessage is:
 #. Username
-#. [EpIdLogin.Username]
-#. defaultMessage is:
-#. Username
 #. [EpIdRegisterModal.Username]
 #. defaultMessage is:
 #. Username
+#. [EpIdLogin.Username]
+#. defaultMessage is:
+#. Username
 #: translations/.messages/src/app/components/edit-profile/index.json
-#: translations/.messages/src/app/components/Login/epid-login.modal.json
 #: translations/.messages/src/app/components/Login/epid-register.modal.json
+#: translations/.messages/src/app/components/Login/EpIdLoginModal.json
 msgid "Username"
 msgstr "用户名"
 
@@ -5777,7 +5798,7 @@ msgstr "我们收到以下错误"
 #. [EpIdLogin.WellEmailInstructions]
 #. defaultMessage is:
 #. We will email you instructions on how to reset your password.
-#: translations/.messages/src/app/components/Login/epid-login.modal.json
+#: translations/.messages/src/app/components/Login/EpIdLoginModal.json
 msgid "We will email you instructions on how to reset your password."
 msgstr "我们将通过电子邮件告知您如何重置密码"
 

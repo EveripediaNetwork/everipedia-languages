@@ -1,7 +1,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: \n"
-"POT-Creation-Date: 2020-08-18T21:11:21.655Z\n"
+"POT-Creation-Date: 2020-09-02T14:53:49.162Z\n"
 "PO-Revision-Date: \n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
@@ -160,7 +160,7 @@ msgstr "7 DIAS"
 #. [EpIdLogin.ALinkToResetHasBeenSent]
 #. defaultMessage is:
 #. A link to reset your password has been sent to your email. Click the link there to create a new password.
-#: translations/.messages/src/app/components/Login/epid-login.modal.json
+#: translations/.messages/src/app/components/Login/EpIdLoginModal.json
 msgid ""
 "A link to reset your password has been sent to your email. Click the link "
 "there to create a new password."
@@ -611,7 +611,7 @@ msgstr ""
 #. [EpIdLogin.ErrorUsernameOrEmailExists]
 #. defaultMessage is:
 #. An account with that email or username already exists
-#: translations/.messages/src/app/components/Login/epid-login.modal.json
+#: translations/.messages/src/app/components/Login/EpIdLoginModal.json
 msgid "An account with that email or username already exists"
 msgstr ""
 
@@ -715,8 +715,8 @@ msgstr "Saldo disponible"
 #. [EpIdLogin.Back]
 #. defaultMessage is:
 #. Back
-#: translations/.messages/src/app/components/Login/epid-login.modal.json
 #: translations/.messages/src/app/components/Login/epid-register.modal.json
+#: translations/.messages/src/app/components/Login/EpIdLoginModal.json
 msgid "Back"
 msgstr ""
 
@@ -1095,8 +1095,8 @@ msgstr "Haga clic para votar sobre esta edición"
 #. [EpIdLogin.Close]
 #. defaultMessage is:
 #. Close
-#: translations/.messages/src/app/components/Login/epid-login.modal.json
 #: translations/.messages/src/app/components/Login/epid-register.modal.json
+#: translations/.messages/src/app/components/Login/EpIdLoginModal.json
 msgid "Close"
 msgstr ""
 
@@ -1504,7 +1504,7 @@ msgstr ""
 #. [EpIdLogin.DontHaveAccountQuestion]
 #. defaultMessage is:
 #. Don't have an account?
-#: translations/.messages/src/app/components/Login/epid-login.modal.json
+#: translations/.messages/src/app/components/Login/EpIdLoginModal.json
 msgid "Don't have an account?"
 msgstr "Obtener una cuenta"
 
@@ -1734,8 +1734,8 @@ msgstr "Electrónica/Software"
 #. [NewPageTemplate.NPT_Person_Email]
 #. defaultMessage is:
 #. Email
-#: translations/.messages/src/app/components/Login/epid-login.modal.json
 #: translations/.messages/src/app/components/Login/epid-register.modal.json
+#: translations/.messages/src/app/components/Login/EpIdLoginModal.json
 #: translations/.messages/src/editor/utils/editing-utils/template-packs/organization.json
 #: translations/.messages/src/editor/utils/editing-utils/template-packs/person.json
 msgid "Email"
@@ -1744,7 +1744,7 @@ msgstr "Email"
 #. [EpIdLogin.EmailAddress]
 #. defaultMessage is:
 #. Email Address
-#: translations/.messages/src/app/components/Login/epid-login.modal.json
+#: translations/.messages/src/app/components/Login/EpIdLoginModal.json
 msgid "Email Address"
 msgstr "Dirección de correo electrónico"
 
@@ -1862,8 +1862,8 @@ msgstr "Código de error"
 #. [EpIdLogin.ErrorWithPunctuationAndSpace]
 #. defaultMessage is:
 #. Error: 
-#: translations/.messages/src/app/components/Login/epid-login.modal.json
 #: translations/.messages/src/app/components/Login/epid-register.modal.json
+#: translations/.messages/src/app/components/Login/EpIdLoginModal.json
 msgid "Error: "
 msgstr "Error"
 
@@ -1974,6 +1974,13 @@ msgid ""
 "Everipedia will never sell any personal information."
 msgstr ""
 
+#. [FutureKnowledgeSection.EveripediasKnowledgeMarket]
+#. defaultMessage is:
+#. Everipedia's Knowledge Market: PredIQt
+#: translations/.messages/src/app/containers/homepageContainer/FutureKnowledgeSection/FutureKnowledgeSection.json
+msgid "Everipedia's Knowledge Market: PredIQt"
+msgstr ""
+
 #. [Homepage.AboveTheFold.EveripediasVision]
 #. defaultMessage is:
 #. Everipedia's vision is to bring real-world data and knowledge to the blockchain, helping verify facts in an era of misinformation and unlocking a new class of use cases in financial markets
@@ -2019,6 +2026,13 @@ msgstr "Existentes"
 #: translations/.messages/src/editor/plugins/section-embed-modal/section-embed-modal.json
 msgid "Existing Media"
 msgstr "Medios de comunicación existentes"
+
+#. [FutureKnowledgeSection.ExploreMarkets]
+#. defaultMessage is:
+#. Explore Markets
+#: translations/.messages/src/app/containers/homepageContainer/FutureKnowledgeSection/FutureKnowledgeSection.json
+msgid "Explore Markets"
+msgstr ""
 
 #. [LastBlock.ExploreYourCuriosity]
 #. defaultMessage is:
@@ -2159,14 +2173,14 @@ msgstr "Primera edición"
 #. [EpIdLogin.ForgotPassword]
 #. defaultMessage is:
 #. Forgot Password
-#: translations/.messages/src/app/components/Login/epid-login.modal.json
+#: translations/.messages/src/app/components/Login/EpIdLoginModal.json
 msgid "Forgot Password"
 msgstr "Confirme su voto"
 
 #. [EpIdLogin.ForgotPasswordQuestion]
 #. defaultMessage is:
 #. Forgot Password?
-#: translations/.messages/src/app/components/Login/epid-login.modal.json
+#: translations/.messages/src/app/components/Login/EpIdLoginModal.json
 msgid "Forgot Password?"
 msgstr "Confirme su voto"
 
@@ -2577,7 +2591,7 @@ msgstr "URL de la imagen"
 #. [EpIdLogin.ErrorIncorrectUsernameOrPassword]
 #. defaultMessage is:
 #. Incorrect username or password. Please try again.
-#: translations/.messages/src/app/components/Login/epid-login.modal.json
+#: translations/.messages/src/app/components/Login/EpIdLoginModal.json
 msgid "Incorrect username or password. Please try again."
 msgstr "Por favor inténtelo de nuevo"
 
@@ -2999,10 +3013,10 @@ msgstr "Cerrar sesión"
 #. [Notifications.Login]
 #. defaultMessage is:
 #. Login
-#. [EpIdLogin.Login]
+#. [EpIdRegister.Login]
 #. defaultMessage is:
 #. Login
-#. [EpIdRegister.Login]
+#. [EpIdLogin.Login]
 #. defaultMessage is:
 #. Login
 #. [EpIdResetPassword.Login]
@@ -3017,8 +3031,8 @@ msgstr "Cerrar sesión"
 #: translations/.messages/src/app/components/Chat/ChatInput.json
 #: translations/.messages/src/app/components/Chat/Directory.json
 #: translations/.messages/src/app/components/Chat/Notifications.json
-#: translations/.messages/src/app/components/Login/epid-login.modal.json
 #: translations/.messages/src/app/components/Login/epid-register.modal.json
+#: translations/.messages/src/app/components/Login/EpIdLoginModal.json
 #: translations/.messages/src/app/components/Login/EPIDResetPasswordModal.json
 #: translations/.messages/src/app/components/TopNav/account-name-header.json
 #: translations/.messages/src/app/utils/errors.json
@@ -3028,7 +3042,7 @@ msgstr "Iniciar sesión"
 #. [EpIdLogin.LoginSuccessfulWithPunctuation]
 #. defaultMessage is:
 #. Login Successful!
-#: translations/.messages/src/app/components/Login/epid-login.modal.json
+#: translations/.messages/src/app/components/Login/EpIdLoginModal.json
 msgid "Login Successful!"
 msgstr "La transacción se ha realizado con éxito"
 
@@ -3070,7 +3084,7 @@ msgstr "Iniciar sesión para participar en el chat del artículo"
 #. [LoginModal.LoginWithEmail]
 #. defaultMessage is:
 #. Login with Email
-#: translations/.messages/src/app/components/Login/epid-login.modal.json
+#: translations/.messages/src/app/components/Login/EpIdLoginModal.json
 #: translations/.messages/src/app/components/Login/Login.json
 msgid "Login with Email"
 msgstr "Iniciar sesión con correo electrónico"
@@ -3335,14 +3349,14 @@ msgstr "Editar ahora"
 #. [EpIdLogin.MigratingFromOREID?]
 #. defaultMessage is:
 #. Migrating from OREID?
-#: translations/.messages/src/app/components/Login/epid-login.modal.json
+#: translations/.messages/src/app/components/Login/EpIdLoginModal.json
 msgid "Migrating from OREID?"
 msgstr ""
 
 #. [EpIdLogin.MinimumPasswordLength]
 #. defaultMessage is:
 #. Minimum password length is 8
-#: translations/.messages/src/app/components/Login/epid-login.modal.json
+#: translations/.messages/src/app/components/Login/EpIdLoginModal.json
 msgid "Minimum password length is 8"
 msgstr ""
 
@@ -3820,14 +3834,14 @@ msgstr "Vistas de página"
 msgid "Participants"
 msgstr "Participantes"
 
-#. [EpIdLogin.Password]
-#. defaultMessage is:
-#. Password
 #. [EpIdRegisterModal.Password]
 #. defaultMessage is:
 #. Password
-#: translations/.messages/src/app/components/Login/epid-login.modal.json
+#. [EpIdLogin.Password]
+#. defaultMessage is:
+#. Password
 #: translations/.messages/src/app/components/Login/epid-register.modal.json
+#: translations/.messages/src/app/components/Login/EpIdLoginModal.json
 msgid "Password"
 msgstr "palabras"
 
@@ -4025,6 +4039,13 @@ msgstr "Impulsado por "
 #: translations/.messages/src/app/containers/homepageContainer/homepage.container.json
 msgid "Powered by the IQ Token."
 msgstr "Impulsado por "
+
+#. [FutureKnowledgeSection.PredictTheOutcome]
+#. defaultMessage is:
+#. Predict the outcome of future events.
+#: translations/.messages/src/app/containers/homepageContainer/FutureKnowledgeSection/FutureKnowledgeSection.json
+msgid "Predict the outcome of future events."
+msgstr ""
 
 #. [TeamInfo.SamKazemianTitle]
 #. defaultMessage is:
@@ -4355,7 +4376,7 @@ msgstr "Informar de un error"
 #. [EpIdLogin.ResendEmail]
 #. defaultMessage is:
 #. Resend Email
-#: translations/.messages/src/app/components/Login/epid-login.modal.json
+#: translations/.messages/src/app/components/Login/EpIdLoginModal.json
 msgid "Resend Email"
 msgstr "Iniciar sesión con correo electrónico"
 
@@ -4365,7 +4386,7 @@ msgstr "Iniciar sesión con correo electrónico"
 #. [EpIdResetPassword.ResetPassword]
 #. defaultMessage is:
 #. Reset Password
-#: translations/.messages/src/app/components/Login/epid-login.modal.json
+#: translations/.messages/src/app/components/Login/EpIdLoginModal.json
 #: translations/.messages/src/app/components/Login/EPIDResetPasswordModal.json
 msgid "Reset Password"
 msgstr "palabras"
@@ -4469,7 +4490,6 @@ msgstr "Ciencias/Academia/Humanidades"
 #. defaultMessage is:
 #. Search
 #: translations/.messages/src/app/containers/homepageContainer/HomepageSearch.json
-
 msgid "Search"
 msgstr "Buscando..."
 
@@ -4686,7 +4706,7 @@ msgstr "Mostrar todas las citas"
 #. defaultMessage is:
 #. Sign Up
 #: translations/.messages/src/app/components/learn-more/index.json
-#: translations/.messages/src/app/components/Login/epid-login.modal.json
+#: translations/.messages/src/app/components/Login/EpIdLoginModal.json
 #: translations/.messages/src/app/components/TopNav/account-name-header.json
 #: translations/.messages/src/app/containers/about/last-block.json
 #: translations/.messages/src/app/utils/errors.json
@@ -4839,7 +4859,7 @@ msgstr "Envío de su artículo Editar"
 #. [EpIdResetPassword.SuccessExclamation]
 #. defaultMessage is:
 #. Success!
-#: translations/.messages/src/app/components/Login/epid-login.modal.json
+#: translations/.messages/src/app/components/Login/EpIdLoginModal.json
 #: translations/.messages/src/app/components/Login/EPIDResetPasswordModal.json
 msgid "Success!"
 msgstr "La transacción se ha realizado con éxito"
@@ -5271,7 +5291,7 @@ msgstr ""
 #. [EpIdLogin.ErrorTooManyAttempts]
 #. defaultMessage is:
 #. Too many login attempts. Please try again later.
-#: translations/.messages/src/app/components/Login/epid-login.modal.json
+#: translations/.messages/src/app/components/Login/EpIdLoginModal.json
 msgid "Too many login attempts. Please try again later."
 msgstr ""
 
@@ -5390,7 +5410,7 @@ msgstr "URL Slug Alt"
 #. [EpIdLogin.ErrorUndefined]
 #. defaultMessage is:
 #. Undefined error: please try again.
-#: translations/.messages/src/app/components/Login/epid-login.modal.json
+#: translations/.messages/src/app/components/Login/EpIdLoginModal.json
 msgid "Undefined error: please try again."
 msgstr "Por favor inténtelo de nuevo"
 
@@ -5454,15 +5474,15 @@ msgstr ""
 #. [EditProfile.Username]
 #. defaultMessage is:
 #. Username
-#. [EpIdLogin.Username]
-#. defaultMessage is:
-#. Username
 #. [EpIdRegisterModal.Username]
 #. defaultMessage is:
 #. Username
+#. [EpIdLogin.Username]
+#. defaultMessage is:
+#. Username
 #: translations/.messages/src/app/components/edit-profile/index.json
-#: translations/.messages/src/app/components/Login/epid-login.modal.json
 #: translations/.messages/src/app/components/Login/epid-register.modal.json
+#: translations/.messages/src/app/components/Login/EpIdLoginModal.json
 msgid "Username"
 msgstr ""
 
@@ -5836,7 +5856,7 @@ msgstr "Recibimos el siguiente error"
 #. [EpIdLogin.WellEmailInstructions]
 #. defaultMessage is:
 #. We will email you instructions on how to reset your password.
-#: translations/.messages/src/app/components/Login/epid-login.modal.json
+#: translations/.messages/src/app/components/Login/EpIdLoginModal.json
 msgid "We will email you instructions on how to reset your password."
 msgstr ""
 

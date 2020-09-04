@@ -1,7 +1,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: \n"
-"POT-Creation-Date: 2020-08-20T22:30:42.059Z\n"
+"POT-Creation-Date: 2020-09-02T14:53:49.162Z\n"
 "PO-Revision-Date: \n"
 "Last-Translator: \n"
 "Language-Team: \n"
@@ -163,7 +163,7 @@ msgstr "7일"
 #. [EpIdLogin.ALinkToResetHasBeenSent]
 #. defaultMessage is:
 #. A link to reset your password has been sent to your email. Click the link there to create a new password.
-#: translations/.messages/src/app/components/Login/epid-login.modal.json
+#: translations/.messages/src/app/components/Login/EpIdLoginModal.json
 msgid ""
 "A link to reset your password has been sent to your email. Click the link "
 "there to create a new password."
@@ -612,7 +612,7 @@ msgstr ""
 #. [EpIdLogin.ErrorUsernameOrEmailExists]
 #. defaultMessage is:
 #. An account with that email or username already exists
-#: translations/.messages/src/app/components/Login/epid-login.modal.json
+#: translations/.messages/src/app/components/Login/EpIdLoginModal.json
 msgid "An account with that email or username already exists"
 msgstr ""
 
@@ -714,8 +714,8 @@ msgstr "사용가능 IQ"
 #. [EpIdLogin.Back]
 #. defaultMessage is:
 #. Back
-#: translations/.messages/src/app/components/Login/epid-login.modal.json
 #: translations/.messages/src/app/components/Login/epid-register.modal.json
+#: translations/.messages/src/app/components/Login/EpIdLoginModal.json
 msgid "Back"
 msgstr "뒤로가기"
 
@@ -1091,8 +1091,8 @@ msgstr "투표하기"
 #. [EpIdLogin.Close]
 #. defaultMessage is:
 #. Close
-#: translations/.messages/src/app/components/Login/epid-login.modal.json
 #: translations/.messages/src/app/components/Login/epid-register.modal.json
+#: translations/.messages/src/app/components/Login/EpIdLoginModal.json
 msgid "Close"
 msgstr "닫기"
 
@@ -1496,7 +1496,7 @@ msgstr ""
 #. [EpIdLogin.DontHaveAccountQuestion]
 #. defaultMessage is:
 #. Don't have an account?
-#: translations/.messages/src/app/components/Login/epid-login.modal.json
+#: translations/.messages/src/app/components/Login/EpIdLoginModal.json
 msgid "Don't have an account?"
 msgstr "계정 만들기"
 
@@ -1724,8 +1724,8 @@ msgstr "전자제품, 소프트웨어"
 #. [NewPageTemplate.NPT_Person_Email]
 #. defaultMessage is:
 #. Email
-#: translations/.messages/src/app/components/Login/epid-login.modal.json
 #: translations/.messages/src/app/components/Login/epid-register.modal.json
+#: translations/.messages/src/app/components/Login/EpIdLoginModal.json
 #: translations/.messages/src/editor/utils/editing-utils/template-packs/organization.json
 #: translations/.messages/src/editor/utils/editing-utils/template-packs/person.json
 msgid "Email"
@@ -1734,7 +1734,7 @@ msgstr "이메일"
 #. [EpIdLogin.EmailAddress]
 #. defaultMessage is:
 #. Email Address
-#: translations/.messages/src/app/components/Login/epid-login.modal.json
+#: translations/.messages/src/app/components/Login/EpIdLoginModal.json
 msgid "Email Address"
 msgstr "이메일 주소"
 
@@ -1850,8 +1850,8 @@ msgstr "오류"
 #. [EpIdLogin.ErrorWithPunctuationAndSpace]
 #. defaultMessage is:
 #. Error: 
-#: translations/.messages/src/app/components/Login/epid-login.modal.json
 #: translations/.messages/src/app/components/Login/epid-register.modal.json
+#: translations/.messages/src/app/components/Login/EpIdLoginModal.json
 msgid "Error: "
 msgstr "오류"
 
@@ -1959,6 +1959,13 @@ msgstr ""
 "에브리피디아는 쿠키를 사용하여 사용자경험을 향상시키고 있으며, 이 정보를 판매"
 "하거나 하지 않습니다."
 
+#. [FutureKnowledgeSection.EveripediasKnowledgeMarket]
+#. defaultMessage is:
+#. Everipedia's Knowledge Market: PredIQt
+#: translations/.messages/src/app/containers/homepageContainer/FutureKnowledgeSection/FutureKnowledgeSection.json
+msgid "Everipedia's Knowledge Market: PredIQt"
+msgstr ""
+
 #. [Homepage.AboveTheFold.EveripediasVision]
 #. defaultMessage is:
 #. Everipedia's vision is to bring real-world data and knowledge to the blockchain, helping verify facts in an era of misinformation and unlocking a new class of use cases in financial markets
@@ -2004,6 +2011,13 @@ msgstr "기존"
 #: translations/.messages/src/editor/plugins/section-embed-modal/section-embed-modal.json
 msgid "Existing Media"
 msgstr "기존 미디어"
+
+#. [FutureKnowledgeSection.ExploreMarkets]
+#. defaultMessage is:
+#. Explore Markets
+#: translations/.messages/src/app/containers/homepageContainer/FutureKnowledgeSection/FutureKnowledgeSection.json
+msgid "Explore Markets"
+msgstr ""
 
 #. [LastBlock.ExploreYourCuriosity]
 #. defaultMessage is:
@@ -2144,14 +2158,14 @@ msgstr "처음 편집"
 #. [EpIdLogin.ForgotPassword]
 #. defaultMessage is:
 #. Forgot Password
-#: translations/.messages/src/app/components/Login/epid-login.modal.json
+#: translations/.messages/src/app/components/Login/EpIdLoginModal.json
 msgid "Forgot Password"
 msgstr "비밀번호 분실"
 
 #. [EpIdLogin.ForgotPasswordQuestion]
 #. defaultMessage is:
 #. Forgot Password?
-#: translations/.messages/src/app/components/Login/epid-login.modal.json
+#: translations/.messages/src/app/components/Login/EpIdLoginModal.json
 msgid "Forgot Password?"
 msgstr "비밀번호 찾기"
 
@@ -2550,7 +2564,7 @@ msgstr "이미지 웹 주소"
 #. [EpIdLogin.ErrorIncorrectUsernameOrPassword]
 #. defaultMessage is:
 #. Incorrect username or password. Please try again.
-#: translations/.messages/src/app/components/Login/epid-login.modal.json
+#: translations/.messages/src/app/components/Login/EpIdLoginModal.json
 msgid "Incorrect username or password. Please try again."
 msgstr "아이디 또는 비밀번호가 맞지 않습니다"
 
@@ -2969,10 +2983,10 @@ msgstr "로그아웃"
 #. [Notifications.Login]
 #. defaultMessage is:
 #. Login
-#. [EpIdLogin.Login]
+#. [EpIdRegister.Login]
 #. defaultMessage is:
 #. Login
-#. [EpIdRegister.Login]
+#. [EpIdLogin.Login]
 #. defaultMessage is:
 #. Login
 #. [EpIdResetPassword.Login]
@@ -2987,8 +3001,8 @@ msgstr "로그아웃"
 #: translations/.messages/src/app/components/Chat/ChatInput.json
 #: translations/.messages/src/app/components/Chat/Directory.json
 #: translations/.messages/src/app/components/Chat/Notifications.json
-#: translations/.messages/src/app/components/Login/epid-login.modal.json
 #: translations/.messages/src/app/components/Login/epid-register.modal.json
+#: translations/.messages/src/app/components/Login/EpIdLoginModal.json
 #: translations/.messages/src/app/components/Login/EPIDResetPasswordModal.json
 #: translations/.messages/src/app/components/TopNav/account-name-header.json
 #: translations/.messages/src/app/utils/errors.json
@@ -2998,7 +3012,7 @@ msgstr "로그인"
 #. [EpIdLogin.LoginSuccessfulWithPunctuation]
 #. defaultMessage is:
 #. Login Successful!
-#: translations/.messages/src/app/components/Login/epid-login.modal.json
+#: translations/.messages/src/app/components/Login/EpIdLoginModal.json
 msgid "Login Successful!"
 msgstr "제출 완료"
 
@@ -3040,7 +3054,7 @@ msgstr "로그인해서 채팅 참여하기"
 #. [LoginModal.LoginWithEmail]
 #. defaultMessage is:
 #. Login with Email
-#: translations/.messages/src/app/components/Login/epid-login.modal.json
+#: translations/.messages/src/app/components/Login/EpIdLoginModal.json
 #: translations/.messages/src/app/components/Login/Login.json
 msgid "Login with Email"
 msgstr "이메일 로그인"
@@ -3305,14 +3319,14 @@ msgstr "편집하기"
 #. [EpIdLogin.MigratingFromOREID?]
 #. defaultMessage is:
 #. Migrating from OREID?
-#: translations/.messages/src/app/components/Login/epid-login.modal.json
+#: translations/.messages/src/app/components/Login/EpIdLoginModal.json
 msgid "Migrating from OREID?"
 msgstr "기존 OreID계정을 합치기"
 
 #. [EpIdLogin.MinimumPasswordLength]
 #. defaultMessage is:
 #. Minimum password length is 8
-#: translations/.messages/src/app/components/Login/epid-login.modal.json
+#: translations/.messages/src/app/components/Login/EpIdLoginModal.json
 msgid "Minimum password length is 8"
 msgstr "비밀번호 8자리 이상"
 
@@ -3785,14 +3799,14 @@ msgstr "조회수"
 msgid "Participants"
 msgstr "참여자"
 
-#. [EpIdLogin.Password]
-#. defaultMessage is:
-#. Password
 #. [EpIdRegisterModal.Password]
 #. defaultMessage is:
 #. Password
-#: translations/.messages/src/app/components/Login/epid-login.modal.json
+#. [EpIdLogin.Password]
+#. defaultMessage is:
+#. Password
 #: translations/.messages/src/app/components/Login/epid-register.modal.json
+#: translations/.messages/src/app/components/Login/EpIdLoginModal.json
 msgid "Password"
 msgstr "비밀번호"
 
@@ -3990,6 +4004,13 @@ msgstr "서비스 지원"
 #: translations/.messages/src/app/containers/homepageContainer/homepage.container.json
 msgid "Powered by the IQ Token."
 msgstr "함께 만들어 갑니다"
+
+#. [FutureKnowledgeSection.PredictTheOutcome]
+#. defaultMessage is:
+#. Predict the outcome of future events.
+#: translations/.messages/src/app/containers/homepageContainer/FutureKnowledgeSection/FutureKnowledgeSection.json
+msgid "Predict the outcome of future events."
+msgstr ""
 
 #. [TeamInfo.SamKazemianTitle]
 #. defaultMessage is:
@@ -4318,7 +4339,7 @@ msgstr "버그 신고"
 #. [EpIdLogin.ResendEmail]
 #. defaultMessage is:
 #. Resend Email
-#: translations/.messages/src/app/components/Login/epid-login.modal.json
+#: translations/.messages/src/app/components/Login/EpIdLoginModal.json
 msgid "Resend Email"
 msgstr ""
 
@@ -4328,7 +4349,7 @@ msgstr ""
 #. [EpIdResetPassword.ResetPassword]
 #. defaultMessage is:
 #. Reset Password
-#: translations/.messages/src/app/components/Login/epid-login.modal.json
+#: translations/.messages/src/app/components/Login/EpIdLoginModal.json
 #: translations/.messages/src/app/components/Login/EPIDResetPasswordModal.json
 msgid "Reset Password"
 msgstr "비밀번호 재설정"
@@ -4647,7 +4668,7 @@ msgstr "모든 인용 보기"
 #. defaultMessage is:
 #. Sign Up
 #: translations/.messages/src/app/components/learn-more/index.json
-#: translations/.messages/src/app/components/Login/epid-login.modal.json
+#: translations/.messages/src/app/components/Login/EpIdLoginModal.json
 #: translations/.messages/src/app/components/TopNav/account-name-header.json
 #: translations/.messages/src/app/containers/about/last-block.json
 #: translations/.messages/src/app/utils/errors.json
@@ -4800,7 +4821,7 @@ msgstr "글 편집을 제출하고 있습니다"
 #. [EpIdResetPassword.SuccessExclamation]
 #. defaultMessage is:
 #. Success!
-#: translations/.messages/src/app/components/Login/epid-login.modal.json
+#: translations/.messages/src/app/components/Login/EpIdLoginModal.json
 #: translations/.messages/src/app/components/Login/EPIDResetPasswordModal.json
 msgid "Success!"
 msgstr "완료"
@@ -5212,7 +5233,7 @@ msgstr "오늘"
 #. [EpIdLogin.ErrorTooManyAttempts]
 #. defaultMessage is:
 #. Too many login attempts. Please try again later.
-#: translations/.messages/src/app/components/Login/epid-login.modal.json
+#: translations/.messages/src/app/components/Login/EpIdLoginModal.json
 msgid "Too many login attempts. Please try again later."
 msgstr "잠시 후 이용 바랍니다"
 
@@ -5330,7 +5351,7 @@ msgstr "웹 주소 슬러그 Alt"
 #. [EpIdLogin.ErrorUndefined]
 #. defaultMessage is:
 #. Undefined error: please try again.
-#: translations/.messages/src/app/components/Login/epid-login.modal.json
+#: translations/.messages/src/app/components/Login/EpIdLoginModal.json
 msgid "Undefined error: please try again."
 msgstr "다시 시도하세요"
 
@@ -5394,15 +5415,15 @@ msgstr ""
 #. [EditProfile.Username]
 #. defaultMessage is:
 #. Username
-#. [EpIdLogin.Username]
-#. defaultMessage is:
-#. Username
 #. [EpIdRegisterModal.Username]
 #. defaultMessage is:
 #. Username
+#. [EpIdLogin.Username]
+#. defaultMessage is:
+#. Username
 #: translations/.messages/src/app/components/edit-profile/index.json
-#: translations/.messages/src/app/components/Login/epid-login.modal.json
 #: translations/.messages/src/app/components/Login/epid-register.modal.json
+#: translations/.messages/src/app/components/Login/EpIdLoginModal.json
 msgid "Username"
 msgstr "사용자 이름"
 
@@ -5504,7 +5525,7 @@ msgstr "편집 보기"
 #. View on CoinMarketCap
 #: translations/.messages/src/app/containers/homepageContainer/homepage.container.json
 msgid "View on CoinMarketCap"
-msgstr ""
+msgstr "CoinMarketCap 에서 보기"
 
 #. [SaveModalAgain.ViewTransaction]
 #. defaultMessage is:
@@ -5770,7 +5791,7 @@ msgstr "다음 오류가 발생했습니다"
 #. [EpIdLogin.WellEmailInstructions]
 #. defaultMessage is:
 #. We will email you instructions on how to reset your password.
-#: translations/.messages/src/app/components/Login/epid-login.modal.json
+#: translations/.messages/src/app/components/Login/EpIdLoginModal.json
 msgid "We will email you instructions on how to reset your password."
 msgstr "비밀번호 재설정 관련 이메일을 보냈습니다"
 
