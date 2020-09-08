@@ -1,7 +1,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: \n"
-"POT-Creation-Date: 2020-09-02T14:53:49.162Z\n"
+"POT-Creation-Date: 2020-09-08T16:37:14.315Z\n"
 "PO-Revision-Date: \n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
@@ -538,6 +538,13 @@ msgstr "Contenido para adultos"
 msgid ""
 "After creating a new account, we will prompt you to merge accounts you can "
 "always merge your account from your account dashboard."
+msgstr ""
+
+#. [SearchResults.All]
+#. defaultMessage is:
+#. All
+#: translations/.messages/src/app/components/Search/SearchResults.json
+msgid "All"
 msgstr ""
 
 #. [Leaderboard.AllTime]

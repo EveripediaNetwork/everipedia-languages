@@ -1,7 +1,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: \n"
-"POT-Creation-Date: 2020-09-02T14:53:49.162Z\n"
+"POT-Creation-Date: 2020-09-08T16:37:14.315Z\n"
 "PO-Revision-Date: \n"
 "Last-Translator: \n"
 "Language-Team: \n"
@@ -43,7 +43,7 @@ msgstr "메시지 쓰기"
 
 #. [EpIdRegister.SpaceAndSpace]
 #. defaultMessage is:
-#.  and 
+#.  and
 #: translations/.messages/src/app/components/Login/epid-register.modal.json
 msgid " and "
 msgstr ""
@@ -92,7 +92,7 @@ msgstr "+ 계정 만들기 / 로그인"
 
 #. [IQInfo.Or]
 #. defaultMessage is:
-#. , or 
+#. , or
 #: translations/.messages/src/app/containers/iq-info/iq-info.container.json
 msgid ", or "
 msgstr " 또는 "
@@ -541,6 +541,13 @@ msgid ""
 "always merge your account from your account dashboard."
 msgstr "기존에 사용하던 계정을 새로운 계정에 합칠 수 있습니다"
 
+#. [SearchResults.All]
+#. defaultMessage is:
+#. All
+#: translations/.messages/src/app/components/Search/SearchResults.json
+msgid "All"
+msgstr ""
+
 #. [Leaderboard.AllTime]
 #. defaultMessage is:
 #. All Time
@@ -568,7 +575,7 @@ msgstr "Googlebot 허용하지 않음"
 
 #. [CitationModal.AddEditFile.AllowedFormats]
 #. defaultMessage is:
-#. Allowed formats: 
+#. Allowed formats:
 #: translations/.messages/src/editor/plugins/citation-modal/panes/add-edit-file.json
 msgid "Allowed formats: "
 msgstr "허용되는 형식: "
@@ -1846,10 +1853,10 @@ msgstr "오류"
 
 #. [EpIdLogin.ErrorWithPunctuationAndSpace]
 #. defaultMessage is:
-#. Error: 
+#. Error:
 #. [EpIdLogin.ErrorWithPunctuationAndSpace]
 #. defaultMessage is:
-#. Error: 
+#. Error:
 #: translations/.messages/src/app/components/Login/epid-register.modal.json
 #: translations/.messages/src/app/components/Login/EpIdLoginModal.json
 msgid "Error: "
@@ -1964,7 +1971,7 @@ msgstr ""
 #. Everipedia's Knowledge Market: PredIQt
 #: translations/.messages/src/app/containers/homepageContainer/FutureKnowledgeSection/FutureKnowledgeSection.json
 msgid "Everipedia's Knowledge Market: PredIQt"
-msgstr ""
+msgstr "에브리피디아의 지식시장: PrediQt"
 
 #. [Homepage.AboveTheFold.EveripediasVision]
 #. defaultMessage is:
@@ -2017,7 +2024,7 @@ msgstr "기존 미디어"
 #. Explore Markets
 #: translations/.messages/src/app/containers/homepageContainer/FutureKnowledgeSection/FutureKnowledgeSection.json
 msgid "Explore Markets"
-msgstr ""
+msgstr "시장 검색"
 
 #. [LastBlock.ExploreYourCuriosity]
 #. defaultMessage is:
@@ -2394,7 +2401,7 @@ msgstr "계정 합치기"
 
 #. [EpIdRegister.IAcceptThe]
 #. defaultMessage is:
-#. I accept the 
+#. I accept the
 #: translations/.messages/src/app/components/Login/epid-register.modal.json
 msgid "I accept the "
 msgstr "투표 완료"
@@ -2841,7 +2848,7 @@ msgstr "자세히 알아보기"
 
 #. [Login.LearnMoreThree]
 #. defaultMessage is:
-#. Learn more 
+#. Learn more
 #: translations/.messages/src/app/components/Login/login.modal.json
 msgid "Learn more "
 msgstr "자세히 알아보기"
@@ -4010,7 +4017,7 @@ msgstr "함께 만들어 갑니다"
 #. Predict the outcome of future events.
 #: translations/.messages/src/app/containers/homepageContainer/FutureKnowledgeSection/FutureKnowledgeSection.json
 msgid "Predict the outcome of future events."
-msgstr ""
+msgstr "미래의 모습을 예측"
 
 #. [TeamInfo.SamKazemianTitle]
 #. defaultMessage is:
@@ -4137,7 +4144,7 @@ msgstr "투표에 대한 설명(선택)"
 
 #. [ContactUs.Questions]
 #. defaultMessage is:
-#. Questions? 
+#. Questions?
 #: translations/.messages/src/app/containers/contact-us/contact-form.json
 msgid "Questions? "
 msgstr "자주묻는 질문"
@@ -4944,7 +4951,7 @@ msgstr "이용약관"
 #. defaultMessage is:
 #. Thanks for trialing Everipedia. Looks like you’ve been making edits and have run out of the
 #.                         trial IQ Tokens. You can unlock the full potential of Everipedia and get more tokens with a
-#.                         Scatter login. 
+#.                         Scatter login.
 #: translations/.messages/src/app/utils/errors.json
 msgid ""
 "Thanks for trialing Everipedia. Looks like you’ve been making edits and have "
@@ -4959,7 +4966,7 @@ msgstr ""
 #. [Errors.ThanksForUsingEveripedia]
 #. defaultMessage is:
 #. Thanks for using Everipedia. Looks like you have run out of IQ Tokens. You can get more tokens
-#.                         at one of 
+#.                         at one of
 #: translations/.messages/src/app/utils/errors.json
 msgid ""
 "Thanks for using Everipedia. Looks like you have run out of IQ Tokens. You "

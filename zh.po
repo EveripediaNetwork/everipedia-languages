@@ -1,7 +1,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: \n"
-"POT-Creation-Date: 2020-09-02T14:53:49.162Z\n"
+"POT-Creation-Date: 2020-09-08T16:37:14.315Z\n"
 "PO-Revision-Date: \n"
 "Last-Translator: \n"
 "Language-Team: \n"
@@ -43,7 +43,7 @@ msgstr "在下面留言以开始对话"
 
 #. [EpIdRegister.SpaceAndSpace]
 #. defaultMessage is:
-#.  and 
+#.  and
 #: translations/.messages/src/app/components/Login/epid-register.modal.json
 msgid " and "
 msgstr "和"
@@ -92,7 +92,7 @@ msgstr "+创建一个帐户/登录"
 
 #. [IQInfo.Or]
 #. defaultMessage is:
-#. , or 
+#. , or
 #: translations/.messages/src/app/containers/iq-info/iq-info.container.json
 msgid ", or "
 msgstr "，或"
@@ -543,6 +543,13 @@ msgstr ""
 "在创建一个新帐户后，我们将提示您合并帐户。您总是可以从您的帐户仪表板合并的帐"
 "户。"
 
+#. [SearchResults.All]
+#. defaultMessage is:
+#. All
+#: translations/.messages/src/app/components/Search/SearchResults.json
+msgid "All"
+msgstr ""
+
 #. [Leaderboard.AllTime]
 #. defaultMessage is:
 #. All Time
@@ -570,7 +577,7 @@ msgstr "支持非Googlebot"
 
 #. [CitationModal.AddEditFile.AllowedFormats]
 #. defaultMessage is:
-#. Allowed formats: 
+#. Allowed formats:
 #: translations/.messages/src/editor/plugins/citation-modal/panes/add-edit-file.json
 msgid "Allowed formats: "
 msgstr "支持的格式："
@@ -1847,10 +1854,10 @@ msgstr "错误代码"
 
 #. [EpIdLogin.ErrorWithPunctuationAndSpace]
 #. defaultMessage is:
-#. Error: 
+#. Error:
 #. [EpIdLogin.ErrorWithPunctuationAndSpace]
 #. defaultMessage is:
-#. Error: 
+#. Error:
 #: translations/.messages/src/app/components/Login/epid-register.modal.json
 #: translations/.messages/src/app/components/Login/EpIdLoginModal.json
 msgid "Error: "
@@ -1967,7 +1974,7 @@ msgstr ""
 #. Everipedia's Knowledge Market: PredIQt
 #: translations/.messages/src/app/containers/homepageContainer/FutureKnowledgeSection/FutureKnowledgeSection.json
 msgid "Everipedia's Knowledge Market: PredIQt"
-msgstr ""
+msgstr "Everipedia的知识市场:PredIQt"
 
 #. [Homepage.AboveTheFold.EveripediasVision]
 #. defaultMessage is:
@@ -2019,7 +2026,7 @@ msgstr "现有媒体"
 #. Explore Markets
 #: translations/.messages/src/app/containers/homepageContainer/FutureKnowledgeSection/FutureKnowledgeSection.json
 msgid "Explore Markets"
-msgstr ""
+msgstr "探索市场"
 
 #. [LastBlock.ExploreYourCuriosity]
 #. defaultMessage is:
@@ -2396,7 +2403,7 @@ msgstr "如何合并您的帐户?"
 
 #. [EpIdRegister.IAcceptThe]
 #. defaultMessage is:
-#. I accept the 
+#. I accept the
 #: translations/.messages/src/app/components/Login/epid-register.modal.json
 msgid "I accept the "
 msgstr "投票已接受"
@@ -2846,7 +2853,7 @@ msgstr "了解更多"
 
 #. [Login.LearnMoreThree]
 #. defaultMessage is:
-#. Learn more 
+#. Learn more
 #: translations/.messages/src/app/components/Login/login.modal.json
 msgid "Learn more "
 msgstr "了解更多"
@@ -4015,7 +4022,7 @@ msgstr "由您支持。"
 #. Predict the outcome of future events.
 #: translations/.messages/src/app/containers/homepageContainer/FutureKnowledgeSection/FutureKnowledgeSection.json
 msgid "Predict the outcome of future events."
-msgstr ""
+msgstr "预测未来事件的结果。"
 
 #. [TeamInfo.SamKazemianTitle]
 #. defaultMessage is:
@@ -4142,7 +4149,7 @@ msgstr "提供您投票的理由（可选）"
 
 #. [ContactUs.Questions]
 #. defaultMessage is:
-#. Questions? 
+#. Questions?
 #: translations/.messages/src/app/containers/contact-us/contact-form.json
 msgid "Questions? "
 msgstr "有问题吗？"
@@ -4947,7 +4954,7 @@ msgstr "条款"
 #. defaultMessage is:
 #. Thanks for trialing Everipedia. Looks like you’ve been making edits and have run out of the
 #.                         trial IQ Tokens. You can unlock the full potential of Everipedia and get more tokens with a
-#.                         Scatter login. 
+#.                         Scatter login.
 #: translations/.messages/src/app/utils/errors.json
 msgid ""
 "Thanks for trialing Everipedia. Looks like you’ve been making edits and have "
@@ -4963,7 +4970,7 @@ msgstr ""
 #. [Errors.ThanksForUsingEveripedia]
 #. defaultMessage is:
 #. Thanks for using Everipedia. Looks like you have run out of IQ Tokens. You can get more tokens
-#.                         at one of 
+#.                         at one of
 #: translations/.messages/src/app/utils/errors.json
 msgid ""
 "Thanks for using Everipedia. Looks like you have run out of IQ Tokens. You "
