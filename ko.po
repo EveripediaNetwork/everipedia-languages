@@ -1,7 +1,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: \n"
-"POT-Creation-Date: 2020-09-08T16:37:14.315Z\n"
+"POT-Creation-Date: 2020-09-16T18:56:07.241Z\n"
 "PO-Revision-Date: \n"
 "Last-Translator: \n"
 "Language-Team: \n"
@@ -43,7 +43,7 @@ msgstr "메시지 쓰기"
 
 #. [EpIdRegister.SpaceAndSpace]
 #. defaultMessage is:
-#.  and
+#.  and 
 #: translations/.messages/src/app/components/Login/epid-register.modal.json
 msgid " and "
 msgstr ""
@@ -92,7 +92,7 @@ msgstr "+ 계정 만들기 / 로그인"
 
 #. [IQInfo.Or]
 #. defaultMessage is:
-#. , or
+#. , or 
 #: translations/.messages/src/app/containers/iq-info/iq-info.container.json
 msgid ", or "
 msgstr " 또는 "
@@ -163,7 +163,7 @@ msgstr "7일"
 #. [EpIdLogin.ALinkToResetHasBeenSent]
 #. defaultMessage is:
 #. A link to reset your password has been sent to your email. Click the link there to create a new password.
-#: translations/.messages/src/app/components/Login/EpIdLoginModal.json
+#: translations/.messages/src/app/components/Login/EmailLoginModal.json
 msgid ""
 "A link to reset your password has been sent to your email. Click the link "
 "there to create a new password."
@@ -336,9 +336,9 @@ msgstr "계정명"
 #. defaultMessage is:
 #. Active Voting
 #: translations/.messages/src/app/containers/category-results/categoryResultCard.json
-#: translations/.messages/src/app/containers/searchResultsFull/searchCard.json
-#: translations/.messages/src/app/containers/searchResultsFull/searchCategoryCard.json
-#: translations/.messages/src/app/containers/searchResultsFull/searchProfileCard.json
+#: translations/.messages/src/app/containers/searchResultsFull/SearchCard.json
+#: translations/.messages/src/app/containers/searchResultsFull/SearchCategoryCard.json
+#: translations/.messages/src/app/containers/searchResultsFull/SearchProfileCard.json
 msgid "Active Voting"
 msgstr "투표 진행중"
 
@@ -575,7 +575,7 @@ msgstr "Googlebot 허용하지 않음"
 
 #. [CitationModal.AddEditFile.AllowedFormats]
 #. defaultMessage is:
-#. Allowed formats:
+#. Allowed formats: 
 #: translations/.messages/src/editor/plugins/citation-modal/panes/add-edit-file.json
 msgid "Allowed formats: "
 msgstr "허용되는 형식: "
@@ -619,7 +619,7 @@ msgstr ""
 #. [EpIdLogin.ErrorUsernameOrEmailExists]
 #. defaultMessage is:
 #. An account with that email or username already exists
-#: translations/.messages/src/app/components/Login/EpIdLoginModal.json
+#: translations/.messages/src/app/components/Login/EmailLoginModal.json
 msgid "An account with that email or username already exists"
 msgstr ""
 
@@ -721,8 +721,8 @@ msgstr "사용가능 IQ"
 #. [EpIdLogin.Back]
 #. defaultMessage is:
 #. Back
+#: translations/.messages/src/app/components/Login/EmailLoginModal.json
 #: translations/.messages/src/app/components/Login/epid-register.modal.json
-#: translations/.messages/src/app/components/Login/EpIdLoginModal.json
 msgid "Back"
 msgstr "뒤로가기"
 
@@ -1098,8 +1098,8 @@ msgstr "투표하기"
 #. [EpIdLogin.Close]
 #. defaultMessage is:
 #. Close
+#: translations/.messages/src/app/components/Login/EmailLoginModal.json
 #: translations/.messages/src/app/components/Login/epid-register.modal.json
-#: translations/.messages/src/app/components/Login/EpIdLoginModal.json
 msgid "Close"
 msgstr "닫기"
 
@@ -1503,7 +1503,7 @@ msgstr ""
 #. [EpIdLogin.DontHaveAccountQuestion]
 #. defaultMessage is:
 #. Don't have an account?
-#: translations/.messages/src/app/components/Login/EpIdLoginModal.json
+#: translations/.messages/src/app/components/Login/EmailLoginModal.json
 msgid "Don't have an account?"
 msgstr "계정 만들기"
 
@@ -1731,8 +1731,8 @@ msgstr "전자제품, 소프트웨어"
 #. [NewPageTemplate.NPT_Person_Email]
 #. defaultMessage is:
 #. Email
+#: translations/.messages/src/app/components/Login/EmailLoginModal.json
 #: translations/.messages/src/app/components/Login/epid-register.modal.json
-#: translations/.messages/src/app/components/Login/EpIdLoginModal.json
 #: translations/.messages/src/editor/utils/editing-utils/template-packs/organization.json
 #: translations/.messages/src/editor/utils/editing-utils/template-packs/person.json
 msgid "Email"
@@ -1741,7 +1741,7 @@ msgstr "이메일"
 #. [EpIdLogin.EmailAddress]
 #. defaultMessage is:
 #. Email Address
-#: translations/.messages/src/app/components/Login/EpIdLoginModal.json
+#: translations/.messages/src/app/components/Login/EmailLoginModal.json
 msgid "Email Address"
 msgstr "이메일 주소"
 
@@ -1853,12 +1853,12 @@ msgstr "오류"
 
 #. [EpIdLogin.ErrorWithPunctuationAndSpace]
 #. defaultMessage is:
-#. Error:
+#. Error: 
 #. [EpIdLogin.ErrorWithPunctuationAndSpace]
 #. defaultMessage is:
-#. Error:
+#. Error: 
+#: translations/.messages/src/app/components/Login/EmailLoginModal.json
 #: translations/.messages/src/app/components/Login/epid-register.modal.json
-#: translations/.messages/src/app/components/Login/EpIdLoginModal.json
 msgid "Error: "
 msgstr "오류"
 
@@ -2165,14 +2165,14 @@ msgstr "처음 편집"
 #. [EpIdLogin.ForgotPassword]
 #. defaultMessage is:
 #. Forgot Password
-#: translations/.messages/src/app/components/Login/EpIdLoginModal.json
+#: translations/.messages/src/app/components/Login/EmailLoginModal.json
 msgid "Forgot Password"
 msgstr "비밀번호 분실"
 
 #. [EpIdLogin.ForgotPasswordQuestion]
 #. defaultMessage is:
 #. Forgot Password?
-#: translations/.messages/src/app/components/Login/EpIdLoginModal.json
+#: translations/.messages/src/app/components/Login/EmailLoginModal.json
 msgid "Forgot Password?"
 msgstr "비밀번호 찾기"
 
@@ -2401,7 +2401,7 @@ msgstr "계정 합치기"
 
 #. [EpIdRegister.IAcceptThe]
 #. defaultMessage is:
-#. I accept the
+#. I accept the 
 #: translations/.messages/src/app/components/Login/epid-register.modal.json
 msgid "I accept the "
 msgstr "투표 완료"
@@ -2571,7 +2571,7 @@ msgstr "이미지 웹 주소"
 #. [EpIdLogin.ErrorIncorrectUsernameOrPassword]
 #. defaultMessage is:
 #. Incorrect username or password. Please try again.
-#: translations/.messages/src/app/components/Login/EpIdLoginModal.json
+#: translations/.messages/src/app/components/Login/EmailLoginModal.json
 msgid "Incorrect username or password. Please try again."
 msgstr "아이디 또는 비밀번호가 맞지 않습니다"
 
@@ -2776,9 +2776,9 @@ msgstr ""
 #. [SearchProfileCard.LastEdited]
 #. defaultMessage is:
 #. Last Edited
-#: translations/.messages/src/app/containers/searchResultsFull/searchCard.json
-#: translations/.messages/src/app/containers/searchResultsFull/searchCategoryCard.json
-#: translations/.messages/src/app/containers/searchResultsFull/searchProfileCard.json
+#: translations/.messages/src/app/containers/searchResultsFull/SearchCard.json
+#: translations/.messages/src/app/containers/searchResultsFull/SearchCategoryCard.json
+#: translations/.messages/src/app/containers/searchResultsFull/SearchProfileCard.json
 msgid "Last Edited"
 msgstr "최근 편집"
 
@@ -2848,7 +2848,7 @@ msgstr "자세히 알아보기"
 
 #. [Login.LearnMoreThree]
 #. defaultMessage is:
-#. Learn more
+#. Learn more 
 #: translations/.messages/src/app/components/Login/login.modal.json
 msgid "Learn more "
 msgstr "자세히 알아보기"
@@ -2990,10 +2990,10 @@ msgstr "로그아웃"
 #. [Notifications.Login]
 #. defaultMessage is:
 #. Login
-#. [EpIdRegister.Login]
+#. [EpIdLogin.Login]
 #. defaultMessage is:
 #. Login
-#. [EpIdLogin.Login]
+#. [EpIdRegister.Login]
 #. defaultMessage is:
 #. Login
 #. [EpIdResetPassword.Login]
@@ -3008,8 +3008,8 @@ msgstr "로그아웃"
 #: translations/.messages/src/app/components/Chat/ChatInput.json
 #: translations/.messages/src/app/components/Chat/Directory.json
 #: translations/.messages/src/app/components/Chat/Notifications.json
+#: translations/.messages/src/app/components/Login/EmailLoginModal.json
 #: translations/.messages/src/app/components/Login/epid-register.modal.json
-#: translations/.messages/src/app/components/Login/EpIdLoginModal.json
 #: translations/.messages/src/app/components/Login/EPIDResetPasswordModal.json
 #: translations/.messages/src/app/components/TopNav/account-name-header.json
 #: translations/.messages/src/app/utils/errors.json
@@ -3019,7 +3019,7 @@ msgstr "로그인"
 #. [EpIdLogin.LoginSuccessfulWithPunctuation]
 #. defaultMessage is:
 #. Login Successful!
-#: translations/.messages/src/app/components/Login/EpIdLoginModal.json
+#: translations/.messages/src/app/components/Login/EmailLoginModal.json
 msgid "Login Successful!"
 msgstr "제출 완료"
 
@@ -3061,7 +3061,7 @@ msgstr "로그인해서 채팅 참여하기"
 #. [LoginModal.LoginWithEmail]
 #. defaultMessage is:
 #. Login with Email
-#: translations/.messages/src/app/components/Login/EpIdLoginModal.json
+#: translations/.messages/src/app/components/Login/EmailLoginModal.json
 #: translations/.messages/src/app/components/Login/Login.json
 msgid "Login with Email"
 msgstr "이메일 로그인"
@@ -3326,14 +3326,14 @@ msgstr "편집하기"
 #. [EpIdLogin.MigratingFromOREID?]
 #. defaultMessage is:
 #. Migrating from OREID?
-#: translations/.messages/src/app/components/Login/EpIdLoginModal.json
+#: translations/.messages/src/app/components/Login/EmailLoginModal.json
 msgid "Migrating from OREID?"
 msgstr "기존 OreID계정을 합치기"
 
 #. [EpIdLogin.MinimumPasswordLength]
 #. defaultMessage is:
 #. Minimum password length is 8
-#: translations/.messages/src/app/components/Login/EpIdLoginModal.json
+#: translations/.messages/src/app/components/Login/EmailLoginModal.json
 msgid "Minimum password length is 8"
 msgstr "비밀번호 8자리 이상"
 
@@ -3806,14 +3806,14 @@ msgstr "조회수"
 msgid "Participants"
 msgstr "참여자"
 
-#. [EpIdRegisterModal.Password]
-#. defaultMessage is:
-#. Password
 #. [EpIdLogin.Password]
 #. defaultMessage is:
 #. Password
+#. [EpIdRegisterModal.Password]
+#. defaultMessage is:
+#. Password
+#: translations/.messages/src/app/components/Login/EmailLoginModal.json
 #: translations/.messages/src/app/components/Login/epid-register.modal.json
-#: translations/.messages/src/app/components/Login/EpIdLoginModal.json
 msgid "Password"
 msgstr "비밀번호"
 
@@ -4035,17 +4035,9 @@ msgstr "사장"
 #. [SearchCard.PreviewNotAvailable]
 #. defaultMessage is:
 #. Preview Not Available
-#. [SearchCategoryCard.PreviewNotAvailable]
-#. defaultMessage is:
-#. Preview Not Available
-#. [SearchProfileCard.PreviewNotAvailable]
-#. defaultMessage is:
-#. Preview Not Available
 #: translations/.messages/src/app/components/ActivityCards/ActivityCard.json
 #: translations/.messages/src/app/containers/category-results/categoryResultCard.json
-#: translations/.messages/src/app/containers/searchResultsFull/searchCard.json
-#: translations/.messages/src/app/containers/searchResultsFull/searchCategoryCard.json
-#: translations/.messages/src/app/containers/searchResultsFull/searchProfileCard.json
+#: translations/.messages/src/app/containers/searchResultsFull/SearchCard.json
 msgid "Preview Not Available"
 msgstr "미리보기 사용불가"
 
@@ -4144,7 +4136,7 @@ msgstr "투표에 대한 설명(선택)"
 
 #. [ContactUs.Questions]
 #. defaultMessage is:
-#. Questions?
+#. Questions? 
 #: translations/.messages/src/app/containers/contact-us/contact-form.json
 msgid "Questions? "
 msgstr "자주묻는 질문"
@@ -4346,7 +4338,7 @@ msgstr "버그 신고"
 #. [EpIdLogin.ResendEmail]
 #. defaultMessage is:
 #. Resend Email
-#: translations/.messages/src/app/components/Login/EpIdLoginModal.json
+#: translations/.messages/src/app/components/Login/EmailLoginModal.json
 msgid "Resend Email"
 msgstr ""
 
@@ -4356,7 +4348,7 @@ msgstr ""
 #. [EpIdResetPassword.ResetPassword]
 #. defaultMessage is:
 #. Reset Password
-#: translations/.messages/src/app/components/Login/EpIdLoginModal.json
+#: translations/.messages/src/app/components/Login/EmailLoginModal.json
 #: translations/.messages/src/app/components/Login/EPIDResetPasswordModal.json
 msgid "Reset Password"
 msgstr "비밀번호 재설정"
@@ -4675,7 +4667,7 @@ msgstr "모든 인용 보기"
 #. defaultMessage is:
 #. Sign Up
 #: translations/.messages/src/app/components/learn-more/index.json
-#: translations/.messages/src/app/components/Login/EpIdLoginModal.json
+#: translations/.messages/src/app/components/Login/EmailLoginModal.json
 #: translations/.messages/src/app/components/TopNav/account-name-header.json
 #: translations/.messages/src/app/containers/about/last-block.json
 #: translations/.messages/src/app/utils/errors.json
@@ -4828,7 +4820,7 @@ msgstr "글 편집을 제출하고 있습니다"
 #. [EpIdResetPassword.SuccessExclamation]
 #. defaultMessage is:
 #. Success!
-#: translations/.messages/src/app/components/Login/EpIdLoginModal.json
+#: translations/.messages/src/app/components/Login/EmailLoginModal.json
 #: translations/.messages/src/app/components/Login/EPIDResetPasswordModal.json
 msgid "Success!"
 msgstr "완료"
@@ -4951,7 +4943,7 @@ msgstr "이용약관"
 #. defaultMessage is:
 #. Thanks for trialing Everipedia. Looks like you’ve been making edits and have run out of the
 #.                         trial IQ Tokens. You can unlock the full potential of Everipedia and get more tokens with a
-#.                         Scatter login.
+#.                         Scatter login. 
 #: translations/.messages/src/app/utils/errors.json
 msgid ""
 "Thanks for trialing Everipedia. Looks like you’ve been making edits and have "
@@ -4966,7 +4958,7 @@ msgstr ""
 #. [Errors.ThanksForUsingEveripedia]
 #. defaultMessage is:
 #. Thanks for using Everipedia. Looks like you have run out of IQ Tokens. You can get more tokens
-#.                         at one of
+#.                         at one of 
 #: translations/.messages/src/app/utils/errors.json
 msgid ""
 "Thanks for using Everipedia. Looks like you have run out of IQ Tokens. You "
@@ -5201,9 +5193,9 @@ msgstr "저장하지 않은 편집이 있는것 같습니다. 계속 하시겠�
 #. Title Not Available
 #: translations/.messages/src/app/components/ActivityCards/ActivityCard.json
 #: translations/.messages/src/app/containers/category-results/categoryResultCard.json
-#: translations/.messages/src/app/containers/searchResultsFull/searchCard.json
-#: translations/.messages/src/app/containers/searchResultsFull/searchCategoryCard.json
-#: translations/.messages/src/app/containers/searchResultsFull/searchProfileCard.json
+#: translations/.messages/src/app/containers/searchResultsFull/SearchCard.json
+#: translations/.messages/src/app/containers/searchResultsFull/SearchCategoryCard.json
+#: translations/.messages/src/app/containers/searchResultsFull/SearchProfileCard.json
 msgid "Title Not Available"
 msgstr "제목 사용 불가"
 
@@ -5240,7 +5232,7 @@ msgstr "오늘"
 #. [EpIdLogin.ErrorTooManyAttempts]
 #. defaultMessage is:
 #. Too many login attempts. Please try again later.
-#: translations/.messages/src/app/components/Login/EpIdLoginModal.json
+#: translations/.messages/src/app/components/Login/EmailLoginModal.json
 msgid "Too many login attempts. Please try again later."
 msgstr "잠시 후 이용 바랍니다"
 
@@ -5358,7 +5350,7 @@ msgstr "웹 주소 슬러그 Alt"
 #. [EpIdLogin.ErrorUndefined]
 #. defaultMessage is:
 #. Undefined error: please try again.
-#: translations/.messages/src/app/components/Login/EpIdLoginModal.json
+#: translations/.messages/src/app/components/Login/EmailLoginModal.json
 msgid "Undefined error: please try again."
 msgstr "다시 시도하세요"
 
@@ -5422,15 +5414,15 @@ msgstr ""
 #. [EditProfile.Username]
 #. defaultMessage is:
 #. Username
-#. [EpIdRegisterModal.Username]
-#. defaultMessage is:
-#. Username
 #. [EpIdLogin.Username]
 #. defaultMessage is:
 #. Username
+#. [EpIdRegisterModal.Username]
+#. defaultMessage is:
+#. Username
 #: translations/.messages/src/app/components/edit-profile/index.json
+#: translations/.messages/src/app/components/Login/EmailLoginModal.json
 #: translations/.messages/src/app/components/Login/epid-register.modal.json
-#: translations/.messages/src/app/components/Login/EpIdLoginModal.json
 msgid "Username"
 msgstr "사용자 이름"
 
@@ -5798,7 +5790,7 @@ msgstr "다음 오류가 발생했습니다"
 #. [EpIdLogin.WellEmailInstructions]
 #. defaultMessage is:
 #. We will email you instructions on how to reset your password.
-#: translations/.messages/src/app/components/Login/EpIdLoginModal.json
+#: translations/.messages/src/app/components/Login/EmailLoginModal.json
 msgid "We will email you instructions on how to reset your password."
 msgstr "비밀번호 재설정 관련 이메일을 보냈습니다"
 
@@ -6310,9 +6302,9 @@ msgstr "FAQ 보기"
 #: translations/.messages/src/app/containers/category-results/categoryResultCard.json
 #: translations/.messages/src/app/containers/homepageContainer/mainItem.json
 #: translations/.messages/src/app/containers/homepageContainer/rightList.json
-#: translations/.messages/src/app/containers/searchResultsFull/searchCard.json
-#: translations/.messages/src/app/containers/searchResultsFull/searchCategoryCard.json
-#: translations/.messages/src/app/containers/searchResultsFull/searchProfileCard.json
+#: translations/.messages/src/app/containers/searchResultsFull/SearchCard.json
+#: translations/.messages/src/app/containers/searchResultsFull/SearchCategoryCard.json
+#: translations/.messages/src/app/containers/searchResultsFull/SearchProfileCard.json
 msgid "views"
 msgstr "조회수"
 

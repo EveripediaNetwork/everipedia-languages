@@ -1,7 +1,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: \n"
-"POT-Creation-Date: 2020-09-08T16:37:14.315Z\n"
+"POT-Creation-Date: 2020-09-16T18:56:07.241Z\n"
 "PO-Revision-Date: \n"
 "Last-Translator: \n"
 "Language-Team: \n"
@@ -43,7 +43,7 @@ msgstr "在下面留言以开始对话"
 
 #. [EpIdRegister.SpaceAndSpace]
 #. defaultMessage is:
-#.  and
+#.  and 
 #: translations/.messages/src/app/components/Login/epid-register.modal.json
 msgid " and "
 msgstr "和"
@@ -92,7 +92,7 @@ msgstr "+创建一个帐户/登录"
 
 #. [IQInfo.Or]
 #. defaultMessage is:
-#. , or
+#. , or 
 #: translations/.messages/src/app/containers/iq-info/iq-info.container.json
 msgid ", or "
 msgstr "，或"
@@ -163,7 +163,7 @@ msgstr "7天"
 #. [EpIdLogin.ALinkToResetHasBeenSent]
 #. defaultMessage is:
 #. A link to reset your password has been sent to your email. Click the link there to create a new password.
-#: translations/.messages/src/app/components/Login/EpIdLoginModal.json
+#: translations/.messages/src/app/components/Login/EmailLoginModal.json
 msgid ""
 "A link to reset your password has been sent to your email. Click the link "
 "there to create a new password."
@@ -338,9 +338,9 @@ msgstr "帐户名称"
 #. defaultMessage is:
 #. Active Voting
 #: translations/.messages/src/app/containers/category-results/categoryResultCard.json
-#: translations/.messages/src/app/containers/searchResultsFull/searchCard.json
-#: translations/.messages/src/app/containers/searchResultsFull/searchCategoryCard.json
-#: translations/.messages/src/app/containers/searchResultsFull/searchProfileCard.json
+#: translations/.messages/src/app/containers/searchResultsFull/SearchCard.json
+#: translations/.messages/src/app/containers/searchResultsFull/SearchCategoryCard.json
+#: translations/.messages/src/app/containers/searchResultsFull/SearchProfileCard.json
 msgid "Active Voting"
 msgstr "有效投票"
 
@@ -577,7 +577,7 @@ msgstr "支持非Googlebot"
 
 #. [CitationModal.AddEditFile.AllowedFormats]
 #. defaultMessage is:
-#. Allowed formats:
+#. Allowed formats: 
 #: translations/.messages/src/editor/plugins/citation-modal/panes/add-edit-file.json
 msgid "Allowed formats: "
 msgstr "支持的格式："
@@ -621,7 +621,7 @@ msgstr ""
 #. [EpIdLogin.ErrorUsernameOrEmailExists]
 #. defaultMessage is:
 #. An account with that email or username already exists
-#: translations/.messages/src/app/components/Login/EpIdLoginModal.json
+#: translations/.messages/src/app/components/Login/EmailLoginModal.json
 msgid "An account with that email or username already exists"
 msgstr ""
 
@@ -722,8 +722,8 @@ msgstr "可用余额"
 #. [EpIdLogin.Back]
 #. defaultMessage is:
 #. Back
+#: translations/.messages/src/app/components/Login/EmailLoginModal.json
 #: translations/.messages/src/app/components/Login/epid-register.modal.json
-#: translations/.messages/src/app/components/Login/EpIdLoginModal.json
 msgid "Back"
 msgstr "返回"
 
@@ -1099,8 +1099,8 @@ msgstr "单击以对此编辑进行投票"
 #. [EpIdLogin.Close]
 #. defaultMessage is:
 #. Close
+#: translations/.messages/src/app/components/Login/EmailLoginModal.json
 #: translations/.messages/src/app/components/Login/epid-register.modal.json
-#: translations/.messages/src/app/components/Login/EpIdLoginModal.json
 msgid "Close"
 msgstr "关闭"
 
@@ -1504,7 +1504,7 @@ msgstr ""
 #. [EpIdLogin.DontHaveAccountQuestion]
 #. defaultMessage is:
 #. Don't have an account?
-#: translations/.messages/src/app/components/Login/EpIdLoginModal.json
+#: translations/.messages/src/app/components/Login/EmailLoginModal.json
 msgid "Don't have an account?"
 msgstr "获得帐号"
 
@@ -1732,8 +1732,8 @@ msgstr "电子产品/软件"
 #. [NewPageTemplate.NPT_Person_Email]
 #. defaultMessage is:
 #. Email
+#: translations/.messages/src/app/components/Login/EmailLoginModal.json
 #: translations/.messages/src/app/components/Login/epid-register.modal.json
-#: translations/.messages/src/app/components/Login/EpIdLoginModal.json
 #: translations/.messages/src/editor/utils/editing-utils/template-packs/organization.json
 #: translations/.messages/src/editor/utils/editing-utils/template-packs/person.json
 msgid "Email"
@@ -1742,7 +1742,7 @@ msgstr "电子邮件"
 #. [EpIdLogin.EmailAddress]
 #. defaultMessage is:
 #. Email Address
-#: translations/.messages/src/app/components/Login/EpIdLoginModal.json
+#: translations/.messages/src/app/components/Login/EmailLoginModal.json
 msgid "Email Address"
 msgstr "电邮地址"
 
@@ -1854,12 +1854,12 @@ msgstr "错误代码"
 
 #. [EpIdLogin.ErrorWithPunctuationAndSpace]
 #. defaultMessage is:
-#. Error:
+#. Error: 
 #. [EpIdLogin.ErrorWithPunctuationAndSpace]
 #. defaultMessage is:
-#. Error:
+#. Error: 
+#: translations/.messages/src/app/components/Login/EmailLoginModal.json
 #: translations/.messages/src/app/components/Login/epid-register.modal.json
-#: translations/.messages/src/app/components/Login/EpIdLoginModal.json
 msgid "Error: "
 msgstr "错误"
 
@@ -2167,14 +2167,14 @@ msgstr "第一次编辑"
 #. [EpIdLogin.ForgotPassword]
 #. defaultMessage is:
 #. Forgot Password
-#: translations/.messages/src/app/components/Login/EpIdLoginModal.json
+#: translations/.messages/src/app/components/Login/EmailLoginModal.json
 msgid "Forgot Password"
 msgstr "忘记密码"
 
 #. [EpIdLogin.ForgotPasswordQuestion]
 #. defaultMessage is:
 #. Forgot Password?
-#: translations/.messages/src/app/components/Login/EpIdLoginModal.json
+#: translations/.messages/src/app/components/Login/EmailLoginModal.json
 msgid "Forgot Password?"
 msgstr "忘记密码？"
 
@@ -2403,7 +2403,7 @@ msgstr "如何合并您的帐户?"
 
 #. [EpIdRegister.IAcceptThe]
 #. defaultMessage is:
-#. I accept the
+#. I accept the 
 #: translations/.messages/src/app/components/Login/epid-register.modal.json
 msgid "I accept the "
 msgstr "投票已接受"
@@ -2574,7 +2574,7 @@ msgstr "图像链接"
 #. [EpIdLogin.ErrorIncorrectUsernameOrPassword]
 #. defaultMessage is:
 #. Incorrect username or password. Please try again.
-#: translations/.messages/src/app/components/Login/EpIdLoginModal.json
+#: translations/.messages/src/app/components/Login/EmailLoginModal.json
 msgid "Incorrect username or password. Please try again."
 msgstr "请重试"
 
@@ -2781,9 +2781,9 @@ msgstr ""
 #. [SearchProfileCard.LastEdited]
 #. defaultMessage is:
 #. Last Edited
-#: translations/.messages/src/app/containers/searchResultsFull/searchCard.json
-#: translations/.messages/src/app/containers/searchResultsFull/searchCategoryCard.json
-#: translations/.messages/src/app/containers/searchResultsFull/searchProfileCard.json
+#: translations/.messages/src/app/containers/searchResultsFull/SearchCard.json
+#: translations/.messages/src/app/containers/searchResultsFull/SearchCategoryCard.json
+#: translations/.messages/src/app/containers/searchResultsFull/SearchProfileCard.json
 msgid "Last Edited"
 msgstr "最后编辑时间"
 
@@ -2853,7 +2853,7 @@ msgstr "了解更多"
 
 #. [Login.LearnMoreThree]
 #. defaultMessage is:
-#. Learn more
+#. Learn more 
 #: translations/.messages/src/app/components/Login/login.modal.json
 msgid "Learn more "
 msgstr "了解更多"
@@ -2993,10 +2993,10 @@ msgstr "退出"
 #. [Notifications.Login]
 #. defaultMessage is:
 #. Login
-#. [EpIdRegister.Login]
+#. [EpIdLogin.Login]
 #. defaultMessage is:
 #. Login
-#. [EpIdLogin.Login]
+#. [EpIdRegister.Login]
 #. defaultMessage is:
 #. Login
 #. [EpIdResetPassword.Login]
@@ -3011,8 +3011,8 @@ msgstr "退出"
 #: translations/.messages/src/app/components/Chat/ChatInput.json
 #: translations/.messages/src/app/components/Chat/Directory.json
 #: translations/.messages/src/app/components/Chat/Notifications.json
+#: translations/.messages/src/app/components/Login/EmailLoginModal.json
 #: translations/.messages/src/app/components/Login/epid-register.modal.json
-#: translations/.messages/src/app/components/Login/EpIdLoginModal.json
 #: translations/.messages/src/app/components/Login/EPIDResetPasswordModal.json
 #: translations/.messages/src/app/components/TopNav/account-name-header.json
 #: translations/.messages/src/app/utils/errors.json
@@ -3022,7 +3022,7 @@ msgstr "登录"
 #. [EpIdLogin.LoginSuccessfulWithPunctuation]
 #. defaultMessage is:
 #. Login Successful!
-#: translations/.messages/src/app/components/Login/EpIdLoginModal.json
+#: translations/.messages/src/app/components/Login/EmailLoginModal.json
 msgid "Login Successful!"
 msgstr "交易成功！"
 
@@ -3064,7 +3064,7 @@ msgstr "登录以参与文章聊天"
 #. [LoginModal.LoginWithEmail]
 #. defaultMessage is:
 #. Login with Email
-#: translations/.messages/src/app/components/Login/EpIdLoginModal.json
+#: translations/.messages/src/app/components/Login/EmailLoginModal.json
 #: translations/.messages/src/app/components/Login/Login.json
 msgid "Login with Email"
 msgstr "用电子邮件登录"
@@ -3329,14 +3329,14 @@ msgstr "立即编辑"
 #. [EpIdLogin.MigratingFromOREID?]
 #. defaultMessage is:
 #. Migrating from OREID?
-#: translations/.messages/src/app/components/Login/EpIdLoginModal.json
+#: translations/.messages/src/app/components/Login/EmailLoginModal.json
 msgid "Migrating from OREID?"
 msgstr "从OreID迁移"
 
 #. [EpIdLogin.MinimumPasswordLength]
 #. defaultMessage is:
 #. Minimum password length is 8
-#: translations/.messages/src/app/components/Login/EpIdLoginModal.json
+#: translations/.messages/src/app/components/Login/EmailLoginModal.json
 msgid "Minimum password length is 8"
 msgstr "最小密码长度为8位"
 
@@ -3811,14 +3811,14 @@ msgstr "浏览量"
 msgid "Participants"
 msgstr "参与者"
 
-#. [EpIdRegisterModal.Password]
-#. defaultMessage is:
-#. Password
 #. [EpIdLogin.Password]
 #. defaultMessage is:
 #. Password
+#. [EpIdRegisterModal.Password]
+#. defaultMessage is:
+#. Password
+#: translations/.messages/src/app/components/Login/EmailLoginModal.json
 #: translations/.messages/src/app/components/Login/epid-register.modal.json
-#: translations/.messages/src/app/components/Login/EpIdLoginModal.json
 msgid "Password"
 msgstr "密码"
 
@@ -4040,17 +4040,9 @@ msgstr "总裁"
 #. [SearchCard.PreviewNotAvailable]
 #. defaultMessage is:
 #. Preview Not Available
-#. [SearchCategoryCard.PreviewNotAvailable]
-#. defaultMessage is:
-#. Preview Not Available
-#. [SearchProfileCard.PreviewNotAvailable]
-#. defaultMessage is:
-#. Preview Not Available
 #: translations/.messages/src/app/components/ActivityCards/ActivityCard.json
 #: translations/.messages/src/app/containers/category-results/categoryResultCard.json
-#: translations/.messages/src/app/containers/searchResultsFull/searchCard.json
-#: translations/.messages/src/app/containers/searchResultsFull/searchCategoryCard.json
-#: translations/.messages/src/app/containers/searchResultsFull/searchProfileCard.json
+#: translations/.messages/src/app/containers/searchResultsFull/SearchCard.json
 msgid "Preview Not Available"
 msgstr "预览不可用"
 
@@ -4149,7 +4141,7 @@ msgstr "提供您投票的理由（可选）"
 
 #. [ContactUs.Questions]
 #. defaultMessage is:
-#. Questions?
+#. Questions? 
 #: translations/.messages/src/app/containers/contact-us/contact-form.json
 msgid "Questions? "
 msgstr "有问题吗？"
@@ -4350,7 +4342,7 @@ msgstr "报告程序错误"
 #. [EpIdLogin.ResendEmail]
 #. defaultMessage is:
 #. Resend Email
-#: translations/.messages/src/app/components/Login/EpIdLoginModal.json
+#: translations/.messages/src/app/components/Login/EmailLoginModal.json
 msgid "Resend Email"
 msgstr "用电子邮件登录"
 
@@ -4360,7 +4352,7 @@ msgstr "用电子邮件登录"
 #. [EpIdResetPassword.ResetPassword]
 #. defaultMessage is:
 #. Reset Password
-#: translations/.messages/src/app/components/Login/EpIdLoginModal.json
+#: translations/.messages/src/app/components/Login/EmailLoginModal.json
 #: translations/.messages/src/app/components/Login/EPIDResetPasswordModal.json
 msgid "Reset Password"
 msgstr "重置密码"
@@ -4678,7 +4670,7 @@ msgstr "显示所有引文"
 #. defaultMessage is:
 #. Sign Up
 #: translations/.messages/src/app/components/learn-more/index.json
-#: translations/.messages/src/app/components/Login/EpIdLoginModal.json
+#: translations/.messages/src/app/components/Login/EmailLoginModal.json
 #: translations/.messages/src/app/components/TopNav/account-name-header.json
 #: translations/.messages/src/app/containers/about/last-block.json
 #: translations/.messages/src/app/utils/errors.json
@@ -4831,7 +4823,7 @@ msgstr "正在提交您的文章编辑"
 #. [EpIdResetPassword.SuccessExclamation]
 #. defaultMessage is:
 #. Success!
-#: translations/.messages/src/app/components/Login/EpIdLoginModal.json
+#: translations/.messages/src/app/components/Login/EmailLoginModal.json
 #: translations/.messages/src/app/components/Login/EPIDResetPasswordModal.json
 msgid "Success!"
 msgstr "成功！"
@@ -4954,7 +4946,7 @@ msgstr "条款"
 #. defaultMessage is:
 #. Thanks for trialing Everipedia. Looks like you’ve been making edits and have run out of the
 #.                         trial IQ Tokens. You can unlock the full potential of Everipedia and get more tokens with a
-#.                         Scatter login.
+#.                         Scatter login. 
 #: translations/.messages/src/app/utils/errors.json
 msgid ""
 "Thanks for trialing Everipedia. Looks like you’ve been making edits and have "
@@ -4970,7 +4962,7 @@ msgstr ""
 #. [Errors.ThanksForUsingEveripedia]
 #. defaultMessage is:
 #. Thanks for using Everipedia. Looks like you have run out of IQ Tokens. You can get more tokens
-#.                         at one of
+#.                         at one of 
 #: translations/.messages/src/app/utils/errors.json
 msgid ""
 "Thanks for using Everipedia. Looks like you have run out of IQ Tokens. You "
@@ -5205,9 +5197,9 @@ msgstr "您并未保存修改，是否继续？"
 #. Title Not Available
 #: translations/.messages/src/app/components/ActivityCards/ActivityCard.json
 #: translations/.messages/src/app/containers/category-results/categoryResultCard.json
-#: translations/.messages/src/app/containers/searchResultsFull/searchCard.json
-#: translations/.messages/src/app/containers/searchResultsFull/searchCategoryCard.json
-#: translations/.messages/src/app/containers/searchResultsFull/searchProfileCard.json
+#: translations/.messages/src/app/containers/searchResultsFull/SearchCard.json
+#: translations/.messages/src/app/containers/searchResultsFull/SearchCategoryCard.json
+#: translations/.messages/src/app/containers/searchResultsFull/SearchProfileCard.json
 msgid "Title Not Available"
 msgstr "标题不可用"
 
@@ -5244,7 +5236,7 @@ msgstr "今日"
 #. [EpIdLogin.ErrorTooManyAttempts]
 #. defaultMessage is:
 #. Too many login attempts. Please try again later.
-#: translations/.messages/src/app/components/Login/EpIdLoginModal.json
+#: translations/.messages/src/app/components/Login/EmailLoginModal.json
 msgid "Too many login attempts. Please try again later."
 msgstr ""
 
@@ -5362,7 +5354,7 @@ msgstr "URL Slug Alt"
 #. [EpIdLogin.ErrorUndefined]
 #. defaultMessage is:
 #. Undefined error: please try again.
-#: translations/.messages/src/app/components/Login/EpIdLoginModal.json
+#: translations/.messages/src/app/components/Login/EmailLoginModal.json
 msgid "Undefined error: please try again."
 msgstr "请重试"
 
@@ -5426,15 +5418,15 @@ msgstr ""
 #. [EditProfile.Username]
 #. defaultMessage is:
 #. Username
-#. [EpIdRegisterModal.Username]
-#. defaultMessage is:
-#. Username
 #. [EpIdLogin.Username]
 #. defaultMessage is:
 #. Username
+#. [EpIdRegisterModal.Username]
+#. defaultMessage is:
+#. Username
 #: translations/.messages/src/app/components/edit-profile/index.json
+#: translations/.messages/src/app/components/Login/EmailLoginModal.json
 #: translations/.messages/src/app/components/Login/epid-register.modal.json
-#: translations/.messages/src/app/components/Login/EpIdLoginModal.json
 msgid "Username"
 msgstr "用户名"
 
@@ -5805,7 +5797,7 @@ msgstr "我们收到以下错误"
 #. [EpIdLogin.WellEmailInstructions]
 #. defaultMessage is:
 #. We will email you instructions on how to reset your password.
-#: translations/.messages/src/app/components/Login/EpIdLoginModal.json
+#: translations/.messages/src/app/components/Login/EmailLoginModal.json
 msgid "We will email you instructions on how to reset your password."
 msgstr "我们将通过电子邮件告知您如何重置密码"
 
@@ -6315,9 +6307,9 @@ msgstr "查看我们的常见问题"
 #: translations/.messages/src/app/containers/category-results/categoryResultCard.json
 #: translations/.messages/src/app/containers/homepageContainer/mainItem.json
 #: translations/.messages/src/app/containers/homepageContainer/rightList.json
-#: translations/.messages/src/app/containers/searchResultsFull/searchCard.json
-#: translations/.messages/src/app/containers/searchResultsFull/searchCategoryCard.json
-#: translations/.messages/src/app/containers/searchResultsFull/searchProfileCard.json
+#: translations/.messages/src/app/containers/searchResultsFull/SearchCard.json
+#: translations/.messages/src/app/containers/searchResultsFull/SearchCategoryCard.json
+#: translations/.messages/src/app/containers/searchResultsFull/SearchProfileCard.json
 msgid "views"
 msgstr "浏览数"
 
